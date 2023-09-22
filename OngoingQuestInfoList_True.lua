@@ -812,6 +812,7 @@ QuestInfoList = {
 	},
 	[1261] = {
 		Title = "Cursed Swordman",
+		IconName = "ico_sc.bmp",
 		Description = { "Entering the Ghost Palace is restricted until the timer has expired." },
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -1179,6 +1180,7 @@ QuestInfoList = {
 	},
 	[1317] = {
 		Title = "Today's Vin Chaud making is over",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Broild Vin Chaud all out of stock now. Let's come back at 4 AM when Vin Chaud is ready again."
 		},
@@ -5678,6 +5680,7 @@ QuestInfoList = {
 	},
 	[5005] = {
 		Title = "[Standby] Holgren",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I'm a little bit amazing, but ^FF0000Love Lump^000000 don't come often."
 		},
@@ -5686,6 +5689,7 @@ QuestInfoList = {
 	},
 	[5006] = {
 		Title = "[Standby] Prontera Guide",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^FF0000Love Lump^000000 is a rare thing. How about getting it from others?"
 		},
@@ -5694,6 +5698,7 @@ QuestInfoList = {
 	},
 	[5007] = {
 		Title = "[Standby] Payon Guide",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^FF0000Love Lump^000000? That's why I'm really coming out. Why don't you get it from other friends?"
 		},
@@ -5702,6 +5707,7 @@ QuestInfoList = {
 	},
 	[5008] = {
 		Title = "[Standby] Geffen Guide",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Are you talking about ^FF0000Love Lump^000000? It's a pity, but I can't give it right away."
 		},
@@ -5710,6 +5716,7 @@ QuestInfoList = {
 	},
 	[5009] = {
 		Title = "[Standby] Morroc Guide",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"It is possible to redo the rock-paper-scissors again, but it would be difficult to give ^FF0000Love Lump^000000 again. It's precious... aren't you trying to eat it raw? Maybe if you win ten rounds of rock-paper-scissors..."
 		},
@@ -5718,6 +5725,7 @@ QuestInfoList = {
 	},
 	[5010] = {
 		Title = "[Standby] Shoe Cream",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Hehe, the ^FF0000Love Lump^000000 I gave as a gift of gratitude? Are you not there now?"
 		},
@@ -5726,6 +5734,7 @@ QuestInfoList = {
 	},
 	[5011] = {
 		Title = "[Standby] Jin Ha Lee",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Did you say I'm busy reading the entire Ragnarok OX Quiz? Come tomorrow."
 		},
@@ -5734,6 +5743,7 @@ QuestInfoList = {
 	},
 	[5012] = {
 		Title = "[Standby] Zonda Agency Staff",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"The ^FF0000Love Lump^000000 is given by the head office, so I don't have one. I think I will be back at the headquarters by tomorrow."
 		},
@@ -5742,6 +5752,7 @@ QuestInfoList = {
 	},
 	[5013] = {
 		Title = "[Standby] Arles Orleans",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You want to solve the arithmetic problem again? You can't get a rat on your head. Come tomorrow."
 		},
@@ -5750,6 +5761,7 @@ QuestInfoList = {
 	},
 	[5014] = {
 		Title = "[Standby] Seiryu Lee",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You can solve a problem only once per day whether you got it right or wrong. Wait and talk to Seiryu Lee again."
 		},
@@ -8884,6 +8896,7 @@ QuestInfoList = {
 	},
 	[7084] = {
 		Title = "[Standby] Tteokguk-Will you bring it again?",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Payon's rice cake soup must have liked by the pope. Let's talk to the attendant again after a day has passed."
 		},
@@ -8927,6 +8940,7 @@ QuestInfoList = {
 	},
 	[7090] = {
 		Title = "[Standby] Rice Delivery - Next time again",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Because customers of the rice shop regularly deliver rice every day, there is a shortage of labor every day. You may be able to get work again after a day."
 		},
@@ -12914,7 +12928,6 @@ QuestInfoList = {
 	},
 	[7744] = {
 		Title = "Hiding Researcher",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"There are still many researchers who haven't escaped. Philopentess tasked me to find the remaining researchers."
 		},
@@ -12973,7 +12986,6 @@ QuestInfoList = {
 	},
 	[7752] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -12981,7 +12993,6 @@ QuestInfoList = {
 	},
 	[7753] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -12989,7 +13000,6 @@ QuestInfoList = {
 	},
 	[7754] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -12997,7 +13007,6 @@ QuestInfoList = {
 	},
 	[7755] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -13005,7 +13014,6 @@ QuestInfoList = {
 	},
 	[7756] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -13013,7 +13021,6 @@ QuestInfoList = {
 	},
 	[7757] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -13021,7 +13028,6 @@ QuestInfoList = {
 	},
 	[7758] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -13029,7 +13035,6 @@ QuestInfoList = {
 	},
 	[7759] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I found the researcher who was hiding."
 		},
@@ -13037,7 +13042,6 @@ QuestInfoList = {
 	},
 	[7760] = {
 		Title = "Well hidden",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"It seems I've found all the remaining researcher. Let's report back to Tess."
 		},
@@ -13045,7 +13049,6 @@ QuestInfoList = {
 	},
 	[7761] = {
 		Title = "Make Chimeras rest in peace",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"The crew are struggling to handle the specimen that raging inside the lab. Eliminate 10 of ^0000FFMaterial type Chimera and Human type Chimera^000000."
 		},
@@ -13195,7 +13198,6 @@ QuestInfoList = {
 	},
 	[7782] = {
 		Title = "Stop the Wizard!",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon thinks the ^4d4dffWizard of the Truth^000000 is responsible for this incident. He asked me to take care of him."
 		},
@@ -13212,7 +13214,6 @@ QuestInfoList = {
 	},
 	[7784] = {
 		Title = "No Mercy for Illusions",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to clear the area around him of ^4d4dffAngry Nine Tails^000000."
 		},
@@ -13229,7 +13230,6 @@ QuestInfoList = {
 	},
 	[7786] = {
 		Title = "Remembering My Ancestors",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to send ^4d4dffResentful Soldiers^000000 to Heaven."
 		},
@@ -13763,7 +13763,6 @@ QuestInfoList = {
 	},
 	[7867] = {
 		Title = "Merc vs. Merc",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor, asked me to take care of Heart Hunters Bellare and Sanare in Os."
 		},
@@ -16239,6 +16238,7 @@ QuestInfoList = {
 	[8401] = { Title = "Into the King’s Heel", Description = { "" }, Summary = "Enter Dungeon" },	
 	[8402] = {
 		Title = "Tomorrow in the King's Heel Again",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Now I don't want to see the cards, but I think I will change my mind tomorrow, so let's talk to Dr. Magnatum again next time."
 		},
