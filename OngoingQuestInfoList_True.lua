@@ -930,105 +930,105 @@ QuestInfoList = {
 	[1281] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1282] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1283] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1284] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1285] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1286] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1287] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1288] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1289] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1290] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1291] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1292] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1293] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1294] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
 	[1295] = {
 		Title = "Merry Christmas, Raccoon Hooray Team!",
 		Description = {
-			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray°Øs No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
+			"Finding Raccoon Hooray Team family! You've invited Raccoon Hooray‚Äôs No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera"
 		},
 		Summary = "find Raccoon Hooray family."
 	},
@@ -1197,7 +1197,7 @@ QuestInfoList = {
 		Description = {
 			"Vallery gave Sprig of Holly to thank the help, that can become a beautiful item by weaving. Find Brechen to ask for weaving the sprig, she can be found at Izlude square 7 O'clock way."
 		},
-		Summary = "Izludeø°º≠ Brechen"
+		Summary = "IzludeÏóêÏÑú Brechen"
 	},
 	[1320] = {
 		Title = "Making Christmas Wreath",
@@ -5380,7 +5380,7 @@ QuestInfoList = {
 	},
 	[4254] = {
 		Title = "Fairy with a stomache",
-		Description = { "Even a fairy gets a stomache°¶ Help the fairy get some material." },
+		Description = { "Even a fairy gets a stomache‚Ä¶ Help the fairy get some material." },
 		Summary = "10 Green Herbs"
 	},
 	[4255] = {
@@ -6068,7 +6068,7 @@ QuestInfoList = {
 	[5067] = {
 		Title = "Scary image-(2)",
 		Description = {
-			"Director cat said \"Scary image°¶ that is really hard.. Why does not giving up.. Tthat will be easy°¶collecting complaint... !! I heard that sometimes army do that~"
+			"Director cat said \"Scary image‚Ä¶ that is really hard.. Why does not giving up.. Tthat will be easy‚Ä¶collecting complaint... !! I heard that sometimes army do that~"
 		},
 		Summary = "Tell Cat gamers Director, bring a box for collecting complaint."
 	},
@@ -8034,37 +8034,37 @@ QuestInfoList = {
 		Summary = "Complete talking to Cleaner Robot Omega."
 	},
 	[5893] = {
-		Title = "Sewage Treatment Plant Cleanup •∞",
+		Title = "Sewage Treatment Plant Cleanup ‚Ö†",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
 			"Let's ^0000FFpunish^000000 44 <NAVI>[Sewage Venenums]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
 			" ",
-			"You have to complete all of Sewage Treatment Plant Cleanup •∞, Sewage Treatment Plant Cleanup •±, and Sewage Treatment Plant •≤ to receive the reward."
+			"You have to complete all of Sewage Treatment Plant Cleanup ‚Ö†, Sewage Treatment Plant Cleanup ‚Ö°, and Sewage Treatment Plant ‚Ö¢ to receive the reward."
 		},
 		Summary = "44 Sewage Venenums",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5894] = {
-		Title = "Sewage Treatment Plant Cleanup •±",
+		Title = "Sewage Treatment Plant Cleanup ‚Ö°",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
 			"Let's ^0000FFpunish^000000 44 <NAVI>[Sewage Cramps]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
 			" ",
-			"You have to complete all of Sewage Treatment Plant Cleanup •∞, Sewage Treatment Plant Cleanup •±, and Sewage Treatment Plant •≤ to receive the reward."
+			"You have to complete all of Sewage Treatment Plant Cleanup ‚Ö†, Sewage Treatment Plant Cleanup ‚Ö°, and Sewage Treatment Plant ‚Ö¢ to receive the reward."
 		},
 		Summary = "44 Sewage Cramps",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5895] = {
-		Title = "Sewage Treatment Plant Cleanup •≤",
+		Title = "Sewage Treatment Plant Cleanup ‚Ö¢",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
 			"Let's ^0000FFpunish^000000 44 <NAVI>[Sewage Waterfalls]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
 			" ",
-			"You have to complete all of Sewage Treatment Plant Cleanup •∞, Sewage Treatment Plant Cleanup •±, and Sewage Treatment Plant •≤ to receive the reward."
+			"You have to complete all of Sewage Treatment Plant Cleanup ‚Ö†, Sewage Treatment Plant Cleanup ‚Ö°, and Sewage Treatment Plant ‚Ö¢ to receive the reward."
 		},
 		Summary = "44 Sewage Waterfalls",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -8080,37 +8080,37 @@ QuestInfoList = {
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5897] = {
-		Title = "Magic Power Plant 1 Cleanup •∞",
+		Title = "Magic Power Plant 1 Cleanup ‚Ö†",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
 			"Let's ^0000FFpunish^000000 44 <NAVI>[Elite Bellares]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
 			" ",
-			"You have to complete all of Magic Power Plant 1 Cleanup •∞, Magic Power Plant 1 Cleanup •±, and Magic Power Plant 1 Cleanup •≤ to receive the reward."
+			"You have to complete all of Magic Power Plant 1 Cleanup ‚Ö†, Magic Power Plant 1 Cleanup ‚Ö°, and Magic Power Plant 1 Cleanup ‚Ö¢ to receive the reward."
 		},
 		Summary = "44 Elite Bellares",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5898] = {
-		Title = "Magic Power Plant 1 Cleanup •±",
+		Title = "Magic Power Plant 1 Cleanup ‚Ö°",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
 			"Let's ^0000FFpunish^000000 44 <NAVI>[Magic-poisoned Dolors]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
 			" ",
-			"You have to complete all of Magic Power Plant 1 Cleanup •∞, Magic Power Plant 1 Cleanup •±, and Magic Power Plant 1 Cleanup •≤ to receive the reward."
+			"You have to complete all of Magic Power Plant 1 Cleanup ‚Ö†, Magic Power Plant 1 Cleanup ‚Ö°, and Magic Power Plant 1 Cleanup ‚Ö¢ to receive the reward."
 		},
 		Summary = "44 Magic-poisoned Dolors",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5899] = {
-		Title = "Magic Power Plant 1 Cleanup •≤",
+		Title = "Magic Power Plant 1 Cleanup ‚Ö¢",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
 			"Let's ^0000FFpunish^000000 44 <NAVI>[Unleashed Magics]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
 			" ",
-			"You have to complete all of Magic Power Plant 1 Cleanup •∞, Magic Power Plant 1 Cleanup •±, and Magic Power Plant 1 Cleanup •≤ to receive the reward."
+			"You have to complete all of Magic Power Plant 1 Cleanup ‚Ö†, Magic Power Plant 1 Cleanup ‚Ö°, and Magic Power Plant 1 Cleanup ‚Ö¢ to receive the reward."
 		},
 		Summary = "44 Unleashed Magics",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -8494,7 +8494,7 @@ QuestInfoList = {
 	[7025] = {
 		Title = "Pursuing Rayan Moore",
 		Description = {
-			"You need to get all the required materials. Defaria said, 'I°Øll be waiting for your return.'"
+			"You need to get all the required materials. Defaria said, 'I‚Äôll be waiting for your return.'"
 		},
 		Summary = "Conversation with Defaria"
 	},
@@ -8613,28 +8613,28 @@ QuestInfoList = {
 	[7042] = {
 		Title = "Part-time Job - Tatacho's feed",
 		Description = {
-			"Please bring me 50 Fresh Fish. They°Øre feed for Tatachoes. I°Øm fresh out, and I°Øll need to restock very soon. You can find them from Tatachoes in the fields."
+			"Please bring me 50 Fresh Fish. They‚Äôre feed for Tatachoes. I‚Äôm fresh out, and I‚Äôll need to restock very soon. You can find them from Tatachoes in the fields."
 		},
 		Summary = "50 Fresh Fish"
 	},
 	[7043] = {
 		Title = "Part-time Job - Cornus's feed",
 		Description = {
-			"I°Øve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields."
+			"I‚Äôve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields."
 		},
 		Summary = "30 Great Leaf & 30 Brown Root"
 	},
 	[7044] = {
 		Title = "Part-time Job - Hillslion's feed1",
 		Description = {
-			"I°Øve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I°Øve been trying to feed them various things.. This time°¶ I°Ød like to try Monster°Øs Feed. Can you please bring me 20 Monster°Øs Feeds and 30 Pet Foods?"
+			"I‚Äôve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I‚Äôve been trying to feed them various things.. This time‚Ä¶ I‚Äôd like to try Monster‚Äôs Feed. Can you please bring me 20 Monster‚Äôs Feeds and 30 Pet Foods?"
 		},
-		Summary = "20 Monster°Øs Feeds and 30 Pet Foods"
+		Summary = "20 Monster‚Äôs Feeds and 30 Pet Foods"
 	},
 	[7045] = {
 		Title = "Part-time Job - Hillslion's feed2",
 		Description = {
-			"This is perfect because I was going to try some new feed for Hillslions. I tried Monster°Øs Feed, but I don°Øt know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?"
+			"This is perfect because I was going to try some new feed for Hillslions. I tried Monster‚Äôs Feed, but I don‚Äôt know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?"
 		},
 		Summary = "50 Meats and 30 Pet Foods"
 	},
@@ -11822,7 +11822,7 @@ QuestInfoList = {
 	},
 	[7530] = {
 		Title = " Luina Challenge 3",
-		Description = { "Fight off Gioia and Elvira in Hero°Øs Tear in Corridor of the Abyss in Luina." },
+		Description = { "Fight off Gioia and Elvira in Hero‚Äôs Tear in Corridor of the Abyss in Luina." },
 		Summary = "Battle in Corridor of the Abyss"
 	},
 	[7531] = {
@@ -11842,7 +11842,7 @@ QuestInfoList = {
 	[7533] = {
 		Title = " Britoniah Challenge 3",
 		Description = {
-			"Fight off Kades and Rudo, the guardians of the dead, in the Dead Man°Øs Hill in Corridor of the Abyss in Britoniah."
+			"Fight off Kades and Rudo, the guardians of the dead, in the Dead Man‚Äôs Hill in Corridor of the Abyss in Britoniah."
 		},
 		Summary = "Battle in Corridor of the Abyss"
 	},
@@ -14930,7 +14930,7 @@ QuestInfoList = {
 		Description = {
 			"..At this point I'm supposed to send you back...BUT! I will give you a chance. But if you fail, ^3163FFyou can't take this challenge.^000000 Also, this mission will be pretty hard."
 		},
-		Summary = "µµ±˙∫Ò∏¶ º“≈¡«—¥Ÿ"
+		Summary = "ÎèÑÍπ®ÎπÑÎ•º ÏÜåÌÉïÌïúÎã§"
 	},
 	[8130] = {
 		Title = "Momotaro Field Trip",
@@ -14972,7 +14972,7 @@ QuestInfoList = {
 		Description = {
 			"^FF6060Yelp! Yelp! Yelp! Human! To expel me from this body like this! Curse you! Darn you!! I will curse the Ishida family, and You better watch out, human!^000000"
 		},
-		Summary = "ø©øÏ¿« ≤ø∏Æ∏¶ ∞Æ∞Ì º∫¡÷ø°∞‘ µπæ∆∞£¥Ÿ"
+		Summary = "Ïó¨Ïö∞Ïùò Íº¨Î¶¨Î•º Í∞ñÍ≥† ÏÑ±Ï£ºÏóêÍ≤å ÎèåÏïÑÍ∞ÑÎã§"
 	},
 	[8136] = {
 		Title = "The Gray Wolf's Warning",
@@ -15538,7 +15538,7 @@ QuestInfoList = {
 		Summary = "Deliver Shurank's message to Dequ'ee in Geffen"
 	},
 	[8217] = {
-		Title = "Dequ'ee¿« Message",
+		Title = "Dequ'eeÏùò Message",
 		Description = {
 			"\"So Shurank is asking, 'What happened to the murderer? Did you find out who he is? If you did, what are we supposed to do now?' We haven't found out who the murderer is for sure. However, we have a list of suspects and we'll figure it out soon.?"
 		},
@@ -15631,7 +15631,7 @@ QuestInfoList = {
 	[8230] = {
 		Title = "Guarnien's Lecture",
 		Description = {
-			"\"Item Appraisal∞˙ I'll talk about the Mammonite skill, just a basic skill as Item Appraisal. For now, let me take a little bit of a break from all of this arduous lecture.\""
+			"\"Item AppraisalÍ≥º I'll talk about the Mammonite skill, just a basic skill as Item Appraisal. For now, let me take a little bit of a break from all of this arduous lecture.\""
 		},
 		Summary = "Listen to Guarnien's Lecture"
 	},
@@ -16092,14 +16092,14 @@ QuestInfoList = {
 	[8334] = {
 		Title = "Collection from the Prontera Culvert",
 		Description = {
-			"An Adventurer by the name °∞Murian°± is currently on a quest for the Merchant Union on Prontera Culvert 3F. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him."
+			"An Adventurer by the name ‚ÄúMurian‚Äù is currently on a quest for the Merchant Union on Prontera Culvert 3F. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him."
 		},
 		Summary = "Box Retrieved"
 	},
 	[8335] = {
 		Title = "Return to Merchant Union",
 		Description = {
-			"Let°Øs deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department."
+			"Let‚Äôs deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department."
 		},
 		Summary = "Box Submitted"
 	},
@@ -16155,7 +16155,7 @@ QuestInfoList = {
 	[8343] = {
 		Title = "Return to Merchant Union",
 		Description = {
-			"Let°Øs deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department."
+			"Let‚Äôs deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department."
 		},
 		Summary = "Box Submitted"
 	},
@@ -16169,7 +16169,7 @@ QuestInfoList = {
 	[8345] = {
 		Title = "Deliver Card to Masha",
 		Description = {
-			"Let°Øs deliver the data retrieval card to Masha, who works for the Alberta Merchant Union Human Resources Department."
+			"Let‚Äôs deliver the data retrieval card to Masha, who works for the Alberta Merchant Union Human Resources Department."
 		},
 		Summary = "Card submitted"
 	},
@@ -16236,7 +16236,7 @@ QuestInfoList = {
 		},
 		Summary = ""
 	},
-	[8401] = { Title = "Into the King°Øs Heel", Description = { "" }, Summary = "Enter Dungeon" },	
+	[8401] = { Title = "Into the King‚Äôs Heel", Description = { "" }, Summary = "Enter Dungeon" },	
 	[8402] = {
 		Title = "Tomorrow in the King's Heel Again",
 		Description = {
@@ -16303,7 +16303,7 @@ QuestInfoList = {
 	},
 	[8510] = {
 		Title = "Book Owner: Marien",
-		Description = { "«¡Let's deliver the lost book to Marien in Prontera." },
+		Description = { "ÌîÑLet's deliver the lost book to Marien in Prontera." },
 		Summary = ""
 	},
 	[8511] = {
@@ -16319,8 +16319,8 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8513] = {
-		Title = "Book Owner: °´Charlotte°´",
-		Description = { "Let's deliver the lost book to °´Charlotte°´ in Prontera." },
+		Title = "Book Owner: ‚à•Charlotte‚à•",
+		Description = { "Let's deliver the lost book to ‚à•Charlotte‚à• in Prontera." },
 		Summary = ""
 	},
 	[8514] = {
@@ -16406,7 +16406,7 @@ QuestInfoList = {
 		},
 		Summary = "Resets at 4 am"
 	},
-	[8529] = { Title = "Master of the King°Øs Heel", Description = { "" }, Summary = "" },
+	[8529] = { Title = "Master of the King‚Äôs Heel", Description = { "" }, Summary = "" },
 	[8530] = {
 		Title = "I will grind melons for you.",
 		Description = {
@@ -16441,9 +16441,9 @@ QuestInfoList = {
 		Summary = "Deliver 30 Dalcom Skins"
 	},
 	[8538] = {
-		Title = "Tomorrow at the King°Øs Heel",
+		Title = "Tomorrow at the King‚Äôs Heel",
 		Description = {
-			"I never want to see another card again... But maybe I°Øll feel differently tomorrow! Let°Øs go talk to Dr. Magnatum again tomorrow."
+			"I never want to see another card again... But maybe I‚Äôll feel differently tomorrow! Let‚Äôs go talk to Dr. Magnatum again tomorrow."
 		},
 		Summary = "Resets at 4 am"
 	},
@@ -17213,7 +17213,7 @@ QuestInfoList = {
 	[9024] = {
 		Title = "An errand boy from Einbroch",
 		Description = { "Help ^0000FFan errand boy^000000 who come to find ^8B4513Prontera^000000." },
-		Summary = "Collect 100 Jellopies and go back to the errand boyø°∞‘ µπæ∆∞°¿⁄."
+		Summary = "Collect 100 Jellopies and go back to the errand boyÏóêÍ≤å ÎèåÏïÑÍ∞ÄÏûê."
 	},
 	[9028] = {
 		Title = "Strange Hydra",
@@ -17802,7 +17802,7 @@ QuestInfoList = {
 	[9286] = {
 		Title = "Stop Geffen Gangsters",
 		Description = { "Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513A student^000000" },
-		Summary = "Let°Øs save  A student"
+		Summary = "Let‚Äôs save  A student"
 	},
 	[9287] = {
 		Title = "defeating Geffen Gangsters",
@@ -17828,21 +17828,21 @@ QuestInfoList = {
 	[9290] = {
 		Title = "Participate in Magic competitions",
 		Description = {
-			"Let°Øs participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.."
+			"Let‚Äôs participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.."
 		},
 		Summary = ""
 	},
 	[9291] = {
 		Title = " participate in Magic competitions",
 		Description = {
-			"Let°Øs participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."
+			"Let‚Äôs participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."
 		},
 		Summary = ""
 	},
 	[9292] = {
 		Title = " participate in Magic competitions",
 		Description = {
-			"Let°Øs participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."
+			"Let‚Äôs participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."
 		},
 		Summary = ""
 	},
@@ -18002,7 +18002,7 @@ QuestInfoList = {
 	[9336] = {
 		Title = "Go back to Professor Bernhard",
 		Description = {
-			"Message from ^8B4513 Professor Bernhard^000000: I don°Øt have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door."
+			"Message from ^8B4513 Professor Bernhard^000000: I don‚Äôt have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door."
 		},
 		Summary = "Reunited after 7 days."
 	},
@@ -18021,7 +18021,7 @@ QuestInfoList = {
 	[9419] = {
 		Title = "Attack Sky Fortress Invading Prontera",
 		Description = {
-			"^8B4513Scientist Doyeon^000000°Æs Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic."
+			"^8B4513Scientist Doyeon^000000‚Äòs Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic."
 		},
 		Summary = "Visit Doyeon in 3 days."
 	},
@@ -19508,14 +19508,14 @@ QuestInfoList = {
 		Summary = "Lugen."
 	},
 	[11099] = {
-		Title = " To My Friend°¶",
+		Title = " To My Friend‚Ä¶",
 		Description = {
 			"Lugen asked you to deliver a letter to his friend Otto who is working on the barrier in the west."
 		},
 		Summary = "Otto"
 	},
 	[11100] = {
-		Title = "To My Friend°¶",
+		Title = "To My Friend‚Ä¶",
 		Description = {
 			"Otto asked you to bring his letter to Lugen and to tell him that he will be visiting him when he gets his next vacation."
 		},
@@ -21593,7 +21593,7 @@ QuestInfoList = {
 	[11488] = {
 		Title = "Jakk and Jakk's cat",
 		Description = {
-			"Jakk said that Jakk's kitty went to the place called °Øthere'. Let's inform Jakk, who is trying to find the kitty."
+			"Jakk said that Jakk's kitty went to the place called ‚Äôthere'. Let's inform Jakk, who is trying to find the kitty."
 		},
 		Summary = "Talk to Jakk"
 	},
@@ -21628,7 +21628,7 @@ QuestInfoList = {
 	[11493] = {
 		Title = "Jakk and Jakk's cat",
 		Description = {
-			"You found a white cat, but it doesn't look like Jakk°Øs kitty. The pile of sand behind is suspicious. Let's investigate."
+			"You found a white cat, but it doesn't look like Jakk‚Äôs kitty. The pile of sand behind is suspicious. Let's investigate."
 		},
 		Summary = "Investigation on the pile_of_sand"
 	},
@@ -22998,8 +22998,8 @@ QuestInfoList = {
 	},
 	[12045] = {
 		Title = "Soothing a crying child 2",
-		Description = { "Deliver the mother's message to Torpy. [I'll be back°¶]" },
-		Summary = "I'll be back°¶"
+		Description = { "Deliver the mother's message to Torpy. [I'll be back‚Ä¶]" },
+		Summary = "I'll be back‚Ä¶"
 	},
 	[12046] = {
 		Title = "Soothing a crying child 3",
@@ -24497,7 +24497,7 @@ QuestInfoList = {
 	[12286] = {
 		Title = "Information traded for some canned foods",
 		Description = {
-			"It is told that ^0000991 Dark Debris, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them°¶"
+			"It is told that ^0000991 Dark Debris, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them‚Ä¶"
 		},
 		Summary = "Information traded for some canned foods."
 	},
@@ -24602,7 +24602,7 @@ QuestInfoList = {
 	[12301] = {
 		Title = "Two remaining friends",
 		Description = {
-			"Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them°¶) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible."
+			"Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them‚Ä¶) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible."
 		},
 		Summary = "Two remaining friends."
 	},
@@ -24753,7 +24753,7 @@ QuestInfoList = {
 	[12327] = {
 		Title = "The memory of old photo album",
 		Description = {
-			"The merchant will be happy if he receives the photo album. Let°Øs find other photo albums that he may have lost and bring them to him."
+			"The merchant will be happy if he receives the photo album. Let‚Äôs find other photo albums that he may have lost and bring them to him."
 		},
 		Summary = ""
 	},
@@ -26342,7 +26342,7 @@ QuestInfoList = {
 	[14126] = {
 		Title = "Searching for Ms. Goatie",
 		Description = {
-			"Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things°¶"
+			"Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things‚Ä¶"
 		},
 		Summary = "Search for Ms. Goatie."
 	},
@@ -30745,14 +30745,14 @@ QuestInfoList = {
 	[16215] = {
 		Title = "The Shadowed Dream",
 		Description = {
-			"You°Øve agreed to accompany Loreche°Øs investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."
+			"You‚Äôve agreed to accompany Loreche‚Äôs investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."
 		},
 		Summary = "Dimensional Gap Investigation"
 	},
 	[16216] = {
 		Title = "The Bubbly Illusion",
 		Description = {
-			"You°Øve agreed to accompany Loreche°Øs investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."
+			"You‚Äôve agreed to accompany Loreche‚Äôs investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."
 		},
 		Summary = "Dimensional Gap Investigation"
 	},
@@ -30766,7 +30766,7 @@ QuestInfoList = {
 	[16218] = {
 		Title = "Modification and Calculation",
 		Description = {
-			"Let°Øs go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap."
+			"Let‚Äôs go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap."
 		},
 		Summary = "Speak with Eugenie"
 	},
@@ -33053,7 +33053,7 @@ QuestInfoList = {
 	[17383] = {
 		Title = "Snow Flower Bouquet Making",
 		Description = {
-			"Going forward, <NAVI>[Illusion Snow Magician]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> will be in charge of the Snow Bouquet Making event. If you°Øre interested, pay a visit."
+			"Going forward, <NAVI>[Illusion Snow Magician]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> will be in charge of the Snow Bouquet Making event. If you‚Äôre interested, pay a visit."
 		},
 		Summary = "To Illusion Snow Magician"
 	},
@@ -33095,14 +33095,14 @@ QuestInfoList = {
 	[17389] = {
 		Title = "Heartwarming Winter Days",
 		Description = {
-			"Snow for children who don°Øt get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of Warm Cotton x 10!"
+			"Snow for children who don‚Äôt get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of Warm Cotton x 10!"
 		},
 		Summary = "Warm Cotton x 10"
 	},
 	[17390] = {
 		Title = "Stand by: Packing cotton",
 		Description = {
-			"We°Øre packing cotton. I think we°Øll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
+			"We‚Äôre packing cotton. I think we‚Äôll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reset at 04:00"
 	},
@@ -33158,28 +33158,28 @@ QuestInfoList = {
 	[17398] = {
 		Title = "O time, halt your hasty feet.",
 		Description = {
-			"Right! Come on, let°Øs bring these lovely snacks to the <NAVI>[Villain]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>!"
+			"Right! Come on, let‚Äôs bring these lovely snacks to the <NAVI>[Villain]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Winter Snacks for Villains 1"
 	},
 	[17399] = {
 		Title = "O time, halt your hasty feet.",
 		Description = {
-			"Come on, let°Øs bring these snacks for the next <NAVI>[Villain]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"
+			"Come on, let‚Äôs bring these snacks for the next <NAVI>[Villain]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Winter Snacks for Villains 2"
 	},
 	[17400] = {
 		Title = "O time, halt your hasty feet.",
 		Description = {
-			"Let°Øs go to the last <NAVI>[Villain]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"
+			"Let‚Äôs go to the last <NAVI>[Villain]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Winter Snacks for Villains 3"
 	},
 	[17401] = {
 		Title = "O time, halt your hasty feet.",
 		Description = {
-			"Now let°Øs go back to the Clock Tower and stop the <NAVI>[Villain Boss]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> from executing their plan!"
+			"Now let‚Äôs go back to the Clock Tower and stop the <NAVI>[Villain Boss]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> from executing their plan!"
 		},
 		Summary = "To the Clock Tower"
 	},
