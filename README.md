@@ -10,6 +10,7 @@ After getting annoyed by the amount of invisible quests on my quest window i dec
 Actual quest info on 16.2 quests, npc sprites, navigation info when you click on the npc for certain quests, proper quest icons for daily, episode, instance & event quests.
 
 <h3>How to use it</h3>
+Get OngoingQuestListInfo.lub from releases (https://github.com/ikatsuro/iroquest/releases)
 Simply replace OngoingQuestListInfo.lub in System folder where the game is installed.
 
 <h3>Contributions</h3>
