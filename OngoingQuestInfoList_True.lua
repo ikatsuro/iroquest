@@ -43473,6 +43473,21 @@ QuestInfoList = {
 			"You can now complete supply requisitions for the Detonation Celebration. You also have access to Chefcular Meow, get GAINS!"
 		},
 		Summary = "Bring items to trade with Kay D. Kaboom or Chefcular Meow."
+	},	
+	[63310] = { Title = "Bounty Board", 
+		Description = { "Complete 4 to get a reward." }, 
+		Summary = "1/4"
+	},
+	[63311] = { Title = "Bounty Board", 
+		Description = { "Complete 4 to get a reward." }, 
+		Summary = "2/4" 
+	},
+	[63312] = { Title = "Bounty Board", 
+		Description = { "Complete 4 to get a reward." }, 
+		Summary = "3/4",
+		RewardItemList = { 
+			{ItemID = 6495, ItemNum = 1 }
+		}
 	},
 	[63313] = {
 		Title = "Bounty Board",
@@ -47043,9 +47058,6 @@ QuestInfoList = {
 	[63256] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63257] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63309] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[63310] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[63311] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[63312] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63437] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63676] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63683] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
