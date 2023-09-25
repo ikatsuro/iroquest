@@ -42623,6 +42623,17 @@ QuestInfoList = {
 	},
 	[63049] = { Title = "Pub Crawler", Description = { "Explore Duffy's Pub Crawl" }, Summary = "" },
 	--16.2 Dailies	
+	[63109] = {
+		Title = "Fighting is the language of warmonger",
+		Description = {
+			"Elena is looking at me with curiosity. Go to waiting room and meet Elena Bolkova."
+		},
+		Summary = "Defeat Elena Bolkova",
+		NpcSpr = "4_F_ELENA",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
+	},
 	[63110] = {
 		Title = "Battle in great condition",
 		IconName = "ico_dq.bmp",
@@ -47017,7 +47028,6 @@ QuestInfoList = {
 	[62966] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63033] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63038] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[63109] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63163] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63165] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63169] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
