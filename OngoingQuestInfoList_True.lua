@@ -47316,5 +47316,125 @@ QuestInfoList = {
 			"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Derpy"
+	},
+	
+	[11556] = {
+		Title = "Missing Steven",
+		Description = {
+			"Steven seems to have gone to the 1st floor of the Einbech Mines. I should go there and look for traces of him."
+		},
+		Summary = "To Einbech Mines Floor 1"
+	},
+	[11557] = {
+		Title = "Missing Steven",
+		Description = {
+			"A man is screaming in front of the line. I'd better go check the situation at the front."
+		},
+		Summary = "To the front of the line"
+	},
+	[11558] = {
+		Title = "Missing Steven",
+		Description = {
+			"The teddy bear in front of me has let me go in first. I should go in."
+		},
+		Summary = "Into the dungeon"
+	},
+	[11559] = {
+		Title = "Missing Steven",
+		Description = {
+			"The teddy bears that were holding Steven hostage ran away."
+		},
+		Summary = "Talk to Steven"
+	},
+	[11560] = {
+		Title = "Missing Steven",
+		Description = {
+			"Steven, worrying about San's health, has given me some money to give to his friend for his doctor's appointment. I should go back to San in Einbroch."
+		},
+		Summary = "To Einbroch"
+	},
+	[11561] = {
+		Title = "Missing Steven",
+		Description = {
+			"San is so worried about Steven that he wants to go to the mines. I should go with him."
+		},
+		Summary = "Back to the Mines"
+	},
+	[11562] = {
+		Title = "Missing Steven",
+		Description = {
+			"Steven said some strange noise was coming from the north. I should go look for its possible source in the north."
+		},
+		Summary = "To the north"
+	},
+	[11563] = {
+		Title = "Nasarian Conspiracy",
+		Description = {
+			"I got caught while eavesdropping on the Nasarians. I should hunt the Red, Yellow, and Green Teddy Bears hot on my heels, 10 each, and then talk to Steven at the entrance."
+		},
+		Summary = "To the entrance through the angry Nasarians"
+	},
+	[11564] = {
+		Title = "Nasarian Conspiracy",
+		Description = {
+			"I got caught while eavesdropping on the Nasarians. I should hunt the Blue and White Teddy Bears hot on my heels, 10 each, and then talk to Steven at the entrance."
+		},
+		Summary = "To the entrance through the angry Nasarians"
+	},
+	[11565] = {
+		Title = "RUN!",
+		Description = {
+			"Doll makers like me can't get out of here easily because we're not used to fighting. Help me get rid of Hardworking Pitmen, Soul Shards, and Sinister Dwelling Obsidians, will you?"
+		},
+		Summary = "Hardworking Pitmen, Soul Shards, and Sinister Dwelling Obsidians, 10 each"
+	},
+	[11566] = {
+		Title = "RUN! - Pending",
+		Description = {
+			"I already completed this quest for the day. I have to wait until it becomes available again."
+		},
+		Summary = ""
+	},
+	[11567] = {
+		Title = "Things That Shouldn't Exist",
+		Description = {
+			"Please ^ff0000take care of Red, Yellow, and Green Teddy Bears, 10 each,^000000 so they can be returned to the earth and rest..."
+		},
+		Summary = "Defeat Teddy Bears of different types, 10 each"
+	},
+	[11568] = {
+		Title = "Things that Shouldn't Exist",
+		Description = {
+			"Please ^ff0000take care of Blue and White Teddy Bears, 10 each,^000000 so they can be returned to the earth and rest..."
+		},
+		Summary = "Defeat Teddy Bears of different types, 10 each"
+	},
+	[11569] = {
+		Title = "Things that Shouldn't Exist - Pending",
+		Description = {
+			"I already completed this quest for the day. I have to wait until it becomes available again."
+		},
+		Summary = ""
+	},
+	[11570] = {
+		Title = "Let the Light Devour the Darkness",
+		Description = {
+			"Have you seen that big, dazzlingly ^ff0000Shiny Teddy Bear^000000 around here? I managed to reach the entrance, and it keeps showing up to stop me from leaving. I've been hiding here for days."
+		},
+		Summary = "Defeat Shiny Teddy Bear"
+	},
+	[11571] = {
+		Title = "Let the Light Devour the Darkness - Pendng",
+		Description = {
+			"I already completed this quest for the day. I have to wait until it becomes available again."
+		},
+		Summary = ""
+	},
+	[11572] = {
+		Title = "Illusion Survivor's Staff",
+		Description = {
+			"I'm in the process of crafting an Illusion Survivor's Staff. Now that I've completed Stage 1, I should take the remaining materials to the Bear for Illusion Stones."
+		},
+		Summary = "Crafting Stage 1"
 	}
 }
