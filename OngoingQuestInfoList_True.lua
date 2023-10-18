@@ -13148,11 +13148,12 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7775] = {
-		Title = "Generic Advancement Quest",
+		Title = "Job Change to Geneticist",
+		IconName = "ico_jq.bmp",
 		Description = {
-			"Demi Calberlin said it was best to swing the cart on something to tame the cart. There was a bunch of poison spores in us ..."
+			"Demmi Calverine said that the best way to get used to a cart is to swing it against something. There were a lot of poison spores inside the cage..."
 		},
-		Summary = "100 poison spores in us"
+		Summary = "Defeat 100 Poison Spores in the cage"
 	},
 	[7776] = {
 		Title = "Suspicious Sign",
@@ -47458,5 +47459,251 @@ QuestInfoList = {
 			"I'm in the process of crafting an Illusion Survivor's Staff. Now that I've completed Stage 1, I should take the remaining materials to the Bear for Illusion Stones."
 		},
 		Summary = "Crafting Stage 1"
+	},
+	[11684] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Jakk, who looks sad, wants to learn how to become friends with Meow from Jakk south of Niflheim. Talk to Jakk south of Niflheim."
+		},
+		Summary = "Talk to Jakk in South of Niflheim"
+	},
+	[11685] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Jakk's cat is said to have followed Wiz. Talk to Wiz on the left path."
+		},
+		Summary = "Talk to Wiz"
+	},
+	[11686] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"If you want to hear the story about Meow, get him 2 Skeleton Bone."
+		},
+		Summary = "Get 2 Skeleton Bone"
+	},
+	[11687] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Wiz, who received 1 Skeleton Bone, tells you to give the remaining Skeleton Bone to Jakk south of Niflheim."
+		},
+		Summary = "Talk to Jakk in South of Niflheim"
+	},
+	[11688] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I didn't get any useful information. Unfortunately, let's go back to Sad Looking Jakk."
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11689] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11690] = {
+		Title = "Jakk's strange eyes-´ë±â",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's talk to Jakk again tomorrow."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[11691] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			}
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11692] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			}
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11693] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			}
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11694] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			}
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11695] = {
+		Title = "Jakk's strange eyes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			}
+		},
+		Summary = "Talk to Sad Looking Jakk"
+	},
+	[11783] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To help Strange Jakk, let's ask <NAVI>[Jakk]<INFO>niflheim,265,275,0,101,0</INFO></NAVI> for help in Niflheim."
+		},
+		Summary = "Talk to Jakk"
+	},
+	[11784] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Jakk doesn't seem to know anything about the strange symptoms. Let's ask another <NAVI>[Jakk]<INFO>niflheim,288,249,0,101,0</INFO></NAVI> in Niflheim."
+		},
+		Summary = "Talk to Jakk"
+	},
+	[11785] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Jakk said he received help from <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> in the corner of Niflheim. Let's go to Lilles and ask for help."
+		},
+		Summary = "Talk to Lilles"
+	},
+	[11786] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It's hard to understand what he's saying, but I think he's telling me to catch 2 Garlings. Let's talk to <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>afterwards."
+		},
+		Summary = "Hunt 2 Garlings"
+	},
+	[11787] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It's still hard to understand what he's saying, but it seems to be telling me the direction to go. Let's hear information from <NAVI>[A person at a crossroads]<INFO>nif_fild01,187,117,0,101,0</INFO></NAVI> in the remote village of Skellington."
+		},
+		Summary = "Talk to [A person at a crossroads]."
+	},
+	[11788] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Follow the path shown by the person at the crossroads to the Hoomga Jungle and talk to <NAVI>[One full of joy]<INFO>um_fild04,188,119,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to [One full of joy]."
+	},
+	[11789] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Did he finally pass on? Let's return <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> in Niflheim."
+		},
+		Summary = "Talk to Lilles"
+	},
+	[11790] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lilles says that the souls of ^ff3456Niflheim^000000 must be released. But, is it okay to do it? Let's hunt 20 monsters in ^ff3456Niflheim^000000 and return to <NAVI>[Lilles ]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			},
+			{
+				ItemID = 1000657,
+				ItemNum = 1
+			}
+		},
+		Summary = "Defeat monsters in Niflheim"
+	},
+	[11791] = {
+		Title = "The warm story of Jakk and Strange Jakk-´ë±â",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Does it work? Let's talk to <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> in Niflheim again tomorrow."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[11792] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lilles says that the souls of ^ff3456Skelington^000000 must be released. But, is it okay to do it? Let's hunt 20 monsters in ^ff3456Skelington^000000 and return to <NAVI>[Lilles ]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			},
+			{
+				ItemID = 1000657,
+				ItemNum = 1
+			}
+		},
+		Summary = "Defeat monsters in Skelington"
+	},
+	[11793] = {
+		Title = "The warm story of Jakk and Strange Jakk",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lilles says that the souls of ^ff3456Vally of Gyoll^000000 must be released. But, is it okay to do it? Let's hunt 20 monsters in ^ff3456Vally of Gyoll^000000 and return to <NAVI>[Lilles ]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."
+		},
+		RewardItemList = {
+			{
+				ItemID = 6658,
+				ItemNum = 1
+			},
+			{
+				ItemID = 1000657,
+				ItemNum = 1
+			}
+		},
+		Summary = "Defeat monsters in Vally of Gyoll"
 	}
 }
