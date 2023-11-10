@@ -47705,5 +47705,65 @@ QuestInfoList = {
 			}
 		},
 		Summary = "Defeat monsters in Vally of Gyoll"
+	},
+	[12457] = {
+		Title = "Moment of downfall",
+		Description = {
+			"Follow the space dragon Oscar to the past and watch how Glastheim, the strongest fortress, fell."
+		},
+		Summary = "Moment of downfall"
+	},
+	[12458] = {
+		Title = "Orb's backstory",
+		Description = {
+			"Despite King Schmidt's sacrifice, his performance has been distorted and passed on."
+		},
+		Summary = "Dragon's Taste"
+	},
+	[12459] = {
+		Title = "Rest in the King's thoughts",
+		Description = {
+			"To save countless lives, Schmidt threw his own life into the orb. However, in the process, the power of the orb materializes his thoughts and tries to leave a record of disgrace for future generations. It is your job to put his thoughts to rest."
+		},
+		Summary = "Defeat Schmidt's Thoughts",
+		NpcSpr = "4_ED_SCHMIDT",
+		RewardEXP = "650000",
+		RewardJEXP = "480000",
+		RewardItemList = {
+			{
+				ItemID = 25739,
+				ItemNum = 3
+			}
+		}
+	},
+	[12460] = {
+		Title = "Aftermath of downfall",
+		Description = {
+			"It's hard to watch the scene of downfall in any way. You cannot enter or create ^ff0000Glastheim Purification^000000 while the aftereffects remain."
+		},
+		Summary = "Reset at 04.00 AM"
+	},
+	[12461] = {
+		Title = "Powerful aftermath of death",
+		Description = {
+			"This aftereffect is accompanied by the aftereffect of the downfall. During the remaining time, menus related to ^ff0000Glastheim Purification (Hard)^000000 do not appear and cannot be used."
+		},
+		Summary = "Reset at 04:00 AM after 3 days"
+	},
+	[12462] = {
+		Title = "Rest in the King's thoughts (Hard)",
+		Description = {
+			"To save countless lives, Schmidt threw his own life into the orb. However, in the process, the power of the orb materializes his thoughts and tries to leave a record of disgrace for future generations. It is your job to put his thoughts to rest."
+		},
+		Summary = "Defeat Schmidt's Thoughts (Hard)",
+		NpcSpr = "4_ED_SCHMIDT",
+		RewardEXP = "2800000",
+		RewardJEXP = "1900000",
+		RewardItemList = {
+			{
+				ItemID = 25740,
+				ItemNum = 6
+			}
+		}
 	}
 }
