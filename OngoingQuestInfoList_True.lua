@@ -47765,5 +47765,189 @@ QuestInfoList = {
 				ItemNum = 6
 			}
 		}
+	},
+	[12493] = {
+		Title = "Aftermath of the challenge",
+		Description = {
+			"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."
+		},
+		Summary = "Reset in 3 days at 4 AM"
+	},
+	[12494] = {
+		Title = "Explanation complete",
+		Description = {
+			"Did you hear about the twisted space-time from Oscar?"
+		},
+		Summary = "Done hearing Explanation"
+	},
+	[12495] = {
+		Title = "Risky challenge",
+		Description = {
+			"You are the only one who can stop the tainted dimension from tainting this World."
+		},
+		Summary = "Dimensional Contamination Purification"
+	},
+	[12501] = {
+		Title = "Eliminate Phantom in Glastheim",
+		Description = {
+			"Eliminate at least one of two Phantoms in Glastheim",
+			"^0000ffYou can complete this quest even if you eliminate just one of them^000000"
+		},
+		Summary = "Eliminate Phantom Amdarais"
+	},
+	[12502] = {
+		Title = "Eliminate Phantom in Glastheim",
+		Description = {
+			"Eliminate at least one of two Phantoms in Glastheim",
+			"^0000ffYou can complete this quest even if you eliminate just one of them^000000"
+		},
+		Summary = "Eliminate Phantom Himmelmez"
+	},
+	[12510] = {
+		Title = "About the hidden arena",
+		Description = {
+			"I found out that the arena is being operated in an illegal way beyond the dimensional rift.",
+			"I dont know how they manage to do illegal Tournament, but it's definitely a lot of fun."
+		},
+		Summary = "Cowardly Rules"
+	},
+	[12511] = {
+		Title = "Cooldown - No Arena today",
+		Description = {
+			"The arena opens once every 3 days. It's better to take a break when there's no game."
+		},
+		Summary = "Arena resumes at 4:00 AM 3 days later",
+		CoolTimeQuest = 1
+	},
+	[12512] = {
+		Title = "Evidence of Survival",
+		Description = {
+			"If you are still standing in the arena. And if you're looking at this pass, it's proof that you're alive."
+		},
+		Summary = "Not yet dead."
+	},
+	[16388] = {
+		Title = "First Path",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Virtual Record translation for the first time."
+		},
+		Summary = "First translation"
+	},
+	[16389] = {
+		Title = "First Path - Expedition Declined",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Declined to join the Virtual Record translation."
+		},
+		Summary = "Declined to join the translation"
+	},
+	[16390] = {
+		Title = "Expedition Path - Pending",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"A Daily quest. It can be repeated after its cooldown."
+		},
+		Summary = "Reset at 4:00 a.m."
+	},
+	[16391] = {
+		Title = "?",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"?"
+		},
+		Summary = "?"
+	},
+	[16392] = {
+		Title = "Expedition Path - Reward",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Obtained a translation participation reward."
+		},
+		Summary = "Obtained reward"
+	},
+	[16393] = {
+		Title = "Expedition Path - Swordsman Lab",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Swordsman Lab expedition."
+		},
+		Summary = "Swordsman Lab expedition"
+	},
+	[16394] = {
+		Title = "Expedition Path - Acolyte Lab",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Acolyte Lab expedition."
+		},
+		Summary = "Acolyte Lab expedition"
+	},
+	[16395] = {
+		Title = "Expedition Path - Thief Lab",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Thief Lab expedition."
+		},
+		Summary = "Thief Lab expedition"
+	},
+	[16396] = {
+		Title = "Expedition Path - Mage Lab",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Mage Lab expedition."
+		},
+		Summary = "Mage Lab expedition"
+	},
+	[16397] = {
+		Title = "Expedition Path - Merchant Lab",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Merchant Lab expedition."
+		},
+		Summary = "Merchant Lab expedition"
+	},
+	[16398] = {
+		Title = "Expedition Path - Archer Lab",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Archer Lab expedition."
+		},
+		Summary = "Archer Lab expedition"
+	},
+	[16399] = {
+		Title = "Expedition Path",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Virtual Record translation in Expedition mode."
+		},
+		Summary = "Joined Expedition mode",
+		RewardEXP = "",
+		RewardJEXP = "",
+		RewardItemList = {
+			{
+				ItemID = 25787,
+				ItemNum = 2
+			}
+		}
+	},
+	[16400] = {
+		Title = "Battle Path",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Joined the Virtual Record translation in Battle mode."
+		},
+		Summary = "Joined Battle mode",
+		RewardEXP = "",
+		RewardJEXP = "",
+		RewardItemList = {
+			{
+				ItemID = 25787,
+				ItemNum = 5
+			},
+			{
+				ItemID = 25786,
+				ItemNum = 3
+			}
+		}
 	}
 }
