@@ -47949,5 +47949,199 @@ QuestInfoList = {
 				ItemNum = 3
 			}
 		}
+	},
+	[5847] = {
+		Title = "A story for Luanda",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Let's tell <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> about what you saw and experienced a little while ago."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "1120000",
+		RewardJEXP = "650000"
+	},
+	[5848] = {
+		Title = "Proof of Megalith Extermination",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The village is having a hard time because of the Megalith tribe. Bring back 3 <ITEM>[Megalith Token]<INFO>25638</INFO></ITEM>, and the chief will reward you once a day."
+		},
+		Summary = "3 Megalith Token",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[5849] = {
+		Title = "[Waiting] Proof of Megalith Extermination",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> will reward you tomorrow if you bring evidence of defeating the Megalith tribe."
+		},
+		Summary = "Reset at 4 AM",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		CoolTimeQuest = 1
+	},
+	[5850] = {
+		Title = "Proof of Wootan Extermination",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The village is having a hard time because of the Wootan tribe. Bring back 3 <ITEM>[Wootan Token]<INFO>25633</INFO></ITEM>, and the chief will reward you once a day."
+		},
+		Summary = "3 Wootan Token",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[5851] = {
+		Title = "[Waiting] Proof of Wootan Extermination",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> will reward you tomorrow if you bring evidence of defeating the Wootan tribe."
+		},
+		Summary = "Reset at 4 AM",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		CoolTimeQuest = 1
+	},
+	[5852] = {
+		Title = "Megalith Hunt",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"We planned to subdue the Megalith tribe. Please defeat 5 of <NAVI>[Ancient Tri Joint]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Stalactic Golem]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Megalith]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>. Report to <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> once you're done."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[5853] = {
+		Title = "[Waiting] Megalith Hunt",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> is expecting you to join the Megalith Hunt tomorrow."
+		},
+		Summary = "Reset at 4 AM",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		CoolTimeQuest = 1
+	},
+	[5854] = {
+		Title = "Wootan Hunt",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"We planned to subdue the Wootan tribe. Please defeat 5 of <NAVI>[Ancient Stone Shooter]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Wootan Shooter]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Wootan Fighter]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>. Report to <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> once you're done."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[5855] = {
+		Title = "[Waiting] Wootan Hunt",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> is expecting you to join the Wootan Hunt tomorrow."
+		},
+		Summary = "Reset at 4 AM",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
+	},
+	[15101] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+	},
+	[15102] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+	},
+	[15103] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+	},
+	[15104] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+	},
+	[15105] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+	},
+	[15106] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+	},
+	[15107] = {
+		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
+		Description = {
+			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
+		},
+		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
 	}
 }
