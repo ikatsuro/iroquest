@@ -48095,6 +48095,449 @@ QuestInfoList = {
 		NpcPosX = 241,
 		NpcPosY = 255
 	},
+	[16461] = {
+		Title = "Tomb of Remorse",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The <NAVI>[Princess]<INFO>dali,124,88,0,101,0</INFO></NAVI> of a strange kingdom seems to have a favor to ask the adventurer."
+		},
+		Summary = "Talk to the Princess"
+	},
+	[16462] = {
+		Title = "Tomb of Remorse",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"To hear more of the princess's story, let's follow <NAVI>[her]<INFO>dali,79,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Princess"
+	},
+	[16463] = {
+		Title = "Tomb of Remorse",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After listening to <NAVI>[Princess]<INFO>dali02,78,116,0,101,0</INFO></NAVI>'s story, let's head to the Tomb of Remorse."
+		},
+		Summary = "Talk to the Princess"
+	},
+	[16464] = {
+		Title = "[Cooldown] Tomb of Remorse",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Princess of Sorrow]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[16465] = {
+		Title = "The Thread of a Broken Relationship",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> hopes to send the Magic Swordman Sakray, who has no relationship with the princess, out of the palace. "
+		},
+		Summary = ""
+	},
+	[16466] = {
+		Title = "[Cooldown] The Thread of a Broken Relationship",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[16467] = {
+		Title = "Lament of the Princess",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to put rest to the Princess who already lost her mind."
+		},
+		Summary = ""
+	},
+	[16468] = {
+		Title = "[Cooldown] Lament of the Princess",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[16469] = {
+		Title = "Fragmented Memories",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 3 Memories to find out the full story of the incident."
+		},
+		Summary = ""
+	},
+	[16470] = {
+		Title = "[Cooldown] Fragmented Memories",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[16471] = {
+		Title = "Fragmented Past",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 10 Fragment of the Past so that their presence will not be forgotten."
+		},
+		Summary = ""
+	},
+	[16472] = {
+		Title = "[Cooldown] Fragmented Past",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[16473] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16474] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16475] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16476] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16477] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16478] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16479] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16480] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16481] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[16482] = {
+		Title = "Memory Fragment",
+		IconName = "ico_dq.bmp",
+		Description = {
+			""
+		},
+		Summary = ""
+	},
+	[5908] = {
+		Title = "Airship Crash Site",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Let's hear about the Airship Crash incident from Dr. Dry Circle Strong."
+		},
+		Summary = ""
+	},
+	[5909] = {
+		Title = "[Cooldown] Airship Crash Site",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You can enter the airship crash site once every 3 days. Talk to <NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI> to access the site again later."
+		},
+		Summary = "Reset at 04.00 after 3 days",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_FAIRYANG",
+		NpcNavi = "dali02",
+		NpcPosX = 137,
+		NpcPosY = 86
+	},
+	[5910] = {
+		Title = "Forgotten Collaborative Research (1)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Professor Daeguto asked graduate student Maratha to explain the matter."
+		},
+		Summary = ""
+	},
+	[5911] = {
+		Title = "Forgotten Collaborative Research (2)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"I think the last explanation should be heard from graduate student Saseong. Let's listen to the final explanation."
+		},
+		Summary = ""
+	},
+	[5912] = {
+		Title = "Monster Hunting Request (50)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"We received a request to hunt 50 common monsters.",
+			"    ",
+			"If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.",
+			"^FF0000This is a repeatable quest.^000000"
+		},
+		Summary = ""
+	},
+	[5913] = {
+		Title = "Monster Hunting Request (100)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"We received a request to hunt 100 common monsters.",
+			"    ",
+			"If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.",
+			"^FF0000This is a repeatable quest.^000000"
+		},
+		Summary = ""
+	},
+	[5914] = {
+		Title = "Monster Hunting Request (150)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"We received a request to hunt 150 common monsters.",
+			"    ",
+			"If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.",
+			"^FF0000This is a repeatable quest.^000000"
+		},
+		Summary = ""
+	},
+	[5915] = {
+		Title = "Rewards for helping the injured",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Pelloch received compensation for his help in finding the injuries caused by the airship crash."
+		},
+		Summary = ""
+	},
+	[18026] = {
+		Title = "Memory of Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Thanatos, the swordsman who fought against Morocc in the past, is seen in the tower. Lumin, who has come to check the truth of the rumor, asks you to explore the tower."
+		},
+		Summary = "Defeat Thanatos",
+		NpcSpr = "4_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[18027] = {
+		Title = "Memory of Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Thanatos, the swordsman who fought against Morocc in the past, is seen in the tower. Lumin, who has come to check the truth of the rumor, asks you to explore the tower."
+		},
+		Summary = "Defeat Broken Thanatos",
+		NpcSpr = "5_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[18028] = {
+		Title = "[Cooldown] Memory of Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Lumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		NpcSpr = "6_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[17408] = {
+		Title = "Thanatos Tower Contract",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The Thanatos Tower mercenary contract has been completed."
+		},
+		Summary = "Contract Completed"
+	},
+	[17409] = {
+		Title = "Sign of Red Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"When I hold the red key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Follow the leads."
+	},
+	[17410] = {
+		Title = "Sign of Yellow Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"When I hold the yellow key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Follow the leads."
+	},
+	[17411] = {
+		Title = "Sign of Blue Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"When I hold the blue key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Follow the leads."
+	},
+	[17412] = {
+		Title = "Sign of Green Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"When I hold the green key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Follow the leads."
+	},
+	[17413] = {
+		Title = "Sign of Black Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"When I hold the black key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Follow the leads."
+	},
+	[17414] = {
+		Title = "Secret of Thanatos Tower",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Let¡¯s show the notebook you obtained to <NAVI>[Entrance Guide]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Entrance Guide"
+	},
+	[17415] = {
+		Title = "Solis' Request",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You decided to accept Solis¡¯ request."
+		},
+		Summary = "Request Accepted."
+	},
+	[17416] = {
+		Title = "[Daily] 9th Floor Monsters",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 20 Crow Dukes and 20 Crow Barons on the 9th floor of Thanatos Tower. If you bring 10 Fragment of Misery, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Collect 10 Fragment of Misery"
+	},
+	[17417] = {
+		Title = "[Daily] 10th Floor Monsters",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 15 Void Mimic, 15 Book of Death, and 15 Eldest on the 10th floor of Thanatos Tower. If you bring 10 Fragment of Despair, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Collect 10 Fragment of Despair"
+	},
+	[17418] = {
+		Title = "[Daily] 11th Floor Monsters I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 15 Empathizer and 15 Happiness Giver on the 11th floor of Thanatos Tower. If you bring 10 Fragment of Hatred, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Collect 10 Fragment of Hatred"
+	},
+	[17419] = {
+		Title = "[Daily] 11th Floor Monsters II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 15 Pray Giver and 15 Smile Giver on the 11th floor of Thanatos Tower. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
+	},
+	[17420] = {
+		Title = "[Daily] 12th Floor Monsters I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 10 Anger of Thanatos and 10 Horror of Thanatos on the 12th floor of Thanatos Tower. If you bring 10 Fragment of Agony, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Collect 10 Fragment of Agony"
+	},
+	[17421] = {
+		Title = "[Daily] 12th Floor Monsters II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 10 Regret of Thanatos and 10 Resentment of Thanatos on the 12th floor of Thanatos Tower. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
+	},
+	[17422] = {
+		Title = "[Cooldown] 9th Floor Monsters",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[17423] = {
+		Title = "[Cooldown] 10th Floor Monsters",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[17424] = {
+		Title = "[Cooldown] 11th Floor Monsters",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
+	[17425] = {
+		Title = "[Cooldown] 12th Floor Monsters",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04.00",
+		CoolTimeQuest = 1
+	},
 	[15101] = {
 		Title = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë",
 		Description = {
