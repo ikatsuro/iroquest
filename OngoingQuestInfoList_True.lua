@@ -11954,126 +11954,144 @@ QuestInfoList = {
 		Description = {
 			"You have completed Valkyrie Realm Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7544] = {
 		Title = " Standby for Valkyrie Realm Challenge 2",
 		Description = {
 			"You have completed Valkyrie Realm Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7545] = {
 		Title = " Standby for Valkyrie Realm Challenge 3",
 		Description = {
 			"You have completed Valkyrie Realm Challenge 3 already. To challenge again, come back after 1 week."
 		},
-		Summary = "See you next week!"
+		Summary = "See you next week!",
+		CoolTimeQuest = 1
 	},
 	[7546] = {
 		Title = " Standby for Luina Challenge 1",
 		Description = {
 			"You have completed Luina Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7547] = {
 		Title = " Standby for Luina Challenge 2",
 		Description = {
 			"You have completed Luina Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7548] = {
 		Title = " Standby for Luina Challenge 3",
 		Description = {
 			"You have completed Luina Challenge 3 already. To challenge again, come back after 1 week."
 		},
-		Summary = "See you next week!"
+		Summary = "See you next week!",
+		CoolTimeQuest = 1
 	},
 	[7549] = {
 		Title = " Standby for Britoniah Challenge 1",
 		Description = {
 			"You have completed Britoniah Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7550] = {
 		Title = " Standby for Britoniah Challenge 2",
 		Description = {
 			"You have completed Britoniah Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7551] = {
 		Title = " Standby for Britoniah Challenge 3",
 		Description = {
 			"You have completed Britoniah Challenge 3 already. To challenge again, come back after 1 week."
 		},
-		Summary = "See you next week!"
+		Summary = "See you next week!",
+		CoolTimeQuest = 1
 	},
 	[7552] = {
 		Title = " Standby for Greenwood Lake Challenge 1",
 		Description = {
 			"You have completed Greenwood Lake Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7553] = {
 		Title = " Standby for Greenwood Lake Challenge 2",
 		Description = {
 			"You have completed Greenwood Lake Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7554] = {
 		Title = " Standby for Greenwood Lake Challenge 3",
 		Description = {
 			"You have completed Greenwood Lake Challenge 3 already. To challenge again, come back after 1 week."
 		},
-		Summary = "See you next week!"
+		Summary = "See you next week!",
+		CoolTimeQuest = 1
 	},
 	[7555] = {
 		Title = " Standby for Nidabehl Challenge 1",
 		Description = {
 			"You have completed Nidabehl Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7556] = {
 		Title = " Standby for Nidabehl Challenge 2",
 		Description = {
 			"You have completed Nidabehl Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7557] = {
 		Title = " Standby for Valfreyja Challenge 1",
 		Description = {
 			"You have completed Valfreyja Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7558] = {
 		Title = " Standby for Valfreyja Challenge 2",
 		Description = {
 			"You have completed Valfreyja Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7559] = {
 		Title = " Standby for Gloria Challenge 1",
 		Description = {
 			"You have completed Gloria Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7560] = {
 		Title = " Standby for Gloria Challenge 2",
 		Description = {
 			"You have completed Gloria Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7561] = {
 		Title = " Kafragaten Challenge 1",
@@ -12094,14 +12112,16 @@ QuestInfoList = {
 		Description = {
 			"You have completed Kafragaten Challenge 1 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7564] = {
 		Title = " Standby for Kafragaten Challenge 2",
 		Description = {
 			"You have completed Kafragaten Challenge 2 already. To challenge again, come back after 1 day."
 		},
-		Summary = "Take a day off."
+		Summary = "Take a day off.",
+		CoolTimeQuest = 1
 	},
 	[7565] = {
 		Title = "Return of Rayan Moore",
