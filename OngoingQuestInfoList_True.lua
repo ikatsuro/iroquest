@@ -42723,7 +42723,7 @@ QuestInfoList = {
 		Description = { "Speak to Ingrid again to conclude your adventure." },
 		Summary = ""
 	},
-	[63039] = { Title = "Pub Crawler", Description = { "Explore Duffy's Pub Crawl." }, Summary = "" },
+	[63039] = { Title = "VIP Token Timer", Description = { "You can only get 10 tokens per day." }, Summary = "VIP Token of Siegfried" },
 	[63040] = {
 		Title = "Pub Crawler",
 		Description = { "You have introduced yourself to the first Prontera Brewmaster." },
