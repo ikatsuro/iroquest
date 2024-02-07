@@ -12173,7 +12173,8 @@ QuestInfoList = {
 		Description = {
 			"Exploring time and space causes your body to be in flux. You need to take a break or you will lose your mind."
 		},
-		Summary = "Wait for the timer before re-entering."
+		Summary = "Wait for the timer before re-entering.",
+		CoolTimeQuest = 1
 	},
 	[7578] = {
 		Title = "Rampaging Box",
@@ -12194,7 +12195,8 @@ QuestInfoList = {
 		Description = {
 			"You've decided to collect Bradium Boxes every day to try to thwart Chesher's scheme. Come back to Hasranta tomorrow."
 		},
-		Summary = "Wait for one day."
+		Summary = "Wait for one day.",
+		CoolTimeQuest = 1
 	},
 	[7581] = {
 		Title = "Eliminating Risks",
@@ -12206,7 +12208,8 @@ QuestInfoList = {
 	[7582] = {
 		Title = "Daily Cleaning",
 		Description = { "Leave them to other subjugators for now. You deserve a rest." },
-		Summary = "Wait for one day."
+		Summary = "Wait for one day.",
+		CoolTimeQuest = 1
 	},
 	[7583] = {
 		Title = "Collecting Mana",
@@ -12220,7 +12223,8 @@ QuestInfoList = {
 		Description = {
 			"The Demons are siphoning off the mana to maintain their strength. You've decided to come back to Avant every day, to help him collect Mana Crystallines."
 		},
-		Summary = "Wait for one day."
+		Summary = "Wait for one day.",
+		CoolTimeQuest = 1
 	},
 	[7593] = {
 		Title = "Demon God Subjugation",
@@ -12260,21 +12264,24 @@ QuestInfoList = {
 		Description = {
 			"Confined in his own world, the Demon God is cursed to suffer for eternity. Come back tomorrow and put him out of his misery once more."
 		},
-		Summary = "Come back tomorrow."
+		Summary = "Come back tomorrow.",
+		CoolTimeQuest = 1
 	},
 	[7599] = {
 		Title = "Unending Hunt",
 		Description = {
 			"The hunting continues until every single Demon in the Temple of the Demon God is eliminated. Adjutant Abidal asked you to come back when you are fully rested."
 		},
-		Summary = "Come back tomorrow."
+		Summary = "Come back tomorrow.",
+		CoolTimeQuest = 1
 	},
 	[7600] = {
 		Title = "Promising Tomorrow",
 		Description = {
 			"The Orb of Eclage and Yggdrasil have lost a substantial amount of mana, and thus the mana collection work continues until most of it is retrieved. Take a rest and come back to Hishieh before you move on to the Temple of the Demon God."
 		},
-		Summary = "Come back tomorrow."
+		Summary = "Come back tomorrow.",
+		CoolTimeQuest = 1
 	},
 	[7601] = {
 		Title = "Temple of the Demon God Phase 1",
@@ -12348,7 +12355,8 @@ QuestInfoList = {
 		Description = {
 			"You should take rest. Our mercenaries can take care of the monsters in the passage."
 		},
-		Summary = "The Daily quest is cooling down."
+		Summary = "The Daily quest is cooling down.",
+		CoolTimeQuest = 1
 	},
 	[7613] = {
 		Title = "Eliminating Risks",
@@ -12362,7 +12370,8 @@ QuestInfoList = {
 		Description = {
 			"We're able to clear the excavation site of those robots. Please come back next time."
 		},
-		Summary = "The Daily quest is cooling down."
+		Summary = "The Daily quest is cooling down.",
+		CoolTimeQuest = 1
 	},
 	[7615] = {
 		Title = "Core Collection",
@@ -12376,7 +12385,8 @@ QuestInfoList = {
 		Description = {
 			"The Artnard Excavation Team is focusing on studying the Power Control Devices. You should take rest while you can."
 		},
-		Summary = "The Daily quest is cooling down."
+		Summary = "The Daily quest is cooling down.",
+		CoolTimeQuest = 1
 	},
 	[7617] = {
 		Title = "Turning In Excavation Report",
@@ -12388,7 +12398,8 @@ QuestInfoList = {
 	[7618] = {
 		Title = "Reporting the Results - Down",
 		Description = { "Wait for the Artnard Excavation Team's next report." },
-		Summary = "The Daily quest is cooling down."
+		Summary = "The Daily quest is cooling down.",
+		CoolTimeQuest = 1
 	},
 	[7619] = {
 		Title = "Assisting the Excavation Team",
@@ -12453,7 +12464,8 @@ QuestInfoList = {
 	[7629] = {
 		Title = "Tomorrow for Tomorrow's Energy",
 		Description = { "Return to Lloyd tomorrow to continue to help him with his research." },
-		Summary = "The Daily quest is cooling down."
+		Summary = "The Daily quest is cooling down.",
+		CoolTimeQuest = 1
 	},
 	[7630] = {
 		Title = "Legenday Blue Unicorn",
@@ -12467,7 +12479,8 @@ QuestInfoList = {
 		Description = {
 			"Please wait at least 23 hours before hunting again. But try not to hunt more than once a day!"
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[7641] = {
 		Title = "Access Permitted",
@@ -16499,7 +16512,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8543] = {
 		Title = "Perhaps, An Empty Thing",
@@ -16520,7 +16534,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8546] = {
 		Title = "A Thing with Pretty High Freezing Point",
@@ -16541,7 +16556,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8549] = {
 		Title = "A Thing Like A Mysterious Mirror",
@@ -16562,7 +16578,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8552] = {
 		Title = "Reinvestigation of Abnormally Evolved Deleter",
@@ -16583,7 +16600,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8555] = {
 		Title = "Defeat Real Scary Nightmare",
@@ -16602,7 +16620,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8558] = {
 		Title = "Density Verification Again",
@@ -16621,7 +16640,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
-		Summary = "Reset at 04:00 am"
+		Summary = "Reset at 04:00 am",
+		CoolTimeQuest = 1
 	},
 	[8561] = {
 		Title = "The Very Small Things That Rustle",
@@ -18018,7 +18038,8 @@ QuestInfoList = {
 		Description = {
 			"The message of ^8B4513a scholar who is research the crack of spaces ^000000: Please check out about magic competitions at ^0000FFold Geffen of crack^000000"
 		},
-		Summary = "Exploring Geffen in the cracks  "
+		Summary = "Exploring Geffen in the cracks  ",
+		CoolTimeQuest = 1
 	},
 	[9318] = {
 		Title = "Pursuing Hiding Morroc",
@@ -18032,7 +18053,8 @@ QuestInfoList = {
 		Description = {
 			"The ^8B4513Senior Tracker^000000's message: Please come back tomorrow and help me pursue Morroc."
 		},
-		Summary = "Come back after 23 hours."
+		Summary = "Come back after 23 hours.",
+		CoolTimeQuest = 1
 	},
 	[9335] = {
 		Title = "Search for shards of Gigantes",
@@ -18046,7 +18068,8 @@ QuestInfoList = {
 		Description = {
 			"Message from ^8B4513 Professor Bernhard^000000: I don’t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door."
 		},
-		Summary = "Reunited after 7 days."
+		Summary = "Reunited after 7 days.",
+		CoolTimeQuest = 1
 	},
 	[9337] = {
 		Title = "Wrapping up the Adventure",
@@ -18065,7 +18088,8 @@ QuestInfoList = {
 		Description = {
 			"^8B4513Scientist Doyeon^000000‘s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic."
 		},
-		Summary = "Visit Doyeon in 3 days."
+		Summary = "Visit Doyeon in 3 days.",
+		CoolTimeQuest = 1
 	},
 	[9427] = {
 		Title = "Clearing the Sky Fortress for the Same Time",
@@ -26417,17 +26441,19 @@ QuestInfoList = {
 		Description = { "Defeat surrounding Monsters" },
 		Summary = ""
 	},
-	[13201] = { Title = "Rookie's Request - Complete", Description = { "" }, Summary = "" },
+	[13201] = { Title = "Rookie's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13202] = {
 		Title = "Monthly Brigan : Photo Journalist's Request",
 		Description = { "Take care of surrounding Monsters" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
-	[13203] = { Title = "Photo Journalist's Request - Complete", Description = { "" }, Summary = "" },
+	[13203] = { Title = "Photo Journalist's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13204] = {
 		Title = "Monthly Brigan : Grylls' Request",
 		Description = { "Obtain 30 Metal bugs" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13205] = { Title = "Grylls' Request - Complete", Description = { "" }, Summary = "" },
 	[14118] = {
