@@ -16093,7 +16093,8 @@ QuestInfoList = {
 		Description = {
 			"The Merchant Union Human Resources Department commissions only one quest per week to protect client privacy. Wait until the next quest."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[8324] = {
 		Title = "Delivery to Prontera",
@@ -16481,7 +16482,8 @@ QuestInfoList = {
 		Description = {
 			"Delay Insurance re-registration cannot be instantly processed. Please wait and try again."
 		},
-		Summary = "Resets at 4 am"
+		Summary = "Resets at 4 am",
+		CoolTimeQuest = 1
 	},
 	[8529] = { Title = "Master of the King’s Heel", Description = { "" }, Summary = "" },
 	[8530] = {
@@ -47949,14 +47951,16 @@ QuestInfoList = {
 		Description = {
 			"It's hard to watch the scene of downfall in any way. You cannot enter or create ^ff0000Glastheim Purification^000000 while the aftereffects remain."
 		},
-		Summary = "Reset at 04.00 AM"
+		Summary = "Reset at 04.00 AM",
+		CoolTimeQuest = 1
 	},
 	[12461] = {
 		Title = "Powerful aftermath of death",
 		Description = {
 			"This aftereffect is accompanied by the aftereffect of the downfall. During the remaining time, menus related to ^ff0000Glastheim Purification (Hard)^000000 do not appear and cannot be used."
 		},
-		Summary = "Reset at 04:00 AM after 3 days"
+		Summary = "Reset at 04:00 AM after 3 days",
+		CoolTimeQuest = 1
 	},
 	[12462] = {
 		Title = "Rest in the King's thoughts (Hard)",
@@ -47979,7 +47983,8 @@ QuestInfoList = {
 		Description = {
 			"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."
 		},
-		Summary = "Reset in 3 days at 4 AM"
+		Summary = "Reset in 3 days at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[12494] = {
 		Title = "Explanation complete",
