@@ -3931,7 +3931,8 @@ QuestInfoList = {
 		Description = {
 			"The ground trembles from Nidhoggur's awakening. Wait until the timer expires before you can regain access to the Dungeon."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[3136] = {
 		Title = "Nidhoggur's Nest Time Limit",
@@ -3939,8 +3940,7 @@ QuestInfoList = {
 		Description = {
 			"You have 4 hours to defeat Nidhoggur's Shadow. If the Memorial Dungeon is destroyed you cannot re-enter."
 		},
-		Summary = "",
-		CoolTimeQuest = 1
+		Summary = ""
 	},
 	[3137] = { Title = "Nidhoggur's Shadow", Description = { "Hunt Nidhoggur's Shadow" }, Summary = "" },
 	[3138] = {
