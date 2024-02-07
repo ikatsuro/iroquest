@@ -24470,28 +24470,32 @@ QuestInfoList = {
 		Description = {
 			"You already have got 1 requested service. Since you already have done it, you cannot get a new request for one day."
 		},
-		Summary = "You are in charge of Culvert, normal for 1 day"
+		Summary = "You are in charge of Culvert, normal for 1 day",
+		CoolTimeQuest = 1
 	},
 	[12272] = {
 		Title = "In progress hard culvert single day service",
 		Description = {
 			"You already have got 1 requested service. Since you already have done it, you cannot get a new request for one day."
 		},
-		Summary = "You are in charge of Culvert, hard for 1 day"
+		Summary = "You are in charge of Culvert, hard for 1 day",
+		CoolTimeQuest = 1
 	},
 	[12273] = {
 		Title = "In progress general culvert weekly service",
 		Description = {
 			"You already have got 1 requested service. Since you already have done it, you cannot get a new request for 7 days."
 		},
-		Summary = "You are in charge of Culvert, normal for 7 days"
+		Summary = "You are in charge of Culvert, normal for 7 days",
+		CoolTimeQuest = 1
 	},
 	[12274] = {
 		Title = "In progress hard culvert weekly service",
 		Description = {
 			"You already have got 1 requested service. Since you already have done it, you cannot get a new request for 7 days."
 		},
-		Summary = "You are in charge of Culvert, hard for 7 days"
+		Summary = "You are in charge of Culvert, hard for 7 days",
+		CoolTimeQuest = 1
 	},
 	[12278] = {
 		Title = "Towards Bakonawa Lake...",
