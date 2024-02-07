@@ -9779,7 +9779,8 @@ QuestInfoList = {
 		Description = {
 			"Explore the Foggy Forest. The foggy forest remembers you so if you try to force re-entry it may reject you."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[7212] = {
 		Title = "Finding Loki",
@@ -35154,7 +35155,8 @@ QuestInfoList = {
 		Description = {
 			"The Endless Tower has strange after-effect properties that only allow you to enter it once a week. Wait until the time limit is up before re-entering again."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60008] = {
 		Title = "Endless Tower Time Limit",
@@ -40187,7 +40189,8 @@ QuestInfoList = {
 	[62423] = {
 		Title = "Limited access on the lab",
 		Description = { "Access to the lab entrance system is restricted." },
-		Summary = "Waiting time to enter (3days - 72hour)"
+		Summary = "Waiting time to enter (3days - 72hour)",
+		CoolTimeQuest = 1
 	},
 	[62424] = {
 		Title = "Amatsu - Yellow Plates",
@@ -48063,7 +48066,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown."
 		},
-		Summary = "Reset at 4:00 a.m."
+		Summary = "Reset at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16391] = {
 		Title = "?",
