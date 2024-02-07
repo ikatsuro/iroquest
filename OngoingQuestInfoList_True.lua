@@ -4527,7 +4527,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[3392] = {
 		Title = "Potato Chips of Illusion",
@@ -7988,7 +7989,8 @@ QuestInfoList = {
 		Description = {
 			"I fed <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. If I can, I should feed him tomorrow as well."
 		},
-		Summary = "Reset at 4:00 a.m."
+		Summary = "Reset at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[5862] = {
 		Title = "Morning's Menu Selection",
@@ -8110,7 +8112,8 @@ QuestInfoList = {
 			"from <NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> after its cooldown."
 		},
 		Summary = "Resets at 4:00 a.m.",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		CoolTimeQuest = 1
 	},
 	[5897] = {
 		Title = "Magic Power Plant 1 Cleanup Ⅰ",
@@ -8156,7 +8159,8 @@ QuestInfoList = {
 			"from <NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> after the cooldown has been passed."
 		},
 		Summary = "Resets at 4:00 a.m.",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		CoolTimeQuest = 1
 	},
 	[5901] = {
 		Title = "Drunk Old Man",
