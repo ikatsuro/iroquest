@@ -36738,7 +36738,8 @@ QuestInfoList = {
 	[60444] = {
 		Title = "Hunting Timer 1",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60445] = {
 		Title = "Desert Wolf Hunting",
@@ -36764,17 +36765,20 @@ QuestInfoList = {
 	[60448] = {
 		Title = "Hunting Timer 2",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60449] = {
 		Title = "Hunting Timer 3",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60450] = {
 		Title = "Hunting Timer 4",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60451] = {
 		Title = "Enchanted Peach Tree Hunting",
@@ -37008,12 +37012,14 @@ QuestInfoList = {
 	[60486] = {
 		Title = "Hunting Timer 5",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60487] = {
 		Title = "Hunting Timer 6",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60488] = {
 		Title = "Solider Hunt",
@@ -37060,12 +37066,14 @@ QuestInfoList = {
 	[60494] = {
 		Title = "Hunting Timer 1",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60495] = {
 		Title = "Hunting Timer 2",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60500] = {
 		Title = "Battlegrounds",
@@ -37301,12 +37309,14 @@ QuestInfoList = {
 	[60533] = {
 		Title = "Hunting Timer 3",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60534] = {
 		Title = "Hunting Timer 4",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60535] = {
 		Title = "Gargoyle Hunting",
@@ -37585,7 +37595,8 @@ QuestInfoList = {
 		Description = {
 			"You must wait for the timer to expire before you can use another Reset Stone for the Gramps hunting quests"
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60575] = {
 		Title = "Kobold Archer Hunting",
@@ -37604,12 +37615,14 @@ QuestInfoList = {
 	[60577] = {
 		Title = "Hunting Timer",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60578] = {
 		Title = "Hunting Timer",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60579] = {
 		Title = "Red Novus Hunting",
@@ -37761,7 +37774,8 @@ QuestInfoList = {
 	[60600] = {
 		Title = "Hunting Timer 7",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60601] = {
 		Title = "Uzhas Hunting",
@@ -37801,12 +37815,14 @@ QuestInfoList = {
 	[60606] = {
 		Title = "Hunting Timer 5",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60607] = {
 		Title = "Hunting Timer 6",
 		Description = { "You must wait for the timer to expire before getting another mission." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60608] = {
 		Title = "Rybio Hunting",
