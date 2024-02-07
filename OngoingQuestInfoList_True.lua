@@ -42788,26 +42788,31 @@ QuestInfoList = {
 	[63040] = {
 		Title = "Pub Crawler",
 		Description = { "You have introduced yourself to the first Prontera Brewmaster." },
+		IconName = "ico_ev.bmp",
 		Summary = ""
 	},
 	[63041] = {
 		Title = "Pub Crawler",
 		Description = { "You have introduced yourself to the second Prontera Brewmaster." },
+		IconName = "ico_ev.bmp",
 		Summary = ""
 	},
 	[63042] = {
 		Title = "Pub Crawler",
 		Description = { "You have introduced yourself to the Geffen Brewmaster." },
+		IconName = "ico_ev.bmp",
 		Summary = ""
 	},
 	[63043] = {
 		Title = "Pub Crawler",
 		Description = { "You have introduced yourself to the Aldebaran Brewmaster." },
+		IconName = "ico_ev.bmp",
 		Summary = ""
 	},
 	[63044] = {
 		Title = "Pub Crawler",
 		Description = { "You have received the Pub Crawl Prize" },
+		IconName = "ico_ev.bmp",
 		Summary = ""
 	},
 	[63045] = {
@@ -42815,26 +42820,34 @@ QuestInfoList = {
 		Description = {
 			"The first Prontera Brewmaster can't accept more supplies until the timer is finished."
 		},
-		Summary = ""
+		Summary = "",
+		IconName = "ico_ev.bmp",
+		CoolTimeQuest = 1
 	},
 	[63046] = {
 		Title = "Pub Crawler",
 		Description = {
 			"The second Prontera Brewmaster can't accept more supplies until the timer is finished."
 		},
-		Summary = ""
+		Summary = "",
+		IconName = "ico_ev.bmp",
+		CoolTimeQuest = 1
 	},
 	[63047] = {
 		Title = "Pub Crawler",
 		Description = { "The Geffen Brewmaster can't accept more supplies until the timer is finished." },
-		Summary = ""
+		Summary = "",
+		IconName = "ico_ev.bmp",
+		CoolTimeQuest = 1
 	},
 	[63048] = {
 		Title = "Pub Crawler",
 		Description = {
 			"The Aldebaran Brewmaster can't accept more supplies until the timer is finished."
 		},
-		Summary = ""
+		Summary = "",
+		IconName = "ico_ev.bmp",
+		CoolTimeQuest = 1
 	},
 	[63049] = { Title = "Pub Crawler", Description = { "Explore Duffy's Pub Crawl" }, Summary = "" },
 	--16.2 Dailies	
