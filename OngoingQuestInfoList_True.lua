@@ -27379,7 +27379,8 @@ QuestInfoList = {
 		Description = {
 			"Would you come back again later? Just enough time for her so that she doesn't feel pressured without forgetting me. After some time, I'd like to deliver my hear to her again!"
 		},
-		Summary = "Please come back again."
+		Summary = "Please come back again.",
+		CoolTimeQuest = 1
 	},
 	[14493] = {
 		Title = "Today I Feel",
@@ -27488,7 +27489,8 @@ QuestInfoList = {
 		Description = {
 			"I am still in the progress of making it with what you have brought me. I'll decide what to make after finishing the work. Would come back after the daybreak?"
 		},
-		Summary = "Please wait."
+		Summary = "Please wait.",
+		CoolTimeQuest = 1
 	},
 	[14510] = {
 		Title = "Pink Petal-like Dress",
