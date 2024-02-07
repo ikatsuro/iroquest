@@ -2557,7 +2557,8 @@ QuestInfoList = {
 		Description = {
 			"You have completed helping Grenouille for today. Come back after the timer has expired to take on another quest."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[2187] = {
 		Title = "Job Change to Archbishop",
@@ -3099,12 +3100,14 @@ QuestInfoList = {
 	[2290] = {
 		Title = "Suspicious Cat: enemies(timer)",
 		Description = { "You can re-accept the quest after the time passes" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[2291] = {
 		Title = "Suspicious Cat: Annoying Fellow(timer)",
 		Description = { "You can re-accept the quest after the time passes" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[2292] = {
 		Title = "Suspicious Cat: Annoying Fellow",
@@ -6610,7 +6613,8 @@ QuestInfoList = {
 		Description = {
 			"the low level collection request from energy crystal research can be only available once in a day."
 		},
-		Summary = "Waiting time - 23hours"
+		Summary = "Waiting time - 23hours",
+		CoolTimeQuest=1
 	},
 	[5162] = {
 		Title = "Low Level collection request",
@@ -6666,7 +6670,8 @@ QuestInfoList = {
 		Description = {
 			"the Mid-level collection request from energy crystal research can be only available once in a day."
 		},
-		Summary = "Waiting time - 23hours"
+		Summary = "Waiting time - 23hours",
+		CoolTimeQuest=1
 	},
 	[5170] = {
 		Title = "Mid-Level collection request",
@@ -6701,7 +6706,8 @@ QuestInfoList = {
 		Description = {
 			"the High-level collection request from energy crystal research can be only available once in a day."
 		},
-		Summary = "Waiting time - 23hours"
+		Summary = "Waiting time - 23hours",
+		CoolTimeQuest=1
 	},
 	[5175] = {
 		Title = "High level collectiong request",
@@ -6785,21 +6791,24 @@ QuestInfoList = {
 		Description = {
 			"In order to save^0000FFRough Energy Crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
 		},
-		Summary = "Waiting time- 20 hours"
+		Summary = "Waiting time- 20 hours",
+		CoolTimeQuest=1
 	},
 	[5226] = {
 		Title = "Saving energy crystal[Stand by]",
 		Description = {
 			"In order to save^0000FF Purified Energy crystal^000000 again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
 		},
-		Summary = "Waiting time- 20 hours"
+		Summary = "Waiting time- 20 hours",
+		CoolTimeQuest=1
 	},
 	[5227] = {
 		Title = "Saving energy crystal[Stand by]",
 		Description = {
 			"In order to save^0000FFHigh purity energy crystal^000000again in your body aproximately^FF0000 20 hours^000000of waiting time is required."
 		},
-		Summary = "Waiting time- 20 hours"
+		Summary = "Waiting time- 20 hours",
+		CoolTimeQuest=1
 	},
 	[5251] = {
 		Title = "wood Supply Mission",
@@ -7039,7 +7048,8 @@ QuestInfoList = {
 	[5318] = {
 		Title = "Come Back Tomorrow",
 		Description = { "Return to the Phantasmagorika Police Chief tomorrow for more work." },
-		Summary = "Downtime: 23 hours"
+		Summary = "Downtime: 23 hours",
+		CoolTimeQuest=1
 	},
 	[5341] = {
 		Title = "Limits of Journeys",
@@ -7469,7 +7479,8 @@ QuestInfoList = {
 		Description = {
 			"You can participate in the training of the Richard family again in tomorrow morning."
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5415] = {
 		Title = "Restricted Sector",
@@ -7551,7 +7562,8 @@ QuestInfoList = {
 		Description = {
 			"You have sent the news of the old friend. Why don't you allow him some time to be lost in old memories?"
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5427] = {
 		Title = "[Repeat]To My Beloved Fellow",
@@ -7572,7 +7584,8 @@ QuestInfoList = {
 		Description = {
 			"The prisoner is infatuated with the red eyes. Why don't you bring more later to calm down the prisoner again?"
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5430] = {
 		Title = "[Repeat]Lowly Standards",
@@ -7600,7 +7613,8 @@ QuestInfoList = {
 		Description = {
 			"Do you know? It is the time to wait for the fun of making a mess after the joy of cleaning."
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5434] = {
 		Title = "[Repeat]Clean Life",
@@ -7628,7 +7642,8 @@ QuestInfoList = {
 		Description = {
 			"He seems to be satisfied with the bright light. Let's bring him once more when the light is about to subside."
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5438] = {
 		Title = "[Repeat]Finding Lights",
@@ -7647,14 +7662,16 @@ QuestInfoList = {
 		Description = {
 			"Since the prison is a humid place, the Dehumidifiers would run out sooner or later. Bring more when they run out."
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5441] = {
 		Title = "[Repeat]Refreshing Prison Life",
 		Description = {
 			"As expected, the Dehumidifiers didn't last long. Bring 20 Dehumidifiers again."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[5442] = {
 		Title = "Suppressing Darkness",
@@ -7668,14 +7685,16 @@ QuestInfoList = {
 		Description = {
 			"The darkness has been calmed down, but it may become unruly again. When the time comes, I may have to bring another flower."
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5444] = {
 		Title = "[Repeat]Suppressing Darkness",
 		Description = {
 			"Darkness is raging again. Bring a flower. Which flower should I bring this time?"
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[5445] = {
 		Title = "Bothersome Little Thing",
@@ -7689,7 +7708,8 @@ QuestInfoList = {
 		Description = {
 			"This prisoner who really seems to think of me as a concierge of this prison hotel may call me regularly."
 		},
-		Summary = "Reset Time 4:00 am"
+		Summary = "Reset Time 4:00 am",
+		CoolTimeQuest=1
 	},
 	[5447] = {
 		Title = "[Repeat]Bothersome Little Thing",
@@ -7731,7 +7751,8 @@ QuestInfoList = {
 		Description = {
 			"You helped the villager of Prontera. For a while, you need to walk around the town working on defeating the undead."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[5453] = {
 		Title = "Ungrateful(1)",
@@ -8859,7 +8880,8 @@ QuestInfoList = {
 		Description = {
 			"You have brought the 10 Dragon eggs to Pinedel but now you have to wait for them to hatch before taking on another request."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[7079] = {
 		Title = "Finding Refined Bradium",
@@ -8871,7 +8893,8 @@ QuestInfoList = {
 		Description = {
 			"You have helped the Manuk Engineer with his request but you need to wait another day before taking on another request."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[7081] = {
 		Title = "Helping the Laphine Craftsman",
@@ -8885,7 +8908,8 @@ QuestInfoList = {
 		Description = {
 			"You did great finding the Crystallized Teardrops and Fluorescent Liquid. They have enough supply for today."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[7083] = {
 		Title = "Payon's New Year Food",
@@ -12512,7 +12536,8 @@ QuestInfoList = {
 	[7651] = {
 		Title = "One Memory a Day",
 		Description = { "Collect Memory Records only once a day. Go to Arquien at the promised time." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[7652] = {
 		Title = "Collect Memory Records of Laboratories",
@@ -12526,7 +12551,8 @@ QuestInfoList = {
 		Description = {
 			"Collect Memory Records in the laboratories only once a day. Go to Arquien at the promised time."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[7654] = {
 		Title = "Play Research facilities Memory Records",
@@ -12721,7 +12747,8 @@ QuestInfoList = {
 		Description = {
 			"Multiple connection is a difficult thing even for Nillem. I think there is a certain limit to connect to the Room of Consciousness. Let's wait for Nillem's recovery."
 		},
-		Summary = "Reset at 4 o'clock"
+		Summary = "Reset at 4 o'clock",
+		CoolTimeQuest=1
 	},
 	[7711] = {
 		Title = "Beginning",
@@ -13800,7 +13827,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
-		NpcPosY = 244
+		NpcPosY = 244,
+		CoolTimeQuest = 1
 	},
 	[7881] = {
 		Title = "Unusual Mineral Research 1",
@@ -13824,7 +13852,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
-		NpcPosY = 244
+		NpcPosY = 244,
+		CoolTimeQuest = 1
 	},
 	[7883] = {
 		Title = "Unusual Mineral Research 2",
@@ -13848,7 +13877,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
-		NpcPosY = 244
+		NpcPosY = 244,
+		CoolTimeQuest = 1
 	},
 	[7885] = {
 		Title = "Abyssman Research",
@@ -13872,7 +13902,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
-		NpcPosY = 244
+		NpcPosY = 244,
+		CoolTimeQuest = 1
 	},
 	[7887] = {
 		Title = "Mine Bug Research",
@@ -13896,7 +13927,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
-		NpcPosY = 244
+		NpcPosY = 244,
+		CoolTimeQuest = 1
 	},
 	[7889] = {
 		Title = "Xth Century XXgolt",
@@ -13920,7 +13952,8 @@ QuestInfoList = {
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
-		NpcPosY = 152
+		NpcPosY = 152,
+		CoolTimeQuest = 1
 	},
 	[7891] = {
 		Title = "What Is Valkyrie?",
@@ -13944,7 +13977,8 @@ QuestInfoList = {
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
-		NpcPosY = 152
+		NpcPosY = 152,
+		CoolTimeQuest = 1
 	},
 	[7893] = {
 		Title = "A Strangely-colored Ferus",
@@ -13968,7 +14002,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
-		NpcPosY = 143
+		NpcPosY = 143,
+		CoolTimeQuest = 1
 	},
 	[7895] = {
 		Title = "Studying the New Mimic",
@@ -13992,7 +14027,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
-		NpcPosY = 143
+		NpcPosY = 143,
+		CoolTimeQuest = 1
 	},
 	[7897] = {
 		Title = "Acidus Elemental Study",
@@ -14016,7 +14052,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
-		NpcPosY = 143
+		NpcPosY = 143,
+		CoolTimeQuest = 1
 	},
 	[7899] = {
 		Title = "Against Providence",
@@ -14040,7 +14077,8 @@ QuestInfoList = {
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
-		NpcPosY = 143
+		NpcPosY = 143,
+		CoolTimeQuest = 1
 	},
 	[7998] = {
 		Title = "Last Peace to You",
@@ -14052,7 +14090,8 @@ QuestInfoList = {
 		Description = {
 			"I might have to reinvestigate the core of the Central Room equipped with a partial ''return'' system."
 		},
-		Summary = "Reset at 4:00 a.m."
+		Summary = "Reset at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[8000] = {
 		Title = "Quitting Job Change",
@@ -16674,7 +16713,8 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> will always be waiting for me. I can work and request payment again tomorrow."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[8588] = {
 		Title = "Collecting Tails",
@@ -16736,7 +16776,8 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> will always be waiting for me. I can work and request payment again tomorrow."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[8604] = {
 		Title = "Verus Landscaping Department's Request",
@@ -21178,7 +21219,8 @@ QuestInfoList = {
 	[11422] = {
 		Title = "Complete Today's Sauce",
 		Description = { "You have completed making the sauce for today. Come back again tomorrow." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[11423] = {
 		Title = "Banquet: Griffin Barbecue",
@@ -21197,7 +21239,8 @@ QuestInfoList = {
 		Description = {
 			"You have completed making the grilled griffin for today. Come back again tomorrow."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[11426] = {
 		Title = "Banquet: Washing 15 Dishes",
@@ -21209,7 +21252,8 @@ QuestInfoList = {
 	[11427] = {
 		Title = "Complete Today's Dish Collecting",
 		Description = { "You have completed collecting the dishes for today. Come back again tomorrow." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest=1
 	},
 	[11428] = { Title = "Ingredient for the Sauce", Description = { "Fresh Flavor" }, Summary = "" },
 	[11429] = {
@@ -22326,7 +22370,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[11636] = {
 		Title = "Ultimate Book Arrangement",
@@ -22342,7 +22387,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[11638] = {
 		Title = "Ultimate Scrap Metal Collecting",
@@ -22358,7 +22404,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[11650] = {
 		Title = "Jakk and Weird Jakk's Little Weird Story",
@@ -24139,7 +24186,8 @@ QuestInfoList = {
 	[12230] = {
 		Title = "Request timer",
 		Description = { "Elephantine doesn't have anymore tasks available today." },
-		Summary = "Wait for the timer to expire"
+		Summary = "Wait for the timer to expire",
+		CoolTimeQuest=1
 	},
 	[12231] = {
 		Title = "Material for the Preservative",
@@ -24214,12 +24262,14 @@ QuestInfoList = {
 	[12241] = {
 		Title = "Request Timer",
 		Description = { "No more tasks are available today from Bow-wow" },
-		Summary = "Wait for the timer to expire"
+		Summary = "Wait for the timer to expire",
+		CoolTimeQuest=1
 	},
 	[12242] = {
 		Title = "Request Timer",
 		Description = { "No more tasks are available today from Woof-grrr" },
-		Summary = "Wait for the timer to expire"
+		Summary = "Wait for the timer to expire",
+		CoolTimeQuest=1
 	},
 	[12243] = {
 		Title = "Information on missing person Tazar",
@@ -24294,12 +24344,14 @@ QuestInfoList = {
 	[12253] = {
 		Title = "Request Timer",
 		Description = { "No more tasks are available today from Soul Guide" },
-		Summary = "Wait for the timer to expire"
+		Summary = "Wait for the timer to expire",
+		CoolTimeQuest=1
 	},
 	[12254] = {
 		Title = "Now it's cleaning",
 		Description = { "Now it's cleaning time. Please concentrate one spot before the time finishes" },
-		Summary = "Clean the culvert within 1 hour"
+		Summary = "Clean the culvert within 1 hour",
+		CoolTimeQuest=1
 	},
 	[12255] = {
 		Title = "Hunt Abysmal Crab",
@@ -24941,14 +24993,16 @@ QuestInfoList = {
 		Description = {
 			"You can't enter the weekend dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."
 		},
-		Summary = "Accumulated Fatigue"
+		Summary = "Accumulated Fatigue",
+		CoolTimeQuest=1
 	},
 	[12379] = {
 		Title = "Need to recover from fatigue",
 		Description = {
 			"You can't enter the friday dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."
 		},
-		Summary = "Accumulated Fatigue"
+		Summary = "Accumulated Fatigue",
+		CoolTimeQuest=1
 	},
 	[12381] = {
 		Title = "New Continent's Food Supplier",
@@ -24960,7 +25014,8 @@ QuestInfoList = {
 		Description = {
 			"Thanks to you, now the food distributer has enough ingredients to cook for everyone who has been waiting for their food."
 		},
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[12383] = {
 		Title = "Sweet Potato Delivery",
@@ -25014,7 +25069,8 @@ QuestInfoList = {
 	[12390] = {
 		Title = "Relieved for Now",
 		Description = { "This should keep the pioneer village safe from monsters for now." },
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[12391] = {
 		Title = "Buffaloes with Rifles",
@@ -25055,7 +25111,8 @@ QuestInfoList = {
 	[12398] = {
 		Title = "You're Good",
 		Description = { "Good job accomplishing a tricky mission. Go ahead and rest for a while." },
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[12399] = {
 		Title = "Hunt Heinous Criminals",
@@ -25089,7 +25146,8 @@ QuestInfoList = {
 		Description = {
 			"You have maintained all the pipes in the basement of Rock Ridge. The desalination system should be fine for a while."
 		},
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[12405] = {
 		Title = "Maintain the Red Pipe",
@@ -25134,7 +25192,8 @@ QuestInfoList = {
 	[12411] = {
 		Title = "Come Back Tomorrow",
 		Description = { "He's done doing business with you for the day. Please come back tomorrow." },
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest=1
 	},
 	[12412] = {
 		Title = "Beginner mode",
@@ -25174,7 +25233,8 @@ QuestInfoList = {
 	[12417] = {
 		Title = "Overcoming fatigue",
 		Description = { "It seems you need to wait until next 4 am to visit Poring Village." },
-		Summary = "04:00 Reset"
+		Summary = "04:00 Reset",
+		CoolTimeQuest=1
 	},
 	[12418] = {
 		Title = "First Visit to Poring Village",
@@ -25189,14 +25249,16 @@ QuestInfoList = {
 	[12420] = {
 		Title = "Recovery",
 		Description = { "It seems hard to see Orc's memory again unless you get relieved." },
-		Summary = "4am reset"
+		Summary = "4am reset",
+		CoolTimeQuest=1
 	},
 	[12421] = {
 		Title = "Aftereffect of Saving the World",
 		Description = {
 			"You have received the reward for saving the world. You cannot get it again before it is reset."
 		},
-		Summary = "Reset at 04:00"
+		Summary = "Reset at 04:00",
+		CoolTimeQuest=1
 	},
 	[12422] = {
 		Title = "Request of the Overlord",
@@ -25288,7 +25350,8 @@ QuestInfoList = {
 	[12453] = {
 		Title = "Operation Pending",
 		Description = { "The gateway to Os is temporarily blocked. I should wait until it's released." },
-		Summary = "Operation pending"
+		Summary = "Operation pending",
+		CoolTimeQuest = 1
 	},
 	[12454] = {
 		Title = "Additional Search Mission",
@@ -25300,7 +25363,8 @@ QuestInfoList = {
 	[12455] = {
 		Title = "Operation Pending",
 		Description = { "The gateway to Os is temporarily blocked. I should wait until it's released." },
-		Summary = "Operation pending"
+		Summary = "Operation pending",
+		CoolTimeQuest=1
 	},
 	[12456] = {
 		Title = "Aftermath of Removing the Aftereffect of Saving the World",
@@ -25314,7 +25378,8 @@ QuestInfoList = {
 		Description = {
 			"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."
 		},
-		Summary = "Access Permission - Pending"
+		Summary = "Access Permission - Pending",
+		CoolTimeQuest=1
 	},
 	[12497] = {
 		Title = "Restricted Zone Access Permitted",
@@ -25326,7 +25391,8 @@ QuestInfoList = {
 		Description = {
 			"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."
 		},
-		Summary = "Remaining Cooldown: 1 day"
+		Summary = "Remaining Cooldown: 1 day",
+		CoolTimeQuest=1
 	},
 	[12499] = {
 		Title = "Subdue Red Pepper - Kappa",
@@ -25390,7 +25456,8 @@ QuestInfoList = {
 	[13004] = {
 		Title = "Carat Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13005] = {
 		Title = "Arclouse Request",
@@ -25402,7 +25469,8 @@ QuestInfoList = {
 	[13006] = {
 		Title = "Arclouse Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13007] = {
 		Title = "Anolian Request",
@@ -25414,7 +25482,8 @@ QuestInfoList = {
 	[13008] = {
 		Title = "Anolian Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13009] = {
 		Title = "Sting Request",
@@ -25426,7 +25495,8 @@ QuestInfoList = {
 	[13010] = {
 		Title = "Sting Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13011] = {
 		Title = "Majoruros Request",
@@ -25438,7 +25508,8 @@ QuestInfoList = {
 	[13012] = {
 		Title = "Majoruros Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13013] = {
 		Title = "Pinguicula Request",
@@ -25450,7 +25521,8 @@ QuestInfoList = {
 	[13014] = {
 		Title = "Pinguicula Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13015] = {
 		Title = "Luciola Vespa Request",
@@ -25462,7 +25534,8 @@ QuestInfoList = {
 	[13016] = {
 		Title = "Luciola Vespa Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13017] = {
 		Title = "Desert Wolf Request",
@@ -25474,7 +25547,8 @@ QuestInfoList = {
 	[13018] = {
 		Title = "Desert Wolf Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13019] = {
 		Title = "Snowier Request",
@@ -25486,7 +25560,8 @@ QuestInfoList = {
 	[13020] = {
 		Title = "Snowier Request timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13021] = {
 		Title = "Ice Titan Request",
@@ -25498,7 +25573,8 @@ QuestInfoList = {
 	[13022] = {
 		Title = "Ice Titan Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13023] = {
 		Title = "Nightmare Terror Request",
@@ -25510,7 +25586,8 @@ QuestInfoList = {
 	[13024] = {
 		Title = "Nightmare Terror Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13025] = {
 		Title = "Flying Deleter Request",
@@ -25522,7 +25599,8 @@ QuestInfoList = {
 	[13026] = {
 		Title = "Deleter Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13040] = {
 		Title = "Loli Ruri Request",
@@ -25534,7 +25612,8 @@ QuestInfoList = {
 	[13041] = {
 		Title = "Loli Ruri Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13042] = {
 		Title = "Medusa Request",
@@ -25546,7 +25625,8 @@ QuestInfoList = {
 	[13043] = {
 		Title = "Medusa Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13044] = {
 		Title = "Anubis Request",
@@ -25558,7 +25638,8 @@ QuestInfoList = {
 	[13045] = {
 		Title = "Anubis Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13046] = {
 		Title = "Tendrilion Request",
@@ -25568,7 +25649,8 @@ QuestInfoList = {
 	[13047] = {
 		Title = "Tendrilion Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13048] = {
 		Title = "Tendrilion Request",
@@ -25578,7 +25660,8 @@ QuestInfoList = {
 	[13049] = {
 		Title = "Tendrilion Request Timer",
 		Description = { "Wait for the timer to expire before re-accepting this request" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13050] = {
 		Title = "The Laphine that loves the land",
@@ -25635,7 +25718,8 @@ QuestInfoList = {
 	[13060] = {
 		Title = "Safety confirmation complete!",
 		Description = { "Everyone seems safe. Would they be safe tomorrow as well?" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13061] = {
 		Title = "Food support",
@@ -25645,7 +25729,8 @@ QuestInfoList = {
 	[13062] = {
 		Title = "Food support - complete",
 		Description = { "He wouldn't starve to death for at least awhile, right?" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13063] = {
 		Title = "Dusting off",
@@ -25659,7 +25744,8 @@ QuestInfoList = {
 		Description = {
 			"New Oz should be able to leave by himself from this point. Although there is still room for uncertainty.."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13065] = {
 		Title = "Collecting a souvenir",
@@ -25671,7 +25757,8 @@ QuestInfoList = {
 	[13066] = {
 		Title = "This is enough for souvenirs",
 		Description = { "All we can do now is to pray that the trouble maker can escape safely." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13067] = {
 		Title = "Raydric research",
@@ -25683,7 +25770,8 @@ QuestInfoList = {
 	[13068] = {
 		Title = "Raydric research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13069] = {
 		Title = "Khalitzburg research",
@@ -25693,7 +25781,8 @@ QuestInfoList = {
 	[13070] = {
 		Title = "Khalitzburg research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13071] = {
 		Title = "Wander Man research",
@@ -25703,7 +25792,8 @@ QuestInfoList = {
 	[13072] = {
 		Title = "Wander Man research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13073] = {
 		Title = "Ancient Mimic research",
@@ -25713,7 +25803,8 @@ QuestInfoList = {
 	[13074] = {
 		Title = "Ancient Mimic research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13075] = {
 		Title = "Death Word research",
@@ -25723,7 +25814,8 @@ QuestInfoList = {
 	[13076] = {
 		Title = "Death Word research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13077] = {
 		Title = "Owl Baron research",
@@ -25735,7 +25827,8 @@ QuestInfoList = {
 	[13078] = {
 		Title = "Owl Baron research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13079] = {
 		Title = "Bloody Page Research",
@@ -25749,7 +25842,8 @@ QuestInfoList = {
 		Description = {
 			"If there are bloodstained papers, that will be great. Let's collect them and send to him"
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13081] = {
 		Title = "Dark Pinguicula research",
@@ -25759,7 +25853,8 @@ QuestInfoList = {
 	[13082] = {
 		Title = "Dark Pinguicula research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13083] = {
 		Title = "Nepenthes research",
@@ -25769,7 +25864,8 @@ QuestInfoList = {
 	[13084] = {
 		Title = "Nepenthes research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13085] = {
 		Title = "Naga research",
@@ -25781,7 +25877,8 @@ QuestInfoList = {
 	[13086] = {
 		Title = "Naga research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13087] = {
 		Title = "Centipede Larva research",
@@ -25791,7 +25888,8 @@ QuestInfoList = {
 	[13088] = {
 		Title = "Centipede Larva research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13089] = {
 		Title = "Cornus research",
@@ -25801,7 +25899,8 @@ QuestInfoList = {
 	[13090] = {
 		Title = "Cornus research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13091] = {
 		Title = "Mystic Horn Research",
@@ -25813,7 +25912,8 @@ QuestInfoList = {
 		Description = {
 			"We are still researching Mystic Horn so, collect it as much as you can and send to Mingmin when he needs"
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13093] = {
 		Title = "Ancient Mummy research",
@@ -25825,7 +25925,8 @@ QuestInfoList = {
 	[13094] = {
 		Title = "Ancient Mummy research - timer",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13095] = {
 		Title = "Geffenia expedition",
@@ -25837,7 +25938,8 @@ QuestInfoList = {
 	[13096] = {
 		Title = "Geffenia expedition - Wait",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13097] = {
 		Title = "Juperos expedition",
@@ -25849,7 +25951,8 @@ QuestInfoList = {
 	[13098] = {
 		Title = "Juperos expedition - Wait",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13099] = {
 		Title = "Fragments and Rusty Screw",
@@ -25859,7 +25962,8 @@ QuestInfoList = {
 	[13100] = {
 		Title = "Fragments and Rusty Screw - Wait",
 		Description = { "Mingmin is busy researching. Come back after the timer has expired." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13101] = {
 		Title = "The way of Taekwon",
@@ -25930,22 +26034,26 @@ QuestInfoList = {
 	[13115] = {
 		Title = "Thanatos Tower Search - Wait",
 		Description = { "It is not the terms that Aigu is looking for... Let's search again later." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13116] = {
 		Title = "Rachel holy ground Search - Wait",
 		Description = { "It is not the terms that Aigu is looking for... Let's search again later." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13117] = {
 		Title = "Unknown island Search - Wait",
 		Description = { "It is not the terms that Aigu is looking for... Let's search again later." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13118] = {
 		Title = "Abyss Lake Search - Wait",
 		Description = { "It is not the terms that Aigu is looking for... Let's search again later." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13119] = {
 		Title = "Combat Baroness of Retribution",
@@ -25955,7 +26063,8 @@ QuestInfoList = {
 	[13120] = {
 		Title = "Combat Baroness of Retribution - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13121] = {
 		Title = "Combat Lady Solace",
@@ -25965,7 +26074,8 @@ QuestInfoList = {
 	[13122] = {
 		Title = "Combat Lady Solace - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13123] = {
 		Title = "Combat Mistress of Shelter",
@@ -25975,7 +26085,8 @@ QuestInfoList = {
 	[13124] = {
 		Title = "Combat Mistress of Shelter - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13125] = {
 		Title = "Combat Dame of Sentinel",
@@ -25985,7 +26096,8 @@ QuestInfoList = {
 	[13126] = {
 		Title = "Combat Dame of Sentinel - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13127] = {
 		Title = "Combat Vanberk and Isilla",
@@ -25995,7 +26107,8 @@ QuestInfoList = {
 	[13128] = {
 		Title = "Combat Vanberk and Isilla - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13129] = {
 		Title = "Combat Hodremlin",
@@ -26005,7 +26118,8 @@ QuestInfoList = {
 	[13130] = {
 		Title = "Combat Hodremlin - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13131] = {
 		Title = "Combat Agav and Echio",
@@ -26015,7 +26129,8 @@ QuestInfoList = {
 	[13132] = {
 		Title = "Combat Agav and Echio - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13133] = {
 		Title = "Combat Ragged Zombie",
@@ -26025,7 +26140,8 @@ QuestInfoList = {
 	[13134] = {
 		Title = "Combat Ragged Zombie - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13135] = {
 		Title = "Combat Zombie Slaughter",
@@ -26035,7 +26151,8 @@ QuestInfoList = {
 	[13136] = {
 		Title = "Combat Zombie Slaughter - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13137] = {
 		Title = "Combat Banshee",
@@ -26045,7 +26162,8 @@ QuestInfoList = {
 	[13138] = {
 		Title = "Combat Banshee - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13139] = {
 		Title = "Combat Ferus and Bewler",
@@ -26055,7 +26173,8 @@ QuestInfoList = {
 	[13140] = {
 		Title = "Combat Ferus and Bewler- Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13141] = {
 		Title = "Combat Acidus",
@@ -26065,7 +26184,8 @@ QuestInfoList = {
 	[13142] = {
 		Title = "Combat Acidus - Wait",
 		Description = { "Today's mission success. Let's come back after one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13143] = {
 		Title = "Egnigem Story",
@@ -26075,7 +26195,8 @@ QuestInfoList = {
 	[13144] = {
 		Title = "Egnigem Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13145] = {
 		Title = "Armeyer Story",
@@ -26085,7 +26206,8 @@ QuestInfoList = {
 	[13146] = {
 		Title = "Armeyer Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13147] = {
 		Title = "Whikebain Story",
@@ -26095,7 +26217,8 @@ QuestInfoList = {
 	[13148] = {
 		Title = "Whikebain Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13149] = {
 		Title = "Kavach Story",
@@ -26105,7 +26228,8 @@ QuestInfoList = {
 	[13150] = {
 		Title = "Kavach Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13151] = {
 		Title = "Errende Story",
@@ -26115,7 +26239,8 @@ QuestInfoList = {
 	[13152] = {
 		Title = "Errende Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13153] = {
 		Title = "Laurell Story",
@@ -26125,7 +26250,8 @@ QuestInfoList = {
 	[13154] = {
 		Title = "Laurell Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13155] = {
 		Title = "Morocc Story1",
@@ -26135,7 +26261,8 @@ QuestInfoList = {
 	[13156] = {
 		Title = "Morocc Story1 - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13157] = {
 		Title = "Morocc Story2",
@@ -26145,7 +26272,8 @@ QuestInfoList = {
 	[13158] = {
 		Title = "Morocc Story2 - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13159] = {
 		Title = "Morocc Story3",
@@ -26157,7 +26285,8 @@ QuestInfoList = {
 	[13160] = {
 		Title = "Morocc Story3 - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13161] = {
 		Title = "Uni-horn Scaraba Story",
@@ -26169,7 +26298,8 @@ QuestInfoList = {
 	[13162] = {
 		Title = "Uni-horn Scaraba Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13163] = {
 		Title = "Horn Scaraba Story",
@@ -26181,7 +26311,8 @@ QuestInfoList = {
 	[13164] = {
 		Title = "Horn Scaraba Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13165] = {
 		Title = "Antler Scaraba Story",
@@ -26193,7 +26324,8 @@ QuestInfoList = {
 	[13166] = {
 		Title = "Antler Scaraba Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13167] = {
 		Title = "Rake horn Scaraba Story",
@@ -26205,7 +26337,8 @@ QuestInfoList = {
 	[13168] = {
 		Title = "Rake horn Scaraba Story - Wait",
 		Description = { "Maybe there is more information to know." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[13181] = {
 		Title = "Nightmarish Jitterbug",
@@ -28322,7 +28455,8 @@ QuestInfoList = {
 		Description = {
 			"You've brought me enough ingredients to make bombs all night. Come back early in the morning tomorrow. That's the best time to do things. - Demon"
 		},
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},[14674] = {
 		Title = "Time to Digest",
 		Description = {
@@ -29453,7 +29587,8 @@ QuestInfoList = {
 	[15002] = {
 		Title = "Memorial dungeon: Sara's Memory",
 		Description = { "You must wait for the timer before re-entering this instance." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[15003] = {
 		Title = "Adventurer leon",
@@ -29467,7 +29602,8 @@ QuestInfoList = {
 		Description = {
 			"Isle of Bios becomes accessible for 23 hours after each exploration. You can enter it again after:"
 		},
-		Summary = "23-hour downtime."
+		Summary = "23-hour downtime.",
+		CoolTimeQuest = 1
 	},
 	[15006] = {
 		Title = "Isle of Bios Exploration",
@@ -29526,7 +29662,8 @@ QuestInfoList = {
 		Description = {
 			"Entry to dungeon is prohibited after 23 hours of entry. Entry is possible after the deadline written below."
 		},
-		Summary = "Reentry within 23 hours is not permitted"
+		Summary = "Reentry within 23 hours is not permitted",
+		CoolTimeQuest = 1
 	},
 	[15051] = {
 		Title = "Memorial Dungeon: Airship Assault",
@@ -29679,7 +29816,8 @@ QuestInfoList = {
 	[15115] = {
 		Title = "Vrid and Zeith",
 		Description = { "You can re-receive this quest after 4:00 a.m." },
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[15116] = { Title = "Clear the Illusion of the Frozen", Description = { "" }, Summary = "" },
 	[15117] = {
@@ -30762,7 +30900,8 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>in the Dimensional Gap to accept the quest."
 		},
-		Summary = "Resets at 4 am"
+		Summary = "Resets at 4 am",
+		CoolTimeQuest = 1
 	},
 	[16218] = {
 		Title = "Modification and Calculation",
@@ -31306,7 +31445,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> in Cor."
 		},
-		Summary = "Reset at 04:00 a.m."
+		Summary = "Reset at 04:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16363] = {
 		Title = "Take Care of EL1_A17T",
@@ -31325,7 +31465,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Farmhand]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> in Cor."
 		},
-		Summary = "Reset at 04:00 a.m."
+		Summary = "Reset at 04:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16366] = {
 		Title = "Help the Farm",
@@ -31700,7 +31841,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16433] = {
 		Title = "Grand Papilia Hunt",
@@ -31716,7 +31858,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16435] = {
 		Title = "Where are the Gardeners?",
@@ -31732,7 +31875,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16437] = {
 		Title = "Floating Garden",
@@ -31752,7 +31896,8 @@ QuestInfoList = {
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[16440] = {
 		Title = "That Is the Question",
@@ -32389,7 +32534,8 @@ QuestInfoList = {
 		Description = {
 			"I'll see you again after dawn. You did a great job. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Quest resets at 4:00 a.m."
+		Summary = "Quest resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[17137] = {
 		Title = "Make snow flower bouquet",
@@ -32730,7 +32876,8 @@ QuestInfoList = {
 		Description = {
 			"If you have time, please consider helping me again after dawn tomorrow. I hope you rest well. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[17342] = {
 		Title = "Actually, I Don't Really Like It",
@@ -32874,7 +33021,8 @@ QuestInfoList = {
 		Description = {
 			"I can sense that their number has decreased. I can start doing my task now. Thank you. Please come back after dawn. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[17361] = {
 		Title = "Cleaning the Storage (Basement)",
@@ -32890,7 +33038,8 @@ QuestInfoList = {
 		Description = {
 			"I can sense that their number has decreased. I can start doing my task now. Thank you. Please come back after dawn. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[17363] = {
 		Title = "Searching the Bathhouse",
@@ -33010,7 +33159,8 @@ QuestInfoList = {
 		Description = {
 			"Rest up, and I'd appreciate it if you'd come back after dawn tomorrow. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[17378] = {
 		Title = "Sweeper's Request",
@@ -33034,7 +33184,8 @@ QuestInfoList = {
 		Description = {
 			"You should come back after dawn. There will still be plenty of fish here. - <NAVI>[Sweeper]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[17381] = {
 		Title = "Joining with the Party",
@@ -33599,7 +33750,8 @@ QuestInfoList = {
 		Description = {
 			"You can accept this quest again from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the airship depot after its cooldown."
 		},
-		Summary = "Resets at 4:00 a.m."
+		Summary = "Resets at 4:00 a.m.",
+		CoolTimeQuest = 1
 	},
 	[18029] = {
 		Title = "Lv1-Let's catch Fabre!",
@@ -37190,7 +37342,8 @@ QuestInfoList = {
 	[60548] = {
 		Title = "Upgrade Event timer",
 		Description = { "You must wait 23 hours before re-attempting to use the Spooky Machine." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60549] = {
 		Title = "Marionette Hunting",
@@ -46902,7 +47055,8 @@ QuestInfoList = {
 	[70250] = {
 		Title = "Raffler Cooldown",
 		Description = { "Wait for the timer before purchasing another raffle ticket" },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[2160] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[2161] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
