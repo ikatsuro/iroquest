@@ -4184,6 +4184,7 @@ QuestInfoList = {
 	},
 	[3312] = {
 		Title = "Catch Sweets Drops!",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Sweets festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> hopes that Sweets Drops will be punished for stealing cacao beans."
 		},
@@ -4191,6 +4192,7 @@ QuestInfoList = {
 	},
 	[3313] = {
 		Title = "Stolen Cocoa Beans",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Sweets festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> ^4d4dff Sweets Drops^000000 stole ^4d4dff stolen cacao beans^000000 for 20 Requested to retrieve the dog."
 		},
@@ -4198,6 +4200,7 @@ QuestInfoList = {
 	},
 	[3314] = {
 		Title = "Delivery and Collection-Fronterra",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI> at the Frontera Sweets Shop."
 		},
@@ -4205,6 +4208,7 @@ QuestInfoList = {
 	},
 	[3315] = {
 		Title = "Delivery and Collection-Geffen",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI> at the Geffen Sweets Shop."
 		},
@@ -4212,6 +4216,7 @@ QuestInfoList = {
 	},
 	[3316] = {
 		Title = "Delivery and Collection- Payon",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI> in the Payon Sweets shop."
 		},
@@ -4219,6 +4224,7 @@ QuestInfoList = {
 	},
 	[3317] = {
 		Title = "Delivery and Collection-Aldebaran",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI> at the Sweets Shop in Aldebaran."
 		},
@@ -4226,6 +4232,7 @@ QuestInfoList = {
 	},
 	[3318] = {
 		Title = "Chocolatete delivery complete!",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Delivered all chocolates for delivery to sweets stores in each major city. Report to Prontera's <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4233,6 +4240,7 @@ QuestInfoList = {
 	},
 	[3319] = {
 		Title = "Happiness sharing warmth 1",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Prontera's <NAVI>[Crienne]<INFO>prontera,210,321,0,101,0</INFO></NAVI> has a lonely personality. We prepared a sweet crepe for Crienne."
 		},
@@ -4240,6 +4248,7 @@ QuestInfoList = {
 	},
 	[3320] = {
 		Title = "Happiness sharing warmth 2",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Frontera's <NAVI>[Lasis]<INFO>prontera,103,308,0,101,0</INFO></NAVI> is missing her lover who went on an adventure. We prepared small and pretty strawberry whipped cream cupcakes for Lasis."
 		},
@@ -4247,6 +4256,7 @@ QuestInfoList = {
 	},
 	[3321] = {
 		Title = "Happiness sharing warmth 3",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Prontera's <NAVI>[Eltsan]<INFO>prontera,100,183,0,101,0</INFO></NAVI> is heartbroken right now. We prepared a fresh fruit parfait for Eltsan."
 		},
@@ -4254,6 +4264,7 @@ QuestInfoList = {
 	},
 	[3322] = {
 		Title = "Happiness to share warmth 4",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Prontera's <NAVI>[Ant]<INFO>prontera,271,339,0,101,0</INFO></NAVI> is celebrating her mother's death. We prepared moist macarons for Ant."
 		},
@@ -4261,6 +4272,7 @@ QuestInfoList = {
 	},
 	[3323] = {
 		Title = "Happiness sharing warmth 5",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Frontera's <NAVI>[Chae]<INFO>prontera,269,55,0,101,0</INFO></NAVI> is struggling to choose a gift for her father. We prepared a Mont Blanc cake full of chestnut flavor for Chai."
 		},
@@ -4268,6 +4280,7 @@ QuestInfoList = {
 	},
 	[3324] = {
 		Title = "The joy of sharing warm happiness",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"We handed out sweets to all five customers. Let's report the results to the festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4275,6 +4288,7 @@ QuestInfoList = {
 	},
 	[3325] = {
 		Title = "the joy of sharing sweet happiness again",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Deliver the sweets menu to Frontera's customers again. <NAVI>[Crienne]<INFO>prontera,210,321,0,101,0</INFO></NAVI>, <NAVI>[Lasis]<INFO>prontera,103,308,0,101,0</INFO></NAVI >, <NAVI>[Eltsan]<INFO>prontera,100,183,0,101,0</INFO></NAVI>, <NAVI>[Ant]<INFO>prontera,271,339,0,101,0</INFO></ NAVI>, <NAVI>[Chae]<INFO>prontera,269,55,0,101,0</INFO></NAVI> This is 5 minutes."
 		},
@@ -4282,6 +4296,7 @@ QuestInfoList = {
 	},
 	[3326] = {
 		Title = "Delivered to Krien",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You have delivered the sweets menu to Krienne. If you have finished delivering to all the guests, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4289,6 +4304,7 @@ QuestInfoList = {
 	},
 	[3327] = {
 		Title = "Delivered to Rasis",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You have delivered the sweets menu to Lasis. If you have finished delivering to all the guests, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4296,6 +4312,7 @@ QuestInfoList = {
 	},
 	[3328] = {
 		Title = "Delivered to Eltsan",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You have delivered the sweets menu to Eltsan. If you have finished delivering to all the guests, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4303,6 +4320,7 @@ QuestInfoList = {
 	},
 	[3329] = {
 		Title = "Delivered to Ant",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You have delivered the sweets menu to Ant. If you have finished delivering to all the guests, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4310,6 +4328,7 @@ QuestInfoList = {
 	},
 	[3330] = {
 		Title = "Delivered to Chai",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You have delivered the sweets menu to Chai. If you have finished delivering to all the guests, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4317,6 +4336,7 @@ QuestInfoList = {
 	},
 	[3331] = {
 		Title = "Today is also a happy festival sharing-waiting",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"After the waiting period ends, you can repeat the event quest through Prontera's <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -4324,6 +4344,7 @@ QuestInfoList = {
 	},
 	[3332] = {
 		Title = "Delivery and Collection-Moroq",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, deliver chocolates to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI> at the Morocc Sweets Shop."
 		},
@@ -4331,6 +4352,7 @@ QuestInfoList = {
 	},
 	[3333] = {
 		Title = "Sweet Drops punishment today too!",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"As long as Sweets Drops exists in the world, the fight against the Sweets Festival Committee will not end. <NAVI>[Chocolatet]<INFO>prontera,163,98,0,101,0</INFO></NAVI> asked you to kill 10 sweets drops."
 		},
@@ -4338,6 +4360,7 @@ QuestInfoList = {
 	},
 	[3334] = {
 		Title = "Sweet Drops Punishment-waiting today",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"After the waiting period ends, you can repeat the event quest through Prontera's <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
