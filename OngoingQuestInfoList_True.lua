@@ -13557,6 +13557,7 @@ QuestInfoList = {
 	[7809] = { Title = "Collecting Ores", Description = { "Collected the ores." }, Summary = "" },	
 	[7820] = {
 		Title = "Sweets Drops!",
+		IconName = "ico_ev.bmp",		
 		Description = {
 			"Sweets Festival Commissioner <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> hopes that the withdrawal of condemnation will be handed down to Sweets Drops who stole and fled with the kakao beans."
 		},
@@ -13564,6 +13565,7 @@ QuestInfoList = {
 	},
 	[7821] = {
 		Title = "Stolen Cacao Beans",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Sweets Festival Commissioner <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>asked for 20 cacao beans stolen by Sweets Drops."
 		},
@@ -13571,6 +13573,7 @@ QuestInfoList = {
 	},
 	[7822] = {
 		Title = "Delivery and Collection-Prontera",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the festival, let's deliver chocolate to <NAVI>[Mimi]<INFO>prontera,114,102,0,101,0</INFO></NAVI> of the Prontera Sweets store."
 		},
@@ -13578,6 +13581,7 @@ QuestInfoList = {
 	},
 	[7823] = {
 		Title = "Delivery and Collection-Geffen",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, let's deliver chocolate to <NAVI>[Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI> of Geffen Sweets Store."
 		},
@@ -13585,6 +13589,7 @@ QuestInfoList = {
 	},
 	[7824] = {
 		Title = "Delivery and Collection - Payon",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, let's deliver chocolate for delivery to <NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI> of Payon Sweets Store."
 		},
@@ -13592,6 +13597,7 @@ QuestInfoList = {
 	},
 	[7825] = {
 		Title = "Delivery and Collection-Aldebaran",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the Sweets Festival, let's deliver chocolate to <NAVI>[Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI> of Aldebaran sweets store."
 		},
@@ -13599,6 +13605,7 @@ QuestInfoList = {
 	},
 	[7826] = {
 		Title = "Chocolate Delivery Completed!",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"We delivered all the chocolates to sweets stores in each big city! Report to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> by Prontera."
 		},
@@ -13606,6 +13613,7 @@ QuestInfoList = {
 	},
 	[7827] = {
 		Title = "Special Order To Share Sweetness 1",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[Cherry]<INFO>prontera,225,346,0,101,0</INFO></NAVI>at Prontera Cathedral said they wanted to eat sweets like bouquets. We've prepared a sweet crepe for Cherry."
 		},
@@ -13613,6 +13621,7 @@ QuestInfoList = {
 	},
 	[7828] = {
 		Title = "Special Order To Share Sweetness 2",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The cutie, <NAVI>[Blossom]<INFO>prontera,225,322,0,101,0</INFO></NAVI>of Prontera Cathedral, is the best strawberry in the world! We've prepared a small, pretty strawberry whipped cream cupcake for Blossom."
 		},
@@ -13620,6 +13629,7 @@ QuestInfoList = {
 	},
 	[7829] = {
 		Title = "Special Order To Share Sweetness 3",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The walnuts of the Prontera Great Star love to collect small, pretty cobblestones and beads. We've prepared a sweet jewelry parfait for <NAVI>[Walnuts]<INFO>prontera,210,338,0,101,0</INFO></NAVI>."
 		},
@@ -13627,6 +13637,7 @@ QuestInfoList = {
 	},
 	[7830] = {
 		Title = "Special Order To Share Sweetness 4",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[Cinnamon]<INFO>prontera,255,311,0,101,0</INFO></NAVI> at Prontera Cathedral has quite the sweet tooth. We've created a moist macaroon that they will be smitten with in just one bite!"
 		},
@@ -13634,6 +13645,7 @@ QuestInfoList = {
 	},
 	[7831] = {
 		Title = "Special Order To Share Sweetness 5",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[Hazel]<INFO>prontera,236,308,0,101,0</INFO></NAVI>sometimes tells the story of Montblanc, her favorite treat made from chestnuts harvested from Payon forest. Let's present Hazel with these forest chestnuts."
 		},
@@ -13641,6 +13653,7 @@ QuestInfoList = {
 	},
 	[7832] = {
 		Title = "You shared sweet happiness!",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I handed out sweets to all five children. Let's report our progress to Festival Commissioner <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13648,6 +13661,7 @@ QuestInfoList = {
 	},
 	[7833] = {
 		Title = "Ready for today's exciting festivities",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Deliver Chocolates to the Sweets Shop in each city. Delivery to Prontera <NAVI>[Mimi]<INFO>prontera,114,102,0,101,0</INFO></NAVI>,of Geffen <NAVI>[Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI>, Payon's<NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI>,of Aldebaran<NAVI>[Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI>, of Morocc <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI>."
 		},
@@ -13655,6 +13669,7 @@ QuestInfoList = {
 	},
 	[7834] = {
 		Title = "Prontera Delivery Confirmation",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I delivered chocolate to the Prontera Sweets store. If you have completed delivery to all stores, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13662,6 +13677,7 @@ QuestInfoList = {
 	},
 	[7835] = {
 		Title = "Geffen Delivery Confirmation",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I delivered chocolate to the Geffen Sweets store. If you have completed delivery to all stores, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13669,6 +13685,7 @@ QuestInfoList = {
 	},
 	[7836] = {
 		Title = "Payon Delivery Confirmation",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I delivered chocolate to Payon Sweets store. If you have completed delivery to all stores, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13676,6 +13693,7 @@ QuestInfoList = {
 	},
 	[7837] = {
 		Title = "Aldebaran Delivery Confirmation",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I delivered chocolate to Aldebaran sweets store. If you have completed delivery to all stores, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13683,6 +13701,7 @@ QuestInfoList = {
 	},
 	[7838] = {
 		Title = "Morocc Delivery Confirmation",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I delivered chocolate to a Morocc sweets store. If you have completed delivery to all stores, let's report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13690,6 +13709,7 @@ QuestInfoList = {
 	},
 	[7839] = {
 		Title = "Ready for Today's Exciting Festival - Wait",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"After the waiting time ends, the event quest can be repeated through Prontera's <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
@@ -13697,6 +13717,7 @@ QuestInfoList = {
 	},
 	[7840] = {
 		Title = "Delivery and Collection-Morocc",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For sweets festival, let's deliver chocolate for delivery to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI>of Aldebaran Sweets store."
 		},
@@ -13704,6 +13725,7 @@ QuestInfoList = {
 	},
 	[7841] = {
 		Title = "Sweets Drops Retribution Today!",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"As long as Sweets Drops exists in the world, the fight against sweets festival members will not end. <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>asks to kill 10 Sweets Drops."
 		},
@@ -13711,6 +13733,7 @@ QuestInfoList = {
 	},
 	[7842] = {
 		Title = "Sweets Drops Retribution-Waiting",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"After the waiting time ends, the event quest can be repeated through Prontera's <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."
 		},
