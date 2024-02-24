@@ -4199,10 +4199,10 @@ QuestInfoList = {
 		Summary = "20 Stolen Cocoa Beans"
 	},
 	[3314] = {
-		Title = "Delivery and Collection-Fronterra",
+		Title = "Delivery and Collection-Prontera",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI> at the Frontera Sweets Shop."
+			"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI> at the Prontera Sweets Shop."
 		},
 		Summary = "Chocolatete delivery to Mimi"
 	},
@@ -13719,7 +13719,7 @@ QuestInfoList = {
 		Title = "Delivery and Collection-Morocc",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"For sweets festival, let's deliver chocolate for delivery to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI>of Aldebaran Sweets store."
+			"For the Sweets Festival, deliver chocolates to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI> at the Morocc Sweets Shop."
 		},
 		Summary = "Chocolate delivery to Amandio"
 	},
