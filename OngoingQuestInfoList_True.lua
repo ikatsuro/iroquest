@@ -48881,4 +48881,275 @@ QuestInfoList = {
 		},
 		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
 	}
+	[12470] = {
+		Title = "[Daily] Andrea's Revenge I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tAndrea is mortally wounded by a scythe wielded by a small creature. He wants you to punish upon this small creature that caused his death.\n\t\t\t\n\t\t\t^ff0000\"Don't be fooled by its cute appearance. It's worse than the devil.\"^000000\n\t\t\t\n\t\t\tI guess I'll have to check to see if it's really cute though.\n\t\t"
+		},
+		Summary = "Defeat Chaotic Baphomet Jr.",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[12471] = {
+		Title = "[Daily] Andrea's Revenge II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tAfter suffering a fatal injury, Andrea tried to heal with his own spiritual power, but he was overpowered by this chaotic entities.\n\t\t\t\n\t\t\t^ff0000\"It's probably the soul of an adventurer who died long before me. What else?\"^000000\n\t\t\t\n\t\t\tIt is unknown whether Andrea was such a hot blooded acolyte even when he was alive.\n\t\t"
+		},
+		Summary = "Defeat Chaotic Ghostring",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[12472] = {
+		Title = "[Daily] Anes' Revenge I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tThis fast and vicious insect dealt a decisive blow to Anes. She believes that all winged insects should be eradicated from the world.\n\t\t\t\n\t\t\t^ff0099\"Don't let down your guard just because it looks like a fly. Because their prey includes 'living' people...\"^000000\n\t\t\t\n\t\t\tIt seems that there are no good memories between her and this insect.\n\t\t"
+		},
+		Summary = "Defeat Chaotic Hunter Fly",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[12473] = {
+		Title = "[Daily] Anes' Revenge II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tAs she lost her way, she was attacked by this cruel predator that jumped out of the bushes.\n\t\t\tUnfortunately, it happened just as she was about to take a bite of the sandwich she had made since dawn for her expedition.\n\t\t\t\n\t\t\t^ff0099\"When you find that damn thing, take off all its legs and throw it in the mud.\"^000000\n\n\t\t\t\n\t\t\tIf anyone disturbs her meal time, it will be a big problem.\n\t\t"
+		},
+		Summary = "Defeat Chaotic Killer Mantis",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25271,
+				ItemNum = 1
+			}
+		}
+	},
+	[12474] = {
+		Title = "[Daily] Silvano's Revenge I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tSilvano clearly remembers who attacked him and left him in a near-death state.\n\t\t\tThe enemy in his memory looked similar to the monster that attacked Anes, but it clearly had different characteristics.\n\t\t\t\n\t\t\t^ff0077\"What did Agnes want? Right, exterminate them all.\"^000000\n\t\t"
+		},
+		Summary = "Defeat Chaotic Mantis",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25781,
+				ItemNum = 1
+			}
+		}
+	},
+	[12475] = {
+		Title = "[Daily] Silvano's Revenge II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tSilvano, who was in a near-death state, did not even have time to chant a recovery spell, so he tried to use potions.\n\t\t\tBut all the potions in his inventory had been swallowed by this mushy monster.\n\t\t\t\n\t\t\t^ff0077\"I just hope that no other adventurer suffers the same fate.\"^000000\n\t\t\t\n\t\t\tIt will be up to the next adventurer to grant his small wish.\n\t\t"
+		},
+		Summary = "Defeat Chaotic Poporing",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25782,
+				ItemNum = 1
+			}
+		}
+	},
+	[12476] = {
+		Title = "[Daily] Cecilia's Revenge I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\t^0000ff\"Watch out for that snake, it's much fiercer than it looks. The moment you look away, it will attack.\"^000000\n\t\t\t\n\t\t\tCecilia was momentarily exhausted and was bitten by this monster where she was sitting.\n\t\t\tShe became unable to move due to the paralyzing poison that quickly spread through her body.\n\t\t\t\n\t\t\t^0000ff\"If you want to take a break in the labyrinth, I won't stop you. But if I were alive, I would avoid that...\"^000000\n\t\t"
+		},
+		Summary = "Defeat Chaotic Side Winder",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25783,
+				ItemNum = 1
+			}
+		}
+	},
+	[12477] = {
+		Title = "[Daily] Cecilia's Revenge II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tShe was in a situation where she couldn't move due to paralyzing poison, and she suffered a wound from this spiky monster.\n\t\t\t\n\t\t\t^0000ff\"Do you know the feeling of not being able to move due to paralyze? It's all because of that damn skewered monster!!\"^000000\n\t\t\t\n\t\t\tHer anger is understandable.\n\t\t"
+		},
+		Summary = "Defeat Chaotic Stem Worm",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
+		RewardItemList = {
+			{
+				ItemID = 25784,
+				ItemNum = 1
+			}
+		}
+	},
+	[12478] = {
+		Title = "[Weekly] Soul Purification - Andrea",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+		},
+		Summary = "Defeat Chaotic Andrea",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
+		RewardItemList = {
+			{
+				ItemID = 25781,
+				ItemNum = 3
+			}
+		}
+	},
+	[12479] = {
+		Title = "[Weekly] Soul Purification - Anes",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+		},
+		Summary = "Defeat Chaotic Anes",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
+		RewardItemList = {
+			{
+				ItemID = 25782,
+				ItemNum = 3
+			}
+		}
+	},
+	[12480] = {
+		Title = "[Weekly] Soul Purification - Silvano",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+		},
+		Summary = "Defeat Chaotic Silvano",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
+		RewardItemList = {
+			{
+				ItemID = 25783,
+				ItemNum = 3
+			}
+		}
+	},
+	[12481] = {
+		Title = "[Weekly] Soul Purification - Cecilia",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+		},
+		Summary = "Defeat Chaotic Cecilia",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
+		RewardItemList = {
+			{
+				ItemID = 25784,
+				ItemNum = 3
+			}
+		}
+	},
+	[12482] = {
+		Title = "Disappearance of a Colleague",
+		Description = {
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> around Prontera Cathedral.\n\t\t\t\n\t\t\tAt Irene's request, you must inform Esmeralda, the guild leader about the situation of missing guild members.\n\t\t"
+		},
+		Summary = "Talk to Esmeralda about the situation"
+	},
+	[12483] = {
+		Title = "Follow Up",
+		Description = {
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tI relayed the news to the Priest guild leader, but I'm curious about the next action.\n\t\t\tLet's follow Esmeralda into the labyrinth and see what happened next.\n\t\t"
+		},
+		Summary = "Talk to Esmeralda inside the Labyrinth"
+	},
+	[12484] = {
+		Title = "Searching for Traces - Andrea",
+		Description = {
+			"\t\t\tYou must find traces of Andrea who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+		},
+		Summary = "Find Andrea"
+	},
+	[12485] = {
+		Title = "Searching for Traces - Anes",
+		Description = {
+			"\t\t\tYou must find traces of Anes who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+		},
+		Summary = "Find Anes"
+	},
+	[12486] = {
+		Title = "Searching for Traces - Silvano",
+		Description = {
+			"\t\t\tYou must find traces of Silvano who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+		},
+		Summary = "Find Silvano"
+	},
+	[12487] = {
+		Title = "Searching for Traces - Cecilia",
+		Description = {
+			"\t\t\tYou must find traces of Cecilia who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+		},
+		Summary = "Find Cecilia"
+	},
+	[12488] = {
+		Title = "Search Result",
+		Description = {
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tWe have found all traces of the four missing acolytes. Let's meet Esmeralda and gives her the search result.\n\t\t"
+		},
+		Summary = "Report what you found to Esmeralda"
+	},
+	[12489] = {
+		Title = "Guest Guild Member",
+		Description = {
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tLet¡¯s meet the acolytes who have been revived as souls and work as guest guild members.\n\t\t"
+		},
+		Summary = "Join as Guest Member of the Guild"
+	},
+	[12490] = {
+		Title = "[Cooldown] Daily Mission",
+		Description = {
+			"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tAs the guest member of Prontera Priest guild, I have received all daily quests. These missions can be accepted ^ff0000every day at 4 AM^000000 and cannot be received multiple times.\n\t\t"
+		},
+		Summary = "Reset at 4 AM the next day",
+		CoolTimeQuest = 1
+	},
+	[12491] = {
+		Title = "[Cooldown] Weekly Mission",
+		Description = {
+			"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tAs the guest member of Prontera Priest guild, I have received the weekly quest. This mission can be accepted ^ff0000every Saturday at 4 AM^000000 and cannot be received multiple times.\n\t\t"
+		},
+		Summary = "Reset every Saturday at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12492] = {
+		Title = "Esmeralda",
+		Description = {
+			"\t\t\tTalk to Esmeralda to find out her story.\n\t\t"
+		},
+		Summary = "Talk to Esmeralda"
+	}
 }
