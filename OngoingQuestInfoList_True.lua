@@ -48880,7 +48880,7 @@ QuestInfoList = {
 			"ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
 		},
 		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
-	}
+	},
 	[12470] = {
 		Title = "[Daily] Andrea's Revenge I",
 		IconName = "ico_dq.bmp",
