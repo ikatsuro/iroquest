@@ -7080,7 +7080,8 @@ QuestInfoList = {
 		Description = {
 			"Start a journey using a Memory Record. This journey is possible up to 22 hours."
 		},
-		Summary = "Time limit 22 hours"
+		Summary = "Time limit 22 hours",
+		CoolTimeQuest = 1
 	},
 	[5342] = {
 		Title = "Help Her",
@@ -26508,7 +26509,7 @@ QuestInfoList = {
 		Description = { "Look for team members" },
 		Summary = ""
 	},
-	[13199] = { Title = "Krotzel's Request - Complete", Description = { "" }, Summary = "" },
+	[13199] = { Title = "Krotzel's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13200] = {
 		Title = "Monthly Brigan : Rookie's Request",
 		Description = { "Defeat surrounding Monsters" },
@@ -26528,7 +26529,7 @@ QuestInfoList = {
 		Summary = "",
 		CoolTimeQuest = 1
 	},
-	[13205] = { Title = "Grylls' Request - Complete", Description = { "" }, Summary = "" },
+	[13205] = { Title = "Grylls' Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[14118] = {
 		Title = "Wuhari's concern",
 		Description = {
@@ -42846,7 +42847,7 @@ QuestInfoList = {
 		Description = { "Speak to Ingrid again to conclude your adventure." },
 		Summary = ""
 	},
-	[63039] = { Title = "VIP Token Timer", Description = { "You can only get 10 tokens per day." }, Summary = "VIP Token of Siegfried" },
+	[63039] = { Title = "VIP Token Timer", Description = { "You can only get 10 tokens per day." }, Summary = "VIP Token of Siegfried", CoolTimeQuest = 1 },
 	[63040] = {
 		Title = "Pub Crawler",
 		Description = { "You have introduced yourself to the first Prontera Brewmaster." },
@@ -49151,5 +49152,28 @@ QuestInfoList = {
 			"\t\t\tTalk to Esmeralda to find out her story.\n\t\t"
 		},
 		Summary = "Talk to Esmeralda"
+	},
+	[297029] = {
+		Title = "Easter Egg Hunt",
+		Description = {
+			" Let's find 5 easter eggs. It is probably somewhere in lasagna field."
+		},
+		Summary = "Talk to Eggministrator"
+	},
+	[297030] = {
+		Title = "Easter Egg Hunt Complete",
+		Description = {
+			" Found all easter eggs. Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna."
+		},
+		Summary = "Talk to Eggministrator"
+	},
+	[297031] = {
+		Title = "[Cooldown] Easter Egg Hunt",
+		Description = {
+			"Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna.",
+			"Joined Easter Egg Hunt already. Try again after ^ff000020 hours^000000 to join the Egg Hunt."
+		},
+		Summary = "Reset every 20 hours",
+		CoolTimeQuest = 1
 	}
 }
