@@ -48882,6 +48882,196 @@ QuestInfoList = {
 		},
 		Summary = "ÀüÁ÷¸ÞÀÏ¾Ë¸²¿ë"
 	},
+	[8860] = {
+		Title = "Dr. Eggman's Secret Base",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"A sudden encounter with Sonic and Tails in the library leads you to adventure together to the depths of Dr. Eggman's Secret Base.",
+			"Will you be able to defeat this evil genius plan that may bring destruction to Rune Midgard and retrieve the stolen Chaos Emeralds?"
+		},
+		Summary = "Defeat Dr. Eggman"
+	},
+	[8861] = {
+		Title = "[Cooldown] Dr. Eggman's Secret Base",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"This quest can be played daily.",
+			"Once the cooldown expires, you can replay the quest by reading the <NAVI>[Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI> in the Prontera Library.",
+			"For Dr. Eggman's Secret Base, once a day, you can give <ITEM>[Sonic Badge]<INFO>1001549</INFO></ITEM> to <NAVI>[Tails]<INFO>prt_in,167,91,0,101,0</INFO></NAVI> to give an additional attempt to read the <NAVI>[Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8862] = {
+		Title = "Kidnapped Monsters",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Rescue the trapped monster in Dr. Eggman's Base."
+		},
+		Summary = "Rescue the trapped monster"
+	},
+	[8863] = {
+		Title = "Inside Eggman's Base",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Although I don't know what danger awaits me, I decided to explore the base with Sonic and Tails."
+		},
+		Summary = "Explore the Base"
+	},
+	[8864] = {
+		Title = "Mysterious Chao",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"These mysterious beings are called Chao. Let's try to talk to them."
+		},
+		Summary = "Talk to Chao"
+	},
+	[8865] = {
+		Title = "Mysterious Chao",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"These mysterious beings are called Chao. Let's try to talk to them."
+		},
+		Summary = "Talk to Chao"
+	},
+	[8866] = {
+		Title = "Mysterious Chao",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"These mysterious beings are called Chao. Let's try to talk to them."
+		},
+		Summary = "Talk to Chao"
+	},
+	[8867] = {
+		Title = "Mysterious Chao",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"These mysterious beings are called Chao. Let's try to talk to them."
+		},
+		Summary = "Talk to Chao"
+	},
+	[8868] = {
+		Title = "Mysterious Chao",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"These mysterious beings are called Chao. Let's try to talk to them."
+		},
+		Summary = "Talk to Chao"
+	},
+	[8869] = {
+		Title = "Chao's Condition",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The Chao seem to be okay. Let's talk to Sonic."
+		},
+		Summary = "Talk to Sonic"
+	},
+	[8870] = {
+		Title = "The End of an Adventure",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Your adventure with Sonic, Tails, and Knuckles will be unforgettable!",
+			"But... I feel <NAVI>[Someone]<INFO>prt_in,178,97,0,101,0</INFO></NAVI> is calling for me."
+		},
+		Summary = "Talk to the Librarian"
+	},
+	[8871] = {
+		Title = "New Book",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"It looks like there's a <NAVI>[New Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI> placed in the East Library of Prontera for a limited time."
+		},
+		Summary = "Find Sonic"
+	},
+	[8872] = {
+		Title = "Lurking Shadow",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"If Eggman has been using a brainwash device on the kidnapped monsters, we can just destroy the device to save them.",
+			"But what if there's something else besides those brainwashed monsters...?"
+		},
+		Summary = "Explore further"
+	},
+	[8873] = {
+		Title = "Metal Sonic Showdown!",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Metal Sonic, who blocks the path ahead, is targeting the adventurer for some reason.",
+			"Let's defeat Metal Sonic and move on to the next area!"
+		},
+		Summary = "Defeat Metal Sonic"
+	},
+	[8874] = {
+		Title = "Down the Rabbit Hole",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You have successfully defeated the Metal Sonic, but the secret of this base is still unknown.",
+			"What kind of obstruction awaits you next in your path ahead...?"
+		},
+		Summary = "Explore further"
+	},
+	[8875] = {
+		Title = "Knuckles Showdown!",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Didn't Sonic say earlier that Knuckles was his friend?",
+			"Anyway, it seems you need to defeat him to proceed deeper into the base."
+		},
+		Summary = "Defeat Knuckles"
+	},
+	[8876] = {
+		Title = "Unexpected Encounter",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You have successfully convinced Knuckles 'physically'. He decided to free the other trapped monsters within the base.",
+			"It's time to move to the next area of the secret base."
+		},
+		Summary = "Explore further"
+	},
+	[8877] = {
+		Title = "The Evil Genius",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After checking out Chao's condition, you, Sonic, and Tails found another passage within the base.",
+			"Your intuition tells you that the mastermind behind this is waiting for you ahead."
+		},
+		Summary = "Explore further"
+	},
+	[8878] = {
+		Title = "Dr. Eggman Showdown!",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Dr. Eggman revealed his plan to use the brainwash device on you, the adventurer of another world.",
+			"The confrontation with the evil genius is inevitable. Let's defeat him and retrieve the stolen Chaos Emeralds!"
+		},
+		Summary = "Defeat Dr. Eggman"
+	},
+	[8879] = {
+		Title = "Eggman's Strategic Retreat",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After a few clashes with Sonic, Tails, and the adventurer, Dr. Eggman made a strategic retreat to prepare for another attack.",
+			"Let's pursue him, and don't let him escape with the Chaos Emeralds!"
+		},
+		Summary = "Pursue Dr. Eggman"
+	},
+	[8880] = {
+		Title = "Eggman's Final Showdown!",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Dr. Eggman unleashed his final trump card. It's time to finish the job once and for all."
+		},
+		Summary = "Defeat Dr. Eggman"
+	},
+	[8881] = {
+		Title = "[Cooldown] Additional Book Attempt ",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Once the cooldown expires, you can replay the quest by reading the <NAVI>[Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI> in the Prontera Library."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
 	[12470] = {
 		Title = "[Daily] Andrea's Revenge I",
 		IconName = "ico_dq.bmp",
