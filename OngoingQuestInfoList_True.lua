@@ -28643,28 +28643,32 @@ QuestInfoList = {
 		Description = {
 			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "The Cool Down"
+		Summary = "The Cool Down",
+		CoolTimeQuest = 1
 	},
 	[14685] = {
 		Title = "Mysterious Device",
 		Description = {
 			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "The Cool Down"
+		Summary = "The Cool Down",
+		CoolTimeQuest = 1
 	},
 	[14686] = {
 		Title = "Mysterious Device",
 		Description = {
 			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "The Cool Down"
+		Summary = "The Cool Down",
+		CoolTimeQuest = 1
 	},
 	[14687] = {
 		Title = "Mysterious Device",
 		Description = {
 			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "The Cool Down"
+		Summary = "The Cool Down",
+		CoolTimeQuest = 1
 	},[14688] = {
 		Title = "My name is Shorty",
 		IconName = "ico_gq.bmp",
