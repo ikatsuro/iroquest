@@ -26519,15 +26519,13 @@ QuestInfoList = {
 	[13202] = {
 		Title = "Monthly Brigan : Photo Journalist's Request",
 		Description = { "Take care of surrounding Monsters" },
-		Summary = "",
-		CoolTimeQuest = 1
+		Summary = ""
 	},
 	[13203] = { Title = "Photo Journalist's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13204] = {
 		Title = "Monthly Brigan : Grylls' Request",
 		Description = { "Obtain 30 Metal bugs" },
-		Summary = "",
-		CoolTimeQuest = 1
+		Summary = ""
 	},
 	[13205] = { Title = "Grylls' Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[14118] = {
