@@ -48063,6 +48063,7 @@ QuestInfoList = {
 	},
 	[12493] = {
 		Title = "Aftermath of the challenge",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."
 		},
@@ -48390,7 +48391,8 @@ QuestInfoList = {
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
-		NpcPosY = 255
+		NpcPosY = 255,
+		CoolTimeQuest = 1
 	},
 	[16461] = {
 		Title = "Tomb of Remorse",
