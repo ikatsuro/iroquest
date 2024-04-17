@@ -5038,212 +5038,378 @@ QuestInfoList = {
 	[4167] = {
 		Title = "Dragon Tail Hunting",
 		Description = {
-			"Hunt 30 Dragon Tail monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Dragon Tail <INFO>DRAGON_TAIL,0,0,3,-222,0</INFO></NAVI>monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "76000",
 	},
 	[4168] = {
 		Title = "Spring Rabbit Hunting",
 		Description = {
-			"Hunt 30 Spring Rabbit monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Spring Rabbit <INFO>SPRING_RABBIT,0,0,3,-222,0</INFO></NAVI>monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "82000",
 	},
 	[4169] = {
 		Title = "Pest Hunting",
 		Description = {
-			"Hunt 30 Pest monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Pest <INFO>PEST,0,0,3,-222,0</INFO></NAVI> monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "82000",
 	},
 	[4170] = {
 		Title = "Bathory Hunting",
 		Description = {
-			"Hunt 30 Bathory monsters at Clock Tower and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Bathory <INFO>BATHORY,0,0,3,-222,0</INFO></NAVI> monsters at Clock Tower and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "72000",
 	},
 	[4171] = {
 		Title = "Alarm Hunting",
 		Description = {
-			"Hunt 30 Alarm monsters at Clock Tower and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Alarm <INFO>ALARM,0,0,3,-222,0</INFO></NAVI> monsters at Clock Tower and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "76000",
 	},
 	[4172] = {
 		Title = "Baba Yaga Hunting",
 		Description = {
-			"Hunt 30 Baba Yaga monsters at Moscovia and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Baba Yaga <INFO>VAVAYAGA,0,0,3,-222,0</INFO></NAVI> monsters at Moscovia and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "72000",
 	},
 	[4173] = {
 		Title = "Yao Jun Hunting",
 		Description = {
-			"Hunt 30 Yao Jun monsters at Louyang and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Yao Jun <INFO>HYEGUN,0,0,3,-222,0</INFO></NAVI> monsters at Louyang and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "117000",
 	},
 	[4174] = {
 		Title = "Firelock Soldier Hunting",
 		Description = {
-			"Hunt 30 Firelock Soldier monsters at Amatsu and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Firelock Soldier <INFO>ANTIQUE_FIRELOCK,0,0,3,-222,0</INFO></NAVI> monsters at Amatsu and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "82000",
 	},
 	[4175] = {
 		Title = "Zipper Bear Hunting",
 		Description = {
-			"Hunt 30 Zipper Bear monsters at Kunlun and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Zipper Bear <INFO>ZIPPER_BEAR,0,0,3,-222,0</INFO></NAVI> monsters at Kunlun and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "120000",
 	},
 	[4176] = {
 		Title = "Ground Petite Hunting",
 		Description = {
-			"Hunt 30 Ground Petite monsters around Geffen and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Ground Petite <INFO>PETIT,0,0,3,-222,0</INFO></NAVI> monsters around Geffen and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "72000",
 	},
 	[4177] = {
 		Title = "Rafflesia Hunting",
 		Description = {
-			"Hunt 30 Rafflesia monsters around Lighthalzen and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Rafflesia <INFO>RAFFLESIA,0,0,3,-222,0</INFO></NAVI> monsters around Lighthalzen and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "72000",
 	},
 	[4178] = {
 		Title = "Venomous Hunting",
 		Description = {
-			"Hunt 30 Venomous monsters around Einbroch and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Venomous <INFO>VENOMOUS,0,0,3,-222,0</INFO></NAVI> monsters around Einbroch and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "72000",
 	},
 	[4179] = {
 		Title = "Pitman Hunting",
 		Description = {
-			"Hunt 30 Pitman monsters around Einbroch and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Pitman <INFO>PITMAN,0,0,3,-222,0</INFO></NAVI> monsters around Einbroch and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "86000",
 	},
 	[4180] = {
 		Title = "Yellow Novus Hunting",
 		Description = {
-			"Hunt 30 Yellow Novus monsters around Einbroch and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Yellow Novus <INFO>NOVUS_,0,0,3,-222,0</INFO></NAVI> monsters around Einbroch and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 175,
+		RewardEXP = "80000",
 	},
 	[4181] = {
 		Title = "Solider Hunting",
 		Description = {
-			"Hunt 30 Solider monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Solider <INFO>SOLIDER,0,0,3,-222,0</INFO></NAVI> monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "90000",
+		RewardJEXP = "311000"
 	},
 	[4182] = {
 		Title = "Freezer Hunting",
 		Description = {
-			"Hunt 30 Freezer monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Freezer <INFO>FREEZER,0,0,3,-222,0</INFO></NAVI> monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "94000",
+		RewardJEXP = "311000"
 	},
 	[4183] = {
 		Title = "Heater Hunting",
 		Description = {
-			"Hunt 30 Heater monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Heater <INFO>HEATER,0,0,3,-222,0</INFO></NAVI> monsters at Turtle Island and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "114000",
+		RewardJEXP = "311000"
 	},
 	[4184] = {
 		Title = "Injustice Hunting",
 		Description = {
-			"Hunt 30 Injustice monsters at Glast Heim and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Injustice <INFO>INJUSTICE,0,0,3,-222,0</INFO></NAVI> monsters at Glast Heim and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "96000",
+		RewardJEXP = "311000"
 	},
 	[4185] = {
 		Title = "Rybio Hunting",
 		Description = {
-			"Hunt 30 Rybio monsters at Glast Heim and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Rybio <INFO>RYBIO,0,0,3,-222,0</INFO></NAVI> monsters at Glast Heim and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "96000",
+		RewardJEXP = "311000"
 	},
 	[4186] = {
 		Title = "Dark Priest Hunting",
 		Description = {
-			"Hunt 30 Dark Priest monsters at Glast Heim and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Dark Priest <INFO>DARK_PRIEST,0,0,3,-222,0</INFO></NAVI> monsters at Glast Heim and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "146000",
+		RewardJEXP = "311000"
 	},
 	[4187] = {
 		Title = "Stapo Hunting",
 		Description = {
-			"Hunt 30 Stapo monsters at Veins and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Stapo <INFO>STAPO,0,0,3,-222,0</INFO></NAVI> monsters at Veins and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "96000",
+		RewardJEXP = "311000"
 	},
 	[4188] = {
 		Title = "Roween Hunting",
 		Description = {
-			"Hunt 30 Roween monsters at Rachel and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Roween <INFO>ROWEEN,0,0,3,-222,0</INFO></NAVI> monsters at Rachel and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "102000",
+		RewardJEXP = "311000"
 	},
 	[4189] = {
 		Title = "Siroma Hunting",
 		Description = {
-			"Hunt 30 Siroma monsters at Ice Dungeon and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Siroma <INFO>SIROMA,0,0,3,-222,0</INFO></NAVI> monsters at Ice Dungeon and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "110000",
+		RewardJEXP = "311000"
 	},
 	[4190] = {
 		Title = "Shinobi Hunting",
 		Description = {
-			"Hunt 30 Shinobi monsters at Amatsu and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Shinobi <INFO>SHINOBI,0,0,3,-222,0</INFO></NAVI> monsters at Amatsu and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "102000",
+		RewardJEXP = "311000"
 	},
 	[4191] = {
 		Title = "Evil Nymph Hunting",
 		Description = {
-			"Hunt 30 Evil Nymph monsters at Kunlun and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Evil Nymp <INFO>WICKED_NYMPH,0,0,3,-222,0</INFO></NAVI> monsters at Kunlun and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "108000",
+		RewardJEXP = "311000"
 	},
 	[4192] = {
 		Title = "Deviruchi Hunting",
 		Description = {
-			"Hunt 30 Deviruchi monsters at Geffen Dungeon and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Deviruchi <INFO>DEVIRUCHI,0,0,3,-222,0</INFO></NAVI> monsters at Geffen Dungeon and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "110000",
+		RewardJEXP = "311000"
 	},
 	[4193] = {
 		Title = "Mineral Hunting",
 		Description = {
-			"Hunt 30 Mineral monsters at Geffen Dungeon and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Mineral <INFO>MINERAL,0,0,3,-222,0</INFO></NAVI> monsters at Geffen Dungeon and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "138000",
+		RewardJEXP = "311000"
 	},
 	[4194] = {
 		Title = "Kaho Hunting",
 		Description = {
-			"Hunt 30 Kaho monsters at Thor Volcano and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Kaho <INFO>KAHO,0,0,3,-222,0</INFO></NAVI> monsters at Thor Volcano and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "118000",
+		RewardJEXP = "311000"
 	},
 	[4195] = {
 		Title = "Neraid Hunting",
 		Description = {
-			"Hunt 30 Neraid monsters at Comodo Dungeon and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Neraid <INFO>NERAID,0,0,3,-222,0</INFO></NAVI> monsters at Comodo Dungeon and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "96000",
+		RewardJEXP = "311000"
 	},
 	[4196] = {
 		Title = "Disguise Hunting",
 		Description = {
-			"Hunt 30 Disguise monsters at Nifflheim and return to the second floor of the Eden Group Headquarters."
+			"Hunt 30 <NAVI>Disguise <INFO>DISGUISE,0,0,3,-222,0</INFO></NAVI> monsters at Nifflheim and return to the second floor of the Eden Group Headquarters."
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_board3",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 44,
+		NpcPosY = 177,
+		RewardEXP = "134000",
+		RewardJEXP = "311000"
 	},
 	[4197] = {
 		Title = "Octopus",
