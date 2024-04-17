@@ -5419,152 +5419,182 @@ QuestInfoList = {
 	[4198] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Dragon Tail Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4199] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Spring Rabbit Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4200] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Pest Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4201] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Bathory Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4202] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Alarm Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4203] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Baba Yaga Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4204] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Yao Jun Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4205] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Firelock Soldier Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4206] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Zipper Bear Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4207] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Ground Petite Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4208] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Rafflesia Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4209] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Venomous Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4210] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Pitman Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4211] = {
 		Title = "86-90 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Yellow Novus Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4212] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Solider Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4213] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Freezer Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4214] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Heater Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4215] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Injustice Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4216] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Rybio Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4217] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Dark Priest Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4218] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Stapo Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4219] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Roween Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4220] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Siroma Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4221] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Shinobi Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4222] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Evil Nymph Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4223] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Deviruchi Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4224] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Mineral Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4225] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Kaho Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4226] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Neraid Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4227] = {
 		Title = "91-99 Mission Board Timer",
 		Description = { "You must wait 3 hours before re-taking the Disguise Hunting Quest." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[4229] = {
 		Title = "Devil in the Cave",
