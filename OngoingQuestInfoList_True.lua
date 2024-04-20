@@ -4093,66 +4093,126 @@ QuestInfoList = {
 	},
 	[3250] = {
 		Title = "What is this Bandage?",
-		Description = { "Hunt ^0000FF30 Mummies^000000 and collect 0000FF20 Rotten Bandage^000000s" },
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Description = { "Hunt <NAVI>^0000FF30 Mummies^000000 <INFO>MUMMY,0,0,3,-222,0</INFO></NAVI> and collect <ITEM>0000FF20 Rotten Bandages^000000<INFO>930</INFO></NAVI>" },
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "15000",
+		RewardJEXP = "5000"
 	},
 	[3251] = {
 		Title = "Dangerous Alligators",
 		Description = {
-			"Hunt the Alligators that have been attacking people near the beach. Hunt 30 ^0000FFAlligator^000000s"
+			"Hunt the Alligators that have been attacking people near the beach. Hunt 30 <NAVI>^0000FFAlligator^000000 <INFO>ALLIGATOR,0,0,3,-222,0</INFO></NAVI>"
 		},
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "16000",
+		RewardJEXP = "6000"
 	},
 	[3252] = {
 		Title = "That wasn't a mermaid...",
-		Description = { "A request from an unknown client. Hunt 30 Merman in the Byalan dungeon." },
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Description = { "A request from an unknown client. Hunt 30 <NAVI>Merman <INFO>MERMAN,0,0,3,-222,0</INFO></NAVI>in the Byalan dungeon." },
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "17000",
+		RewardJEXP = "8000"
 	},
 	[3253] = { Title = "My country is calling me!", Description = { "" }, Summary = "" },
 	[3254] = {
 		Title = "My country is calling me!",
-		Description = { "Collect 10 Fine Sand and 30 Grit by hunting Sandman monsters in Morroc." },
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Description = { "Collect 10 <ITEM>Fine Sand <INFO>7043</INFO></ITEM>and 30 <ITEM>Grit <INFO>1056</INFO></ITEM>by hunting <NAVI>Sandman <INFO>SANDMAN,0,0,3,-222,0</INFO></NAVI>monsters in Morroc." },
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "18000",
+		RewardJEXP = "8000"
 	},
 	[3255] = {
 		Title = "Hunt Wild Boar",
-		Description = { "A request from the Payon town hall. Hunt 30 savages to save their crops." },
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Description = { "A request from the Payon town hall. Hunt 30 <NAVI>Savages <INFO>SAVAGE,0,0,3,-222,0</INFO></NAVI>to save their crops." },
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "16000",
+		RewardJEXP = "7000"
 	},
 	[3256] = {
 		Title = "Preparing the Summer",
 		Description = {
-			"A request from Blacksmith Aragham to collect 30 Sticky Webfoots from Thara Frogs."
+			"A request from Blacksmith Aragham to collect 30 <ITEM>Sticky Webfoots <INFO>918</INFO></ITEM>from <NAVI>Thara Frogs <INFO>THARA_FROG,0,0,3,-222,0</INFO></NAVI>."
 		},
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "15000",
+		RewardJEXP = "5000"
 	},
 	[3257] = {
 		Title = "A Woman's Grudge",
 		Description = {
-			"A request from Inventor Dorian from Izlude. Hunt 30 Sohee monsters in Payon Dungeon."
+			"A request from Inventor Dorian from Izlude. Hunt 30 <NAVI>Sohee <INFO>SOHEE,0,0,3,-222,0</INFO></NAVI>monsters in Payon Dungeon."
 		},
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "17000",
+		RewardJEXP = "8000"
 	},
 	[3258] = {
 		Title = "Special Ingredients",
 		Description = {
-			"A request from Wallah from Payon. Collect 40 Huge Leaf to help him make a special medicine."
+			"A request from Wallah from Payon. Collect 40 <ITEM>Huge Leaf <INFO>7198</INFO></ITEM>to help him make a special medicine, you can get it from <NAVI>Leaf Cat <INFO>LEAF_CAT,0,0,3,-222,0</INFO></NAVI> or <NAVI>Pinguicula <INFO>PINGUICULA,0,0,3,-222,0</INFO></NAVI> monsters."
 		},
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "16000",
+		RewardJEXP = "7000"
 	},
 	[3259] = {
 		Title = "Puppet Master's Agony",
 		Description = {
-			"A request from Woonute from Geffen. Hunt 30 Marionettes and collect 30 Golden Hair."
+			"A request from Woonute from Geffen. Hunt 30 <NAVI>Marionettes <INFO>MARIONETTE,0,0,3,-222,0</INFO></NAVI>and collect 30 <ITEM>Golden Hair<INFO>1060</INFO></ITEM>. ^ff0000Warning! This is a high level monster not suited for this level!^000000"
 		},
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "17000",
+		RewardJEXP = "7000"
 	},
 	[3260] = {
 		Title = "Tiresome Flies",
 		Description = {
-			"A request by an exterminator from Prontera. Hunt 30 Hunter Fly monsters in Geffen Tower."
+			"A request by an exterminator from Prontera. Hunt 30 <NAVI>Hunter Fly <INFO>HUNTER_FLY,0,0,3,-222,0</INFO></NAVI>monsters in Geffen Tower."
 		},
-		Summary = "Report back to Sparkle at the Eden Group after the request is done."
+		Summary = "Report back to Sparkle at the Eden Group after the request is done.",
+		NpcSpr = "4_F_CHILD",
+		NpcNavi = "moc_para01",
+		NpcPosX = 43,
+		NpcPosY = 39,
+		RewardEXP = "16000",
+		RewardJEXP = "6000"
 	},
 	[3261] = {
 		Title = "Dangerous Munak",
@@ -19055,154 +19115,242 @@ QuestInfoList = {
 		Description = {
 			"You have accepted a request from the bulletin board in the Eden Group Office. Find Meidi who is near the Western exit of Morroc."
 		},
-		Summary = "Meet the client Meidi in Morroc"
+		Summary = "Meet the client Meidi in Morroc",
+		NpcSpr = "4_F_NOVICE",
+		NpcNavi = "morroc",
+		NpcPosX = 38,
+		NpcPosY = 174
 	},
 	[10103] = {
 		Title = "Ancellia's Request",
 		Description = {
 			"You have accepted a request from the bulletin board in the Eden Group Office. Find Ancellia who is near near the center of Geffen."
 		},
-		Summary = "Meet the client Ancellia in Geffen"
+		Summary = "Meet the client Ancellia in Geffen",
+		NpcSpr = "4_F_KHGIRL",
+		NpcNavi = "geffen",
+		NpcPosX = 146,
+		NpcPosY = 132
 	},
 	[10104] = {
 		Title = "Jeanbai's Request",
 		Description = {
 			"You have accepted a request from the bulletin board in the Eden Group Office. Find Jeanbai who is near the northern entrance of Aldebaran."
 		},
-		Summary = "Meet the client Jeanbai in Aldebaran"
+		Summary = "Meet the client Jeanbai in Aldebaran",
+		NpcSpr = "4_M_HUMERCHANT",
+		NpcNavi = "aldebaran",
+		NpcPosX = 144,
+		NpcPosY = 230
 	},
 	[10105] = {
 		Title = "Lizingshetter's Request",
 		Description = {
 			"You have accepted a request from the bulletin board in the Eden Group Office. Find Lizingshetter who is near the center of Aldebaran."
 		},
-		Summary = "Meet the client Lizingshetter in Aldebaran."
+		Summary = "Meet the client Lizingshetter in Aldebaran.",
+		NpcSpr = "4_M_LGTMAN",
+		NpcNavi = "aldebaran",
+		NpcPosX = 105,
+		NpcPosY = 116
 	},
 	[10106] = {
 		Title = "Funfi's Request",
 		Description = {
 			"You have accepted a request from the bulletin board in the Eden Group Office. Find Funfi who is at the Alberta docks."
 		},
-		Summary = "Meet the client Funfi in Alberta"
+		Summary = "Meet the client Funfi in Alberta",
+		NpcSpr = "4_M_ROGUE",
+		NpcNavi = "alberta",
+		NpcPosX = 215,
+		NpcPosY = 111
 	},
 	[10107] = {
 		Title = "Requiem Hunting",
 		Description = {
-			"Meidi requested that you hunt 10 Requiem monsters in Sphinx Dungeon. Return to her in Morroc when you are done."
+			"Meidi requested that you hunt 10 <NAVI>Requiem <INFO>REQUIEM,0,0,3,-222,0</INFO></NAVI>monsters in Sphinx Dungeon. Return to her in Morroc when you are done."
 		},
-		Summary = "Hunt 10 Requiem."
+		Summary = "Hunt 10 Requiem.",
+		NpcSpr = "4_F_NOVICE",
+		NpcNavi = "morroc",
+		NpcPosX = 38,
+		NpcPosY = 174
 	},
 	[10108] = {
 		Title = "Marduk Hunting",
 		Description = {
-			"Meidi requested that you hunt 10 Marduk monsters in Sphinx Dungeon. Return to her in Morroc when you are done."
+			"Meidi requested that you hunt 10 Marduk <INFO>MARDUK,0,0,3,-222,0</INFO></NAVI>monsters in Sphinx Dungeon. Return to her in Morroc when you are done."
 		},
-		Summary = "Hunt 10 Marduk."
+		Summary = "Hunt 10 Marduk.",
+		NpcSpr = "4_F_NOVICE",
+		NpcNavi = "morroc",
+		NpcPosX = 38,
+		NpcPosY = 174
 	},
 	[10109] = {
 		Title = "Pasana Hunting",
 		Description = {
-			"Meidi requested that you hunt 10 Pasana monsters in Sphinx Dungeon. Return to her in Morroc when you are done."
+			"Meidi requested that you hunt 10 Pasana <INFO>PASANA,0,0,3,-222,0</INFO></NAVI>monsters in Sphinx Dungeon. Return to her in Morroc when you are done."
 		},
-		Summary = "Hunt 10 Pasana."
+		Summary = "Hunt 10 Pasana.",
+		NpcSpr = "4_F_NOVICE",
+		NpcNavi = "morroc",
+		NpcPosX = 38,
+		NpcPosY = 174
 	},
 	[10110] = {
 		Title = "Dark Frame Hunting",
 		Description = {
-			"Ancellia requested that you hunt 10 Dark Frame monsters in Glast Heim. Return to her in Geffen when you are done."
+			"Ancellia requested that you hunt 10 Dark Frame <INFO>DARK_FRAME,0,0,3,-222,0</INFO></NAVI>monsters in Glast Heim. Return to her in Geffen when you are done."
 		},
-		Summary = "Hunt 10 Dark Frame."
+		Summary = "Hunt 10 Dark Frame.",
+		NpcSpr = "4_F_KHGIRL",
+		NpcNavi = "geffen",
+		NpcPosX = 146,
+		NpcPosY = 132
 	},
 	[10111] = {
 		Title = "Evil Druid Hunting",
 		Description = {
-			"Ancellia requested that you hunt 10 Evil Druid monsters in Glast Heim. Return to her in Geffen when you are done."
+			"Ancellia requested that you hunt 10 <NAVI>Evil Druid <INFO>EVIL_DRUID,0,0,3,-222,0</INFO></NAVI>monsters in Glast Heim. Return to her in Geffen when you are done."
 		},
-		Summary = "Hunt 10 Evil Druid."
+		Summary = "Hunt 10 Evil Druid.",
+		NpcSpr = "4_F_KHGIRL",
+		NpcNavi = "geffen",
+		NpcPosX = 146,
+		NpcPosY = 132
 	},
 	[10112] = {
 		Title = "Wraith Hunting",
 		Description = {
-			"Ancellia requested that you hunt 10 Wraith monsters in Glast Heim. Return to her in Geffen when you are done."
+			"Ancellia requested that you hunt 10 <NAVI>Wraith <INFO>WRAITH,0,0,3,-222,0</INFO></NAVI>monsters in Glast Heim. Return to her in Geffen when you are done."
 		},
-		Summary = "Hunt 10 Wraith"
+		Summary = "Hunt 10 Wraith",
+		NpcSpr = "4_F_KHGIRL",
+		NpcNavi = "geffen",
+		NpcPosX = 146,
+		NpcPosY = 132
 	},
 	[10113] = {
 		Title = "Raydric Archer Hunting",
 		Description = {
-			"Ancellia requested that you hunt 10 Raydric Archer monsters in Glast Heim. Return to her in Geffen when you are done."
+			"Ancellia requested that you hunt 10 <NAVI>Raydric Archer <INFO>RAYDRIC_ARCHER,0,0,3,-222,0</INFO></NAVI>monsters in Glast Heim. Return to her in Geffen when you are done."
 		},
-		Summary = "Hunt 10 Raydric Archer."
+		Summary = "Hunt 10 Raydric Archer.",
+		NpcSpr = "4_F_KHGIRL",
+		NpcNavi = "geffen",
+		NpcPosX = 146,
+		NpcPosY = 132
 	},
 	[10114] = {
 		Title = "Grand Peco Hunting",
 		Description = {
-			"Jeanbai requested that you hunt 20 Grand Peco monsters around Kiel Hyre's Academy. Return to him in Aldebaran when you are done."
+			"Jeanbai requested that you hunt 20 <NAVI>Grand Peco <INFO>GRAND_PECO,0,0,3,-222,0</INFO></NAVI>monsters around Kiel Hyre's Academy. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 20 Grand Peco."
+		Summary = "Hunt 20 Grand Peco.",
+		NpcSpr = "4_M_HUMERCHANT",
+		NpcNavi = "aldebaran",
+		NpcPosX = 144,
+		NpcPosY = 230
 	},
 	[10115] = {
 		Title = "Sleeper Hunting",
 		Description = {
-			"Jeanbai requested that you hunt 20 Sleeper monsters around Kiel Hyre's Cottage. Return to him in Aldebaran when you are done."
+			"Jeanbai requested that you hunt 20 <NAVI>Sleeper <INFO>SLEEPER,0,0,3,-222,0</INFO></NAVI>monsters around Kiel Hyre's Cottage. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 20 Sleeper."
+		Summary = "Hunt 20 Sleeper.",
+		NpcSpr = "4_M_HUMERCHANT",
+		NpcNavi = "aldebaran",
+		NpcPosX = 144,
+		NpcPosY = 230
 	},
 	[10116] = {
 		Title = "Goat Hunting",
 		Description = {
-			"Jeanbai requested that you hunt 20 Goat monsters around El Mes Gorge and the area south of it. Return to him in Aldebaran when you are done."
+			"Jeanbai requested that you hunt 20 <NAVI>Goat <INFO>GOAT,0,0,3,-222,0</INFO></NAVI>monsters around El Mes Gorge and the area south of it. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 20 Goat."
+		Summary = "Hunt 20 Goat.",
+		NpcSpr = "4_M_HUMERCHANT",
+		NpcNavi = "aldebaran",
+		NpcPosX = 144,
+		NpcPosY = 230
 	},
 	[10117] = {
 		Title = "Harpy Hunting",
 		Description = {
-			"Jeanbai requested that you hunt 20 Harpy monsters around El Mes Plateau just south of Juno. Return to him in Aldebaran when you are done."
+			"Jeanbai requested that you hunt 20 <NAVI>Harpy <INFO>HARPY,0,0,3,-222,0</INFO></NAVI>monsters around El Mes Plateau just south of Juno. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 20 Harpy"
+		Summary = "Hunt 20 Harpy",
+		NpcSpr = "4_M_HUMERCHANT",
+		NpcNavi = "aldebaran",
+		NpcPosX = 144,
+		NpcPosY = 230
 	},
 	[10118] = {
 		Title = "Clock Hunting",
 		Description = {
-			"Lizingshetter requested that you hunt 15 Clock monsters in Clock Tower. Return to him in Aldebaran when you are done."
+			"Lizingshetter requested that you hunt 15 <NAVI>Clock <INFO>CLOCK,0,0,3,-222,0</INFO></NAVI>monsters in Clock Tower. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 15 Clock."
+		Summary = "Hunt 15 Clock.",
+		NpcSpr = "4_M_LGTMAN",
+		NpcNavi = "aldebaran",
+		NpcPosX = 105,
+		NpcPosY = 116
 	},
 	[10119] = {
 		Title = "Punk Hunting",
 		Description = {
-			"Lizingshetter requested that you hunt 15 Punk monsters in Clock Tower. Return to him in Aldebaran when you are done."
+			"Lizingshetter requested that you hunt 15 <NAVI>Punk <INFO>PUNK,0,0,3,-222,0</INFO></NAVI>monsters in Clock Tower. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 15 Punks"
+		Summary = "Hunt 15 Punks",
+		NpcSpr = "4_M_LGTMAN",
+		NpcNavi = "aldebaran",
+		NpcPosX = 105,
+		NpcPosY = 116
 	},
 	[10120] = {
 		Title = "Rideword Hunting",
 		Description = {
-			"Lizingshetter requested that you hunt 15 Rideword monsters in Clock Tower. Return to him in Aldebaran when you are done."
+			"Lizingshetter requested that you hunt 15 <NAVI>Rideword <INFO>RIDEWORD,0,0,3,-222,0</INFO></NAVI>monsters in Clock Tower. Return to him in Aldebaran when you are done."
 		},
-		Summary = "Hunt 15 Ridewords."
+		Summary = "Hunt 15 Ridewords.",
+		NpcSpr = "4_M_LGTMAN",
+		NpcNavi = "aldebaran",
+		NpcPosX = 105,
+		NpcPosY = 116
 	},
 	[10121] = {
 		Title = "Uzhas Hunting",
 		Description = {
-			"Funfi requested that you hunt 15 Uzhas monsters on Moscovia. Return to him in Alberta when you are done."
+			"Funfi requested that you hunt 15 <NAVI>Uzhas <INFO>UZHAS,0,0,3,-222,0</INFO></NAVI>monsters on Moscovia. Return to him in Alberta when you are done."
 		},
-		Summary = "Hunt 15 Uzhas."
+		Summary = "Hunt 15 Uzhas.",
+		NpcSpr = "4_M_ROGUE",
+		NpcNavi = "alberta",
+		NpcPosX = 215,
+		NpcPosY = 111
 	},
 	[10122] = {
 		Title = "Miyabi Doll Hunting",
 		Description = {
-			"Funfi requested that you hunt 15 Miyabi Doll monsters on Amatsu. Return to him in Alberta when you are done."
+			"Funfi requested that you hunt 15 <NAVI>Miyabi Doll <INFO>MIYABI_NINGYO,0,0,3,-222,0</INFO></NAVI>monsters on Amatsu. Return to him in Alberta when you are done."
 		},
-		Summary = "Hunt 15 Miyabi Dolls"
+		Summary = "Hunt 15 Miyabi Dolls",
+		NpcSpr = "4_M_ROGUE",
+		NpcNavi = "alberta",
+		NpcPosX = 215,
+		NpcPosY = 111
 	},
 	[10123] = {
 		Title = "Mi Gao Hunting",
 		Description = {
-			"Funfi requested that you hunt 15 Mi Gao monsters on Louyang. Return to him in Alberta when you are done."
+			"Funfi requested that you hunt 15 <NAVI>Mi Gao <INFO>INCREASE_SOIL,0,0,3,-222,0</INFO></NAVI>monsters on Louyang. Return to him in Alberta when you are done."
 		},
-		Summary = "Hunt 15 Mi Gaos."
+		Summary = "Hunt 15 Mi Gaos.",
+		NpcSpr = "4_M_ROGUE",
+		NpcNavi = "alberta",
+		NpcPosX = 215,
+		NpcPosY = 111
 	},
 	[11000] = {
 		Title = "Inspection of Odin Shrine",
@@ -23454,114 +23602,194 @@ QuestInfoList = {
 	[12072] = {
 		Title = "Thara Frog Hunting",
 		Description = {
-			"Have you seen a red frog? It is called Thara Frog and it's very rare. We are trying to verify where it inhabits. So please hunt 20 Thara Frogs in the dungeon east of Comodo. Talk to Rakkis at Eden Group for your reward."
+			"Have you seen a red frog? It is called Thara Frog and it's very rare. We are trying to verify where it inhabits. So please hunt 20 <NAVI>Thara Frog <INFO>THARA_FROG,0,0,3,-222,0</INFO></NAVI> in the dungeon east of Comodo. Talk to Rakkis at Eden Group for your reward."
 		},
-		Summary = "Hunt 20 Thara Frogs"
+		Summary = "Hunt 20 Thara Frogs",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "9600"
 	},
 	[12073] = {
 		Title = "Cruiser Hunting",
 		Description = {
-			"I heard  of some toys attacking people. It is ridiculous! Let's show them our power! We have to hunt 15 Cruiser at the Toy Dungeon at Lutie. Talk to Rakkis at Eden Group for your reward."
+			"I heard  of some toys attacking people. It is ridiculous! Let's show them our power! We have to hunt 15 <NAVI>Cruiser <INFO>CRUISER,0,0,3,-222,0</INFO></NAVI>at the Toy Dungeon at Lutie. Talk to Rakkis at Eden Group for your reward."
 		},
-		Summary = "Hunt 15 Cruisers"
+		Summary = "Hunt 15 Cruisers",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "7200"
 	},
 	[12074] = {
 		Title = "Kukre Hunting",
 		Description = {
-			"Someone got robbed near the beach! The possible suspect is a criminal monster called Kukre. Please hunt 30 Kukre at Byalan Dungeon. Talk to Rakkis at Eden Group for your reward."
+			"Someone got robbed near the beach! The possible suspect is a criminal monster called Kukre. Please hunt 30 <NAVI>Kukre <INFO>KUKRE,0,0,3,-222,0</INFO></NAVI>at Byalan Dungeon. Talk to Rakkis at Eden Group for your reward."
 		},
-		Summary = "Hunt 30 Kukre"
+		Summary = "Hunt 30 Kukre",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "15750"
 	},
 	[12075] = {
 		Title = "Orc Baby Hunting",
 		Description = {
-			"Orc Babies are getting more violent these days. Please hunt 15 Orc Babies at the Orc Village in Geffen Field. Talk to Rakkis at Eden Group for your reward."
+			"Orc Babies are getting more violent these days. Please hunt 15 <NAVI>Orc Babies <INFO>ORC_BABY,0,0,3,-222,0</INFO></NAVI> at the Orc Village in Geffen Field. Talk to Rakkis at Eden Group for your reward."
 		},
-		Summary = "Hunt 15 Orc Babies"
+		Summary = "Hunt 15 Orc Babies",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "7875"
 	},
 	[12076] = {
 		Title = "Orc Warrior Hunting",
 		Description = {
-			"Orc Warriors are increasing their aggression. Please hunt 20 Orc Warriors around the Orc Village in Geffen Field. Talk to Rakkis at Eden Group for your reward."
+			"Orc Warriors are increasing their aggression. Please hunt 20 <NAVI>Orc Warriors <INFO>ORK_WARRIOR,0,0,3,-222,0</INFO></NAVI> around the Orc Village in Geffen Field. Talk to Rakkis at Eden Group for your reward."
 		},
-		Summary = "Hunt 20 Orc Warriors"
+		Summary = "Hunt 20 Orc Warriors",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "11100"
 	},
 	[12077] = {
 		Title = "Vadon Hunting",
 		Description = {
-			"Have you seen crabs with thick shells? They are Vadons. Please hunt 15 Vadons at Byalan Dungeon Talk to Rakkis at Eden Group for your reward."
+			"Have you seen crabs with thick shells? They are Vadons. Please hunt 15 <NAVI>Vadons <INFO>VADON,0,0,3,-222,0</INFO></NAVI> at Byalan Dungeon Talk to Rakkis at Eden Group for your reward."
 		},
-		Summary = "Hunt 15 Vadon"
+		Summary = "Hunt 15 Vadon",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "8550"
 	},
 	[12078] = {
 		Title = "Megalodon Hunting",
 		Description = {
-			"Dead fish are all around the beach and it is getting worse. Please hunt 30 Megalodon at the dungeon east of Comodo."
+			"Dead fish are all around the beach and it is getting worse. Please hunt 30 <NAVI>Megalodon <INFO>MEGALODON,0,0,3,-222,0</INFO></NAVI> at the dungeon east of Comodo."
 		},
-		Summary = "Hunt 30 Megalodon"
+		Summary = "Hunt 30 Megalodon",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "17100"
 	},
 	[12079] = {
 		Title = "Marse Hunting",
 		Description = {
-			"Can you hunt Marse? I need 15 Marse for my study. Please help me! They are in Byalan Dungeon."
+			"Can you hunt Marse? I need 15 <NAVI>Marse <INFO>MARSE,0,0,3,-222,0</INFO></NAVI> for my study. Please help me! They are in Byalan Dungeon."
 		},
-		Summary = "Hunt 15 Marse"
+		Summary = "Hunt 15 Marse",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "9000"
 	},
 	[12080] = {
 		Title = "Cornutus Hunting",
 		Description = {
-			"An idiot Cornutus bit the Mayor's foot. The Mayor is upset so we need to hunt 20 Cornutus at Byalan Dungeon to make him happy!"
+			"An idiot Cornutus bit the Mayor's foot. The Mayor is upset so we need to hunt 20 <NAVI>Cornutus <INFO>CORNUTUS,0,0,3,-222,0</INFO></NAVI> at Byalan Dungeon to make him happy!"
 		},
-		Summary = "Hunt 20 Cornutus"
+		Summary = "Hunt 20 Cornutus",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "12300"
 	},
 	[12081] = {
 		Title = "Myst Hunting",
 		Description = {
-			"People are freaking out because of Myst. It looks like a ghost so, it scares people. Please hunt 15 Myst at the Mjolnir Dead Pit."
+			"People are freaking out because of Myst. It looks like a ghost so, it scares people. Please hunt 15 <NAVI>Myst <INFO>MYST,0,0,3,-222,0</INFO></NAVI> at the Mjolnir Dead Pit."
 		},
-		Summary = "Hunt 15 Myst"
+		Summary = "Hunt 15 Myst",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "9900"
 	},
 	[12082] = {
 		Title = "Shellfish Hunting",
 		Description = {
-			"Don't ask why, but please hunt 30 Shellfish. It is a secret mission... you can find them 1 field south of Hugel or around Paros Lighthouse."
+			"Don't ask why, but please hunt 30 <NAVI>Shellfish <INFO>SHELLFISH,0,0,3,-222,0</INFO></NAVI>. It is a secret mission... you can find them 1 field south of Hugel or around Paros Lighthouse."
 		},
-		Summary = "Hunt 30 Shellfish"
+		Summary = "Hunt 30 Shellfish",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "20250"
 	},
 	[12083] = {
 		Title = "Marine Sphere Hunting",
 		Description = {
-			"Marine Sphere? Do you know what a Marine Sphere is? I got a mission for you to hunt 15 Marine Sphere, so please do so at Byalan Dungeon"
+			"Marine Sphere? Do you know what a Marine Sphere is? I got a mission for you to hunt 15 <NAVI>Marine Sphere, <INFO>MARINE_SPHERE,0,0,3,-222,0</INFO></NAVI> so please do so at Byalan Dungeon"
 		},
-		Summary = "Hunt 15 Marine Sphere"
+		Summary = "Hunt 15 Marine Sphere",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "10350"
 	},
 	[12084] = {
 		Title = "Phen Hunting",
 		Description = {
-			"The mayor wants to eat a delicious fish dish. Phen will be the perfect ingredient for it. Please hunt 20 Phen at Byalan Dungeon!"
+			"The mayor wants to eat a delicious fish dish. Phen will be the perfect ingredient for it. Please hunt 20 <NAVI>Phen <INFO>PHEN,0,0,3,-222,0</INFO></NAVI>at Byalan Dungeon!"
 		},
-		Summary = "Hunt 20 Phen"
+		Summary = "Hunt 20 Phen",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "13800"
 	},
 	[12085] = {
 		Title = "Orc Skeleton Hunting",
 		Description = {
-			"Dead Orc monsters got back to our town and they've revived as Orc Skeletons. We are in chaos! Please hunt 15 Orc Skeleton at the second floor of Orc Dungeon."
+			"Dead Orc monsters got back to our town and they've revived as Orc Skeletons. We are in chaos! Please hunt 15 <NAVI>Orc Skeleton <INFO>ORC_SKELETON,0,0,3,-222,0</INFO></NAVI>at the second floor of Orc Dungeon."
 		},
-		Summary = "Hunt 15 Orc Skeletons"
+		Summary = "Hunt 15 Orc Skeletons",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "11025"
 	},
 	[12086] = {
 		Title = "Zenorc Hunting",
 		Description = {
-			"Some weird monsters called Zenorc are attacking us. Please hunt 30 Zenorcs at Orc Dungeon."
+			"Some weird monsters called Zenorc are attacking us. Please hunt 30 <NAVI>Zenorcs <INFO>ZENORC,0,0,3,-222,0</INFO></NAVI>at Orc Dungeon."
 		},
-		Summary = "Hunt 30 Zenorc"
+		Summary = "Hunt 30 Zenorc",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "22500"
 	},
 	[12087] = {
 		Title = "Mummy Hunting",
 		Description = {
-			"Be prepared! It is a cruel mission! Hunt 15 Mummies!! I tried once, but I couldn't succeed. It is too scary in the Pyramid!"
+			"Be prepared! It is a cruel mission! Hunt 15 <NAVI>Mummies!!<INFO>MUMMY,0,0,3,-222,0</INFO></NAVI> I tried once, but I couldn't succeed. It is too scary in the Pyramid!"
 		},
-		Summary = "Hunt 15 Mummies"
+		Summary = "Hunt 15 Mummies",
+		NpcSpr = "BOY4",
+		NpcNavi = "moc_para01",
+		NpcPosX = 41,
+		NpcPosY = 39,
+		RewardEXP = "11250"
 	},
 	[12088] = {
 		Title = "41-55 Request",
