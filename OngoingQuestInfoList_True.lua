@@ -12475,10 +12475,15 @@ QuestInfoList = {
 	},
 	[7577] = {
 		Title = "Space distortion",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Exploring time and space causes your body to be in flux. You need to take a break or you will lose your mind."
 		},
-		Summary = "Wait for the timer before re-entering.",
+		Summary = "Wait for the timer before re-entering Devil's Tower.",
+		NpcSpr = "4_F_NOVICE",
+		NpcNavi = "dali02",
+		NpcPosX = 134,
+		NpcPosY = 119,
 		CoolTimeQuest = 1
 	},
 	[7578] = {
@@ -25494,10 +25499,15 @@ QuestInfoList = {
 	},
 	[12375] = {
 		Title = "Base maintenance",
+		IconName = "ico_sc.bmp",
 		Description = {
-			"The base is under maintenance, only engineers are allowed to enter."
+			"The base is under maintenance, only engineers are allowed to enter Hunter Hunter Base."
 		},
 		Summary = "Reset at 04:00",
+		NpcSpr = "4_F_DEADEVIL",
+		NpcNavi = "ein_fild04",
+		NpcPosX = 281,
+		NpcPosY = 337,
 		CoolTimeQuest = 1
 	},
 	[12376] = {
@@ -28371,8 +28381,13 @@ QuestInfoList = {
 	},
 	[14586] = {
 		Title = "Time to sleep",
+		IconName = "ico_sc.bmp",
 		Description = { "The Pope has not yet fallen asleep. Please come back after dawn." },
 		Summary = "Resets at 04 am",
+		NpcSpr = "4_F_MADAME",
+		NpcNavi = "rachel",
+		NpcPosX = 174,
+		NpcPosY = 138,
 		CoolTimeQuest = 1
 	},
 	[14587] = {
