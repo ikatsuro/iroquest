@@ -3099,12 +3099,14 @@ QuestInfoList = {
 	},
 	[2290] = {
 		Title = "Suspicious Cat: enemies(timer)",
+		IconName = "ico_dq.bmp",
 		Description = { "You can re-accept the quest after the time passes" },
 		Summary = "",
 		CoolTimeQuest=1
 	},
 	[2291] = {
 		Title = "Suspicious Cat: Annoying Fellow(timer)",
+		IconName = "ico_dq.bmp",
 		Description = { "You can re-accept the quest after the time passes" },
 		Summary = "",
 		CoolTimeQuest=1
@@ -7757,6 +7759,7 @@ QuestInfoList = {
 	},
 	[5414] = {
 		Title = "[Stand by]Warrior Discipline",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You can participate in the training of the Richard family again in tomorrow morning."
 		},
@@ -7840,6 +7843,7 @@ QuestInfoList = {
 	},
 	[5426] = {
 		Title = "[Stand by]To My Beloved Fellow",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You have sent the news of the old friend. Why don't you allow him some time to be lost in old memories?"
 		},
@@ -7862,6 +7866,7 @@ QuestInfoList = {
 	},
 	[5429] = {
 		Title = "[Stand by]Lowly Standards",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"The prisoner is infatuated with the red eyes. Why don't you bring more later to calm down the prisoner again?"
 		},
@@ -7891,6 +7896,7 @@ QuestInfoList = {
 	},
 	[5433] = {
 		Title = "[Stand by]Clean Life",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Do you know? It is the time to wait for the fun of making a mess after the joy of cleaning."
 		},
@@ -7920,6 +7926,7 @@ QuestInfoList = {
 	},
 	[5437] = {
 		Title = "[Stand by]Finding Lights",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"He seems to be satisfied with the bright light. Let's bring him once more when the light is about to subside."
 		},
@@ -7940,6 +7947,7 @@ QuestInfoList = {
 	},
 	[5440] = {
 		Title = "[Stand by]Refreshing Prison Life",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Since the prison is a humid place, the Dehumidifiers would run out sooner or later. Bring more when they run out."
 		},
@@ -7963,6 +7971,7 @@ QuestInfoList = {
 	},
 	[5443] = {
 		Title = "[Stand by]Suppressing Darkness",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"The darkness has been calmed down, but it may become unruly again. When the time comes, I may have to bring another flower."
 		},
@@ -7986,6 +7995,7 @@ QuestInfoList = {
 	},
 	[5446] = {
 		Title = "[Stand by]Bothersome Little Thing",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This prisoner who really seems to think of me as a concierge of this prison hotel may call me regularly."
 		},
@@ -8029,6 +8039,7 @@ QuestInfoList = {
 	},
 	[5452] = {
 		Title = "[Stand by]Request from Chief Guard",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You helped the villager of Prontera. For a while, you need to walk around the town working on defeating the undead."
 		},
@@ -10056,6 +10067,7 @@ QuestInfoList = {
 	},
 	[7211] = {
 		Title = "Explore the Foggy Forest",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Explore the Foggy Forest. The foggy forest remembers you so if you try to force re-entry it may reject you."
 		},
@@ -12517,6 +12529,7 @@ QuestInfoList = {
 	},
 	[7582] = {
 		Title = "Daily Cleaning",
+		IconName = "ico_dq.bmp",
 		Description = { "Leave them to other subjugators for now. You deserve a rest." },
 		Summary = "Wait for one day.",
 		CoolTimeQuest = 1
@@ -13067,10 +13080,15 @@ QuestInfoList = {
 	},
 	[7706] = {
 		Title = "Nillem Is Not Almighty",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Multiple connection is a difficult thing even for Nillem. I think there is a certain limit to connect to the Room of Consciousness. Let's wait for Nillem's recovery."
 		},
 		Summary = "Reset at 4 o'clock",
+		NpcSpr = "4_F_BIJOU",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 83,
 		CoolTimeQuest=1
 	},
 	[7711] = {
@@ -16844,6 +16862,7 @@ QuestInfoList = {
 	},
 	[8542] = {
 		Title = "An Empty Thing-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
 		},
@@ -16859,6 +16878,7 @@ QuestInfoList = {
 	},
 	[8544] = {
 		Title = "A Thing with High Freezing Point",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Nillem asks you to defeat 5 Frozen Gargoyles and 5 Prison Breakers, and  allow him to see a change."
 		},
@@ -16866,6 +16886,7 @@ QuestInfoList = {
 	},
 	[8545] = {
 		Title = "A Thing with High Freezing Point-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
 		},
@@ -16888,6 +16909,7 @@ QuestInfoList = {
 	},
 	[8548] = {
 		Title = "A Thing Like A Mirror-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
 		},
@@ -16910,6 +16932,7 @@ QuestInfoList = {
 	},
 	[8551] = {
 		Title = "Abnormally Evolved Deleter-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
@@ -16932,6 +16955,7 @@ QuestInfoList = {
 	},
 	[8554] = {
 		Title = "Defeat Real Nightmare-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
@@ -16952,6 +16976,7 @@ QuestInfoList = {
 	},
 	[8557] = {
 		Title = "Density Verification-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
@@ -16972,6 +16997,7 @@ QuestInfoList = {
 	},
 	[8560] = {
 		Title = "The Small Things That Rustle-Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
 		},
@@ -18370,6 +18396,7 @@ QuestInfoList = {
 	},
 	[9316] = {
 		Title = "Re-exploring the crack of spaces",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"The message of ^8B4513a scholar who is research the crack of spaces ^000000: Please check out about magic competitions at ^0000FFold Geffen of crack^000000"
 		},
@@ -21665,6 +21692,7 @@ QuestInfoList = {
 	},
 	[11422] = {
 		Title = "Complete Today's Sauce",
+		IconName = "ico_dq.bmp",
 		Description = { "You have completed making the sauce for today. Come back again tomorrow." },
 		Summary = "",
 		CoolTimeQuest=1
@@ -21683,6 +21711,7 @@ QuestInfoList = {
 	},
 	[11425] = {
 		Title = "Complete Today's Grilled Griffin",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You have completed making the grilled griffin for today. Come back again tomorrow."
 		},
@@ -21698,6 +21727,7 @@ QuestInfoList = {
 	},
 	[11427] = {
 		Title = "Complete Today's Dish Collecting",
+		IconName = "ico_dq.bmp",
 		Description = { "You have completed collecting the dishes for today. Come back again tomorrow." },
 		Summary = "",
 		CoolTimeQuest=1
@@ -21933,6 +21963,7 @@ QuestInfoList = {
 	},
 	[11466] = {
 		Title = "Dien's High Class Tea",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I've finished the errand. Let's comeback tomorrow."
 		},
@@ -21948,6 +21979,7 @@ QuestInfoList = {
 	},
 	[11468] = {
 		Title = "Ridsh's Old Letter",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I've finished the errand. Let's comeback tomorrow."
 		},
@@ -21963,6 +21995,7 @@ QuestInfoList = {
 	},
 	[11470] = {
 		Title = "Cotness's Shiny Ring",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I've finished the errand. Let's comeback tomorrow."
 		},
@@ -25911,6 +25944,7 @@ QuestInfoList = {
 	},
 	[12496] = {
 		Title = "Flower Garden Access Permission - Pending",
+		IconName = "sc_ico.bmp",
 		Description = {
 			"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."
 		},
@@ -25937,7 +25971,6 @@ QuestInfoList = {
 			"I have to subdue Red Pepper Kappa, one of the 3 restricted zone managers, and steal the administrator permission. He will recover over time, though."
 		},
 		Summary = "Buy time",
-		NpcSpr = "redpepper.spr"
 	},
 	[12500] = {
 		Title = "Subdue Red Pepper - Lambda",
@@ -25946,7 +25979,6 @@ QuestInfoList = {
 			"I have to subdue Red Pepper Lambda, one of the 3 restricted zone managers, and steal the administrator permission. He will recover over time, though."
 		},
 		Summary = "Buy time",
-		NpcSpr = "redpepper.spr"
 	},
 	[12508] = {
 		Title = "Apply for the Dragon's Test",
@@ -28536,6 +28568,7 @@ QuestInfoList = {
 	},
 	[14609] = {
 		Title = "Quiet time",
+		IconName = "ico_dq.bmp",
 		NpcSpr = "4_M_ROOKIE",
 		Description = {
 			"I don't need help from adventurer right now, so let's take a break. - <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
@@ -28958,6 +28991,7 @@ QuestInfoList = {
 	},
 	[14668] = {
 		Title = "Get Some Rest",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"\"Thank you for your hard work. You should get some rest. Please come back after dawn.\" - Nun Gem"
 		},
@@ -28973,6 +29007,7 @@ QuestInfoList = {
 	},
 	[14670] = {
 		Title = "Time for Dreaming",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"\"Adventurer, why don't you go catch some Zs? You can come back after dawn.\" - Antoine"
 		},
@@ -28995,6 +29030,7 @@ QuestInfoList = {
 	},
 	[14673] = {
 		Title = "Time to Make Bombs",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You've brought me enough ingredients to make bombs all night. Come back early in the morning tomorrow. That's the best time to do things. - Demon"
 		},
@@ -29002,6 +29038,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},[14674] = {
 		Title = "Time to Digest",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"\"I'm not hungry yet, but I will be by the next morning. Please come back after dawn.\" - Bomi"
 		},
@@ -29017,6 +29054,7 @@ QuestInfoList = {
 	},
 	[14676] = {
 		Title = "Break Time",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"\"Thanks to you, it's quiet now, but those Matte Drainliars can't keep themselves quiet for too long. Come back later and hunt a few more for me, will you?\" - King"
 		},
@@ -29032,6 +29070,7 @@ QuestInfoList = {
 	},
 	[14678] = {
 		Title = "Time to Study",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"\"These shining spores won't be glowing forever. Please come back later and help me replace them. In the meantime, I'll focus on my studies.\" - Jojo"
 		},
@@ -29047,6 +29086,7 @@ QuestInfoList = {
 	},
 	[14680] = {
 		Title = "Time to Research",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"\"I'm sorry, but I need to focus on my research. Please come back later.\" - Mojo"
 		},
@@ -30206,10 +30246,15 @@ QuestInfoList = {
 	},
 	[15050] = {
 		Title = "Memorial Dungeon: Airship Assault",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Entry to dungeon is prohibited after 23 hours of entry. Entry is possible after the deadline written below."
 		},
 		Summary = "Reentry within 23 hours is not permitted",
+		NpcSpr = "4_M_REINDEER",
+		NpcNavi = "dali02",
+		NpcPosX = 136,
+		NpcPosY = 79,
 		CoolTimeQuest = 1
 	},
 	[15051] = {
@@ -31444,6 +31489,7 @@ QuestInfoList = {
 	},
 	[16217] = {
 		Title = "Rest and Relaxation",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>in the Dimensional Gap to accept the quest."
 		},
@@ -32009,6 +32055,7 @@ QuestInfoList = {
 	},
 	[16365] = {
 		Title = "Help the Farm - Pending",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Farmhand]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> in Cor."
 		},
@@ -32427,19 +32474,19 @@ QuestInfoList = {
 	},
 	[16437] = {
 		Title = "Floating Garden",
-		IconName = "ico_dq.bmp",
+		IconName = "ico_sc.bmp",
 		Description = { "I challenged to Floating Garden Normal mode." },
 		Summary = "Floating Garden Normal Mode"
 	},
 	[16438] = {
 		Title = "Floating Garden Hard Mode",
-		IconName = "ico_dq.bmp",
+		IconName = "ico_sc.bmp",
 		Description = { "I challenged to Floating Garden Hard mode." },
 		Summary = "Floating Garden Hard Mode"
 	},
 	[16439] = {
 		Title = "Floating Garden - Pending",
-		IconName = "ico_ep.bmp",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
@@ -40692,8 +40739,13 @@ QuestInfoList = {
 	},
 	[62423] = {
 		Title = "Limited access on the lab",
+		IconName = "ico_sc.bmp",
 		Description = { "Access to the lab entrance system is restricted." },
 		Summary = "Waiting time to enter (3days - 72hour)",
+		NpcSpr = "4_LGTSCIENCE",
+		NpcNavi = "lhz_dun04",
+		NpcPosX = 151,
+		NpcPosY = 276,
 		CoolTimeQuest = 1
 	},
 	[62424] = {
@@ -48454,6 +48506,7 @@ QuestInfoList = {
 	},
 	[12459] = {
 		Title = "Rest in the King's thoughts",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"To save countless lives, Schmidt threw his own life into the orb. However, in the process, the power of the orb materializes his thoughts and tries to leave a record of disgrace for future generations. It is your job to put his thoughts to rest."
 		},
@@ -48484,7 +48537,7 @@ QuestInfoList = {
 			"This aftereffect is accompanied by the aftereffect of the downfall. During the remaining time, menus related to ^ff0000Glastheim Purification (Hard)^000000 do not appear and cannot be used."
 		},
 		Summary = "Reset at 04:00 AM after 3 days",
-		NpcSpr = "4_ED_SCHMIDT"
+		NpcSpr = "4_ED_SCHMIDT",
 		CoolTimeQuest = 1
 	},
 	[12462] = {
@@ -48510,7 +48563,7 @@ QuestInfoList = {
 			"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."
 		},
 		Summary = "Reset in 3 days at 4 AM",
-		NpcSpr = "4_F_HIMEL"
+		NpcSpr = "4_F_HIMEL",
 		CoolTimeQuest = 1
 	},
 	[12494] = {
@@ -48584,11 +48637,12 @@ QuestInfoList = {
 	},
 	[16390] = {
 		Title = "Expedition Path - Pending",
-		IconName = "ico_nq.bmp",
+		IconName = "ico_sc.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown."
+			"A Daily quest. It can be repeated after its cooldown. Talk to <NAVI>[Sierra]<INFO>yuno,216,345,000,0</INFO></NAVI> for a new Expedition."
 		},
 		Summary = "Reset at 4:00 a.m.",
+		NpcSpr = "4_F_SCIENCE",
 		CoolTimeQuest = 1
 	},
 	[16391] = {
@@ -54870,14 +54924,14 @@ QuestInfoList = {
 		Description = {
 			"A Capra employee has asked you to deliver a delivery box to <NAVI>[Morris]<INFO>izlude_in,69,116,000,0</INFO></NAVI>. Morris is at Izlude's tool shop."
 		},
-		Summary = "Deliver the crate to Maurice",
+		Summary = "Deliver the crate to Morris",
 		RewardEXP = "800",
 		RewardJEXP = "45"
 	},
 	[21903] = {
 		Title = "Has anyone seen Leno? ",
 		Description = {
-			"Maurice at the Tool Shop wants you to find Leno, the Redheaded Inspector, who went to check out the Hub. Gather information about Leno from <NAVI>[Izlude West field]<INFO>prt_fild08,320,230,000,0</INFO></NAVI>."
+			"Morris at the Tool Shop wants you to find Leno, the Redheaded Inspector, who went to check out the Hub. Gather information about Leno from <NAVI>[Izlude West field]<INFO>prt_fild08,320,230,000,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Ur",
 		RewardEXP = "600",
@@ -54902,7 +54956,7 @@ QuestInfoList = {
 	[21906] = {
 		Title = "Advice from the Herb Tracker",
 		Description = {
-			"Lumine informs you that there are herbs near the little boy. Return to <NAVI>[Leno and Ur]<INFO>prt fild08,320,230,000,0</INFO></NAVI> with the herbs you gathered."
+			"Lumine informs you that there are herbs near the little boy. Return to <NAVI>[Leno and Ur]<INFO>prt_fild08,320,230,000,0</INFO></NAVI> with the herbs you gathered."
 		},
 		Summary = "Talk to Ur",
 		RewardEXP = "1000",
@@ -54911,7 +54965,7 @@ QuestInfoList = {
 	[21907] = {
 		Title = "The end of the hub",
 		Description = {
-			"Ur explained the test to you. Take the herbs you've gotten to <NAVI>[Maurice]<INFO>izlude in,69,116,000,0</INFO></NAVI>."
+			"Ur explained the test to you. Take the herbs you've gotten to <NAVI>[Morris]<INFO>izlude_in,69,116,000,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Morris",
 		RewardEXP = "2000",
@@ -54920,25 +54974,25 @@ QuestInfoList = {
 	[21908] = {
 		Title = "For a moment of crisis",
 		Description = {
-			"Maurice at the Tool Shop gives you a 'Combination Kit' and tells you to meet with <NAVI>[Healer]<INFO>iz ac01,60,43,000,0</INFO></NAVI> in the infirmary of Kritura Academy to learn how to use it."
+			"Maurice at the Tool Shop gives you a 'Combination Kit' and tells you to meet with <NAVI>[Healer]<INFO>iz_ac01,60,43,000,0</INFO></NAVI> in the infirmary of Kritura Academy to learn how to use it."
 		},
 		Summary = "Talk to the healer",
 		RewardEXP = "2000",
 		RewardJEXP = "1000"
 	},
 	[21909] = {
-		Title = "What's possible with gelophy",
+		Title = "What's possible with Jellopy",
 		Description = {
-			"The archer <NAVI>[Malvron]<INFO>izlude,115,103,000,0</INFO></NAVI> you met in Izlude asked you to get him 3 Jellopies for his skill called 'Split Arrow'. Jellopies can be obtained by 'Foraging'."
+			"The archer <NAVI>[Malveron]<INFO>izlude,115,103,000,0</INFO></NAVI> you met in Izlude asked you to get him 3 Jellopies for his skill called 'Split Arrow'. Jellopies can be obtained by 'Foraging'."
 		},
-		Summary = "Deliver 3 Jell-O Pies to Malbron",
+		Summary = "Deliver 3 Jellopies to Malveron",
 		RewardEXP = "1500",
 		RewardJEXP = "1000"
 	},
 	[21910] = {
 		Title = "Prontera!",
 		Description = {
-			"As a member of the Regal Order of Paradise, you've decided to help solve a problem in the Cathedral of Prontera. Meet <NAVI>[Companion]<INFO>prt fild08,182,359,000,0</INFO></NAVI> outside the southern gates of Prontera and join him."
+			"As a member of the Regal Order of Paradise, you've decided to help solve a problem in the Cathedral of Prontera. Meet <NAVI>[Companion]<INFO>prt_fild08,182,359,000,0</INFO></NAVI> outside the southern gates of Prontera and join him."
 		},
 		Summary = "Talk to Leno"
 	},
