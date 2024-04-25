@@ -25944,7 +25944,7 @@ QuestInfoList = {
 	},
 	[12496] = {
 		Title = "Flower Garden Access Permission - Pending",
-		IconName = "sc_ico.bmp",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."
 		},
