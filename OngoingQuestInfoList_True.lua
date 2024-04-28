@@ -10320,7 +10320,8 @@ QuestInfoList = {
 		Description = {
 			"According to Homnya and Nyangson, this machine named Bang causes a problem every minute. You never know when you will be in trouble. Check on the machine again tomorrow."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[7250] = {
 		Title = "Nyadventure-Hidden Treasure?",
@@ -10368,7 +10369,8 @@ QuestInfoList = {
 		Description = {
 			"Duruduru Race is good if you only run once a day. If you want it, come back later."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[7258] = {
 		Title = "Nyadventure-Painting completed",
@@ -10438,7 +10440,8 @@ QuestInfoList = {
 		Description = {
 			"In order to solve the Cat's hard biscuit incident, you are going to work with Cleanyang. Go back to Cleanyang at the appointed time."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[7268] = {
 		Title = "Find the Cat's hard biscuits!",
@@ -10501,7 +10504,8 @@ QuestInfoList = {
 		Description = {
 			"Chef Nyas wants you to deliver the ingredient for the biscuit every day, and for some new food. Anyway go back to him whenever you can."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[7281] = {
 		Title = "Errands List of Nyas",
