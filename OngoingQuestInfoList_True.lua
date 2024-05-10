@@ -8277,6 +8277,7 @@ QuestInfoList = {
 	},
 	[5861] = {
 		Title = "[Pending] Taking Care of Morning",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I fed <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. If I can, I should feed him tomorrow as well."
 		},
@@ -47805,14 +47806,14 @@ QuestInfoList = {
 	[62864] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62865] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62889] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[62895] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
+	[62895] = { Title = "Mesmerizer Limit", Description = { "You have reset your stats and skills with the Mesmerizer." }, Summary = "", CoolTimeQuest = 1 },
 	[62896] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62897] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62898] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62940] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62941] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62944] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[62961] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
+	[62961] = { Title = "Trick or Treat!", Description = { "You already had your trickery, come back later for more." }, Summary = "Wait for 30 minutes!" },
 	[62965] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62966] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63033] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
@@ -49925,7 +49926,8 @@ QuestInfoList = {
 		Description = {
 			"You have finished the task for today. Talk to <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> tomorrow to accept the quest again."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3415] = {
 		Title = "[Daily] Defeat Abysmal Creatures I",
@@ -49941,7 +49943,8 @@ QuestInfoList = {
 		Description = {
 			"You have finished the task for today. Talk to <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> tomorrow to accept the quest again."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3417] = {
 		Title = "[Daily] Defeat Abysmal Creatures II",
@@ -49957,7 +49960,8 @@ QuestInfoList = {
 		Description = {
 			"You have finished the task for today. Talk to <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> tomorrow to accept the quest again."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3419] = {
 		Title = "[Daily] Defeat Abysmal Creatures III",
@@ -49973,7 +49977,8 @@ QuestInfoList = {
 		Description = {
 			"You have finished the task for today. Talk to <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> tomorrow to accept the quest again."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[14518] = {
 		Title = "Bubble gum reuse time",
