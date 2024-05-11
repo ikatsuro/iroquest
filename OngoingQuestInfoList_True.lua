@@ -12680,6 +12680,7 @@ QuestInfoList = {
 	},
 	[7612] = {
 		Title = "Passage Cleaning - Down",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"You should take rest. Our mercenaries can take care of the monsters in the passage."
 		},
@@ -12695,6 +12696,7 @@ QuestInfoList = {
 	},
 	[7614] = {
 		Title = "Eliminating Risks - Down",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"We're able to clear the excavation site of those robots. Please come back next time."
 		},
@@ -12710,6 +12712,7 @@ QuestInfoList = {
 	},
 	[7616] = {
 		Title = "Core Collection - Down",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"The Artnard Excavation Team is focusing on studying the Power Control Devices. You should take rest while you can."
 		},
@@ -12725,6 +12728,7 @@ QuestInfoList = {
 	},
 	[7618] = {
 		Title = "Reporting the Results - Down",
+		IconName = "ico_dq.bmp",
 		Description = { "Wait for the Artnard Excavation Team's next report." },
 		Summary = "The Daily quest is cooling down.",
 		CoolTimeQuest = 1
@@ -12791,6 +12795,7 @@ QuestInfoList = {
 	},
 	[7629] = {
 		Title = "Tomorrow for Tomorrow's Energy",
+		IconName = "ico_dq.bmp",
 		Description = { "Return to Lloyd tomorrow to continue to help him with his research." },
 		Summary = "The Daily quest is cooling down.",
 		CoolTimeQuest = 1
@@ -12876,6 +12881,7 @@ QuestInfoList = {
 	},
 	[7651] = {
 		Title = "One Memory a Day",
+		IconName = "ico_dq.bmp",
 		Description = { "Collect Memory Records only once a day. Go to Arquien at the promised time." },
 		Summary = "",
 		CoolTimeQuest=1
@@ -12889,6 +12895,7 @@ QuestInfoList = {
 	},
 	[7653] = {
 		Title = "One Memory a Day 2",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Collect Memory Records in the laboratories only once a day. Go to Arquien at the promised time."
 		},
@@ -20866,7 +20873,8 @@ QuestInfoList = {
 	[11239] = {
 		Title = "Yggdrasilberry",
 		Description = { "You can't receive any request from Rican during one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[11240] = {
 		Title = "The most soft jelly in the world",
@@ -20902,7 +20910,8 @@ QuestInfoList = {
 	[11245] = {
 		Title = "Soft Jelly",
 		Description = { "You can't receive any request from Biscuit during one day." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[11255] = {
 		Title = "Otter Ssamsun",
@@ -25923,6 +25932,7 @@ QuestInfoList = {
 	},
 	[12453] = {
 		Title = "Operation Pending",
+		IconName = "ico_sc.bmp",
 		Description = { "The gateway to Os is temporarily blocked. I should wait until it's released." },
 		Summary = "Operation pending",
 		CoolTimeQuest = 1
@@ -26980,25 +26990,25 @@ QuestInfoList = {
 		Description = { "Look for team members" },
 		Summary = ""
 	},
-	[13199] = { Title = "Krotzel's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
+	[13199] = { Title = "Krotzel's Request - Complete", IconName = "ico_dq.bmp", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13200] = {
 		Title = "Monthly Brigan : Rookie's Request",
 		Description = { "Defeat surrounding Monsters" },
 		Summary = ""
 	},
-	[13201] = { Title = "Rookie's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
+	[13201] = { Title = "Rookie's Request - Complete", IconName = "ico_dq.bmp", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13202] = {
 		Title = "Monthly Brigan : Photo Journalist's Request",
 		Description = { "Take care of surrounding Monsters" },
 		Summary = ""
 	},
-	[13203] = { Title = "Photo Journalist's Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
+	[13203] = { Title = "Photo Journalist's Request - Complete", IconName = "ico_dq.bmp", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[13204] = {
 		Title = "Monthly Brigan : Grylls' Request",
 		Description = { "Obtain 30 Metal bugs" },
 		Summary = ""
 	},
-	[13205] = { Title = "Grylls' Request - Complete", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
+	[13205] = { Title = "Grylls' Request - Complete", IconName = "ico_dq.bmp", Description = { "" }, Summary = "", CoolTimeQuest = 1 },
 	[14118] = {
 		Title = "Wuhari's concern",
 		Description = {
@@ -27893,6 +27903,7 @@ QuestInfoList = {
 	},
 	[14492] = {
 		Title = "There Is a Silver Lining",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Would you come back again later? Just enough time for her so that she doesn't feel pressured without forgetting me. After some time, I'd like to deliver my hear to her again!"
 		},
@@ -28003,6 +28014,7 @@ QuestInfoList = {
 	},
 	[14509] = {
 		Title = "Still Making It",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I am still in the progress of making it with what you have brought me. I'll decide what to make after finishing the work. Would come back after the daybreak?"
 		},
@@ -30178,6 +30190,7 @@ QuestInfoList = {
 	},
 	[15002] = {
 		Title = "Memorial dungeon: Sara's Memory",
+		IconName = "ico_sc.bmp",
 		Description = { "You must wait for the timer before re-entering this instance." },
 		Summary = "",
 		CoolTimeQuest = 1
@@ -30191,6 +30204,7 @@ QuestInfoList = {
 	},
 	[15005] = {
 		Title = "Memorial Dungeon: Isle of Bios",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Isle of Bios becomes accessible for 23 hours after each exploration. You can enter it again after:"
 		},
@@ -32040,6 +32054,7 @@ QuestInfoList = {
 	},
 	[16362] = {
 		Title = "Innocent Cleanup - Pending",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> in Cor."
 		},
@@ -33130,6 +33145,7 @@ QuestInfoList = {
 	},
 	[17035] = {
 		Title = "Pending: To Rudus",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I'll see you again after dawn. You did a great job. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
