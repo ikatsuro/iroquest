@@ -19245,7 +19245,7 @@ QuestInfoList = {
 	[10110] = {
 		Title = "Dark Frame Hunting",
 		Description = {
-			"Ancellia requested that you hunt 10 </NAVI>Dark Frame <INFO>DARK_FRAME,0,0,3,-222,0</INFO></NAVI>monsters in Glast Heim. Return to her in Geffen when you are done."
+			"Ancellia requested that you hunt 10 <NAVI>Dark Frame <INFO>DARK_FRAME,0,0,3,-222,0</INFO></NAVI>monsters in Glast Heim. Return to her in Geffen when you are done."
 		},
 		Summary = "Hunt 10 Dark Frame.",
 		NpcSpr = "4_F_KHGIRL",
