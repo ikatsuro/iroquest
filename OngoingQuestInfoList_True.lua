@@ -30193,6 +30193,10 @@ QuestInfoList = {
 		IconName = "ico_sc.bmp",
 		Description = { "You must wait for the timer before re-entering this instance." },
 		Summary = "",
+		NpcSpr = "4_F_SARAH_BABY",
+		NpcNavi = "dali",
+		NpcPosX = 130,
+		NpcPosY = 107,
 		CoolTimeQuest = 1
 	},
 	[15003] = {
