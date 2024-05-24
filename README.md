@@ -14,4 +14,4 @@ Get OngoingQuestListInfo.lub from releases (https://github.com/ikatsuro/iroquest
 Simply replace OngoingQuestListInfo.lub in System folder where the game is installed.
 
 <h3>Contributions</h3>
-This is a WiP any help in finding out more missing quests would be appreciated. Gluck Have fun ;)
+This is a WiP any help in finding out more missing quests would be appreciated you can dm on Discord @ikatsuro . Gluck Have fun ;)
