@@ -15,4 +15,4 @@ Simply replace OngoingQuestListInfo.lub in System folder where the game is insta
 
 <h3>Contributions</h3>
 This is a WiP any help in finding out more missing quests would be appreciated, you can reach me on Discord @ikatsuro. Gluck Have fun ;)
-Check out fishdeity's iRO addons https://github.com/fishdeity/iRO-Missing_Features_Additions/ they are really good, i certainly reccommend.
+Check out fishdeity's iRO missing features and additions https://github.com/fishdeity/iRO-Missing_Features_Additions/ its really good, i certainly reccommend.
