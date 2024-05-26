@@ -13,6 +13,10 @@ Actual quest info on 16.2 quests, npc sprites, navigation info when you click on
 Get OngoingQuestListInfo.lub from releases (https://github.com/ikatsuro/iroquest/releases)
 Simply replace OngoingQuestListInfo.lub in System folder where the game is installed.
 
+<h3>WiP Feature Tab improved <h3>
+  I started Working on a more useful Feature tab to keep track of the episode quests, so far this is what i got 
+![FeatureTabRevamp](https://github.com/ikatsuro/iroquest/assets/130806188/eac71cc0-e155-48f1-b68c-bd1bb6c5d632)
+
 <h3>Contributions</h3>
 This is a WiP any help in finding out more missing quests would be appreciated, you can reach me on Discord @ikatsuro. Gluck Have fun ;)
 Check out fishdeity's iRO missing features and additions https://github.com/fishdeity/iRO-Missing_Features_Additions/ its really good, i certainly reccommend.
