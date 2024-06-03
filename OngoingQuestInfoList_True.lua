@@ -25410,6 +25410,10 @@ QuestInfoList = {
 	[12331] = {
 		Title = "Trail of Toy Factory",
 		IconName = "ico_sc.bmp",
+		NpcSpr = "4_F_KIMI",
+		NpcNavi = "xmas",
+		NpcPosX = 237,
+		NpcPosY = 303,
 		Description = {
 			"There is a trail of entering the toy factory. Unable to re-enter for 23 hours."
 		},
@@ -31513,6 +31517,10 @@ QuestInfoList = {
 	[16217] = {
 		Title = "Rest and Relaxation",
 		IconName = "ico_sc.bmp",
+		NpcSpr = "4_F_RUNAIN",
+		NpcNavi = "dali02",
+		NpcPosX = 108,
+		NpcPosY = 94,
 		Description = {
 			"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>in the Dimensional Gap to accept the quest."
 		},
