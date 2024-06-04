@@ -20,4 +20,4 @@ Replace OngoingQuestListInfo.lub or RecommendedQuestInfoList.lub in System folde
 
 <h3>Contributions</h3>
 This is a WiP any help in finding out more missing quests would be appreciated, you can reach me on Discord @ikatsuro and submit suggestions on the iROquest category in fishdeity's Discord https://discord.gg/UBjTpErdQU . Gluck Have fun ;)
-Check out fishdeity's iRO missing features and additions https://github.com/fishdeity/iRO-Missing_Features_Additions/ its really good, i certainly reccommend.
+Check out fishdeity's iRO missing features and additions https://github.com/fishdeity/iRO-Missing_Features_Additions/ its really good, i certainly recommend.
