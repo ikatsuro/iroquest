@@ -9,7 +9,7 @@ After getting annoyed by the amount of invisible quests on my quest window i dec
 <h3>Features</h3>
 Actual quest info on 16.2 quests, npc sprites, navigation info when you click on the npc for certain quests, proper quest icons for daily, episode, instance & event quests.
 
-<h3>NEW! WiP Feature Tab for Episodic Quests<h3>
+<h3>NEW! WiP Feature Tab for Episodic Quests</h3>
 I always felt the feature tab was kinda useless so i decided to work on it to make it a more useful part of the quest log, for now i wanted a way to better keep track of the episodic questlines and provide an easier access to guides as well as a little throwback to the old times, when these got released. I hope this can be helpful and im surely open to suggestions on how to improve it and different ideas on what to add to the feature tab in the future.
 
 <h3>How to use it</h3>
