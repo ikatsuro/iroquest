@@ -57,7 +57,7 @@ RecommendedQuestInfoList = {
 		NpcPosX = 32,
 		NpcPosY = 306,
 		QuestInfo1 = {
-			"The discovery of the Ash Vacuum has brought new reasons for adventurers to brave the unknown. Two new races have been discovered known only as the <STRONG>Laphine</STRONG> and the Sapha.",
+			"The discovery of the Ash Vacuum has brought new reasons for adventurers to brave the unknown. Two new races have been discovered known only as the Laphine and the Sapha.",
 			"The Laphine are a fairy-like race that live in the lush grounds west of the Expedition camp.",
 			"The Sapha are a proud tribe of wood creatures that live in the barren snow grounds east of the Expedition camp.",
 			"Each race has sworn to protect the World Tree Yggdrasil and have been fighting a war spanning hundreds of years.",
