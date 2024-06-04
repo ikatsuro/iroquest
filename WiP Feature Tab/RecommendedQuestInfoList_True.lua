@@ -5,7 +5,7 @@ RecommendedQuestInfoList = {
 		IconName = "ico_ep.bmp",
 		Summary = "The Destruction of Morroc",
 		NpcSpr = "4_M_MOCASS1",
-		NpcNavi = "pontera",
+		NpcNavi = "prontera",
 		NpcPosX = 164,
 		NpcPosY = 304,
 		QuestInfo1 = {
@@ -80,7 +80,7 @@ RecommendedQuestInfoList = {
 		Summary = "El Dicastes, a city built on ore",
 		NpcSpr = "4_MAN_JERUTOO",
 		NpcNavi = "mid_camp",
-		NpcPosX = 222,
+		NpcPosX = 223,
 		NpcPosY = 246,
 		QuestInfo1 = {
 			"Invitation from the Sapha tribe The Sapha tribe sent a messenger to Midgard Expedition Camp and the whole post is excited about it.",
