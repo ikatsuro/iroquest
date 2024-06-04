@@ -148,10 +148,10 @@ RecommendedQuestInfoList = {
 		Title = "Episode 14.3 Battle for Midgard",
 		IconName = "ico_ep.bmp",
 		Summary = "Dimensional Travel",
-		NpcSpr = "4_F_EDEN_OFFICER",
-		NpcNavi = "moc_para01",
-		NpcPosX = 38,
-		NpcPosY = 175,
+		NpcSpr = "4_F_MOCBOY",
+		NpcNavi = "morocc",
+		NpcPosX = 138,
+		NpcPosY = 238,
 		QuestInfo1 = {
 			"The Flame Basin: A pocket dimension on the other side of the Dimensional Gap where Satan Morroc took up residence after escaping from Rune Midgard.",
 			"Obsessed with creating a world of his own to dominate, Satan Morroc laid himself down on the new land to corrupt it with his own essence.",
@@ -161,7 +161,8 @@ RecommendedQuestInfoList = {
 		QuestInfo2 = {
 			"Required:",
 			"^990000Level 140 or higher^000000",
-			"Access to the New World"
+			"Access to the New World",
+			"^990000Level 160 or higher^000000 to access Memorial Dungeon"
 		},
 		QuestInfo3 = {
 			"^ff0000You can check out the iROwiki guide <URL>[Here]<INFO>https://irowiki.org/wiki/Dimensional_Travel</INFO></URL> ^000000",
