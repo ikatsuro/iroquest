@@ -41659,93 +41659,129 @@ QuestInfoList = {
 	},
 	[62626] = {
 		Title = "Fishing Event - Prontera Field",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62627] = {
 		Title = "Fishing Event - Prontera Field",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62628] = {
 		Title = "Fishing Event - Prontera Field",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62629] = {
 		Title = "Fishing Event - Byalan Island",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62630] = {
 		Title = "Fishing Event - Byalan Island",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62631] = {
 		Title = "Fishing Event - Byalan Island",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62632] = {
 		Title = "Fishing Event - Alberta",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62633] = {
 		Title = "Fishing Event - Alberta",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62634] = {
 		Title = "Fishing Event - Alberta",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62635] = {
 		Title = "Fishing Event - Ayotaya",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62636] = {
 		Title = "Fishing Event - Ayotaya",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62637] = {
 		Title = "Fishing Event - Ayotaya",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62638] = {
 		Title = "Fishing Event - Comodo",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62639] = {
 		Title = "Fishing Event - Comodo",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62640] = {
 		Title = "Fishing Event - Comodo",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62641] = {
 		Title = "Fishing Event - Izlude",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62642] = {
 		Title = "Fishing Event - Izlude",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62643] = {
 		Title = "Fishing Event - Izlude",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62644] = {
 		Title = "Bounty Board Willow",
@@ -41784,48 +41820,66 @@ QuestInfoList = {
 	},
 	[62651] = {
 		Title = "Fishing Event - Hugel",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62652] = {
 		Title = "Fishing Event - Hugel",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62653] = {
 		Title = "Fishing Event - Hugel",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62654] = {
 		Title = "Fishing Event - Niflheim",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62655] = {
 		Title = "Fishing Event - Niflheim",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62656] = {
 		Title = "Fishing Event - Niflheim",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62657] = {
 		Title = "Fishing Event - Glast Heim",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62658] = {
 		Title = "Fishing Event - Glast Heim",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62659] = {
 		Title = "Fishing Event - Glast Heim",
+		IconName = "ico_ev.bmp",
 		Description = { "There is a 30 minute cooldown per fishing spot. You can try again soon!" },
-		Summary = "Come back in a little while to fish again!"
+		Summary = "Come back in a little while to fish again!",
+		CoolTimeQuest = 1
 	},
 	[62660] = {
 		Title = "Bounty Board Chonchon",
