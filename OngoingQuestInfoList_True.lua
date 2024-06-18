@@ -47900,7 +47900,7 @@ QuestInfoList = {
 	[62940] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62941] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62944] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
-	[62961] = { Title = "Trick or Treat!", Description = { "You already had your trickery, come back later for more." }, Summary = "Wait for 30 minutes!" },
+	[62961] = { Title = "Trick or Treat!", IconName = "ico_ev.bmp", Description = { "You already had your trickery, come back later for more." }, Summary = "Wait for 30 minutes!", CoolTimeQuest = 1 },
 	[62965] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[62966] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
 	[63033] = { Title = "Invisible Quest", Description = { "Place Holder" }, Summary = "Place Holder" },
