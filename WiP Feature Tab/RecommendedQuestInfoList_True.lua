@@ -270,6 +270,52 @@ RecommendedQuestInfoList = {
 		}
 	},
 	[13] = {
+		Title = "Be Quiet in the Library",
+		IconName = "ico_nq.bmp",
+		Summary = "Something is up with the Mansion's Library ",
+		NpcSpr = "4_EP17_TAMARIN",
+		NpcNavi = "ba_maison",
+		NpcPosX = 71,
+		NpcPosY = 145,
+		BgName = "reco_03.bmp",
+		QuestInfo1 = {
+			"The sewer pipe at a corner of Special Security Area, Cor has finally been opened.",
+			"The Rebellion and the members go into the sewer pipe in order to track Illusion."
+		},
+		QuestInfo2 = {
+			"Prerequisites",
+			"Register with Alpha as a Mansion Guest",
+			"^990000Level 130 or higher^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000You can check out the iROwiki guide <URL>[Here]<INFO>https://irowiki.org/wiki/Legacy_of_the_Wise_One#Be_Quiet_in_the_Library</INFO></URL> ^000000"
+		}
+	},
+	[14] = {
+		Title = "Farm Guide",
+		IconName = "ico_nq.bmp",
+		Summary = "Ruinan needs your help with pitayas",
+		NpcSpr = "4_EP17_BASKET",
+		NpcNavi = "ba_maison",
+		NpcPosX = 255,
+		NpcPosY = 285,
+		BgName = "reco_03.bmp",
+		QuestInfo1 = {
+			"Ruinan is really having trouble and needs your help to play with the pitayas",
+			"The Rebellion and the members go into the sewer pipe in order to track Illusion."
+		},
+		QuestInfo2 = {
+			"Prerequisites",
+			"Register with Alpha as a Mansion Guest",
+			"^990000Level 130 or higher^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000You can check out the iROwiki guide <URL>[Here]<INFO>https://irowiki.org/wiki/Legacy_of_the_Wise_One</INFO></URL> ^000000",
+			"Rewards Playing with Pitayas Daily Quest",
+			"Rewards Farm Forgotten in Time Daily Instance"
+		}
+	},
+	[15] = {
 		Title = "Episode 18: Direction of Prayer",
 		IconName = "ico_ep.bmp",
 		Summary = "What's happening in Rachel?",
@@ -291,5 +337,8 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000You can check out the iROwiki guide <URL>[Here]<INFO>https://irowiki.org/wiki/Direction_of_Prayer</INFO></URL> ^000000"
 		}
+	},
+	[16] = {
+		Title = "Spooky Machine"
 	}
 }

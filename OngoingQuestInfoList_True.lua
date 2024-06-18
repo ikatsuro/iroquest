@@ -37979,8 +37979,13 @@ QuestInfoList = {
 	},
 	[60548] = {
 		Title = "Upgrade Event timer",
+		IconName = "ico_ev.bmp",
 		Description = { "You must wait 23 hours before re-attempting to use the Spooky Machine." },
 		Summary = "",
+		NpcSpr = "2_DROP_MACHINE",
+		NpcNavi = "moc_paraup",
+		NpcPosX = 186,
+		NpcPosY = 120,
 		CoolTimeQuest = 1
 	},
 	[60549] = {
@@ -51797,6 +51802,7 @@ QuestInfoList = {
 	},
 	[297029] = {
 		Title = "Easter Egg Hunt",
+		IconName = "ico_ev.bmp",
 		Description = {
 			" Let's find 5 easter eggs. It is probably somewhere in lasagna field."
 		},
@@ -51804,6 +51810,7 @@ QuestInfoList = {
 	},
 	[297030] = {
 		Title = "Easter Egg Hunt Complete",
+		IconName = "ico_ev.bmp",
 		Description = {
 			" Found all easter eggs. Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna."
 		},
@@ -51811,6 +51818,7 @@ QuestInfoList = {
 	},
 	[297031] = {
 		Title = "[Cooldown] Easter Egg Hunt",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna.",
 			"Joined Easter Egg Hunt already. Try again after ^ff000020 hours^000000 to join the Egg Hunt."
@@ -57088,5 +57096,1069 @@ QuestInfoList = {
 			"The Blessed Flower Ring given to you by Lord Merrick can be blessed. Visit Prontera Cathedral and give the Blessing Flower Ring to <NAVI>[Priest Roam]<INFO>prt church,107,99,000,0</INFO></NAVI>."
 		},
 		Summary = "Talk to the Roam Priest"
+	},
+	[1340] = {
+		Title = "A Suspicious Notice",
+		Description = {
+			"You found a suspicious notice saying that in order to gain great power, one must undergo a qualification test. Let's go to Metz Brayde."
+		},
+		Summary = "Find Metz Brayde"
+	},
+	[1341] = {
+		Title = "Metz Brayde",
+		Description = {
+			"Metz said that he needs time to prepare something. When you're ready, talk to him again."
+		},
+		Summary = "Talk to Metz"
+	},
+	[1342] = {
+		Title = "Metz's Trial I",
+		Description = {
+			"Metz asks you to go to Morroc and meet a rogue named ^FF0000Arian^000000 for the first test."
+		},
+		Summary = "Find Rogue Arian"
+	},
+	[1343] = {
+		Title = "Arian's Trial I",
+		Description = {
+			"Arian asks you to bring the requested item, ^FF0000one type at a time^000000. Let's bring ^4D4DFF100 Fluff^000000."
+		},
+		Summary = "Bring 100 Fluff"
+	},
+	[1344] = {
+		Title = "Arian's Trial II",
+		Description = {
+			"Arian asks you to bring the requested item, ^FF0000one type at a time^000000. Let's bring ^4D4DFF50 Poison Spore^000000."
+		},
+		Summary = "Bring 50 Poison Spore"
+	},
+	[1345] = {
+		Title = "Arian's Trial III",
+		Description = {
+			"Arian asks you to bring the requested item, ^FF0000one type at a time^000000. Let's bring ^4D4DFF30 Scorpion Tail^000000."
+		},
+		Summary = "Bring 30 Scorpion Tail"
+	},
+	[1346] = {
+		Title = "Arian's Trial IV",
+		Description = {
+			"Arian asks you to bring the requested item, ^FF0000one type at a time^000000. Let's bring ^4D4DFF20 Rotten Bandage^000000."
+		},
+		Summary = "Bring 20 Rotten Bandage"
+	},
+	[1347] = {
+		Title = "Arian's Trial V",
+		Description = {
+			"Arian asks you to bring the requested item, ^FF0000one type at a time^000000. Let's bring ^4D4DFF15 Little Evil Horn^000000."
+		},
+		Summary = "Bring 15 Little Evil Horn"
+	},
+	[1348] = {
+		Title = "Arian's Trial VI",
+		Description = {
+			"Arian asks you to bring the requested item, ^FF0000one type at a time^000000. Let's bring ^4D4DFF10 Coral Reef^000000."
+		},
+		Summary = "Bring 10 Coral Reef"
+	},
+	[1349] = {
+		Title = "Arian's Trial - Interlude",
+		Description = { "Arian asks you to wait for a while. When you're ready, let's talk to Arian." },
+		Summary = "Talk to Arian"
+	},
+	[1350] = {
+		Title = "Arian's Trial VII",
+		Description = { "The 'that guy' Arian is talking about seems to be a young man nearby." },
+		Summary = "Talk to Gaanan"
+	},
+	[1351] = {
+		Title = "Arian's Trial - Failed",
+		Description = { "It looks like you didn't pass Arian's test. Let's go back to the young man." },
+		Summary = "Talk to Gaanan again"
+	},
+	[1352] = {
+		Title = "Metz's Trial II",
+		Description = { "Arian told you to go to Payon and meet Daewoon for Metz's second test." },
+		Summary = "Find Daewoon"
+	},
+	[1353] = {
+		Title = "Metz's Trial III",
+		Description = { "Daewoon told you to go to Aldebaran and meet Jornim for Metz's third test." },
+		Summary = "Find Jornim"
+	},
+	[1354] = {
+		Title = "Jornim's Trial I",
+		Description = {
+			"It seems you surprised Jornim, and now his research samples are broken. Go fetch him ^4D4DFF10 Empty Test Tube^000000, ^4D4DFF2 Yggdrasil Leaf^000000, and ^4D4DFF10 Green Herb^000000."
+		},
+		Summary = "Deliver Materials to Jornim"
+	},
+	[1355] = {
+		Title = "Jornim's Trial II",
+		Description = {
+			"Jornim asked you to gather information regarding the Philosopher's Stone. Let's ask around to find someone who might know."
+		},
+		Summary = "Find info about Philosopher's Stone"
+	},
+	[1356] = {
+		Title = "Jornim's Trial II",
+		Description = {
+			"You heard information about the Philosopher's Stone. Let's find Jornim and deliver the result of your investigation."
+		},
+		Summary = "Talk to Jornim"
+	},
+	[1357] = {
+		Title = "Metz's Trial IV",
+		Description = { "Jornim said that it would be best to go to Jesqurienne in Geffen." },
+		Summary = "Find Jesqurienne"
+	},
+	[1358] = {
+		Title = "Jesqurienne's Trial",
+		Description = {
+			"Jesqurienne proposed a quiz competition. Talk to her boyfriend, Aaron, who sits beside her, to take the quiz."
+		},
+		Summary = "Take Aaron's Quiz"
+	},
+	[1359] = {
+		Title = "Jesqurienne's Trial - Failed",
+		Description = {
+			"It seems you didn't pass Aaron's quiz. Let's talk to Jesqurienne for a rematch."
+		},
+		Summary = "Talk to Jesqurienne"
+	},
+	[1360] = {
+		Title = "Jesqurienne's Trial - Passed",
+		Description = { "You successfully pass the quiz. Let's talk to Jesqurienne." },
+		Summary = "Talk to Jesqurienne"
+	},
+	[1361] = {
+		Title = "Metz's Trial V",
+		Description = {
+			"For the next trial, Jesqurienne asked me to find Dearles, a strange guy who likes to gamble in Comodo casion."
+		},
+		Summary = "Find Dearles"
+	},
+	[1362] = {
+		Title = "Dearles' Trial I",
+		Description = { "Dearless asked you for 30.000 Zeny." },
+		Summary = "Give 30.000 Zeny to Dearles"
+	},
+	[1363] = {
+		Title = "Dearles' Trial II",
+		Description = {
+			"Dearles told you to come back in the afternoon. In the afternoon, let's visit him in Comodo again."
+		},
+		Summary = "Visit Dearless in the afternoon"
+	},
+	[1364] = {
+		Title = "Dearles' Trial II",
+		Description = { "Dearles is taking a break. Let's talk to him again." },
+		Summary = "Talk to Dearles"
+	},
+	[1365] = {
+		Title = "Dearles' Trial III",
+		Description = {
+			"Dearles asked you to gather materials. Let's talk to him again after you gather all the required materials."
+		},
+		Summary = "Gather Materials"
+	},
+	[1366] = {
+		Title = "Dearles' Trial IV",
+		Description = {
+			"Dearles asked me for one last test, a dancing test. Go speak to Examiner to begin the test."
+		},
+		Summary = "Talk to Examiner"
+	},
+	[1367] = {
+		Title = "Dearles' Trial IV - Failed",
+		Description = {
+			"It seems you didn't pass Dearles' test. Let's talk to Examiner again for a retest."
+		},
+		Summary = "Talk to Examiner"
+	},
+	[1368] = {
+		Title = "Dearles' Trial IV - Passed",
+		Description = {
+			"You successfully passed the Examiner's test. Let's report the result to Dearles."
+		},
+		Summary = "Talk to Dearles"
+	},
+	[1369] = {
+		Title = "Metz's Trial VI",
+		Description = {
+			"For the next trial, Dearles asked me to go to Alberta and find Bakerlan, a wealthy-looking merchant."
+		},
+		Summary = "Find Bakerlan"
+	},
+	[1370] = {
+		Title = "Bakerlan of Alberta",
+		Description = { "Bakerlan looks busy. Let's talk to him again in a moment." },
+		Summary = "Talk to Bakerlan"
+	},
+	[1371] = {
+		Title = "Bakerlan's Trial I",
+		Description = {
+			"Bakerlan asked you to deliver a certain thing. Talk to his butler, Mahatra to get more details regarding the request."
+		},
+		Summary = "Talk to Mahatra"
+	},
+	[1372] = {
+		Title = "Bakerlan's Trial I",
+		Description = {
+			"The butler, Mahatra, asks you to deliver a stone to a crusader named Leibech in Juno."
+		},
+		Summary = "Find Leibech"
+	},
+	[1373] = {
+		Title = "Bakerlan's Trial I",
+		Description = { "Show the butler the receipt for the items given by Leibech." },
+		Summary = "Talk to Mahatra"
+	},
+	[1374] = {
+		Title = "Bakerlan's Trial I",
+		Description = { "Report to Bakerlan that the delivery has been completed." },
+		Summary = "Talk to Bakerlan"
+	},
+	[1375] = {
+		Title = "Bakerlan's Trial II",
+		Description = { "Talk to the butler and proceed with Bakerlan's second test." },
+		Summary = "Talk to Mahatra"
+	},
+	[1376] = {
+		Title = "Bakerlan's Trial II",
+		Description = {
+			"The butler asked to solve Seylin's concerns. Let's find out what the maid, Seylin, is worried about."
+		},
+		Summary = "Talk to Seylin"
+	},
+	[1377] = {
+		Title = "Bakerlan's Trial II",
+		Description = {
+			"Seylin says she wants to give a Vigorgra as a birthday present to her brother. Let's go to Aldebaran and find an alchemist who can create it."
+		},
+		Summary = "Find the Alchemist"
+	},
+	[1378] = {
+		Title = "Bakerlan's Trial II",
+		Description = {
+			"Melkaba says he will make the Vigorgra if you get the ingredients. Bring him 10 Royal Jelly, 20 Honey, 30 Bear's Footskin, 1 Hinalle Leaflet, 1 Ment, and 1 Empty Bottle."
+		},
+		Summary = "Deliver ingredients to Melkaba"
+	},
+	[1379] = {
+		Title = "Bakerlan's Trial II",
+		Description = { "I received the Vigorgra. Let's bring it to Seylin." },
+		Summary = "Talk to Seylin"
+	},
+	[1380] = {
+		Title = "Bakerlan's Trial II",
+		Description = {
+			"Seylin asked you to deliver the letter and Vigorgra to her brother, Maruin. Let's find him in the royal castle of Prontera."
+		},
+		Summary = "Talk to Maruin"
+	},
+	[1381] = {
+		Title = "Bakerlan's Trial II",
+		Description = { "The birthday present was safely delivered to Maruin. Let's report to Seylin." },
+		Summary = "Talk to Seylin"
+	},
+	[1382] = {
+		Title = "Bakerlan's Trial II",
+		Description = { "Let's report to Butler Mahatra that Seylin's concerns have been resolved." },
+		Summary = "Talk to Mahatra"
+	},
+	[1383] = {
+		Title = "Bakerlan's Trial II",
+		Description = { "Report to Bakerlan that you have passed the second test." },
+		Summary = "Talk to Bakerlan"
+	},
+	[1384] = {
+		Title = "Sobbing Starlight",
+		Description = {
+			"Let's return to the Metz with the pieces of Sobbing Starlight we've collected so far."
+		},
+		Summary = "Talk to Metz"
+	},
+	[1385] = {
+		Title = "Sobbing Starlight",
+		Description = {
+			"Let's ask the Metz if they've found someone who can put the pieces of Sobbing Starlight together."
+		},
+		Summary = "Talk to Metz"
+	},
+	[1386] = {
+		Title = "Engel Howard",
+		Description = {
+			"Let's meet Engel's family in Geffen to find Engel Howard, who is said to be the best blacksmith on the continent."
+		},
+		Summary = "Meet Engel's family"
+	},
+	[1387] = {
+		Title = "Engel Howard",
+		Description = { "Before going to find Engel, let's meet Engel's daughter first." },
+		Summary = "Talk to Engel's daughter"
+	},
+	[1388] = {
+		Title = "Engel Howard",
+		Description = { "Give Engel Howard his daughter Liana's picture letter." },
+		Summary = "Deliver letter to Engel"
+	},
+	[1389] = {
+		Title = "Piecing Starlight",
+		Description = {
+			"Engel said he needed materials to put together the pieces of Sobbing Starlight. Bring him 5 Mini Furnace, 2 Oridecon Hammer, and 1 type of Anvil."
+		},
+		Summary = "Deliver materials to Engel"
+	},
+	[1390] = {
+		Title = "Piecing Starlight",
+		Description = {
+			"Engel asked you to deliver the letter to his family while restoration work was underway."
+		},
+		Summary = "Deliver letter"
+	},
+	[1391] = {
+		Title = "Piecing Starlight",
+		Description = { "Brenda was grateful and asked you to stop by Liana, the daughter as well." },
+		Summary = "Talk to Liana"
+	},
+	[1392] = {
+		Title = "Piecing Starlight",
+		Description = { "I received a thank you from Liana. Now let's go back to Engel." },
+		Summary = "Talk to Engel"
+	},
+	[1393] = {
+		Title = "Piecing Starlight",
+		Description = {
+			"It is said that Engel failed in the restoration work. Let's bring him 5 Mini Furnace, 2 Oridecon Hammer, and a Golden or Emperium Anvil."
+		},
+		Summary = "Deliver materials to Engel"
+	},
+	[1394] = {
+		Title = "Piecing Starlight",
+		Description = { "The Sobbing Starlight was restored. Let's show it to the Metz." },
+		Summary = "Talk to Metz"
+	},
+	[1395] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"Let's meet the wizards on the top floor of the Geffen Central Tower to read what is written in the Sobbing Starlight."
+		},
+		Summary = "Visit the top of Geffen Tower"
+	},
+	[1396] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"Let's tell the Wizard, who doesn't respond, that Metz Brayde sent him a message regarding the Sobbing Starlight."
+		},
+		Summary = "Talk to Dhota"
+	},
+	[1397] = {
+		Title = "Deciphering the Starlight",
+		Description = { "Let's find someone in Umbala who can read the Sobbing Starlight." },
+		Summary = "Gather info in Umbala"
+	},
+	[1398] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"Laotan said he saw a person wearing strange clothes entering a house. Let's find someone who can read the Sobbing Starlight in Umbala."
+		},
+		Summary = "Find the mentioned person"
+	},
+	[1399] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"Cyon says that to read the Sobbing Starlight, he needs at least 10 sheets of Worn Out Page."
+		},
+		Summary = "Deliver materials to Cyon"
+	},
+	[1400] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"I recognized the letters written on the Sobbing Starlight. Let's show Metz the ancient language document."
+		},
+		Summary = "Talk to Metz"
+	},
+	[1401] = {
+		Title = "Deciphering the Starlight",
+		Description = { "Metz asked you to go find Frank in Alberta to interpret the ancient language." },
+		Summary = "Find Frank"
+	},
+	[1402] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"Frank doesn't seem to want to listen to the story. Let's talk to Frank again, who says his eyes are blurry, so we can get some item to enhance his eyesight."
+		},
+		Summary = "Deliver the item to Frank"
+	},
+	[1403] = {
+		Title = "Deciphering the Starlight",
+		Description = { "Let's wait for Frank to finish his interpretation and talk to him again." },
+		Summary = "Talk to Frank"
+	},
+	[1404] = {
+		Title = "Deciphering the Starlight",
+		Description = {
+			"Let's find the 'door' with the appropriate 'key' written in the interpretation of the ancient language."
+		},
+		Summary = "Find the door with the key"
+	},
+	[1405] = {
+		Title = "Great Ordeal",
+		Description = {
+			"Let's find a great ordeal in a village of people who live in hiding because they were not chosen."
+		},
+		Summary = "Find the Great Ordeal"
+	},
+	[1406] = {
+		Title = "The poor people of Niflheim",
+		Description = { "Let's find the poor people Serin mentioned." },
+		Summary = "Find the person"
+	},
+	[1407] = {
+		Title = "Serin's Request",
+		Description = { "I decided to help Serin. Let ask what should we do." },
+		Summary = "Talk to Serin"
+	},
+	[1408] = {
+		Title = "Ash Bruce",
+		Description = {
+			"I feel a curse hanging over my soul. Let's memorize the right spell and free Ash Bruce."
+		},
+		Summary = "Break the curse"
+	},
+	[1409] = {
+		Title = "The poor people of Niflheim",
+		Description = { "The curse on Ash has been lifted. Let's find more people who need help." },
+		Summary = "Explore Niflheim"
+	},
+	[1410] = {
+		Title = "Alakina Anne",
+		Description = {
+			"The children in Niflheim are crying and can't communicate. Let's help others first."
+		},
+		Summary = "Help others first"
+	},
+	[1411] = {
+		Title = "The poor people of Niflheim",
+		Description = { "Let's find a way to send Alakina Anne back home." },
+		Summary = "Gather information"
+	},
+	[1412] = {
+		Title = "The poor people of Niflheim",
+		Description = { "Let's go see the witch to get Anne back home." },
+		Summary = "Find the Witch"
+	},
+	[1413] = {
+		Title = "The poor people of Niflheim",
+		Description = { "Let's return to Anne with the Crow Wing we received from the witch." },
+		Summary = "Talk to Anne"
+	},
+	[1414] = {
+		Title = "The poor people of Niflheim",
+		Description = { "You gave Anne the Crow Wing. Let's see if she returns home safely." },
+		Summary = "Talk to Anne"
+	},
+	[1415] = {
+		Title = "The poor people of Niflheim",
+		Description = { "Anne couldn't return home. Let's go back to the witch and finds out why." },
+		Summary = "Talk to the Witch"
+	},
+	[1416] = {
+		Title = "The poor people of Niflheim",
+		Description = { "I don't think there's anything I can do for Anne. Let's go back to Serin." },
+		Summary = "Talk to Serin"
+	},
+	[1417] = {
+		Title = "To be chosen",
+		Description = { "Serin seems to have something left to say. Let's talk again." },
+		Summary = "Talk to Serin"
+	},
+	[1418] = {
+		Title = "To be chosen",
+		Description = { "Let's find the bard of Niflheim who sings for strangers." },
+		Summary = "Find the Bard"
+	},
+	[1419] = {
+		Title = "To be chosen",
+		Description = {
+			"When I asked the bard what I had to do to be chosen, he told me to go see Gen. Let's find Gen."
+		},
+		Summary = "Talk to Gen"
+	},
+	[1420] = {
+		Title = "To be chosen",
+		Description = {
+			"When I asked Gen what I had to do to be chosen, he told me to go see the witch."
+		},
+		Summary = "Talk to the Witch"
+	},
+	[1421] = {
+		Title = "To be chosen",
+		Description = { "Let's find the magic book to get the witch's help." },
+		Summary = "Find the Witch's Spellbook"
+	},
+	[1422] = {
+		Title = "To be chosen",
+		Description = { "I retrieved the Spellbook. Let's go back to the witch." },
+		Summary = "Talk to the Witch"
+	},
+	[1423] = {
+		Title = "To be chosen",
+		Description = {
+			"The witch told you to get a token from the dead man's owner. Let's go to Serin first to get information."
+		},
+		Summary = "Talk to Serin"
+	},
+	[1424] = {
+		Title = "To be chosen",
+		Description = { "Serin was lost in thought. After a while, let's try to talk to her again." },
+		Summary = "Talk to Serin"
+	},
+	[1425] = {
+		Title = "To be chosen",
+		Description = {
+			"Let's look for information to help you obtain the token from the dead man's master."
+		},
+		Summary = "Gather information"
+	},
+	[1426] = {
+		Title = "Breaking the Seal",
+		Description = { "There seems to be insufficient information. Let's talk to Laichin again." },
+		Summary = "Talk to Laichin"
+	},
+	[1427] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 1 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 1 O'clock"
+	},
+	[1428] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 5 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 5 O'clock"
+	},
+	[1429] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 7 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 7 O'clock"
+	},
+	[1430] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Small 6 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Small 6 O'clock"
+	},
+	[1431] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 4 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 4 O'clock"
+	},
+	[1432] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 10 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 10 O'clock"
+	},
+	[1433] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Small 6 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Small 6 O'clock"
+	},
+	[1434] = {
+		Title = "Breaking the Seal",
+		Description = {
+			"The seal is located in 'Very Small 11 O'clock', the lowest floor of Glast Heim."
+		},
+		Summary = "Seal on Very Small 11 O'clock"
+	},
+	[1435] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 5 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 5 O'clock"
+	},
+	[1436] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Small 11 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Small 11 O'clock"
+	},
+	[1437] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Small 6 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Small 6 O'clock"
+	},
+	[1438] = {
+		Title = "Breaking the Seal",
+		Description = {
+			"The seal is located in 'Very Small 11 O'clock', the lowest floor of Glast Heim."
+		},
+		Summary = "Seal on Very Small 11 O'clock"
+	},
+	[1439] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 4 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 4 O'clock"
+	},
+	[1440] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 5 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 5 O'clock"
+	},
+	[1441] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Big 10 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Big 10 O'clock"
+	},
+	[1442] = {
+		Title = "Breaking the Seal",
+		Description = { "The seal is located in 'Small 11 O'clock', the lowest floor of Glast Heim." },
+		Summary = "Seal on Small 11 O'clock"
+	},
+	[1443] = {
+		Title = "Breaking the Seal",
+		Description = { "I got a whisper from my soul. Let's get some information on where to take it." },
+		Summary = "Find info about the owner"
+	},
+	[1444] = {
+		Title = "Breaking the Seal",
+		Description = { "Talk to Gen and go see the Queen of the Dead." },
+		Summary = "Talk to the Queen of the Dead"
+	},
+	[1445] = {
+		Title = "Symbol of the Nine Realms",
+		Description = {
+			"We acquired the Symbol of the Nine Realms. Who should we take it to, the witch or Serin?"
+		},
+		Summary = "Hand over the Symbol"
+	},
+	[1446] = {
+		Title = "A False Desire",
+		Description = {
+			"You decided to hand over Symbol to the witch. Let's find the item with Serin's traces on it."
+		},
+		Summary = "Search Serin's item"
+	},
+	[1447] = {
+		Title = "A False Desire",
+		Description = {
+			"I received a potion and a token from the witch. Let's talk to the witch and move to where Serin is. (Party members with the badge can move together.)"
+		},
+		Summary = "Talk to the Witch"
+	},
+	[1448] = {
+		Title = "A False Desire",
+		Description = { "Failed to stop Serin. Let's go back to the witch." },
+		Summary = "Talk to the Witch"
+	},
+	[1449] = {
+		Title = "A False Desire",
+		Description = { "Failed to gain great power. Let's report to the Metz." },
+		Summary = "Talk to Metz"
+	},
+	[1450] = {
+		Title = "For Midgard",
+		Description = { "I decided to stop Serin. Finish your preparation and talk to Serin again." },
+		Summary = "Talk to Serin"
+	},
+	[1451] = {
+		Title = "For Midgard",
+		Description = {
+			"Take Serin, who drank the witch's potion, and return to Niflheim to report to the witch."
+		},
+		Summary = "Support Serin"
+	},
+	[1452] = {
+		Title = "For Midgard",
+		Description = { "Before leaving Niflheim, let's take a look at Serin's condition." },
+		Summary = "Talk to Serin"
+	},
+	[1453] = {
+		Title = "To Valhalla",
+		Description = { "Let's go tell Valkyrie that you have proven your courage." },
+		Summary = "Talk to Sandra"
+	},
+	[1454] = {
+		Title = "Rumor of Witches",
+		Description = { "Talk to Serin again to hear rumors about the witch." },
+		Summary = "Talk to Serin"
+	},
+	[1455] = {
+		Title = "Fall of Conspiracy",
+		Description = { "After getting ready, talk to Serin and go to stop the witch." },
+		Summary = "Talk to Serin"
+	},
+	[1456] = {
+		Title = "Fall of Conspiracy",
+		Description = {
+			"Symbol of the Nine Realms was handed over to Serin. Let's watch the magic circle get destroyed."
+		},
+		Summary = "Talk to Serin"
+	},
+	[1457] = {
+		Title = "A False Desire",
+		Description = { "I decided not to stop Serin. Let's go back to the witch." },
+		Summary = "Talk to the Witch"
+	},
+	[1458] = {
+		Title = "For Midgard",
+		Description = { "Let's defeat the Dark Lord summoned by Serin." },
+		Summary = "Defeat Dark Lord"
+	},
+	[1459] = {
+		Title = "For Midgard",
+		Description = { "Let's take Serin and return to Niflheim." },
+		Summary = "Support Serin"
+	},
+	[1460] = {
+		Title = "The Sign",
+		Description = { "I got the Sign from Valkyrie. Let's tell the Metz the story so far." },
+		Summary = "Talk to Metz"
+	},
+	[1461] = {
+		Title = "The Sign",
+		Description = {
+			"The Sign was left to the Metz. Let's wait for Metz's research to finish and get it back."
+		},
+		Summary = "Talk to Metz after some time"
+	},
+	[1462] = {
+		Title = "The Sign",
+		Description = { "Let's go find Engel Howard to unseal The Sign." },
+		Summary = "Talk to Engel"
+	},
+	[1463] = {
+		Title = "The Sign",
+		Description = {
+			"The Sign was entrusted to Engel. Let's wait for Engel's work to be finished and take it back."
+		},
+		Summary = "Talk to Engel after some time"
+	},
+	[1464] = {
+		Title = "The Sign",
+		Description = { "Let's go back to Metz and show him the unsealed Sign." },
+		Summary = "Talk to Metz"
+	},
+	[1465] = {
+		Title = "The Devil's Sorrow",
+		Description = {
+			"Everything related to The Sign is over. Lastly, let's go to the Queen of the Dead through Gen."
+		},
+		Summary = "Talk to Lady Hell"
+	},
+	[1466] = {
+		Title = "The Devil's Sorrow",
+		Description = {
+			"I left the Sobbing Starlight to Hell. After a while she tried to talk to me again."
+		},
+		Summary = "Talk to Lady Hell"
+	},
+	[3446] = {
+		Title = "Ziroker of Moonlight",
+		Description = { "Let's talk with Ziroker of the Investigation Team." },
+		Summary = "Talk to Ziroker"
+	},
+	[3447] = {
+		Title = "Survey - Illusion of Moonlight",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Moonlight." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3448] = {
+		Title = "[Cooldown] Survey - Illusion of Moonlight",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Ziroker]<INFO>pay_d03_i,149,34,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3449] = {
+		Title = "Elysia of Frozen",
+		Description = { "Let's talk with Elysia of the Investigation Team." },
+		Summary = "Talk to Elysia"
+	},
+	[3450] = {
+		Title = "Survey - Illusion of Frozen",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Frozen." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3451] = {
+		Title = "[Cooldown] Survey - Illusion of Frozen",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Elysia]<INFO>ice_dun02,142,18,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3452] = {
+		Title = "Ridimir of Vampire",
+		Description = { "Let's talk with Ridimir of the Investigation Team." },
+		Summary = "Talk to Ridimir"
+	},
+	[3453] = {
+		Title = "Survey - Illusion of Vampire",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Vampire." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3454] = {
+		Title = "[Cooldown] Survey - Illusion of Vampire",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Ridimir]<INFO>gef_d01_i,122,237,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3455] = {
+		Title = "Machoco of Teddy Bear",
+		Description = { "Let's talk with Machoco of the Investigation Team." },
+		Summary = "Talk to Machoco"
+	},
+	[3456] = {
+		Title = "Survey - Illusion of Teddy Bear",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Teddy Bear." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3457] = {
+		Title = "[Cooldown] Survey - Illusion of Teddy Bear",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Machoco]<INFO>ein_d02_i,161,180,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3458] = {
+		Title = "Orian of the Turtle Island",
+		Description = { "Let's talk with Orian of the Investigation Team." },
+		Summary = "Talk to Orian"
+	},
+	[3459] = {
+		Title = "Survey - Illusion of Abyss Turtle Island",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Abyss Turtle Island." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3460] = {
+		Title = "[Cooldown] Survey - Illusion of Abyss Turtle Island",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Orian]<INFO>tur_d03_i,125,86,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3461] = {
+		Title = "Kesis of Luanda",
+		Description = { "Let's talk with Kesis of the Investigation Team." },
+		Summary = "Talk to Kesis"
+	},
+	[3462] = {
+		Title = "Survey - Illusion of Luanda",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Luanda." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3463] = {
+		Title = "[Cooldown] Survey - Illusion of Luanda",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Kesis]<INFO>com_d02_i,253,232,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3464] = {
+		Title = "Therian of Labyrinth",
+		Description = { "Let's talk with Therian of the Investigation Team." },
+		Summary = "Talk to Therian"
+	},
+	[3465] = {
+		Title = "Survey - Illusion of Labyrinth",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Labyrinth." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3466] = {
+		Title = "[Cooldown] Survey - Illusion of Labyrinth",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Therian]<INFO>prt_fild01,131,364,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3467] = {
+		Title = "Lista of Underwater",
+		Description = { "Let's talk with Lista of the Investigation Team." },
+		Summary = "Talk to Lista"
+	},
+	[3468] = {
+		Title = "Survey - Illusion of Underwater",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Underwater." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3469] = {
+		Title = "[Cooldown] Survey - Illusion of Underwater",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Lista]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[3470] = {
+		Title = "Illusion Survey Team",
+		Description = { "Join the investigation team through leader Joel." },
+		Summary = "Talk to Joel"
+	},
+	[3507] = {
+		Title = "Seshin of Twins",
+		Description = { "Let's talk with Seshin of the Investigation Team." },
+		Summary = "Talk to Ziroker"
+	},
+	[3508] = {
+		Title = "Survey - Illusion of Twins",
+		IconName = "ico_dq.bmp",
+		Description = { "Defeat 100 monsters of any type in the Illusion of Twins." },
+		Summary = "Defeat 100 Monsters"
+	},
+	[3509] = {
+		Title = "[Cooldown] Survey - Illusion of Twins",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Seshin]<INFO>ant_d02_i,167,184,0,101,0</INFO></NAVI> to retake the quest."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8719] = {
+		Title = "A new section somewhere in ant hell",
+		Description = {
+			"While exploring on the second floor of the Ant Hells, Mirco and Yolanda have discovered a new ant burrow somewhere in the dungeon. But the place is..."
+		},
+		Summary = "Talk to Mirco"
+	},
+	[8720] = {
+		Title = "Mirco Request (1)",
+		Description = { "Mirco tells you that fellow adventurer Briashen has gone missing." },
+		Summary = "Talk to Mirco"
+	},
+	[8721] = {
+		Title = "Where is Briashen?",
+		Description = {
+			"We must find Briashen in the Garden of Perception. I can only hope she's alive."
+		},
+		Summary = "Talk to Briashen"
+	},
+	[8722] = {
+		Title = "A message from Briashen",
+		Description = {
+			"Briashen said, she can't go back right now, and asked me to tell <NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> that I'm okay. She seems strangely fine."
+		},
+		Summary = "Talk to Mirco"
+	},
+	[8723] = {
+		Title = "Mirco Request (2)",
+		Description = {
+			"Giving up on getting Briashen out of the Garden of Perception, Mirco asks you to help her instead."
+		},
+		Summary = "Talk to Briashen"
+	},
+	[8724] = {
+		Title = "Where is Kharis?",
+		Description = {
+			"No matter how much you try to take Briashen's story, it's impossible to have a normal conversation with her. She asks you to find Kharis. Someone who looks just like her... something."
+		},
+		Summary = "Talk to adventurers who look like Briashen"
+	},
+	[8725] = {
+		Title = "It looks just like...? (1)",
+		Description = {
+			"A ranger named Rwella says she's looking for Briashen.But that's not the name she's looking for...? She says so, and Rwella disappears."
+		},
+		Summary = ""
+	},
+	[8726] = {
+		Title = "It looks just like...? (2)",
+		Description = {
+			"A ranger named Kharis is said to be looking for a separated friend. But what I heard is that Briashen was lost in this dungeon? I said it was different, but Kharis disappeared."
+		},
+		Summary = ""
+	},
+	[8727] = {
+		Title = "It looks just like...? (3)",
+		Description = {
+			"A Gunslinger named Kharis says he's looking for a lost friend. But Briashen is a Ranger...? As soon as she says that, Kharis disappears."
+		},
+		Summary = ""
+	},
+	[8728] = {
+		Title = "Who is Kharis?",
+		Description = {
+			"The people who look like Briashen in the Garden of Perception don't seem to be human, at least not human. Let's go back to <NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Mirco"
+	},
+	[8729] = {
+		Title = "Where is Briashen? (2)",
+		Description = {
+			"Kahris may be a Vitata, but what is his intention...?.With nothing known, Mirko once again asks you to enter the Garden of Perception, this time to save Briashen."
+		},
+		Summary = "Back to the dungeon"
+	},
+	[8730] = {
+		Title = "Maze of Perceptions",
+		Description = {
+			"Mirco is uneasy when you tell him that you actually saw Kharis and that you think it was an ant. Getting Briashen out of the Garden of Perception seems to be the top priority."
+		},
+		Summary = "Take Briashen to Mirco"
+	},
+	[8731] = {
+		Title = "(Daily) Geological Survey",
+		IconName = "ico_dq.bmp",
+		Description = { "Mirco needs 20 Fine Dry Sand from Interpid Giearth" },
+		Summary = "Bring 20 Fine Dry Sand"
+	},
+	[8732] = {
+		Title = "(Cooldown) Geological Survey",
+		IconName = "ico_dq.bmp",
+		Description = { "Daily quest cooldown, talk to Mirco tomorrow." },
+		Summary = "Reset at 4.00am",
+		CoolTimeQuest = 1
+	},
+	[8733] = {
+		Title = "(Daily) Source of Power",
+		IconName = "ico_dq.bmp",
+		Description = { "Mirco needs 20 Opaque Liquids from Dilligent Andre Larva." },
+		Summary = "Bring 20 Opaque Liquids"
+	},
+	[8734] = {
+		Title = "(Cooldown) Source of Power",
+		IconName = "ico_dq.bmp",
+		Description = { "Daily quest cooldown, talk to Mirco tomorrow." },
+		Summary = "Reset at 4.00am",
+		CoolTimeQuest = 1
+	},
+	[8735] = {
+		Title = "(Daily) Same Thing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mirco ask you to defeat 10 Diligent Vitata, 10 Diligent Soldier Andre, and 10 Diligent Piere."
+		},
+		Summary = "Talk to Mirco when complete"
+	},
+	[8736] = {
+		Title = "(Cooldown) Same Thing",
+		IconName = "ico_dq.bmp",
+		Description = { "Daily quest cooldown, talk to Mirco tomorrow." },
+		Summary = "Reset at 4.00am",
+		CoolTimeQuest = 1
+	},
+	[8737] = {
+		Title = "(Daily) Shared Memory",
+		IconName = "ico_dq.bmp",
+		Description = { "Collect 20 Shell of Cognition." },
+		Summary = "Bring 20 Shell of Cognition."
+	},
+	[8738] = {
+		Title = "(Cooldown) Shared Memory",
+		IconName = "ico_dq.bmp",
+		Description = { "Daily quest cooldown, talk to Mirco tomorrow." },
+		Summary = "Reset at 4.00am",
+		CoolTimeQuest = 1
 	}
 }
