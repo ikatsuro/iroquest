@@ -57865,7 +57865,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Ziroker]<INFO>pay_d03_i,149,34,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3449] = {
 		Title = "Elysia of Frozen",
@@ -57884,7 +57885,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Elysia]<INFO>ice_dun02,142,18,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3452] = {
 		Title = "Ridimir of Vampire",
@@ -57903,7 +57905,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Ridimir]<INFO>gef_d01_i,122,237,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3455] = {
 		Title = "Machoco of Teddy Bear",
@@ -57922,7 +57925,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Machoco]<INFO>ein_d02_i,161,180,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3458] = {
 		Title = "Orian of the Turtle Island",
@@ -57941,7 +57945,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Orian]<INFO>tur_d03_i,125,86,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3461] = {
 		Title = "Kesis of Luanda",
@@ -57960,7 +57965,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Kesis]<INFO>com_d02_i,253,232,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3464] = {
 		Title = "Therian of Labyrinth",
@@ -57979,7 +57985,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Therian]<INFO>prt_fild01,131,364,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3467] = {
 		Title = "Lista of Underwater",
@@ -57998,7 +58005,8 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be completed again when the waiting time expires. Talk to <NAVI>[Lista]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI> to retake the quest."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[3470] = {
 		Title = "Illusion Survey Team",
