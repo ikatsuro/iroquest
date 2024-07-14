@@ -58168,5 +58168,116 @@ QuestInfoList = {
 		Description = { "Daily quest cooldown, talk to Mirco tomorrow." },
 		Summary = "Reset at 4.00am",
 		CoolTimeQuest = 1
+	},
+	[293429] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Brasilis]<INFO>brasilis,191,216,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Brasilis"
+	},
+	[293430] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Payon]<INFO>payon,106,299,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Payon"
+	},
+	[293431] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Niflheim]<INFO>niflheim,197,177,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Niflheim"
+	},
+	[293432] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Dewata]<INFO>dewata,70,197,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Dewata"
+	},
+	[293433] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Hugel]<INFO>hugel,93,133,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Hugel"
+	},
+	[293434] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Louyang]<INFO>louyang,299,279,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Louyang"
+	},
+	[293435] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Ayothaya]<INFO>ayothaya,65,93,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Ayothaya"
+	},
+	[293436] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Rachel]<INFO>ra_temple,125,168,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Rachel"
+	},
+	[293437] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Einbroch]<INFO>einbroch,72,195,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Einbroch"
+	},
+	[293438] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Port Malaya]<INFO>malaya,214,205,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Port Malaya"
+	},
+	[293439] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Lighthalzen]<INFO>lighthalzen,236,76,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Lighthalzen"
+	},
+	[293440] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Lasagna]<INFO>lasagna,323,275,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Lasagna"
+	},
+	[293441] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Amatsu]<INFO>amatsu,218,230,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Amatsu"
+	},
+	[293442] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Gonryun]<INFO>gonryun,204,153,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Gonryun"
+	},
+	[293443] = {
+		Title = "A Reward for Brave Bodyguards",
+		Description = {
+			"Tai-Zi is grateful for bringing his colleagues, and wants to give them an additional souvenir to express his gratitude. You must complete the quest by 4 AM."
+		},
+		Summary = "Play Rock-Paper-Scissors"
+	},
+	[293444] = {
+		Title = "[Cooldown] Shiba Says Collaboration",
+		Description = { "You have finished everything you need to do today. You can retake after 4 AM." },
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	}
 }
