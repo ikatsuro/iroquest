@@ -58169,6 +58169,13 @@ QuestInfoList = {
 		Summary = "Reset at 4.00am",
 		CoolTimeQuest = 1
 	},
+	[293428] = {
+		Title = "Trip to Another World",
+		Description = {
+			"During a trip to another world, I got separated from my group.  Let's go to <NAVI>[Moscovia]<INFO>moscovia,215,210,0,101,0</INFO></NAVI> to rejoin the group. If you do not complete it by 4 AM, you will have to take the quest again."
+		},
+		Summary = "Visit Moscovia"
+	},
 	[293429] = {
 		Title = "Trip to Another World",
 		IconName = "ico_ev.bmp",
