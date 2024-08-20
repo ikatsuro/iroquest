@@ -33372,7 +33372,8 @@ QuestInfoList = {
 		Description = {
 			"Today's event is over. After dawn, you can visit <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> again."
 		},
-		Summary = "Reset at 04.00 AM"
+		Summary = "Reset at 04.00 AM",
+		CoolTimeQuest = 1
 	},
 	[17315] = {
 		Title = "Watermelon fan",
@@ -33388,7 +33389,8 @@ QuestInfoList = {
 		Description = {
 			"Today's event is over. After dawn, find <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> and you can join again."
 		},
-		Summary = "Reset at 04.00 AM"
+		Summary = "Reset at 04.00 AM",
+		CoolTimeQuest = 1
 	},
 	[17317] = {
 		Title = "Bad noodle hunt",
@@ -33404,7 +33406,8 @@ QuestInfoList = {
 		Description = {
 			"You must have put a lot of effort into catching the strong noodle, but please take a break today and enjoy the festival again after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Reset at 04.00 AM"
+		Summary = "Reset at 04.00 AM",
+		CoolTimeQuest = 1
 	},
 	[17328] = {
 		Title = "Coupon: Noodle Event Completed",
