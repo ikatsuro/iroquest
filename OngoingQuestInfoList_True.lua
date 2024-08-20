@@ -58302,5 +58302,510 @@ QuestInfoList = {
 		Description = { "You have finished everything you need to do today. You can retake after 4 AM." },
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
+	},
+	[3471] = {
+		Title = "Hunting - Einbroch Field-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Einbroch Field]<INFO>ein_fild03,142,40,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tailing]<INFO>ein_fild03,135,46,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3472] = {
+		Title = "[Cooldown] Hunting - Einbroch Field-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Tailing]<INFO>ein_fild03,135,46,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[3473] = {
+		Title = "Hunting - Lighthalzen Field-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Lighthalzen Field]<INFO>lhz_fild03,158,343,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Madaka]<INFO>lhz_fild03,167,344,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3474] = {
+		Title = "[Cooldown] Hunting - Lighthalzen Field-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Madaka]<INFO>lhz_fild03,167,344,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[3475] = {
+		Title = "Hunting - Plain of Ida-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Plain of Ida]<INFO>ra_fild12,50,225,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Karina]<INFO>ra_fild12,50,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3476] = {
+		Title = "[Cooldown] Hunting - Plain of Ida-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Karina]<INFO>ra_fild12,50,219,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[3477] = {
+		Title = "Hunting - Veins Field-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Veins Field]<INFO>ve_fild07,148,362,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Chaveco]<INFO>ve_fild07,158,354,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3478] = {
+		Title = "[Cooldown] Hunting - Veins Field-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Chaveco]<INFO>ve_fild07,158,354,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[3479] = {
+		Title = "Hunting - Plain of Ida-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Plain of Ida]<INFO>ra_fild08,156,35,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Ersia]<INFO>ra_fild08,163,47,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3480] = {
+		Title = "[Cooldown] Hunting - Plain of Ida-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Ersia]<INFO>ra_fild08,163,47,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[3481] = {
+		Title = "Hunting - Veins Field-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Veins Field]<INFO>ve_fild01,360,269,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Suiron]<INFO>ve_fild01,354,280,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3482] = {
+		Title = "[Cooldown] Hunting - Veins Field-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Suiron]<INFO>ve_fild01,354,280,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[3483] = {
+		Title = "Hunting - Rachel Ice Cave 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Rachel Ice Cave 1F]<INFO>ice_dun01,158,15,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Dove]<INFO>ice_dun01,161,13,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[3484] = {
+		Title = "[Cooldown] Hunting - Rachel Ice Cave 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Dove]<INFO>ice_dun01,161,13,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[5916] = {
+		Title = "Hunting - Einbroch Field-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Einbroch Field]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Infinity]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Holden]<INFO>MOLE,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Metaling]<INFO>METALING,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_F_CHNDRESS1",
+		NpcNavi = "ein_fild06",
+		NpcPosX = 257,
+		NpcPosY = 351
+	},
+	[5917] = {
+		Title = "[Cooldown] Hunting - Einbroch Field-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Infinity]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_CHNDRESS1",
+		NpcNavi = "ein_fild06",
+		NpcPosX = 257,
+		NpcPosY = 351
+	},
+	[5918] = {
+		Title = "Hunting - Lighthalzen Field-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Lighthalzen Field]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Lippiri]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Rafflesia]<INFO>RAFFLESIA,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Stem Worm]<INFO>STEM_WORM,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Metaling]<INFO>METALING,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_M_HUBOY",
+		NpcNavi = "lhz_fild01",
+		NpcPosX = 240,
+		NpcPosY = 107
+	},
+	[5919] = {
+		Title = "[Cooldown] Hunting - Lighthalzen Field-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Lippiri]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_HUBOY",
+		NpcNavi = "lhz_fild01",
+		NpcPosX = 240,
+		NpcPosY = 107
+	},
+	[5920] = {
+		Title = "Hunting - Geffen Field",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Geffen Field]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Geppel]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Petite]<INFO>PETIT,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Mantis]<INFO>MANTIS,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Side Winder]<INFO>SIDE_WINDER,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_M_MIDDLE",
+		NpcNavi = "gef_fild06",
+		NpcPosX = 209,
+		NpcPosY = 31
+	},
+	[5921] = {
+		Title = "[Cooldown] Hunting - Geffen Field",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Geppel]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_MIDDLE",
+		NpcNavi = "gef_fild06",
+		NpcPosX = 209,
+		NpcPosY = 31
+	},
+	[5922] = {
+		Title = "Hunting - Turtle Island",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Turtle Island]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Terel]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Spring Rabbit]<INFO>SPRING_RABBIT,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Dragon Tail]<INFO>DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Pest]<INFO>PEST,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_M_BRZ_MAN1",
+		NpcNavi = "tur_dun01",
+		NpcPosX = 159,
+		NpcPosY = 46
+	},
+	[5923] = {
+		Title = "[Cooldown] Hunting - Turtle Island",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Terel]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_BRZ_MAN1",
+		NpcNavi = "tur_dun01",
+		NpcPosX = 159,
+		NpcPosY = 46
+	},
+	[5924] = {
+		Title = "Hunting - Entrance to Thanatos Tower",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Entrance to Thanatos Tower]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Hugo]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Red Novus]<INFO>NOVUS,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Yellow Novus]<INFO>NOVUS_,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Geographer]<INFO>GEOGRAPHER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Dragon Egg]<INFO>DRAGON_EGG,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_MAL_CAPTAIN",
+		NpcNavi = "hu_fild01",
+		NpcPosX = 133,
+		NpcPosY = 157
+	},
+	[5925] = {
+		Title = "[Cooldown] Hunting - Entrance to Thanatos Tower",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Hugo]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_MAL_CAPTAIN",
+		NpcNavi = "hu_fild01",
+		NpcPosX = 133,
+		NpcPosY = 157
+	},
+	[5926] = {
+		Title = "Hunting - Starry Coral Area",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Starry Coral Area]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Madewon]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Red Eruma]<INFO>RED_ERUMA,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Siorava]<INFO>SIORAVA,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_F_TAEKWON",
+		NpcNavi = "mal_dun01",
+		NpcPosX = 141,
+		NpcPosY = 126
+	},
+	[5927] = {
+		Title = "[Cooldown] Hunting - Starry Coral Area",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Madewon]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_TAEKWON",
+		NpcNavi = "mal_dun01",
+		NpcPosX = 141,
+		NpcPosY = 126
+	},
+	[5928] = {
+		Title = "Hunting - Turtle Island Dungeon",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Turtle Island Dungeon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tydon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Solider]<INFO>SOLIDER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Pest]<INFO>PEST,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Freezer]<INFO>FREEZER,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_M_NINJA_BLUE",
+		NpcNavi = "tur_dun02",
+		NpcPosX = 151,
+		NpcPosY = 256
+	},
+	[5929] = {
+		Title = "[Cooldown] Hunting - Turtle Island Dungeon",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Tydon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_NINJA_BLUE",
+		NpcNavi = "tur_dun02",
+		NpcPosX = 151,
+		NpcPosY = 256
+	},
+	[5930] = {
+		Title = "Hunting - Good Turtles Village",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Good Turtles Village]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tsen]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Assaulter]<INFO>ASSULTER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Freezer]<INFO>FREEZER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Heater]<INFO>HEATER,0,0,3,-222,1</INFO></NAVI>"
+		},
+		Summary = "",
+		NpcSpr = "4_M_SIT_NOVICE",
+		NpcNavi = "tur_dun03",
+		NpcPosX = 125,
+		NpcPosY = 186
+	},
+	[5931] = {
+		Title = "[Cooldown] Hunting - Good Turtles Village",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Tsen]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_SIT_NOVICE",
+		NpcNavi = "tur_dun03",
+		NpcPosX = 125,
+		NpcPosY = 186
+	},
+	[8660] = {
+		Title = "Hunting - Audhumbla Grassland-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Audhumbla Grassland]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Ciara]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8661] = {
+		Title = "[Cooldown] Hunting - Audhumbla Grassland-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Ciara]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8662] = {
+		Title = "Hunting - Audhumbla Grassland-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Audhumbla Grassland]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Ciara]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8663] = {
+		Title = "Hunting - Plain of Ida-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Plain of Ida]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Lauren]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8664] = {
+		Title = "[Cooldown] Hunting - Plain of Ida-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Lauren]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8665] = {
+		Title = "Hunting - Plain of Ida-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Plain of Ida]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Lauren]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8666] = {
+		Title = "Hunting - Audhumbla Grassland-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Audhumbla Grassland]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Sukhmari]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8667] = {
+		Title = "[Cooldown] Hunting - Audhumbla Grassland-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Sukhmari]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8668] = {
+		Title = "Hunting - Audhumbla Grassland-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Audhumbla Grassland]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Sukhmari]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8669] = {
+		Title = "Hunting - Audhumbla Grassland-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Audhumbla Grassland]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Valenzuela]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8670] = {
+		Title = "[Cooldown] Hunting - Audhumbla Grassland-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Valenzuela]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8671] = {
+		Title = "Hunting - Audhumbla Grassland-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Audhumbla Grassland]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Valenzuela]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8672] = {
+		Title = "Hunting - Portus Luna",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Portus Luna]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Khanthu]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8673] = {
+		Title = "[Cooldown] Hunting - Portus Luna",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Khanthu]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8674] = {
+		Title = "Hunting - Portus Luna",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Portus Luna]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Khanthu]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8675] = {
+		Title = "Hunting - Veins Field-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Veins Field]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Rania]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8676] = {
+		Title = "[Cooldown] Hunting - Veins Field-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Rania]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8677] = {
+		Title = "Hunting - Veins Field-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Veins Field]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Rania]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8678] = {
+		Title = "Hunting - Veins Field-4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Veins Field]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Dawe]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[8679] = {
+		Title = "[Cooldown] Hunting - Veins Field-4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received again from <NAVI>[Investigator Dawe]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8680] = {
+		Title = "Hunting - Veins Field-4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Veins Field]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Dawe]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[16547] = {
+		Title = "Juno Monster Society",
+		IconName = "ico_nq.bmp",
+		Description = { "" },
+		Summary = ""
+	},
+	[2315] = {
+		Title = "Gift from Reward Cat",
+		Description = { "You cannot receive the gift from the Reward cat again." },
+		Summary = ""
 	}
 }
