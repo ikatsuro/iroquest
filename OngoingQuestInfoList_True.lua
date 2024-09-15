@@ -3931,6 +3931,7 @@ QuestInfoList = {
 	[3135] = {
 		Title = "Nidhoggur's Nest",
 		IconName = "ico_sc.bmp",
+		NpcSpr = "4_F_NYDHOG2",
 		Description = {
 			"The ground trembles from Nidhoggur's awakening. Wait until the timer expires before you can regain access to the Dungeon."
 		},
@@ -36735,11 +36736,17 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[60200] = {
-		Title = "Endless Tower Effect",
+		Title = "Endless Tower Effect",,
+		IconName = "ico_sc.bmp",
+		NpcSpr = "2_MONEMUS",
+		NpcNavi = "e_tower",
+		NpcPosX = 81,
+		NpcPosY = 105,
 		Description = {
 			"The Endless Tower has strange after-effect properties that only allow you to enter it once a week. Wait until the time limit is up before re-entering again."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60201] = {
 		Title = "Endless Tower Time Limit",
