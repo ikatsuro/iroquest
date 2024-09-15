@@ -2,7 +2,7 @@ tbl = {
 	[1] = {
 		Title = "Tip Box",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00001",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00001",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Open the Tip Box by entering /tip or clicking the Tip Box icon.\\nThe Tip Box offers useful information to help you enjoy the game.\\nIf you wish to know more, try entering search keywords in the ^3b488cSearch Window^000000.\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -14,7 +14,7 @@ tbl = {
 	[2] = {
 		Title = "help: Show commands",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00002",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00002",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Enter /h to see the various useful commands used in Ranarok.\\nCommands with / can be ^3b488cinput in the chat^000000 to use.\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -23,7 +23,7 @@ tbl = {
 	[3] = {
 		Title = "Character: HP",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00003",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00003",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Indicate's the character's vitality.\\nWhen ^ff0000HP reaches 0, you will not be able to battle. Depending on the location you may lose EXP^000000, so it's important to manage your HP carefully.\\nPress the \tAlt + END keys to toggle the HP/SP gauge on the botoom.\n\t\t\t\t<TIPBOX>- Character: SP<INFO>4</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Autorecovery<INFO>12</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -36,7 +36,7 @@ tbl = {
 	[4] = {
 		Title = "Character: SP",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00003",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00003",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Indicate's the character's spiritual power.\\nSP ^3b488cis consumed when skills are used^000000. Skills cannot be used when SP reaches 0, so resource management is important.\\nPressing Alt + END will toggle the HP/SP gauge at the bottom.\n\t\t\t\t<TIPBOX>- Character: HP<INFO>3</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Autorecovery<INFO>12</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -49,7 +49,7 @@ tbl = {
 	[5] = {
 		Title = "Character: Levelup",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00005",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00005",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Killing monsters or completing quests will grant EXP, which will allow you to level up.\\nGaining EXP to raise your base level will grant you ^3b488cstatus points^000000 which decide the basic abilities of the character.\\nGaining JOBEXP to raise the job level will grant ^3b488cskill points^000000 to raise character skill levels.\n\t\t\t\t<TIPBOX>- Battle: EXP<INFO>16</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Character: Status<INFO>6</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -61,7 +61,7 @@ tbl = {
 	[6] = {
 		Title = "Status: STR (Strength)#StatStat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00006",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Affects the character's ^3b488cmelee physical ATK^000000 directly, increasing the base attack damage.\\nThis also increases ^3b488cWeight^000000, allowing the charcter to hold onto more items.\n\t\t\t\t<TIPBOX>- Status: AGI (Agility)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: VIT (Vitality)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: INT (Intelligence)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: DEX (Dexterity)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: LUK (Luck)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -73,7 +73,7 @@ tbl = {
 	[7] = {
 		Title = "Status: AGI (Agility)#StatStat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00006",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Directly affects the character's speed and boosts ^3b488cASPD ^000000and ^3b488cEVA^000000.Also affects ^3b488cphysical DEF^000000.\n\t\t\t\t<TIPBOX>- Status: STR (Strength)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: VIT (Vitality)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: INT (Intelligence)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: DEX (Dexterity)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: LUK (Luck)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -85,7 +85,7 @@ tbl = {
 	[8] = {
 		Title = "Status: VIT (Vitality)#StatStat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00006",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Affects the character's HP directly, increasing ^3b488cmax HP^000000.\\^3b488cPhysical DEF^000000and ^3b488cmagic DEF^000000 are also increased, and ^3b488cHPautorecovery^000000 is also affected.\n\t\t\t\t<TIPBOX>- Status: STR (Strength)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: AGI (Agility)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: INT (Intelligence)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: DEX (Dexterity)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: LUK (Luck)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -97,7 +97,7 @@ tbl = {
 	[9] = {
 		Title = "Status: INT (Intelligence)#StatStat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00006",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Affects the character's ^3b488cmagic ATK^000000 directly, increasing ^3b488cmagic damage^000000.\\n^3b488cCast time^000000 is reduced, ^3b488cmagic DEF^000000 is increased, and ^3b488cmax SP^000000 is increased, allowing more magic use.\n\t\t\t\t<TIPBOX>- Status: STR (Strength)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: AGI (Agility)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: VIT (Vitality)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: DEX (Dexterity)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: LUK (Luck)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -109,7 +109,7 @@ tbl = {
 	[10] = {
 		Title = "Status: DEX (Dexterity)#StatStat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00006",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Affects the character's ^3b488clong-range ATK^000000directly, increasing ^3b488clong range attack damage^000000.\\n^3b488cACC^000000 is also increased, increasing the chance of a successful attack, ^3b488ccast time^000000 is reduced, and ^3b488cmagical ATK^000000 is increased.\n\t\t\t\t<TIPBOX>- Status: STR (Strength)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: AGI (Agility)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: VIT (Vitality)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: INT (Intelligence)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: LUK (Luck)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -121,7 +121,7 @@ tbl = {
 	[11] = {
 		Title = "Status: LUK (Luck)#StatStat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00006",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00006",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Affects the character's ^3b488ccritical attack rate^000000directly, increasing the change of dealing ^3b488ccritical damage^000000 to enemies.\\n^3b488cACC, EVA, physical ATK, magic ATK^000000, etc. are also affected, but ^ff0000the returns are low compared to other stats and points should be invested with care.^000000\n\t\t\t\t<TIPBOX>- Status: STR (Strength)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: AGI (Agility)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: VIT (Vitality)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: INT (Intelligence)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Status: DEX (Dexterity)<INFO>10</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -133,7 +133,7 @@ tbl = {
 	[12] = {
 		Title = "Autorecovery",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00012",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00012",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Standing still without doing anything will slowly recover the player's ^3b488cHPand SP slowly^000000. If you're sitting down, this happens twice as quickly.\\n^ff0000Recovery does not occur if your weight is 70% or greater.^000000\n\t\t\t\t<TIPBOX>- Character: Weight<INFO>13</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -142,7 +142,7 @@ tbl = {
 	[13] = {
 		Title = "Character: Weight",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00012",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00012",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Displays the character's maximum weight capacity and the weight of the currently held items.\\nItems can be held up to Weight capacity ^ff0000and if the item weight exceeds this no more items can be acquired.\\nIf Weight value is 70% or more, HP and SP will no longer autorecover. Also, when it is 90% or more the player cannot attack or use skills.\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -154,7 +154,7 @@ tbl = {
 	[14] = {
 		Title = "Battle: ATK",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00014",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00014",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Bringing the mouse cursor over a monster will change the cursor to a sword shape.\\n^3b488cClick^000000 at that moment to attack.\n\t\t\t\t<TIPBOX>- Lock-on Mode: Autoattack<INFO>15</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Battle: EXP<INFO>16</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -163,7 +163,7 @@ tbl = {
 	[15] = {
 		Title = "Lock-on Mode: Autoattack",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00014",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00014",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Attacking a monster while holding down Ctrl will continue ^3b488cautomatic attacks^000000 until the monster is dead.\\nAlso, ^3b488cinputting /noctrl will toggle this without the need to press Ctrl.\\nInputting /noctrl again while this has been toggled will deactivate the autoattack mode.\n\t\t\t\t<TIPBOX>- Battle: ATK<INFO>14</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -172,7 +172,7 @@ tbl = {
 	[16] = {
 		Title = "Battle: EXP",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00016",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00016",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Killing monsters grants ^3b488cEXP^000000.\\nThe EXP gained from monsters is proportional to the damage dealt, but if two attackers dealt the same damage the first attacker gains more EXP.\n\t\t\t\t<TIPBOX>- Battle: ATK<INFO>14</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -181,7 +181,7 @@ tbl = {
 	[17] = {
 		Title = "Items",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00017",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00017",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Pick up dropped items by moving the cursor over the items and ^3b488cleft clicking^000000.\\nItems that are picked up are moved to the items window.\n\t\t\t\t<TIPBOX>- Item: Spectacles<INFO>18</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -193,7 +193,7 @@ tbl = {
 	[18] = {
 		Title = "Item: Spectacles",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00018",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00018",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"The equipment items gained from monsters may not have their effects identified. Unidentified items can be identified with the <ITEM>Spectacles<INFO>611 Spectacles</INFO></ITEM> item.\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -205,7 +205,7 @@ tbl = {
 	[19] = {
 		Title = "Chatting: Conversation",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00019",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00019",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Activate the chat window with enter. Write your message and press enter to send it.\n\t\t\t\t<TIPBOX>- Chatting: Chatting Rooms<INFO>20</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Private Messages<INFO>21</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Parties<INFO>22</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Guilds<INFO>23</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Chatting Rooms<INFO>25</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Displaying Content<INFO>26</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Blocking<INFO>28</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Emotions<INFO>27</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Saving Chat History<INFO>24</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -217,7 +217,7 @@ tbl = {
 	[20] = {
 		Title = "Chatting: Chatting Rooms",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00020",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00020",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Use /chat to open a window for making ^3b488cChat Windows^000000. Also, use /q to exit a chatting room.\n\t\t\t\t<TIPBOX>- Chatting: Conversation<INFO>19</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Saving Chat History<INFO>24</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -226,7 +226,7 @@ tbl = {
 	[21] = {
 		Title = "Chatting: Private Messages",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00021",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00021",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Inputting a character name to the input field left of the chat window will allow you to send a private message to that character.\n\t\t\t\tPress ^3b488cAlt + H^000000 to open the ^3b488cPrivate Message List^000000 window and see the people you're messaging.\n\t\t\t\t<TIPBOX> Blocking<INFO>28</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX> See tip list<INFO>1000</INFO></TIPBOX>"
@@ -238,7 +238,7 @@ tbl = {
 	[22] = {
 		Title = "Chatting: Parties",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00022",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00022",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"To chat with party members, use % \"chat message\" or CTRL+ENTER.\\nAlso, clicking the ^3b488cblue circle^000000 to the right of the chat will allow you to set ^3b488crecipient groups^000000.\n\t\t\t\t<TIPBOX>- Chatting: Guilds<INFO>23</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Party System<INFO>29</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -247,7 +247,7 @@ tbl = {
 	[23] = {
 		Title = "Chatting: Guilds",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00023",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00023",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"To chat with guild members, use /gc \"chat message\" or $ \"chat message\" or ALT+ENTER.\\nAlso, clicking the ^3b488cblue circle^000000 to the right of the chat will allow you to set ^3b488crecipient groups^000000.\n\t\t\t\t<TIPBOX>- Chatting: Parties<INFO>22</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Guild System<INFO>30</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -256,7 +256,7 @@ tbl = {
 	[24] = {
 		Title = "Chatting: Saving Chat History",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00024",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00024",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Use /savechat to save chat content to a file. \\nThe chat history will be saved in the Chat folder of Ragnarok's installation location.\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -268,7 +268,7 @@ tbl = {
 	[25] = {
 		Title = "Chatting: Chatting Rooms",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00025",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00025",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Use ^3b488cF10^000000 to adjust the size of the chat window.\\nAlt + F10 will toggle the chat window on or off.\n\t\t\t\t<TIPBOX>- Chatting: Displaying Content<INFO>26</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -280,7 +280,7 @@ tbl = {
 	[26] = {
 		Title = "Chatting: Displaying Content",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00026",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00026",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Inputting /notalkmsg in the chat window will hide the messages from the chat window. On/Off\\nInputting /notalkmsg2 will also hide guild chat. On/Off\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -289,7 +289,7 @@ tbl = {
 	[27] = {
 		Title = "Emotions",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00027",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00027",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Pressing ALT + L or inputting /emotion will show a list of usable ^3b488cEmotions^000000.\\n\\nPress -, =, \\ while pressing Ctrl to use the rock, paper, and scissors emotions.\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -298,7 +298,7 @@ tbl = {
 	[28] = {
 		Title = "Blocking",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00028",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00028",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Use /ex \"character name\" to block anything the character says as well as private messages from them. To unblock, use /in \"character name\".\\nAlso, /blockall, /unblockall, /exall, and /inall can be used to block or unblock all chat or private messages respectively.\\nTo see a list of the characters you blocked, use /ex.\\n^ff0000 You do not get a (Y/N) prompt, so think carefully before using.^000000\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -307,7 +307,7 @@ tbl = {
 	[29] = {
 		Title = "Party System",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00029",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00029",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Use /organize \"party name\" to create a party.\\nUse /leave to leave a party.=],\n\t\t\t\t[=[If you've formed a party and become the party leader, you can invite other characters by clicking on them with the right mouse button and clicking the \"invite to party\" menu or using /no \"character name\".\\nIf you wish to remove a party member, use /expel \"character name\" to remove a member from ^3b488ca party you lead^000000.\\n^ff0000 You do not get a (Y/N) prompt, so think carefully before using.=],\n\t\t\t\t<TIPBOX>- Chatting: Parties<INFO>22</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Party Finder<INFO>70</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -316,7 +316,7 @@ tbl = {
 	[70] = {
 		Title = "Party Finder",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00070",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00070",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Players can open the Party Finder UI by ctrl +Z or typing /Party, /Party finder in the chat UI.\n\t\t\t\tPlayers can recruit party members through Party Finder to enjoy Ragnarok together\n\t\t\t\tIn order to register to Party Finder, players must enter the joining requirements by clicking regstration while being the party leader.\n\t\t\t\t\n\t\t\t\t<TIPBOX>- Party System<INFO>29</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>"
@@ -415,10 +415,10 @@ tbl = {
 	[67] = {
 		Title = "System: View Stalls",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00067",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00067",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can type ^3b488c/showshop^000000 to ^3b488chide or display all stalls^000000.\n\t\t\t\tHide the stalls if you¡¯re having difficulty playing the game because there are too many of them. When you need to purchase something from a stall, you can type the command again to display the stalls again.\n\t\t\t\t\\n<TIPBOX>-View Tip List<INFO>1000</INFO></TIPBOX>"
+			"You can type ^3b488c/showshop^000000 to ^3b488chide or display all stalls^000000.\n\t\t\t\tHide the stalls if youï¿½ï¿½re having difficulty playing the game because there are too many of them. When you need to purchase something from a stall, you can type the command again to display the stalls again.\n\t\t\t\t\\n<TIPBOX>-View Tip List<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[1000] = {
@@ -588,7 +588,7 @@ tbl = {
 	[76] = {
 		Title = "Transcendence#transcend, 2nd, 3rd, high novice",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00076",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00076",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"2nd Job characters that have reached Level 99 can Transcend and be reborn as a higher class.\n\t\tWhen you Transcend, you'll become Level 1 High Novice and receive 100 Stat Points.\n\t\t- Transcendence Conditions:\n\t\t\tBase Level 99\n\t\t\tJob Level 50\n\t\t\t2nd Job (Expanded Classes excluded)\n\t\t\tWeight: 500 or below\n\t\t\t0 Skill Points left\n\t\t\tPeco Peco, Cart, and Falcon removed\n\t\t- Job Change Location: <NAVI>[Metheus Sylphe]<INFO>yuno_in02,88,164,0,101,0</INFO></NAVI> in Sage Castle on the northwest side of Juno\n\t\t\\n<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -606,7 +606,7 @@ tbl = {
 	[9051] = {
 		Title = "About the Transcendent Classes",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00076",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00076",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"If you have reached your limits, you can read the Book of Ymir in Juno, the City of Sages, to gain access to Valhalla.\n\t\t\tThere, in Odin's glorious shrine, you can reincarnate to live a new life with your present memories intact.\n\t\t\tCheck out these Transcendent classes that are more advanced from the existing classes.\n\n\t\t\t<NAVI>[Book of Ymir]<INFO>yuno_in02,93,205,0,101,0</INFO></NAVI>\n\n\t\t\t^663399> Requirement: Level 99^000000\n\t\t\t^663399> Target: Transcendent 2nd Job characters (Expanded jobs excluded)^000000\n\n\t\t\t<TIPBOX>- Previous Page<INFO>9031</INFO></TIPBOX>\n\t\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -750,7 +750,7 @@ tbl = {
 	[96] = {
 		Title = "Traits#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"The Traits are the stats added when you advance to a higher class after Level 200.\n\t\tEvery time you reach a new Level, you get Trait Points, with which you can further strengthen your character.\n\t\tYou can also get more Trait Points every 5 Levels.\n\t\tSelect Traits in the Stat window to check and improve your traits.\n\n\t\tOr you can simply type the commands below in the Chat window.\n\t\t/pow+ [value]\n\t\t/sta+ [value]\n\t\t/wis+ [value]\n\t\t/spl+ [value]\n\t\t/con+ [value]\n\t\t/crt+ [value]\n\n\t\t<TIPBOX>- Traits: POW (Power)<INFO>97</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: STA (Stamina)<INFO>98</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: WIS (Wisdom)<INFO>99</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: SPL (Spell)<INFO>100</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: CON (Concentration)<INFO>101</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: CRT (Creativity)<INFO>102</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Stats<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -759,7 +759,7 @@ tbl = {
 	[97] = {
 		Title = "Traits: POW (Power)#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"POW increases pure ATK and P.ATK (Power ATK).\n\t\t\n\t\tFor every point, pure ATK increases by 5.\n\t\tFor every 3 points, P.ATK increases by 1.\n\t\t\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -768,7 +768,7 @@ tbl = {
 	[98] = {
 		Title = "Traits: STA (Stamina)#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"STA increases Physical Resistance (RES).\n\t\t\n\t\tFor every point, RES increases by 1.\n\t\tFor every 3 points, RES increases by 5.\n\t\t\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -777,7 +777,7 @@ tbl = {
 	[99] = {
 		Title = "Traits: WIS (Wisdom)#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"WIS increases Magic Resistance (MRES).\n\t\t\n\t\tFor every point, MRES increases by 1.\n\t\tFor every 3 points, MRES increases by 5.\n\t\t\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -786,7 +786,7 @@ tbl = {
 	[100] = {
 		Title = "Traits: SPL (Spell)#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"SPL increases pure MATK and S.MATK (Spell MATK).\n\t\t\n\t\tFor every point, pure MATK increases by 5.\n\t\tFor every 3 points, S.MATK increases by 1.\n\t\t\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -795,7 +795,7 @@ tbl = {
 	[101] = {
 		Title = "Traits: CON (Concentration)#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"CON increases HIT, FLEE, P.ATK (Power ATK), and S.MATK (Spell MATK).\n\t\t\n\t\tFor every point, HIT and FLEE increase by 2.\n\t\tFor every 5 points, P.ATK increases by 1.\n\t\tFor every 5 points, S.MATK increases by 1.\n\t\t\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -804,7 +804,7 @@ tbl = {
 	[102] = {
 		Title = "Traits: CRT (Creativity)#stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"CRT increases H.PLUS (Heal Plus) and C.RATE (Critical Damage Rate).\n\t\t\n\t\tFor every point, H.PLUS increases by 1.\n\t\tFor every 3 points, C.RATE increases by 1.\n\t\t\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -813,7 +813,7 @@ tbl = {
 	[103] = {
 		Title = "Traits#stat, stat, stat",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"The Traits are the stats you can increase with Trait Points or through skill and item effects.\n\t\t\n\t\t<TIPBOX>- Traits: Power ATK (P.ATK)<INFO>104</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: Spell MATK (S.MATK)<INFO>105</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: Resistance (RES)<INFO>106</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: Magic Resistance (MRES)<INFO>107</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: Heal Plus (H.PLUS)<INFO>108</INFO></TIPBOX>\n\t\t<TIPBOX>- Traits: Critical Damage Rate (C.RATE)<INFO>109</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Stats<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -822,7 +822,7 @@ tbl = {
 	[104] = {
 		Title = "Traits: Power ATK (P.ATK)#physical",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Power ATK\n\t\t\n\t\tIncreases your final pure ATK and final equipment ATK by %.\n\t\t\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -831,7 +831,7 @@ tbl = {
 	[105] = {
 		Title = "Traits: Spell MATK (S.MATK)#magic",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Spell MATK\n\t\t\n\t\tIncreases your final pure MATK and final equipment MATK by %.\n\t\t\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -840,7 +840,7 @@ tbl = {
 	[106] = {
 		Title = "Traits: Resistance (RES)#physical_resistance",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Physical Resistance\n\t\t\n\t\tDecreases normal Physical damage by % before DEF is calculated.\n\t\t^FF0000> The Ignore Physical Resistance option can ignore only up to 50%.^000000\n\t\t\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -849,7 +849,7 @@ tbl = {
 	[107] = {
 		Title = "Traits: Magic Resistance (MRES)#magic_resistance",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Magic Resistance\n\t\t\n\t\tDecreases normal Magic damage by % before MDEF is calculated.\n\t\t^FF0000> The Ignore Magic Resistance option can only ignore up to 50%.^000000\n\t\t\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -858,7 +858,7 @@ tbl = {
 	[108] = {
 		Title = "Traits: Heal Plus (H.PLUS)#healing_amounts",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Heal Plus\n\t\t\n\t\tIncreases your final healing amounts by %.\n\t\t^FF0000> This is applied after the regular Healing Amount Bonus options.^000000\n\t\t\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -867,7 +867,7 @@ tbl = {
 	[109] = {
 		Title = "Traits: Critical Damage Rate (C.RATE)#critical",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00096",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00096",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Critical Damage Rate\n\t\t\n\t\tIncreases the 140% of Damage option, which is the default Critical damage amount.\n\t\t^FF0000> 10 C.RATE increases your basic Critical damage from 140% to 150%.^000000\n\t\t\n\t\t<TIPBOX>- Traits<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>- Character: Traits<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -876,7 +876,7 @@ tbl = {
 	[110] = {
 		Title = "Activity Point System (AP System)#activity",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00110",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00110",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Activity Points (AP) are the points added when you advance to a higher class after Level 200.\n\t\t\n\t\tAP is used to cast powerful skills, and its maximum limit is 200, regardless of your job.\n\t\tAP can only be restored by the AP-healing skills, and only certain classes have the ability to restore or drain other people's AP.\n\t\t\\n<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -1020,7 +1020,7 @@ tbl = {
 	[111] = {
 		Title = "Grade Up#grade up, weapon, armor, ether stone, etherstone, ether dust, etherdust",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00111",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00111",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Some Level 5 weapons and Level 2 armor can have their grade increased at +11 or higher.\n\t\tPlease visit the following Grade-up Specialists to grade up your items or exchange Grade-up materials.\n\t\t- <NAVI>[S'ratos]<INFO>grademk,34,184,0,100,0,0</INFO></NAVI>: Prontera Grade-up Center\n\t\t- <NAVI>[Shuribell]<INFO>paramk,34,184,0,100,0,0</INFO></NAVI>: Para Market Grade-up Center\n\t\t\n\t\tGrade-up Effect:\n\t\tGraded-up weapons get additional refining bonuses to their ATK and MATK, depending on their grade.\n\t\tSome equipment also gets different options, depending on its grade.\n\t\t\n\t\t<TIPBOX>- Grade-up Materials<INFO>112</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -1029,7 +1029,7 @@ tbl = {
 	[112] = {
 		Title = "Grade-up Materials#grade up, weapon, armor, ether stone, etherstone, ether dust, etherdust, combine, combination",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00112",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00112",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"You can create Grade-up materials by combining Ether Stones with gemstones from the Jewel Merchant.\n\t\t\n\t\tGrade 1: <ITEM>[Aquamarine]<INFO>720</INFO></ITEM> + <ITEM>[Ether Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrade 2: <ITEM>[Topaz]<INFO>728</INFO></ITEM> + <ITEM>[Ether Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrade 3: <ITEM>[Amethyst]<INFO>719</INFO></ITEM> + <ITEM>[Ether Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrade 4: <ITEM>[Amber]<INFO>1000321</INFO></ITEM> + <ITEM>[Ether Stone]<INFO>1000323</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>- Ether Ore<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -1038,7 +1038,7 @@ tbl = {
 	[113] = {
 		Title = "Weapon/Armor Levels#weapon level, armor level",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00113",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00113",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"You can exchange refining ores through the Blacksmith NPC in town.\n\t\t- <NAVI>[Xenophon]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t\t- <NAVI>[Dietrich]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t\t- <NAVI>[Abdullah]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t\t- <NAVI>[Hakim]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t\t- <NAVI>[Delight]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t\t- <NAVI>[Matestein]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t\t- <NAVI>[Fruel]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\t\t\n\t\t<ITEM>[Etherdeocon]<INFO>1000332</INFO></ITEM>\n\t\t\t1 Oridecon + 1 Ether Dust\n\t\t<ITEM>[Ethernium]<INFO>1000331</INFO></ITEM>\n\t\t\t1 Elunium + 1 Ether Dust\n\t\t<ITEM>[Enriched Etherdeocon]<INFO>1000334</INFO></ITEM>\n\t\t\t1 Enriched Oridecon + 2 Ether Dusts\n\t\t<ITEM>[Enriched Ethernium]<INFO>1000333</INFO></ITEM>\n\t\t\t1 Enriched Elunium + 2 Ether Dusts\n\t\t<ITEM>[HD Etherdeocon]<INFO>1000336</INFO></ITEM>\n\t\t\t1 HD Oridecon (Limited included) + 3 Ether Dusts\n\t\t<ITEM>[HD Ethernium]<INFO>1000335</INFO></ITEM>\n\t\t\t1 HD Elunium (Limited included) + 3 Ether Dusts\n\t\t<ITEM>[Ether Bradium]<INFO>1000368</INFO></ITEM>\n\t\t\t1 Bradium + 3 Ether Dusts\n\t\t<ITEM>[Ether Carnium]<INFO>1000370</INFO></ITEM>\n\t\t\t1 Carnium + 3 Ether Dusts\n\t\t<ITEM>[HD Ether Bradium]<INFO>1000369</INFO></ITEM>\n\t\t\t1 HD Bradium (Limited included) + 3 Ether Dusts\n\t\t<ITEM>[HD Ether Carnium]<INFO>1000371</INFO></ITEM>\n\t\t\t1 HD Carnium (Limited included) + 3 Ether Dusts\n\t\t\n\t\t<TIPBOX>- Ether Ore<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -1047,7 +1047,7 @@ tbl = {
 	[114] = {
 		Title = "Ether Ore#ether dust, etherdust, ether stone, etherstone, grade, refining, upgrade",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip00114",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip00114",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Ether is an ore that can't be used alone. It must be combined with other ores and gemstones for use.\n\t\t<ITEM>[Ether Dust]<INFO>1000322</INFO></ITEM>\n\t\t<ITEM>[Ether Stone]<INFO>1000323</INFO></ITEM>\n\t\t\n\t\tThe main materials, Ether Stones and Ether Dusts, can be found in the following areas: Banquet Hall of the Dead, Collapsed Opera House, Laboratory Waste Disposal Plant Rudus Floor 4, and Abandoned Lab Amicitia Floor 1 - General Research Center and Floor 2 - Homunculus Intensive Culture Room.\n\t\t\n\t\t<TIPBOX>- Weapon/Armor Levels<INFO>113</INFO></TIPBOX>\n\t\t<TIPBOX>- Grade-up System<INFO>111</INFO></TIPBOX>\n\t\t<TIPBOX>- View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -1056,7 +1056,7 @@ tbl = {
 	[5001] = {
 		Title = "MD Geffen Night Arena (210)#Geffen Night Arena Tournament Hero's Trace",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip05001",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip05001",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"There is an intelligence that said there is a place where the fighters who were active in the magic tournament take off their masks and engage in an Illegal Brawl. Perhaps if you ask the grumpy man you'll get the right information?\n\t\t\t\n\t\t\t> Dungeon Details\n\t\t\t\t- Cooldown 3 days\n\t\t\t\t- Time limit 60 minutes \n\t\t\t\t    (Time limit for each round is 1 minute.)\n\t\t\t\t- Level 210 or higher\n\t\t\t\t\n\t\t\tStarting Point\n\t\t\t<NAVI>[Dreadful man]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>\n\n\t\t\tDungeon Portal\n\t\t\t<NAVI>[Abandoned Portal]<INFO>dali02,80,61,0,101,0</INFO></NAVI>\n\n\t\t\tTo get new Equipments\n\t\t\t<NAVI>[Abandoned Vending Machine]<INFO>dali02,83,67,0,101,0</INFO></NAVI>\n\t\t\t\n\n\t\t\t\n\t\t\t<TIPBOX>-to previous page<INFO>7129</INFO></TIPBOX>\n\t\t\t<TIPBOX>-View list of tips<INFO>1000</INFO></TIPBOX>"
@@ -1065,7 +1065,7 @@ tbl = {
 	[8090] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"New test subjects will be secured for the Battle Core modification. The current implant experiment on normal, average people will be aborted at once. \n\t\t\t \n\t\t\tSleeping gas will be used in the test lab staged as the Presidential Meeting Room to secure these new test subjects. Carefully administer the sleeping gas and tranquilizer to preserve their physical integrity. \n\n\t\t\tThe proto Battle Core's output has been increased to match their strength and combat skills. Double-check before implantation."
@@ -1074,7 +1074,7 @@ tbl = {
 	[8091] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Our goal for Stage 1 is to successfully implant the Battle Cores without killing the subjects. The Cores' output has been increased to match their strength and combat skills. Detailed adjustments are required before the actual implementation. \n\t\t\t \n\t\t\tIf they don't die within the amount of our goal time, move on to Stage 2."
@@ -1083,7 +1083,7 @@ tbl = {
 	[8092] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Our goal for Stage 2 is to maximize their latent combat power, observe the results, and record any meaningful data. \n\t\t\t \n\t\t\tFor the Stage 2 test, expose the test subjects with stimulating environments in which they can draw and use the power of their Battle Cores. \n\t\t\t \n\t\t\tEach class requires a different environment. Check each subject's profile and create a different environment per lab. Submit your test report as soon as your test is completed. \n\t\t\t \n\t\t\t- Director Vorseff"
@@ -1092,7 +1092,7 @@ tbl = {
 	[8093] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Some of the test subjects experience difficulty using the power of their Battle Core, even though their implantation was successful. \n\t\t\t \n\t\t\tAny test subject that shows the Black Blood reaction* is unsalvageable. (* A symptom that causes the patient to vomit black blood. If the condition worsens, the patient also releases black blood through the eyes, ears, and old and fresh wounds.) \n\t\t\t \n\t\t\tThe Black Blood reaction kills its victim immediately or at least within five hours of occurrence, but the victim rises after death. We've named this phenomenon Ghostization."
@@ -1101,7 +1101,7 @@ tbl = {
 	[8094] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"A ghost appeared within two days after the time of death. This very first ghost is conscious and has its mind set on a single goal. \n\t\t\t \n\t\t\tWe theorize that this goal is related to the stimulating environment it experienced just before its death, but we need additional tests for confirmation. \n\t\t\t \n\t\t\tAlso, this first ghost has such a firm shape that it's hard to believe it's not alive. We believe that the clearer a test subject's mind, the vivider its resulting ghost."
@@ -1110,7 +1110,7 @@ tbl = {
 	[8095] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"In the case of Egnigem Cenia, the \"failed\" test subject as Director Vorseff calls it,he's gradually forgotten his original intention and turned into a mindless killing machine since he became a ghost. \n\t\t\t \n\t\t\tBut his bloodlust can be aimed at a specific target with careful control. Doctor Vorseff is managing him to analyze this phenomenon in person."
@@ -1119,7 +1119,7 @@ tbl = {
 	[8096] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Except for some special cases, test subjects tend to forget their original intentions and become mindlessly bloodthirsty, the longer they stay as ghosts. \n\t\t\t \n\t\t\tIt's almost impossible to bring them back under control once they go on a rampage. They must be carefully observed and detained before that happens."
@@ -1128,7 +1128,7 @@ tbl = {
 	[8097] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Imitation Ymir's Heart Piece, also known as the Battle Core. Can it make a man stronger if modified and implanted in him? The answer is obvious. Yes. \n\t\t\t \n\t\t\tWhat it can't do is give him strong will--the will to survive, instead of letting his anger get the best of him. I need a test subject with a stronger mind!"
@@ -1137,7 +1137,7 @@ tbl = {
 	[8098] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"A secret, unofficial expedition of elite adventurers from the Rune-Midgarts Kingdom. No one would know even if they disappear. \n\t\t\t \n\t\t\tThey're the perfect test subjects prepared just for me! I had to jump through some hoops, but I managed to have Rekenber steal them for me secretly from the President, with help from some powerful figure of Rune-Midgarts. \n\t\t\t \n\t\t\tNow, the stage is ready for my lovely children. All I can do now is hope that they'll create the perfect end to their journey and my experiment."
@@ -1146,7 +1146,7 @@ tbl = {
 	[8099] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Aww, I'm sleepy. How many days has it been since I came here? I want to go home. When I finally go home, my cat might hiss at me, thinking I'm a stranger. \n\t\t\t \n\t\t\t''Peaceful evenings after work,'' my butt! I'm still here, collecting bio research data. And why did they replace the perfectly good equipment with these crappy ones? I hope this company will go bankrupt one day--wait, this is not my diary. Err, why can't I delete this? {&#%&@... \n\t\t\t \n\t\t\t^FF0000This researcher has been disposed of. The original record was preserved as the reason for his disposal.^000000"
@@ -1155,7 +1155,7 @@ tbl = {
 	[8100] = {
 		Title = "Test Report",
 		Search = 0,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\collection\\Tablet_IL",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\collection\\Tablet_IL",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Our goal for Stage 1 was to successfully replace their hearts with the proto Cores without killing them. They didn't die within the amount of our goal time, so we moved on to Stage 2. \n\t\t\t \n\t\t\tOur goal for Stage 2 was to maximize their latent combat power, observe the results, and record any meaningful data. \n\t\t\t \n\t\t\tFor the Stage 2 test, we exposed the test subjects to some stimulating environments in which they could draw and use the power of their Battle Cores. \n\t\t\t \n\t\t\tWe've paid extra attention not to kill the test subjects through excessive stimulation, but the current death rate is still 100%. We suggest reinforcing the ghosts' will..."
@@ -1173,7 +1173,7 @@ tbl = {
 	[6095] = {
 		Title = "Airship Crash Site#Airship#Crash#Memorial#Side#Hero#",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\tip06095",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\tip06095",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
 			"Hero Side Story! Airship Crash\n\t\tA dimensional rift was discovered that could lead to the Mjolnir Mountains where the airship crashed. \n\t\t<NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI>\n\n\t\t- Quest Conditions\n\t\t^663399Level 200 or higher^000000\n\n\t\t<TIPBOX>-View Airship Crash Site rewards<INFO>6096</INFO></TIPBOX>\n\t\t<TIPBOX>-View list of tips<INFO>1000</INFO></TIPBOX>"
@@ -1185,7 +1185,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"You can obtain <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> from Airship Crash Site and exchange it for various rewards.\n\t\t- Elixir and Storage Device\n\t\t<ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t\n\t\t<ITEM>[Purple Special Storage Device]<INFO>100475</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t¡æ <ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM> 10\n\t\t\n\t\t- Unknown Equipment & Enhancement Items\n\t\t<ITEM>[Unknown STR Boots]<INFO>470071</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown DEX Boots]<INFO>470072</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown VIT Boots]<INFO>470073</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown INT Boots]<INFO>470074</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown AGI Boots]<INFO>470076</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown LUK Boots]<INFO>470077</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Ymir Beads]<INFO>100476</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t¡æ 30,000 Zeny\n\t\t\n\t\t- Card Album\n\t\t<ITEM>[Contaminated Card Album]<INFO>100462</INFO></ITEM>\n\t\t¡æ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 50°³\n\t\t\n\t\t<TIPBOX>-View the Airship Crash Site<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>-View list of tips<INFO>1000</INFO></TIPBOX>"
+			"You can obtain <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> from Airship Crash Site and exchange it for various rewards.\n\t\t- Elixir and Storage Device\n\t\t<ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t\n\t\t<ITEM>[Purple Special Storage Device]<INFO>100475</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\tï¿½ï¿½ <ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM> 10\n\t\t\n\t\t- Unknown Equipment & Enhancement Items\n\t\t<ITEM>[Unknown STR Boots]<INFO>470071</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown DEX Boots]<INFO>470072</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown VIT Boots]<INFO>470073</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown INT Boots]<INFO>470074</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown AGI Boots]<INFO>470076</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown LUK Boots]<INFO>470077</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Ymir Beads]<INFO>100476</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\tï¿½ï¿½ 30,000 Zeny\n\t\t\n\t\t- Card Album\n\t\t<ITEM>[Contaminated Card Album]<INFO>100462</INFO></ITEM>\n\t\tï¿½ï¿½ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 50ï¿½ï¿½\n\t\t\n\t\t<TIPBOX>-View the Airship Crash Site<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>-View list of tips<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[9162] = {
@@ -1333,7 +1333,7 @@ tbl = {
 		}
 	},
 	[4230] = {
-		Title = "Q Investigation of the High Priest's villa (170)#Äù½ºÆ®¿¡ÇÇ18±âµµÀÇ¹æÇâ",
+		Title = "Q Investigation of the High Priest's villa (170)#ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½18ï¿½âµµï¿½Ç¹ï¿½ï¿½ï¿½",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -1455,7 +1455,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"The adventurer discovers a child on a corner of Rachel's Road who appears to be being ostracized by several of his friends. What is the situation? Let¡¯s hear it for ourselves.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"
+			"The adventurer discovers a child on a corner of Rachel's Road who appears to be being ostracized by several of his friends. What is the situation? Letï¿½ï¿½s hear it for ourselves.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4244] = {
@@ -1473,7 +1473,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"An uncomfortable truth I encountered while passing through Rachel¡¯s alley. Still, the child does not give up and wants to keep trying.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Abused Child]<INFO>rachel,176,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Flower Room's operations<INFO>4246</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"
+			"An uncomfortable truth I encountered while passing through Rachelï¿½ï¿½s alley. Still, the child does not give up and wants to keep trying.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Abused Child]<INFO>rachel,176,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Flower Room's operations<INFO>4246</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4246] = {
@@ -1518,7 +1518,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"It's not here, it's not now, but it's also a reality and an existing place. These spaces that you can see from this side, but you can't see from that side, they're called Illusion.\n\t\tIllusions are usually otherworldly lands where there is no leveling penalty to drop rates and experience, and where  <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>ÀÌ is a common element.\n\t\t\n\t\t<TIPBOX>-Illusion of Moonlight<INFO>9086</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Vampires<INFO>9087</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Frozen<INFO>9088</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Turtle Dungeon<INFO>9089</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Teddy Bear<INFO>9090</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Luanda<INFO>9091</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Labyrinth<INFO>9092</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusions of Underwater<INFO>9093</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Twins<INFO>9157</INFO></TIPBOX>\n\t\t\n\t\t-About the Investigation Team\n\t\tThe Illusory Investigators, who specialize in investigating illusions, welcome you to explore them.\n\t\tÇÁAfter signing up with <NAVI>[Joel]<INFO>prt_in,136,34,</INFO></NAVI> leader of the Investigation Corps in Prontera, you'll be able to take on the daily quests within each Illusion dungeon.\n\t\t<TIPBOX>-Welcome Investigation Team<INFO>9126</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Back to previous page<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>-View tip list<INFO>1000</INFO></TIPBOX>"
+			"It's not here, it's not now, but it's also a reality and an existing place. These spaces that you can see from this side, but you can't see from that side, they're called Illusion.\n\t\tIllusions are usually otherworldly lands where there is no leveling penalty to drop rates and experience, and where  <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>ï¿½ï¿½ is a common element.\n\t\t\n\t\t<TIPBOX>-Illusion of Moonlight<INFO>9086</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Vampires<INFO>9087</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Frozen<INFO>9088</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Turtle Dungeon<INFO>9089</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Teddy Bear<INFO>9090</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Luanda<INFO>9091</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Labyrinth<INFO>9092</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusions of Underwater<INFO>9093</INFO></TIPBOX>\n\t\t<TIPBOX>-Illusion of Twins<INFO>9157</INFO></TIPBOX>\n\t\t\n\t\t-About the Investigation Team\n\t\tThe Illusory Investigators, who specialize in investigating illusions, welcome you to explore them.\n\t\tï¿½ï¿½After signing up with <NAVI>[Joel]<INFO>prt_in,136,34,</INFO></NAVI> leader of the Investigation Corps in Prontera, you'll be able to take on the daily quests within each Illusion dungeon.\n\t\t<TIPBOX>-Welcome Investigation Team<INFO>9126</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Back to previous page<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>-View tip list<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[9157] = {
@@ -1527,7 +1527,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"Unknown space found somewhere on the second floor of Ant Hell.\n\t\t±× There is an adventurer who went on an expedition alone, saying that a friend who looks just like him was in danger.\n\t\t±× The adventurer's companions claim to have seen things and ask for help...\n\t\t^663399Level 160 or higher^000000\n\t\t\n\t\t<NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\t\t\n\t\t-Welcome Investigators Extermination Quest\n\t\t<TIPBOX>Q Defeat 100 Illusion of Twins (160)<INFO>10088</INFO></TIPBOX>\n\t\t\n\t\t-Daily Quests you can take after completing a quest\n\t\t<TIPBOX>Q Geological Survey (160)<INFO>9158</INFO></TIPBOX>\n\t\t<TIPBOX>Q Source of Power (160)<INFO>9159</INFO></TIPBOX>\n\t\t<TIPBOX>Q Same Thing (160)<INFO>9160</INFO></TIPBOX>\n\t\t<TIPBOX>Q Shared Memories (160)<INFO>9161</INFO></TIPBOX>\n\t\t\n\t\tYou can trade some equipment items for better performance by using items you've earned in Illusion of Twins, including <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>, as materials.\n\t\tThe gear you wish to trade in must be at least refined to +9, and any buffs, card options, etc. on the existing gear will be removed.\n\t\t^663399±³Location of the ring^000000\n\t\t-<NAVI>[From]<INFO>ant_d02_i,175,186,0,101,0</INFO></NAVI>\n\t\t-<ITEM>[Illusion Sprint Mail[1]]<INFO>450182</INFO></ITEM>\n\t\t+9 <ITEM>[Sprint Mail[1]]<INFO>2387</INFO></ITEM>, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ea, <ITEM>[Giearth's Worn Hat]<INFO>1000514</INFO></ITEM> 55ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Sprint Shoes[1]]<INFO>470066</INFO></ITEM>\n\t\t+9<ITEM>[Sprint Shoes[1]]<INFO>2440</INFO></ITEM>, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Thorn<INFO>550030</INFO></ITEM>\n\t\t<ITEM>Staff of Darkness[2]]<INFO>550030</INFO></ITEM>\n\t\t+9<ITEM>[Thorn of Darkness]<INFO>1636</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75ea, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 135ea\n\t\t-<ITEM>[Illusion <INFO>550031</INFO></ITEM>\n\t\t<ITEM>Dea Staff[2]]<INFO>550031</INFO></ITEM>\n\t\t+9 <ITEM>[Dea Staff[1]]<INFO>2005</INFO></ITEM>, <ITEM>[Maya's Crown]<INFO>1000518</INFO></ITEM> 15ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125ea, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 150°³\n\t\t-<ITEM>[Illusion Geladria[2]]<INFO>530015</INFO></ITEM>\n\t\t+9 <ITEM>[Geladria]<INFO>1414</INFO></ITEM>, <ITEM>[Giearth's Worn Hat]<INFO>1000514</INFO></ITEM> 55ea, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 150ea\n\t\t-<ITEM>[Illusion Excalibur[2]]<INFO>500030</INFO></ITEM>\n\t\t+9 <ITEM>[Excalibur]<INFO>1137</INFO></ITEM>,  <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75ea, <ITEM>[Opaque Liquid]<INFO>1000513</INFO></ITEM> 75ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 135ea\n\t\t-<ITEM>[Illusion Doom Slayer[2]]<INFO>620010</INFO></ITEM>\n\t\t+9 <ITEM>[Doom Slayer]<INFO>1370</INFO></ITEM>, <ITEM>[Opaque Liquid]<INFO>500030</INFO></ITEM> 75ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 150ea\n\t\t-<ITEM>[Illusion Ancient Dagger[2]]<INFO>510034</INFO></ITEM>\n\t\t+9 <ITEM>[Ancient Dagger]<INFO>13062</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75ea, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125°³, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 135°³\n\t\t-<ITEM>[ÀÏ·çÀü °¡µå[1]]<INFO>460017</INFO></ITEM>\n\t\t+9 <ITEM>[°¡µå]<INFO>2101</INFO></ITEM>, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 75ea, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Silver Guard[1]]<INFO>460018</INFO></ITEM>\n\t\t+9 <ITEM>[Silver Guard[1]]<INFO>2146</INFO></ITEM>, <ITEM>[Ant Jaw]<INFO>1000512</INFO></ITEM> 55ea, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Sprint Ring[1]]<INFO>490120</INFO></ITEM>\n\t\t<ITEM>[Sprint Ring]<INFO>2744</INFO></ITEM>, <ITEM>[Opaque Liquid]<INFO>1000513</INFO></ITEM> 75ea, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 120ea\n\t\t-<ITEM>[Illusion<INFO>490121</INFO></ITEM>\n\t\t<ITEM>Sprint Gloves[1]]<INFO>490121</INFO></ITEM>\n\t\t<ITEM>[Sprint Gloves[1]]<INFO>2935</INFO></ITEM>, <ITEM>[Ant Jaw]<INFO>1000512</INFO></ITEM> 55ea, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 120ea\n\n\t\t<TIPBOX>-Back to previous page<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>-View the list of tips<INFO>1000</INFO></TIPBOX>"
+			"Unknown space found somewhere on the second floor of Ant Hell.\n\t\tï¿½ï¿½ There is an adventurer who went on an expedition alone, saying that a friend who looks just like him was in danger.\n\t\tï¿½ï¿½ The adventurer's companions claim to have seen things and ask for help...\n\t\t^663399Level 160 or higher^000000\n\t\t\n\t\t<NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\t\t\n\t\t-Welcome Investigators Extermination Quest\n\t\t<TIPBOX>Q Defeat 100 Illusion of Twins (160)<INFO>10088</INFO></TIPBOX>\n\t\t\n\t\t-Daily Quests you can take after completing a quest\n\t\t<TIPBOX>Q Geological Survey (160)<INFO>9158</INFO></TIPBOX>\n\t\t<TIPBOX>Q Source of Power (160)<INFO>9159</INFO></TIPBOX>\n\t\t<TIPBOX>Q Same Thing (160)<INFO>9160</INFO></TIPBOX>\n\t\t<TIPBOX>Q Shared Memories (160)<INFO>9161</INFO></TIPBOX>\n\t\t\n\t\tYou can trade some equipment items for better performance by using items you've earned in Illusion of Twins, including <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>, as materials.\n\t\tThe gear you wish to trade in must be at least refined to +9, and any buffs, card options, etc. on the existing gear will be removed.\n\t\t^663399ï¿½ï¿½Location of the ring^000000\n\t\t-<NAVI>[From]<INFO>ant_d02_i,175,186,0,101,0</INFO></NAVI>\n\t\t-<ITEM>[Illusion Sprint Mail[1]]<INFO>450182</INFO></ITEM>\n\t\t+9 <ITEM>[Sprint Mail[1]]<INFO>2387</INFO></ITEM>, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ea, <ITEM>[Giearth's Worn Hat]<INFO>1000514</INFO></ITEM> 55ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Sprint Shoes[1]]<INFO>470066</INFO></ITEM>\n\t\t+9<ITEM>[Sprint Shoes[1]]<INFO>2440</INFO></ITEM>, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Thorn<INFO>550030</INFO></ITEM>\n\t\t<ITEM>Staff of Darkness[2]]<INFO>550030</INFO></ITEM>\n\t\t+9<ITEM>[Thorn of Darkness]<INFO>1636</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75ea, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 135ea\n\t\t-<ITEM>[Illusion <INFO>550031</INFO></ITEM>\n\t\t<ITEM>Dea Staff[2]]<INFO>550031</INFO></ITEM>\n\t\t+9 <ITEM>[Dea Staff[1]]<INFO>2005</INFO></ITEM>, <ITEM>[Maya's Crown]<INFO>1000518</INFO></ITEM> 15ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125ea, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 150ï¿½ï¿½\n\t\t-<ITEM>[Illusion Geladria[2]]<INFO>530015</INFO></ITEM>\n\t\t+9 <ITEM>[Geladria]<INFO>1414</INFO></ITEM>, <ITEM>[Giearth's Worn Hat]<INFO>1000514</INFO></ITEM> 55ea, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 150ea\n\t\t-<ITEM>[Illusion Excalibur[2]]<INFO>500030</INFO></ITEM>\n\t\t+9 <ITEM>[Excalibur]<INFO>1137</INFO></ITEM>,  <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75ea, <ITEM>[Opaque Liquid]<INFO>1000513</INFO></ITEM> 75ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 135ea\n\t\t-<ITEM>[Illusion Doom Slayer[2]]<INFO>620010</INFO></ITEM>\n\t\t+9 <ITEM>[Doom Slayer]<INFO>1370</INFO></ITEM>, <ITEM>[Opaque Liquid]<INFO>500030</INFO></ITEM> 75ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 150ea\n\t\t-<ITEM>[Illusion Ancient Dagger[2]]<INFO>510034</INFO></ITEM>\n\t\t+9 <ITEM>[Ancient Dagger]<INFO>13062</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75ea, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ï¿½ï¿½, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 135ï¿½ï¿½\n\t\t-<ITEM>[ï¿½Ï·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½[1]]<INFO>460017</INFO></ITEM>\n\t\t+9 <ITEM>[ï¿½ï¿½ï¿½ï¿½]<INFO>2101</INFO></ITEM>, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 75ea, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Silver Guard[1]]<INFO>460018</INFO></ITEM>\n\t\t+9 <ITEM>[Silver Guard[1]]<INFO>2146</INFO></ITEM>, <ITEM>[Ant Jaw]<INFO>1000512</INFO></ITEM> 55ea, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 100ea\n\t\t-<ITEM>[Illusion Sprint Ring[1]]<INFO>490120</INFO></ITEM>\n\t\t<ITEM>[Sprint Ring]<INFO>2744</INFO></ITEM>, <ITEM>[Opaque Liquid]<INFO>1000513</INFO></ITEM> 75ea, <ITEM>[Ant Antennae]<INFO>1000510</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 120ea\n\t\t-<ITEM>[Illusion<INFO>490121</INFO></ITEM>\n\t\t<ITEM>Sprint Gloves[1]]<INFO>490121</INFO></ITEM>\n\t\t<ITEM>[Sprint Gloves[1]]<INFO>2935</INFO></ITEM>, <ITEM>[Ant Jaw]<INFO>1000512</INFO></ITEM> 55ea, <ITEM>[Bat's fur]<INFO>1000517</INFO></ITEM> 125ea, <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM> 120ea\n\n\t\t<TIPBOX>-Back to previous page<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>-View the list of tips<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[9158] = {
@@ -1578,10 +1578,10 @@ tbl = {
 	[701] = {
 		Title = "Overseas Care Package I",
 		Search = 1,
-		Image = "À¯ÀúÀÎÅÍÆäÀÌ½º\\tipbox\\test",
+		Image = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì½ï¿½\\tipbox\\test",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"<ITEM>Overseas Care Package<INFO>17768</INFO></ITEM>\n<ITEM>Rose Bundle A<INFO>23251</INFO></ITEM>\n<ITEM>Orleans's Bundle A<INFO>23252</INFO></ITEM>\n<ITEM>Black Shiba Inu Bundle A<INFO>23253</INFO></ITEM>\n<ITEM>Valkyrie Bundle A<INFO>23254</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Imuke Upper Shield<INFO>23255</INFO></ITEM>\n<ITEM>Baron's Evil Eye<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM>\n<TIPBOX>-Back to previous page<INFO>700</INFO></TIPBOX>\n <TIPBOX>-View the list of tips<INFO>1000</INFO></TIPBOX>"
+			"<ITEM>Overseas Care Package<INFO>17768</INFO></ITEM>\n<ITEM>Rose Bundle A<INFO>23251</INFO></ITEM> 1.031%\n<ITEM>Orleans's Bundle A<INFO>23252</INFO></ITEM> 1.031%\n<ITEM>Black Shiba Inu Bundle A<INFO>23253</INFO></ITEM> 3.093%\n<ITEM>Valkyrie Bundle A<INFO>23254</INFO></ITEM> 5.155%\n<ITEM>Kardui Bundle A<INFO>23255</INFO></ITEM> 8.247%\n<ITEM>Imuke Upper Shield<INFO>28910</INFO></ITEM> 3.093%\n<ITEM>Baron's Evil Eye<INFO>18877</INFO></ITEM> 1.031%\n<ITEM>Toy Syringe<INFO>5978</INFO></ITEM> 1.031%\n<ITEM>Mask of Hero<INFO>19083</INFO></ITEM> 1.031%\n<ITEM>Nectar Suit<INFO>15072</INFO></ITEM> 5.155%\n<ITEM>Nero Mask<INFO>18799</INFO></ITEM> 3.093%\n<ITEM>Fallen Monk Rosary<INFO>28386</INFO></ITEM> 1.031%\n<ITEM>Spirit King's Ring<INFO>28394</INFO></ITEM> 3.093%\n<ITEM>Pale Moon Hat<INFO>19102</INFO></ITEM> 3.093%\n<ITEM>Elemental Towel<INFO>20799</INFO></ITEM> 3.093%\n<ITEM>Sting Silk Ribbon<INFO>19144</INFO></ITEM> 5.155%\n<ITEM>Gravekeeper Shoes<INFO>22052</INFO></ITEM> 5.155%\n<ITEM>Krishnagar<INFO>13088</INFO></ITEM> 5.155%\n<ITEM>Love Piece<INFO>18564</INFO></ITEM> 1.031%\n<ITEM>Handkerchief in Mouth<INFO>18670</INFO></ITEM> 1.031%\n<ITEM>Witch Hat<INFO>18543</INFO></ITEM> 1.031%\n<ITEM>Chilly Breath<INFO>18746</INFO></ITEM> 1.031%\n<ITEM>Long Tongue<INFO>18616</INFO></ITEM> 3.093%\n<ITEM>Elven Bow<INFO>1746</INFO></ITEM> 3.093%\n<ITEM>Iron Nail<INFO>1837</INFO></ITEM> 3.093%\n<ITEM>Twin Edge of Naght Sieger<INFO>13413</INFO></ITEM> 3.093%\n30 <ITEM>Enriched Oridecon<INFO>6292</INFO></ITEM> 3.093%\n30 <ITEM>Enriched Elunium<INFO>6291</INFO></ITEM> 3.093%\n8 <ITEM>HE Bubble Gum<INFO>12412</INFO></ITEM> 5.155%\n8 <ITEM>HE Battle Manual<INFO>12411</INFO></ITEM> 5.155%\n8 <ITEM>Job Battle Manual<INFO>14592</INFO></ITEM> 8.247%\n<TIPBOX>-Back to previous page<INFO>700</INFO></TIPBOX>\n <TIPBOX>-View the list of tips<INFO>1000</INFO></TIPBOX>"
 		}
 	}
 }

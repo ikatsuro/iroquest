@@ -3930,6 +3930,7 @@ QuestInfoList = {
 	},
 	[3135] = {
 		Title = "Nidhoggur's Nest",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"The ground trembles from Nidhoggur's awakening. Wait until the timer expires before you can regain access to the Dungeon."
 		},
@@ -8609,7 +8610,7 @@ QuestInfoList = {
 		Description = {
 			"\"I can make a voucher that will demonstrate your desire to become a warrior of the earth for you to present to Gunslinger drillmasters.\""
 		},
-		Summary = "3 Zargons, 10 Shells, 3 Fluffs, 1 Trunk, 3 Rainbow Shells, 3 Green Herbs"
+		Summary = "3 Green Herb, 3 Mushroom Spore"
 	},
 	[6022] = {
 		Title = "Making a voucher",
