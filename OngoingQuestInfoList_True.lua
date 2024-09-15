@@ -3383,9 +3383,9 @@ QuestInfoList = {
 		Title = "The Curse of Baphomet",
 		IconName = "ico_sc.bmp",
 		NpcSpr = "4_BAPHOMET",
-		NpcNavi = "prt_monk",
-		NpcPosX = 192,
-		NpcPosY = 170,
+		NpcNavi = "monk_test",
+		NpcPosX = 309,
+		NpcPosY = 146,
 		Description = {
 			"\"You cannot enter because the Curse of Baphomet still remains. The curse of Baphomet disappears 12 hours after you have entered.\""
 		},
@@ -3429,9 +3429,9 @@ QuestInfoList = {
 		Title = "Sealed Shrine After-effect",
 		IconName = "ico_sc.bmp",
 		NpcSpr = "4_M_OLDFRIAR",
-		NpcNavi = "prt_monk",
-		NpcPosX = 192,
-		NpcPosY = 170,
+		NpcNavi = "monk_test",
+		NpcPosX = 309,
+		NpcPosY = 146,
 		Description = {
 			"Due to the after-effect of the dungeon, you can only re-enter the Sealed Shrine after 12 hours have expired."
 		},
