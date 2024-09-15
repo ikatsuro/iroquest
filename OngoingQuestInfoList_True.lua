@@ -3381,10 +3381,16 @@ QuestInfoList = {
 	},
 	[3040] = {
 		Title = "The Curse of Baphomet",
+		IconName = "ico_sc.bmp",
+		NpcSpr = "4_BAPHOMET",
+		NpcNavi = "prt_monk",
+		NpcPosX = 192,
+		NpcPosY = 170,
 		Description = {
 			"\"You cannot enter because the Curse of Baphomet still remains. The curse of Baphomet disappears 12 hours after you have entered.\""
 		},
-		Summary = " "
+		Summary = " ",
+		CoolTimeQuest = 1
 	},
 	[3041] = {
 		Title = "The Curse of Baphomet",
@@ -3421,10 +3427,16 @@ QuestInfoList = {
 	},
 	[3046] = {
 		Title = "Sealed Shrine After-effect",
+		IconName = "ico_sc.bmp",
+		NpcSpr = "4_M_OLDFRIAR",
+		NpcNavi = "prt_monk",
+		NpcPosX = 192,
+		NpcPosY = 170,
 		Description = {
 			"Due to the after-effect of the dungeon, you can only re-enter the Sealed Shrine after 12 hours have expired."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[3050] = {
 		Title = "Resurrection of Satan Morocc - 1",
@@ -36796,8 +36808,13 @@ QuestInfoList = {
 	},
 	[60214] = {
 		Title = "MVP Summoning Timer",
+		NpcSpr = "2_M_SAGE_OLD",
+		NpcNavi = "gef_tower",
+		NpcPosX = 41,
+		NpcPosY = 16,
 		Description = { "You have 4 hours to access the services of the MVP Summoner." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[60301] = {
 		Title = "Dragon Hunting",
