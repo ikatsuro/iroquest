@@ -58835,5 +58835,82 @@ QuestInfoList = {
 		Title = "Gift from Reward Cat",
 		Description = { "You cannot receive the gift from the Reward cat again." },
 		Summary = ""
+	},
+	[17607] = {
+		Title = "Biosphere",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"We have requested assistance with the artificial habitat within Varmund Mansion."
+		},
+		Summary = "Instructions completed"
+	},
+	[17608] = {
+		Title = "Biosphere - Ice",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After defeat 100 monsters in the Ice Biosphere, please report it to <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 100 Monsters"
+	},
+	[17609] = {
+		Title = "Biosphere - Fire",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After defeat 100 monsters in the Fire Biosphere, please report it to <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 100 Monsters"
+	},
+	[17610] = {
+		Title = "Biosphere - Grass",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After defeat 100 monsters in the Grass Biosphere, please report it to <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 100 Monsters"
+	},
+	[17611] = {
+		Title = "Biosphere - Death",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After defeat 100 monsters in the Death Biosphere, please report it to <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 100 Monsters"
+	},
+	[17612] = {
+		Title = "Cooldown : Biosphere - Ice",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04:00 AM",
+		CoolTimeQuest = 1
+	},
+	[17613] = {
+		Title = "Cooldown : Biosphere - Fire",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04:00 AM",
+		CoolTimeQuest = 1
+	},
+	[17614] = {
+		Title = "Cooldown : Biosphere - Grass",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04:00 AM",
+		CoolTimeQuest = 1
+	},
+	[17615] = {
+		Title = "Cooldown : Biosphere - Death",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04:00 AM",
+		CoolTimeQuest = 1
 	}
+
 }
