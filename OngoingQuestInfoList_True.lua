@@ -36748,7 +36748,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[60200] = {
-		Title = "Endless Tower Effect",,
+		Title = "Endless Tower Effect",
 		IconName = "ico_sc.bmp",
 		NpcSpr = "2_MONEMUS",
 		NpcNavi = "e_tower",
