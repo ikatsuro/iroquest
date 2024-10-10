@@ -58911,6 +58911,128 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 04:00 AM",
 		CoolTimeQuest = 1
+	},
+	[297032] = {
+		Title = "[Event] Lullaby for the Lily (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Maya, a spiritualist from a certain organization, has been dispatched to Geffen to calm the ^4D4DFFspirit disturbance^000000 occurring during the ^4D4DFFFestival of the Dead^000000.\n\t\tIt seems there is a huge spirit disturbance found ^4D4DFFnear the Orc Village^000000 and it's somehow related to a ^4D4DFFfamous urban legend^000000 in Rune Midgard.\n\t\tSo, she is looking for an experienced adventurer to investigate the location and perform a spirit cleansing there.\n\t\t\n\t\tWell, you seem interested in this so-called spirit cleansing and decided to take up the request.\n\t\tLet's visit the <NAVI>[Entrance to Orc Dungeon]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and see whether the legend is true.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Investigate the location",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297033] = {
+		Title = "[Event] Lullaby for the Lily (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You found the mysterious novice inside the entrance to the Orc Dungeon. Maya is also following you in her 'spirit form'.\n\t\tBut as soon as you approached the novice, she suddenly screamed, and everything went crazy.\n\t\t\n\t\tWhen you realized, you had been teleported to another place, and it's not looking good.\n\t\tYes. There's an <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI> waiting in front of you.\n\t\tWhy don't you gather up courage and try talking to it?\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Talk to Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297034] = {
+		Title = "[Event] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have been tasked with purifying 5 spirit fragments that are scattered within this building complex to weaken that <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\tLet's show them that you are a talented adventurer, and maybe the organization will offer you a new job.\n\t\t\n\t\tJust walk around this area, and you might bump into one of the spirits.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Purify 5 Spirits",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297035] = {
+		Title = "[Event] Lullaby for the Lily (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\tWho would have thought that this spirit is the one who torments Tiger Lily's soul?\n\t\t\n\t\tLet's go back and confront the spirit once and for all.\n\t\t\n\t\tOf course, Maya will do the job. \n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Confront Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297036] = {
+		Title = "[Event] Lullaby for the Lily (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The ominous spirit has been purified. Tiger Lily's soul is no longer imprisoned by these malicious entities.\n\t\t\n\t\tNow, we might be able to purify <NAVI>[Tiger Lily]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and let her rest in peace once and for all.\n\t\t\n\t\tIt's time to say goodbye for the last time to her.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Purify Tiger Lily",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297037] = {
+		Title = "[Event] Lullaby for the Lily (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The tormented soul of a novice has been released, and she already left this world in peace.\n\t\t\n\t\tBut I think I heard some weird things that come from that novice.\n\t\t\n\t\tWell, let's just talk to <NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> and end this bizzare adventure.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Talk to Maya",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297038] = {
+		Title = "[Daily] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Maya's request to do a spirit cleansing today.\n\t\tLet's dive into the spirit realm and finish it early before dinner.\n\t\t\n\t\tIf I recall correctly, first, you need to talk to the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>, right?\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Talk to Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297039] = {
+		Title = "[Daily] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\t\n\t\tLet's confront the spirit and finish the job quickly.\n\t\tWell, Maya will be the one who does the job, though.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Confront Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297040] = {
+		Title = "[Daily] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have completed today's Spirit Cleansing session.\n\t\n\t\tLet's report to 'real' Maya and claim your rewards.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Talk to Maya",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297041] = {
+		Title = "[Cooldown] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have done enough today.\n\t\t^FF0000Too many spirit cleansings will take a toll on your body.^000000\n\t\n\t\tLet's return to Maya after 20 hours if you want to do another spirit cleansing.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+		},
+		Summary = "Reset after 20 hours",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
 	}
+
 
 }
