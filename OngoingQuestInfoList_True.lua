@@ -56904,16 +56904,16 @@ QuestInfoList = {
 	[21901] = {
 		Title = "Must-Know Services",
 		Description = {
-			"Spraki says that there is something you must know in order to venture out, and tells you to meet <NAVI>[Capra employee]<INFO>izlude,128,148,000,0</INFO></NAVI> in the center of Izlude."
+			"Spraki says that there is something you must know in order to venture out, and tells you to meet <NAVI>[Kafra employee]<INFO>izlude,128,148,000,0</INFO></NAVI> in the center of Izlude."
 		},
-		Summary = "Talk to the Capra employee",
+		Summary = "Talk to the Kafra employee",
 		RewardEXP = "800",
 		RewardJEXP = "45"
 	},
 	[21902] = {
 		Title = "Is this your first request?",
 		Description = {
-			"A Capra employee has asked you to deliver a delivery box to <NAVI>[Morris]<INFO>izlude_in,69,116,000,0</INFO></NAVI>. Morris is at Izlude's tool shop."
+			"A Kafra employee has asked you to deliver a delivery box to <NAVI>[Morris]<INFO>izlude_in,69,116,000,0</INFO></NAVI>. Morris is at Izlude's tool shop."
 		},
 		Summary = "Deliver the crate to Morris",
 		RewardEXP = "800",
@@ -57079,9 +57079,9 @@ QuestInfoList = {
 	[21924] = {
 		Title = "Advice for Training",
 		Description = {
-			"Spraki suggests traveling to Feyon, saying that there might be something to do in Feyon. Go to Feyon via <NAVI>[Capra Staff]<INFO>izlude,128,148,000,0</INFO></NAVI> in Izlude Square."
+			"Spraki suggests traveling to Feyon, saying that there might be something to do in Feyon. Go to Feyon via <NAVI>[Kafra Staff]<INFO>izlude,128,148,000,0</INFO></NAVI> in Izlude Square."
 		},
-		Summary = "Talk to the Capra employee"
+		Summary = "Talk to the Kafra employee"
 	},
 	[21925] = {
 		Title = "A Call from the Adventurers' Guild",
