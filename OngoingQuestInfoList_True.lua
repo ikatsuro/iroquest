@@ -14477,10 +14477,15 @@ QuestInfoList = {
 	},
 	[7999] = {
 		Title = "Central Room's ''Return''",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"I might have to reinvestigate the core of the Central Room equipped with a partial ''return'' system."
 		},
 		Summary = "Reset at 4:00 a.m.",
+		NpcSpr = "4_M_MD_SEYREN_D",
+		NpcNavi = "que_swat",
+		NpcPosX = 150,
+		NpcPosY = 58,
 		CoolTimeQuest = 1
 	},
 	[8000] = {
@@ -49202,7 +49207,7 @@ QuestInfoList = {
 	},
 	[5909] = {
 		Title = "[Cooldown] Airship Crash Site",
-		IconName = "ico_nq.bmp",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"You can enter the airship crash site once every 3 days. Talk to <NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI> to access the site again later."
 		},
@@ -58882,7 +58887,7 @@ QuestInfoList = {
 		Description = {
 			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04:00 AM",
+		Summary = "Reset after 20 hours",
 		CoolTimeQuest = 1
 	},
 	[17613] = {
@@ -58891,7 +58896,7 @@ QuestInfoList = {
 		Description = {
 			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04:00 AM",
+		Summary = "Reset after 20 hours",
 		CoolTimeQuest = 1
 	},
 	[17614] = {
@@ -58900,7 +58905,7 @@ QuestInfoList = {
 		Description = {
 			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04:00 AM",
+		Summary = "Reset after 20 hours",
 		CoolTimeQuest = 1
 	},
 	[17615] = {
@@ -58909,7 +58914,7 @@ QuestInfoList = {
 		Description = {
 			"Please come back after some time has passed. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04:00 AM",
+		Summary = "Reset after 20 hours",
 		CoolTimeQuest = 1
 	},
 	[297032] = {
@@ -59032,6 +59037,580 @@ QuestInfoList = {
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[17617] = {
+		Title = "Guide to Victory",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"You have reached the pinnacle of your level. Visit Juno's <NAVI>[Sage Castle]<INFO>yuno_in02,88,164,0,101,0</INFO></NAVI> right now and start a new life beyond your limits."
+		},
+		Summary = "Visit Juno Castle"
+	},
+	[17618] = {
+		Title = "Job Change Info Mail",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"A job change guidance mail has been sent to those who can move to the next higher expansion job."
+		},
+		Summary = "Mail Sent"
+	},
+	[16601] = {
+		Title = "Path of the Night Watch",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"To learn about the Night's Watch, let's listen to <NAVI>[Illya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI>'s story."
+		},
+		Summary = "Talk to Illya"
+	},
+	[16602] = {
+		Title = "Path of the Night Watch",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"To take the Night Watch exam, let's talk to <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> who is waiting."
+		},
+		Summary = "Talk to Elena"
+	},
+	[16603] = {
+		Title = "Path of the Night Watch",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Talk to <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> and enter the Night Watch Advancement Test Center to take the test."
+		},
+		Summary = "Pass the Test"
+	},
+	[16604] = {
+		Title = "Path of the Night Watch",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"You have passed the test and it's time to change your job. Let's talk to <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> and proceed with the change."
+		},
+		Summary = "Talk to Elena"
+	},
+	[3519] = {
+		Title = "Seoyeon's Trial (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Defeat 100 monsters of any type in <NAVI>[Amatsu Tatami Maze]<INFO>ama_dun01.gat,156,192,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 100 Monsters"
+	},
+	[3520] = {
+		Title = "Seoyeon's Trial (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Defeat 100 monsters of any type in <NAVI>[Amatsu Underground Forest Battleground]<INFO>ama_dun02.gat,121,47,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 100 Monsters"
+	},
+	[3521] = {
+		Title = "Seoyeon's Trial (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Defeat 100 monsters of any type in <NAVI>[Amatsu Underground Shrine]<INFO>ama_dun03.gat,152,55,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 100 Monsters"
+	},
+	[3522] = {
+		Title = "Traces of Yeongwi",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Let's look for traces of Yeongwi somewhere in <NAVI>[Amatsu Underground Forest Battleground]<INFO>ama_dun02.gat,121,47,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Find Traces"
+	},
+	[3523] = {
+		Title = "Encounter with Ancient Ninja",
+		IconName = "ico_jq.bmp",
+		Description = { "Let's release Yeongwi's soul and gain new strength." },
+		Summary = "Defeat Yeongwi"
+	},
+	[17549] = {
+		Title = "Path of Ascetic: An Unexpected Meeting",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I met <NAVI>[Banyak]<INFO>payon,197,122,0,101,0,</INFO></NAVI> by chance at a tavern in Payon. He asked me how I was doing."
+		},
+		Summary = "Talk to Banyak"
+	},
+	[17550] = {
+		Title = "Path of Ascetic: A Weird Favor",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"There is a <NAVI>[painting]<INFO>payon_in01,187,90,0,101,0,</INFO></NAVI> depicting a mountain peak hanging inside the tavern. Banyak is asking you a favor to do weird stuff in front of it."
+		},
+		Summary = "Check the Painting"
+	},
+	[17551] = {
+		Title = "Path of Ascetic: Take the Lead",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"It seems <NAVI>[Banyak]<INFO>payon,197,122,0,101,0,</INFO></NAVI> owes something to that 'friend'. I should ask him about it."
+		},
+		Summary = "Talk to Banyak"
+	},
+	[17552] = {
+		Title = "Path of Ascetic: Harsh Training",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"'All <NAVI>[ I ]<INFO>payon,197,122,0,101,0,</INFO></NAVI> can do is teach. Learning and mastering is entirely up to the learner.'"
+		},
+		Summary = "Finish the Training"
+	},
+	[17538] = {
+		Title = "Path of Sky: Are you calling me?",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Those who think they are better and have greater abilities than others should come to <NAVI>[me]<INFO>mjolnir_03,280,252,0,101,0,</INFO></NAVI> and prove their will!"
+		},
+		Summary = "Go to the mentioned spot"
+	},
+	[17539] = {
+		Title = "Path of Sky: 1st Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"If you help others, I will help you too. There is a <NAVI>[person]<INFO>veins,238,110,0,101,0,</INFO></NAVI> who made a wish for me, let's visit them there."
+		},
+		Summary = "Visit the person in need"
+	},
+	[17540] = {
+		Title = "Path of Sky: 1st Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Help the person in need. Bring 3 Sticky Poison, 20 Maneater Blossom, 3 Maneater Root to <NAVI>[Veil]<INFO>veins,238,110,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Gather the materials"
+	},
+	[17541] = {
+		Title = "Path of Sky: 2nd Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I heard a story about a ghost appearing near the Einbech <NAVI>[Mine]<INFO>einbech,156,243,0,101,0,</INFO></NAVI>. It seemed like they were looking for someone to take care of it."
+		},
+		Summary = "Visit the rumored place"
+	},
+	[17542] = {
+		Title = "Path of Sky: 2nd Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Please defeat 10 White Mineral so they can work right away. Once you're done, go back to <NAVI>[them]<INFO>einbech,156,243,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Defeat White Mineral"
+	},
+	[17543] = {
+		Title = "Path of Sky: 3rd Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Visit the mentioned <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI> in Morroc. The person seems very troubled."
+		},
+		Summary = "Visit the mentioned M"
+	},
+	[17544] = {
+		Title = "Path of Sky: 3rd Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"We have tracked the flow of sand and wind and marked several suspicious areas, so please focus on those areas.",
+			"<NAVI>[Marked Spot]<INFO>moc_fild12,232,228,0,101,0,</INFO></NAVI>",
+			"<NAVI>[Marked Spot]<INFO>moc_fild12,234,59,0,101,0,</INFO></NAVI>",
+			"<NAVI>[Marked Spot]<INFO>moc_fild18,125,222,0,101,0,</INFO></NAVI>",
+			"<NAVI>[Marked Spot]<INFO>moc_fild18,314,192,0,101,0,</INFO></NAVI>",
+			"<NAVI>[Marked Spot]<INFO>moc_fild17,219,258,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Check the marked spot"
+	},
+	[17545] = {
+		Title = "Path of Sky: 3rd Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I finally found the needle in the desert. Let's go back to <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI> and report."
+		},
+		Summary = "Talk to M"
+	},
+	[17546] = {
+		Title = "Path of Sky: 4th Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The last one... let's help that <NAVI>[person]<INFO>payon,215,201,0,101,0,</INFO></NAVI> we saw in Payon."
+		},
+		Summary = "Go to Payon"
+	},
+	[17547] = {
+		Title = "Path of Sky: 4th Good Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Let's go to <NAVI>[this place]<INFO>mjolnir_03,280,252,0,101,0,</INFO></NAVI> quickly. You'd better hurry. There isn't much time."
+		},
+		Summary = "Go to Eunha"
+	},
+	[17548] = {
+		Title = "Path of Sky: Returning Karma",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Let's go to <NAVI>[Eunha]<INFO>mjolnir_03,280,252,0,101,0,</INFO></NAVI>'s place and receive the help that Eunha promised."
+		},
+		Summary = "Claim the promised help"
+	},
+	[17568] = {
+		Title = "Path of Sky: Marked Spot",
+		IconName = "ico_jq.bmp",
+		Description = { "The search of the marked area has been completed." },
+		Summary = "Search ended"
+	},
+	[17569] = {
+		Title = "Path of Sky: Marked Spot",
+		IconName = "ico_jq.bmp",
+		Description = { "The search of the marked area has been completed." },
+		Summary = "Search ended"
+	},
+	[17570] = {
+		Title = "Path of Sky: Marked Spot",
+		IconName = "ico_jq.bmp",
+		Description = { "The search of the marked area has been completed." },
+		Summary = "Search ended"
+	},
+	[17571] = {
+		Title = "Path of Sky: Marked Spot",
+		IconName = "ico_jq.bmp",
+		Description = { "The search of the marked area has been completed." },
+		Summary = "Search ended"
+	},
+	[5950] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = { "If you are interested in Hyper Novice, talk to Grape." },
+		Summary = ""
+	},
+	[5951] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"According to the ideology of the Novice Club, which pursues freedom, challenging Hyper Novice is considered freedom. To challenge, talk to Grape."
+		},
+		Summary = ""
+	},
+	[5952] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The challenge to become a hyper novice!! Novice's Memories can be retried every hour."
+		},
+		Summary = "Waiting time 1 hour"
+	},
+	[5953] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The challenge to become a hyper novice!! Novice's Memories can be retried every hour."
+		},
+		Summary = "Waiting time 1 hour"
+	},
+	[5954] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The challenge to become a hyper novice!! Novice's Memories can be retried every hour."
+		},
+		Summary = "Waiting time 1 hour"
+	},
+	[5955] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The challenge to become a hyper novice!! Novice's Memories can be retried every hour."
+		},
+		Summary = "Waiting time 1 hour"
+	},
+	[5956] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The challenge to become a hyper novice!! Novice's Memories can be retried every hour."
+		},
+		Summary = "Waiting time 1 hour"
+	},
+	[5957] = {
+		Title = "Novice's Memories (1)",
+		IconName = "ico_jq.bmp",
+		Description = { "Dungeon progress has been saved within Novice's Memories." },
+		Summary = ""
+	},
+	[5958] = {
+		Title = "Novice's Memories(2)",
+		IconName = "ico_jq.bmp",
+		Description = { "Dungeon progress has been saved within Novice's Memories." },
+		Summary = ""
+	},
+	[5959] = {
+		Title = "Novice's Memories(3)",
+		IconName = "ico_jq.bmp",
+		Description = { "Dungeon progress has been saved within Novice's Memories." },
+		Summary = ""
+	},
+	[5960] = {
+		Title = "Hyper Novice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I feel like I got everything I needed from Novice's Memories. Let's go outside and meet Grape."
+		},
+		Summary = ""
+	},
+	[5961] = {
+		Title = "[Cooldown] Devil's Meal",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Today, I served a meal to the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>. Let's return tomorrow."
+		},
+		Summary = "Reset after 20 hours",
+		CoolTimeQuest = 1
+	},
+	[5962] = {
+		Title = "[Daily] Devil's Breakfast",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's treat the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI> to a meal. It is said that the remnants of the souls of 100 monsters in the <NAVI>[Clock Tower Unknown Basement]<INFO>clock_01,84,44,0,101,0</INFO></NAVI> are enough for a light breakfast."
+		},
+		Summary = "Defeat 100 Monsters"
+	},
+	[5963] = {
+		Title = "[Daily] Devil's Lunch",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's treat the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI> to a meal. It is said that the remnants of the souls of 300 monsters in the <NAVI>[Clock Tower Unknown Basement]<INFO>clock_01,84,44,0,101,0</INFO></NAVI> are enough for a lunch."
+		},
+		Summary = "Defeat 300 Monsters"
+	},
+	[5964] = {
+		Title = "[Daily] Devil's Dinner",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's treat the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI> to a meal. It is said that the remnants of the souls of 1000 monsters in the <NAVI>[Clock Tower Unknown Basement]<INFO>clock_01,84,44,0,101,0</INFO></NAVI> are enough for a big dinner."
+		},
+		Summary = "Defeat 1000 Monsters"
+	},
+	[5965] = {
+		Title = "[Cooldown] Devil's Special Meal",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI> was treated to this week's special meal. Well, can I treat you again on Monday?"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[5966] = {
+		Title = "[Weekly] Devil's Special Meal",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI> requests a special meal about once a week. It is said that the remnants of the souls of 5000 monsters in the <NAVI>[Clock Tower Unknown Basement]<INFO>clock_01,84,44,0,101,0</INFO></NAVI> are enough for the special meal."
+		},
+		Summary = "Defeat 5000 Monsters"
+	},
+	[5967] = {
+		Title = "[Cooldown] Devil's Snack",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I served snacks to the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>. I think she'll be asking again tomorrow. Should I gather 100 of <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>, <ITEM>[Cute Broom]<INFO>25506</INFO></ITEM>, <ITEM>[Showy Coral Reef]<INFO>25507</INFO></ITEM>, and <ITEM>[Shiny round shell]<INFO>25509</INFO></ITEM>?"
+		},
+		Summary = "Reset after 20 hours",
+		CoolTimeQuest = 1
+	},
+	[5968] = {
+		Title = "[Cooldown] Devil's Pet Mimic",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I also took care of the meal for the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>'s pet, Mimic."
+		},
+		Summary = "Reset after 20 hours",
+		CoolTimeQuest = 1
+	},
+	[5969] = {
+		Title = "[Daily] Devil's Pet Mimic",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The Devil in the box wants you to feed its pet Mimic. Let's find the pet Mimic somewhere in the <NAVI>[Clock Tower Unknown Basement]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Find Mimic"
+	},
+	[5970] = {
+		Title = "[Daily] Devil's Pet Mimic",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The so-called pet stole the food, so I guess I did the job? Let's report back to the <NAVI>[Devil in the Box]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Report to the Devil"
+	},
+	[5971] = {
+		Title = "Devil in the Box",
+		IconName = "ico_nq.bmp",
+		Description = { "I met a Devil in a box." },
+		Summary = ""
+	},
+	[11769] = {
+		Title = "Spirit Handler Job Change!",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Hyeonrok left a letter saying thank you for helping. Let's talk to Chulho in <NAVI>[Deep Forest Entrance]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Chulho"
+	},
+	[11770] = {
+		Title = "Befriending Spirits (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"There is a request from Payon's firewood woodworking shop. Let's visit <NAVI>[Firewood Woodworking Shop]<INFO>payon,252,297,0,101,0</INFO></NAVI> and check the request."
+		},
+		Summary = "Visit the Workshop"
+	},
+	[11771] = {
+		Title = "Befriending Spirits (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The person who puts up the commission seems to be in ^ff3456Payon Forest^000000. Let's meet <NAVI>[Firewood]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI> there."
+		},
+		Summary = "Talk to Firewood"
+	},
+	[11772] = {
+		Title = "Befriending Spirits (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Firewood seems to have suffered a great deal of damage from wild animals. Let's examine the <NAVI>[tools]<INFO>pay_fild08,155,128,0,101,0</INFO></NAVI> broken by the wild animals."
+		},
+		Summary = "Investigate broken tools"
+	},
+	[11773] = {
+		Title = "Befriending Spirits (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"There are animal footprints scattered around the broken tools. It would be a good idea to check <NAVI>[Messy Traces]<INFO>pay_fild08,153,116,0,101,0</INFO></NAVI> around you."
+		},
+		Summary = "Check traces"
+	},
+	[11774] = {
+		Title = "Befriending Spirits (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"There are footprints similar to those found next to the toolbox. Let's <NAVI>[move]<INFO>pay_fild08,137,88,0,101,0</INFO></NAVI> following the trail."
+		},
+		Summary = "Check traces"
+	},
+	[11775] = {
+		Title = "Befriending Spirits (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Judging by the large and deep hoof prints, it appears to be a large herbivore. Let's keep <NAVI>[moving]<INFO>pay_fild08,165,68,0,101,0</INFO></NAVI> along the trail."
+		},
+		Summary = "Check traces"
+	},
+	[11776] = {
+		Title = "Befriending Spirits (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Looking at the dense hoof prints, it looks like there are more than just one or two animals. Let's keep <NAVI>[moving]<INFO>pay_fild08,214,89,0,101,0</INFO></NAVI> along the trail."
+		},
+		Summary = "Check traces"
+	},
+	[11777] = {
+		Title = "Befriending Spirits (8)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The animals appear to have moved straight to the firewood workshop along the road. Let's keep <NAVI>[moving]<INFO>pay_fild09,31,87,0,101,0</INFO></NAVI> along the trail."
+		},
+		Summary = "Check traces"
+	},
+	[11778] = {
+		Title = "Befriending Spirits (9)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"It seems that the mountain animals had run out of food along the way. Let's go back to <NAVI>[Firewood]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI> and report the situation."
+		},
+		Summary = "Talk to Firewood"
+	},
+	[11779] = {
+		Title = "Befriending Spirits (10)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"It seems that someone has dropped off food at the firewood workshop. Let's take a closer look at the <NAVI>[broken tools]<INFO>pay_fild08,155,128,0,101,0</INFO></NAVI> to find a clue."
+		},
+		Summary = "Check around"
+	},
+	[11780] = {
+		Title = "Befriending Spirits (11)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"In return for receiving the strawberry, Chulho says he will tell him where the <NAVI>[delicious smell]<INFO>payon,233,159,0,101,0</INFO></NAVI> comes from. Let's follow Chulho."
+		},
+		Summary = "Follow Chulho"
+	},
+	[11781] = {
+		Title = "Befriending Spirits (12)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The person who ruined Firewood's work was Idegam, who commissioned the work. It looks like someone is very upset about this, so let's follow <NAVI>[Chulho]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Follow Chulho"
+	},
+	[11782] = {
+		Title = "Befriending Spirits (13)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Let's talk to Chulho inside <NAVI>[Deep Forest]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Chulho"
+	},
+	[5160] = {
+		Title = "Library's fault",
+		Description = {
+			"Metheus Sylphe said, he will show me the Book of Ymir if I bring him a book that ran away from the library back. Let's catch the book for Library guards around Yuno."
+		},
+		Summary = "1 Captured Book"
+	},
+	[21931] = {
+		Title = "Putting up flyers on the west wall.",
+		Description = {
+			"I put a flyer on the east wall. Why Rumin said about the goddess Freya to me? Let's check whether a divine mark is on the <NAVI>[west]<INFO>prontera,133,303,0,101,0</INFO></NAVI> wall of the North Prontera Castle or not."
+		},
+		Summary = "Put flyers up on the west wall."
+	},
+	[21932] = {
+		Title = "Putting up flyers complete!",
+		Description = {
+			"I put all the flyers up on the <NAVI>[north]<INFO>prontera,168,304,0,101,0</INFO></NAVI>, <NAVI>[east]<INFO>prontera,179,293,0,101,0</INFO></NAVI>, and  <NAVI>[west]<INFO>prontera,133,303,0,101,0</INFO></NAVI> wall of the North Prontera Castle. Anyway, What's 'Arunafeltz' that Rumin told me?"
+		},
+		Summary = ""
+	},
+	[21933] = {
+		Title = "To JobLv 10!",
+		Description = {
+			"You need to get a job to be a real adventurer. Let's hunt to ^4d4dffreach Job level 10^000000 and tell the <NAVI>[Healer]<INFO>iz_ac01,60,43,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reach JobLv 10"
+	},
+	[21934] = {
+		Title = "Rumin's message",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Rumin, whom I met in Payon, said Reno was not returning back from a well. He asked me to tell Reno that the guild called him and he needs to go. Let's ask an<NAVI>[Old man at a well]<INFO>payon,192,109,0,101,0</INFO></NAVI> where Reno is."
+		},
+		Summary = "Talk to an Old man at a well"
+	},
+	[21935] = {
+		Title = "Time to relax",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Reno seems to relax in the village cause of being suffered at a cave. Let's find <NAVI>[Reno]<INFO>payon,182,172,0,101,0</INFO></NAVI> to talk with him."
+		},
+		Summary = "Talk to Reno"
+	},
+	[21936] = {
+		Title = "Find the last berry",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Father Roam, the priest of Prontera Cathedral, has asked us to find one more child. Let's find <NAVI>[Gooseberry]<INFO>prontera,248,212,0,101,0</INFO></NAVI>in Prontera. He may have a problem."
+		},
+		Summary = "Talk to Gooseberry"
+	},
+	[2349] = {
+		Title = "Rental Item",
+		Description = { "The time left to rent items again:" },
+		Summary = ""
 	}
 
 
