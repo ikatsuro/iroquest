@@ -31279,114 +31279,128 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[16129] = {
-		Title = "Kiel Hyre Academy",
+		Title = "2nd Advancement",
 		Description = {
-			"You have convinced Allysia that you are helping Elly by showing her the Golden Key."
+			"After completing the 2nd Advancement, head to <NAVI>[Paradise Clan]<INFO>moc_para01,46,34,0,101,1</INFO></NAVI> to meet Leno and Rumin"
 		},
-		Summary = ""
+		Summary = "The Paradise Circle after the Second Changeover"
 	},
 	[16130] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Transmission and Third Transition",
 		Description = {
-			"You have obtained a Red Keycard that will allow you to access the secret areas of the factory. Use it to find Kiel Hyre."
+			"After completing the 3rd Advancement, go to <NAVI>[Paradise Clan]<INFO>moc_para01,46,34,0,101,1</INFO></NAVI> to meet Leno and Rumin"
 		},
-		Summary = ""
+		Summary = "Paradise Circle after the 3rd Advancement"
 	},
 	[16131] = {
-		Title = "Kiel Hyre Academy",
+		Title = "To Payon",
 		Description = {
-			"You have found Kiel Hyre trapped behind a door. He gave you a Metal Fragment that he asked you to take to Allysia."
+			"Follow Rumin to <NAVI>[Payon village south entrance]<INFO>payon,182,57,0,101,1</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Visit Payon"
 	},
 	[16132] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Listen to the legend of Payon",
 		Description = {
-			"Go to the Kiel Hyre Mansion in Lighthalzen. It is located just north of the Auction Hall.  Present the Golden Key to be admitted to the premises."
+			"Return to <NAVI>[Lumine]<INFO>payon,182,57,0,101,1</INFO></NAVI> after completing the 'Soul Purification Ritual' request in Payon Village"
 		},
-		Summary = ""
+		Summary = "To Rumin after the Soul Purification Ritual"
 	},
 	[16133] = {
-		Title = "Kiel Hyre Academy",
+		Title = "In Search of Rumin",
 		Description = {
-			"Kiel Hyre is grateful for helping him. It seems your role here is done. Let Kiel Hyre rest for now and leave the mansion."
+			"Let's go with Leno to <NAVI>[Morocc]<INFO>morocc,128,81,0,101,1</INFO></NAVI> to find Rumin to apologize to her"
 		},
-		Summary = ""
+		Summary = "Visit Morocc"
 	},
 	[16134] = {
-		Title = "Kiel Hyre Academy",
+		Title = "A friend you don't know",
 		Description = {
-			"You were ambushed by agent Mitchell Layla from the Rekenber Corporation. She told you to find an old lady in Juno that may have more information about Allysia."
+			"Find <NAVI>[Lumine]<INFO>morocc,50,296,0,101,1</INFO></NAVI> dressed as Assassin's Cross after completing the 'Give me something for my back pain' quest in Morocc"
 		},
-		Summary = ""
+		Summary = "Give the item to Rumin after completing the back pain"
 	},
 	[16135] = {
-		Title = "Kiel Hyre Academy",
-		Description = {
-			"You have obtained the Rosimier Mansion Keys. Search the Mansion thoroughly and tell the Old Lady what you found."
-		},
-		Summary = ""
+		Title = "A good guy anyway",
+		Description = { "<NAVI>[Leno]<INFO>morocc,128,81,0,101,1</INFO></NAVI> with Rumin's words" },
+		Summary = "Report to Leno"
 	},
 	[16136] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Toward Glastheim",
 		Description = {
-			"The Old Lady says to talk to the Fisherman that lives south of the Kiel Hyre Academy. He was the one that found Allysia's body in the river..."
+			"<NAVI>Go [towards 6 o'clock from Glastheim]<INFO>glast_01,212,126,0,101,1</INFO></NAVI>to meet Leno."
 		},
-		Summary = ""
+		Summary = "Visit Glastheim"
 	},
 	[16137] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Ears... I hate them!",
 		Description = {
-			"Investigate the hut near the Schwartzvalt guard camp just east of the Kiel Hyre Academy."
+			"Let's follow Leno to the next <NAVI>[Where to research]<INFO>glast_01,145,51,0,101,1</INFO></NAVI> in Glastheim"
 		},
-		Summary = ""
+		Summary = "Travel with Leno"
 	},
 	[16138] = {
-		Title = "Kiel Hyre Academy",
+		Title = "To the Kiel Hyre Academy",
 		Description = {
-			"You have enough information by now, so you should report back to Mitchell at the Kiel Hyre Mansion in Lighthalzen."
+			"In Aldebaran, fulfill the request for a 'Mother's Hand Bento' and go to <NAVI>[Kiel HyreAcademy]<INFO>yuno_fild08,171,183,0,101,1</INFO></NAVI> to meet Leno and Rumin"
 		},
-		Summary = ""
+		Summary = "Visit Kiel Hyre Academy"
 	},
 	[16139] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Einbroch",
 		Description = {
-			"Confront Kiel Hyre to find out who Kiehl really is and what his relationship to Rekenber is."
+			"Fulfill the 'Give my regards to my brother' request from the Kiel Hyre Academy and travel to <NAVI>[Einbech]<INFO>einbech,152,218,0,101,1</INFO></NAVI> to meet Leno and Rumin..."
+			Summary = "Visit Einbech",
 		},
-		Summary = ""
-	},
 	[16140] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Einbroch",
 		Description = {
-			"Kiel Hyre has given you a Power Device that will weaken Kiehl. Speak to Kiel Hyre when you are ready to be sent to Kiehl's room."
+			"Travel to <NAVI>[Einbroch]<INFO>einbroch,168,308,0,101,1</INFO></NAVI> to meet Leno and Rumin as they fulfill the 'Shadow Miner' quest in Einbroch"
+		
 		},
-		Summary = ""
+		Summary = "Visit Einbroch"
 	},
 	[16141] = {
-		Title = "Kiel Hyre Academy",
+		Title = "To Lighthalzen",
 		Description = {
-			"The bottom of the vase reads ''The rabbit often observes the door. Open the door.''"
+			"<NAVI>[Lighthalzen]<INFO>lighthalzen,251,312,0,101,1</INFO></NAVI> to find Rumin watching over a troubled Leno"
 		},
-		Summary = ""
+		Summary = "Visit Lichtharzen"
 	},
 	[16142] = {
-		Title = "Kiel Hyre Academy",
+		Title = "Rachel",
 		Description = {
-			"The Big Door at the end of the room emits a chiming sound and the box pops open to reveal a Toy Key. Search for Kiehl in the dungeon."
+			"Go to <NAVI>[Rachel]<INFO>rachel,219,134,0,101,1</INFO></NAVI> and meet with Leno and Rumin to investigate the suspicious group"
 		},
-		Summary = ""
+		Summary = "Visit Rachel"
 	},
-	[16143] = { Title = "Kiel Hyre Academy", Description = { "Defeat the robot spawns." }, Summary = "" },
-	[16144] = { Title = "Kiel Hyre Academy", Description = { "Defeat Kiehl." }, Summary = "" },
+	[16143] = {
+		Title = "Information Gathering 1",
+		Description = {
+			"Show the masks to the <NAVI>[believers]<INFO>rachel,97,46,0,101,0</INFO></NAVI> around the market and listen to their stories"
+		},
+		Summary = "Gather information about the masks"
+	},
+	[16144] = {
+		Title = "Information Gathering 2",
+		Description = {
+			"Show the masks to the <NAVI>[merchants]<INFO>rachel,187,119,0,101,0</INFO></NAVI> around the market and listen to their stories"
+		},
+		Summary = "Gather information about the masks"
+	},
 	[16145] = {
-		Title = "Kiel Hyre Academy",
-		Description = { "Retrieve Allysia's Ring from Kiehl's old body and escape." },
-		Summary = ""
+		Title = "Information Gathering 3",
+		Description = {
+			"Show the masks to the <NAVI>[believers]<INFO>rachel,176,199,0,101,0</INFO></NAVI> in the residential neighborhood and listen to their stories"
+		},
+		Summary = "Gather information about the masks"
 	},
 	[16146] = {
-		Title = "Kiel Hyre Academy",
-		Description = { "Bring Allysia's Ring to Kiel Hyre in his mansion in Lighthalzen." },
-		Summary = ""
+		Title = "Implementing Justice!",
+		Description = {
+			"I think I have a clue. Let's go to <NAVI>[location]<INFO>rachel,211,257,0,101,0</INFO></NAVI> where the culprit might be and arrest him",
+		},
+		Summary = "Arrest the culprit"
 	},
 	[16161] = {
 		Title = "Hot Monster Hunt|",
