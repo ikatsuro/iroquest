@@ -31350,7 +31350,8 @@ QuestInfoList = {
 		Title = "Einbroch",
 		Description = {
 			"Fulfill the 'Give my regards to my brother' request from the Kiel Hyre Academy and travel to <NAVI>[Einbech]<INFO>einbech,152,218,0,101,1</INFO></NAVI> to meet Leno and Rumin..."
-			Summary = "Visit Einbech",
+		},
+		Summary = "Visit Einbech",
 		},
 	[16140] = {
 		Title = "Einbroch",
