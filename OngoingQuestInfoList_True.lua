@@ -17681,7 +17681,8 @@ QuestInfoList = {
 		Description = {
 			"In ^8B4513Brasilis^000000, there is a message from ^0000FFLucia^000000: ^404040Thanks for your help. Unfortunately, I can supply a new ^006400Hydra Ball^404040 to you tomorrow.^000000"
 		},
-		Summary = "If you want another Hydra Ball return toLucia after the timer expires."
+		Summary = "If you want another Hydra Ball return toLucia after the timer expires.",
+		CoolTimeQuest = 1
 	},
 	[9030] = {
 		Title = "Lost Puppies",
