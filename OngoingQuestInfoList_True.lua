@@ -31347,60 +31347,56 @@ QuestInfoList = {
 		Summary = "Visit Kiel Hyre Academy"
 	},
 	[16139] = {
-		Title = "Einbroch",
+		Title = "Einbehro",
 		Description = {
-			"Fulfill the 'Give my regards to my brother' request from the Kiel Hyre Academy and travel to <NAVI>[Einbech]<INFO>einbech,152,218,0,101,1</INFO></NAVI> to meet Leno and Rumin..."
+			"Fulfill the 'Give my regards to my brother' request from the Kil Heir Academy and travel to <NAVI>[Einbech]<INFO>einbech,152,218,0,101,1</INFO></NAVI> to meet Leno and Rumin...=],\n\t\t},\n\t\tSummary = [=[Visit Einbech"
 		},
-		Summary = "Visit Einbech",
-	},
-	[16140] = {
-		Title = "Einbroch",
-		Description = {
-			"Travel to <NAVI>[Einbroch]<INFO>einbroch,168,308,0,101,1</INFO></NAVI> to meet Leno and Rumin as they fulfill the 'Shadow Miner' quest in Einbroch"
-		
+		Summary = "Visit Einbech"
 		},
-		Summary = "Visit Einbroch"
-	},
-	[16141] = {
-		Title = "To Lighthalzen",
-		Description = {
-			"<NAVI>[Lighthalzen]<INFO>lighthalzen,251,312,0,101,1</INFO></NAVI> to find Rumin watching over a troubled Leno"
+		[16140] = {
+			Title = "Einbroch",
+			Description = {
+				"Travel to <NAVI>[Einbroch]<INFO>einbroch,168,308,0,101,1</INFO></NAVI> to meet Leno and Rumin as they fulfill the 'Shadow Miner' quest in Einbroch"
+			},
+			Summary = "Visit Einbroch"
 		},
-		Summary = "Visit Lichtharzen"
-	},
-	[16142] = {
-		Title = "Rachel",
-		Description = {
-			"Go to <NAVI>[Rachel]<INFO>rachel,219,134,0,101,1</INFO></NAVI> and meet with Leno and Rumin to investigate the suspicious group"
+		[16141] = {
+			Title = "To Lichtharsen",
+			Description = {
+				"<NAVI>[Lichtharzen]<INFO>lighthalzen,251,312,0,101,1</INFO></NAVI> to find Rumin watching over a troubled Leno"
+			},
+			Summary = "Visit Lichtharzen"
 		},
-		Summary = "Visit Rachel"
-	},
-	[16143] = {
-		Title = "Information Gathering 1",
-		Description = {
-			"Show the masks to the <NAVI>[believers]<INFO>rachel,97,46,0,101,0</INFO></NAVI> around the market and listen to their stories"
+		[16142] = {
+			Title = "Rachello",
+			Description = {
+				"Go to <NAVI>[Rachel]<INFO>rachel,219,134,0,101,1</INFO></NAVI> and meet with Leno and Rumin to investigate the suspicious group"
+			},
+			Summary = "Visit Rachel"
 		},
-		Summary = "Gather information about the masks"
-	},
-	[16144] = {
-		Title = "Information Gathering 2",
-		Description = {
-			"Show the masks to the <NAVI>[merchants]<INFO>rachel,187,119,0,101,0</INFO></NAVI> around the market and listen to their stories"
+		[16143] = {
+			Title = "Information Gathering 1",
+			Description = {
+				"Show the masks to the <NAVI>[believers]<INFO>rachel,97,46,0,101,0</INFO></NAVI> around the market and listen to their stories"
+			},
+			Summary = "Gather information about the masks"
 		},
-		Summary = "Gather information about the masks"
-	},
-	[16145] = {
-		Title = "Information Gathering 3",
-		Description = {
-			"Show the masks to the <NAVI>[believers]<INFO>rachel,176,199,0,101,0</INFO></NAVI> in the residential neighborhood and listen to their stories"
+		[16144] = {
+			Title = "Information Gathering 2",
+			Description = {
+				"Show the masks to the <NAVI>[merchants]<INFO>rachel,187,119,0,101,0</INFO></NAVI> around the market and listen to their stories"
+			},
+			Summary = "Gather information about the masks"
 		},
-		Summary = "Gather information about the masks"
-	},
-	[16146] = {
-		Title = "Implementing Justice!",
-		Description = {
-			"I think I have a clue. Let's go to <NAVI>[location]<INFO>rachel,211,257,0,101,0</INFO></NAVI> where the culprit might be and arrest him",
+		[16145] = {
+			Title = "Information Gathering 3",
+			Description = {
+				"Show the masks to the <NAVI>[believers]<INFO>rachel,176,199,0,101,0</INFO></NAVI> in the residential neighborhood and listen to their stories"
+			},
+			Summary = "Gather information about the masks"
 		},
+		[16146] = {
+			Title = "Implementing Justice!=],\n\t\tDescription =\n\t\t{\n\t\t\t[=[I think I have a clue. Let's go to <NAVI>[location]<INFO>rachel,211,257,0,101,0</INFO></NAVI> where the culprit might be and arrest him",Description = {"Place Holder"},
 		Summary = "Arrest the culprit"
 	},
 	[16161] = {
