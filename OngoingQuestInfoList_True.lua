@@ -4444,6 +4444,7 @@ QuestInfoList = {
 	},
 	[3364] = {
 		Title = "Fire Event",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"To participate in setting a fire, you need a few items that can burn well. Please come <NAVI>[to me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> with 5 fine branches, 10 old tree roots and 1 fire arrow."
 		},
@@ -4451,6 +4452,7 @@ QuestInfoList = {
 	},
 	[3365] = {
 		Title = "Mage Luna",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Would you like to meet <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>, who was dispatched from Gefen Tower for this lighting event?"
 		},
@@ -4458,6 +4460,7 @@ QuestInfoList = {
 	},
 	[3366] = {
 		Title = "Capture wild boar",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"It takes a lot of work to capture wild boars that ruin crops. Please go to <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>."
 		},
@@ -4465,6 +4468,7 @@ QuestInfoList = {
 	},
 	[3367] = {
 		Title = "Preparation for the harvesting agent",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Food is indispensable for the festival. Please go to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>, who prepares food for the harvest festival. There are a lot of delicious food."
 		},
@@ -4472,6 +4476,7 @@ QuestInfoList = {
 	},
 	[3369] = {
 		Title = "Resurrected Twig",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I hope you will get rid of 10 resurrected branches and get about 10 good quality branches. My Reputation depends on it! <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
 		},
@@ -4479,13 +4484,16 @@ QuestInfoList = {
 	},
 	[3370] = {
 		Title = "Atmosphere: Resurrected Branch",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Now, Lana is watching. Will you come back after dawn <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Initialization time 04:00"
+		Summary = "Initialization time 04:00",
+		CoolTimeQuest = 1
 	},
 	[3371] = {
 		Title = "Hungry Boar",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The boars that have already come down to the village must be safely captured and returned home. <NAVI>[My]<INFO>alberta,152,198,0,101,0</INFO></NAVI> Give me a wild boar trap to capture 10 hungry boars."
 		},
@@ -4493,13 +4501,16 @@ QuestInfoList = {
 	},
 	[3372] = {
 		Title = "Waiting: Hungry Boar",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Now I need to trim the boar trap. Would you come back to <NAVI>[I]<INFO>alberta,152,198,0,101,0</INFO></NAVI> after dawn time?"
 		},
-		Summary = "Initialization time 04:00"
+		Summary = "Initialization time 04:00",
+		CoolTimeQuest = 1
 	},
 	[3373] = {
 		Title = "Songpyeon preparation",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Songpyeon's ingredients are running out. Go get Songpyeon some ingredients? 1 grain, 3 honey, 10 green herbs. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
@@ -4507,6 +4518,7 @@ QuestInfoList = {
 	},
 	[3374] = {
 		Title = "Prepare Mooncake",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The moon cake's ingredients have run out. Can you get some moon cake ingredients? 1 yellow spice and 3 pieces of wood. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
@@ -4514,6 +4526,7 @@ QuestInfoList = {
 	},
 	[3375] = {
 		Title = "Preparing roast turkey",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The ingredients for roast turkey are running out. Can you get some ingredients for the roast turkey? 1 plain sauce, 3 lemons and 10 carrots. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
@@ -4521,13 +4534,16 @@ QuestInfoList = {
 	},
 	[3376] = {
 		Title = "Waiting: Preparing food for the harvest festival",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The food preparation is in full swing, so I can't give you anything. If you come to <NAVI>[I]<INFO>alberta,119,193,0,101,0</INFO></NAVI> after some time, I will give it to you."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[3377] = {
 		Title = "Louise's business",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[Lewis]<INFO>alberta,115,198,0,101,0</INFO></NAVI> seems to need help. Let's talk."
 		},
@@ -4535,6 +4551,7 @@ QuestInfoList = {
 	},
 	[3378] = {
 		Title = "Food of turkeys",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"The turkeys need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis."
 		},
@@ -4542,6 +4559,7 @@ QuestInfoList = {
 	},
 	[3379] = {
 		Title = "Turkey's Food-Repeat",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Turkeys continue to need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis."
 		},
@@ -4549,6 +4567,7 @@ QuestInfoList = {
 	},
 	[3380] = {
 		Title = "Turkey's Food-Repeat",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Turkeys continue to need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis."
 		},
@@ -4556,6 +4575,7 @@ QuestInfoList = {
 	},
 	[3381] = {
 		Title = "Food of Turkeys-Repeat",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Turkeys continue to need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis."
 		},
@@ -4563,6 +4583,7 @@ QuestInfoList = {
 	},
 	[3382] = {
 		Title = "Reason for moving to Kunlun",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Seobang Kim asks for two <ITEM>[anywhere ticket]<INFO>25392</INFO></ITEM> to meet her daughter Kejin."
 		},
@@ -4570,6 +4591,7 @@ QuestInfoList = {
 	},
 	[3383] = {
 		Title = "Why move to Kunlun-Repeat",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Seobang Kim asks you to bring two <ITEM>[anywhere ticket]<INFO>25392</INFO></ITEM> to meet her daughter Kejin today."
 		},
@@ -4577,13 +4599,16 @@ QuestInfoList = {
 	},
 	[3384] = {
 		Title = "Reason for moving to Kunlun- Waiting",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"When dawn is over and it's time to launch the boat again, let's visit Kim Seobang again."
 		},
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[3385] = {
 		Title = "Eunwol's Dragon ",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> seems to need help. Let's talk."
 		},
@@ -4591,6 +4616,7 @@ QuestInfoList = {
 	},
 	[3386] = {
 		Title = "Delivery of Thanksgiving Confectionery",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"For the study of harvest sweets, ask for 10 <ITEM>[Thanksgiving Sweets]<INFO>25392</INFO></ITEM>."
 		},
@@ -4598,6 +4624,7 @@ QuestInfoList = {
 	},
 	[3387] = {
 		Title = "Delivery of Thanksgiving Confectionery-Repeat",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I think I need more <ITEM>[Thanksgiving Confectionery]<INFO>25392</INFO></ITEM>. Collect 10 and bring it to Eunwol."
 		},
@@ -4605,8 +4632,10 @@ QuestInfoList = {
 	},
 	[3388] = {
 		Title = "Delivery of Thanksgiving Confectionery-Waiting",
+		IconName = "ico_ev.bmp",
 		Description = { "When Eunwol needs more sweets for the harvest festival, let's come back." },
-		Summary = ""
+		Summary = "",
+		CoolTimeQuest = 1
 	},
 	[3389] = {
 		Title = "Remove Organic Jamming Chips",
