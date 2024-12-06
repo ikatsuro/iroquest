@@ -33890,6 +33890,7 @@ QuestInfoList = {
 	},
 	[17382] = {
 		Title = "Snow Flower Bouquet Making",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You want to make a Snow Flower Bouquet? Then bring 10 <ITEM>Magical Snow Flowers<INFO>25425</INFO></ITEM> and come back <NAVI>[here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."
 		},
@@ -33897,6 +33898,7 @@ QuestInfoList = {
 	},
 	[17383] = {
 		Title = "Snow Flower Bouquet Making",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Going forward, <NAVI>[Illusion Snow Magician]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> will be in charge of the Snow Bouquet Making event. If you’re interested, pay a visit."
 		},
@@ -33904,6 +33906,7 @@ QuestInfoList = {
 	},
 	[17384] = {
 		Title = "Heartwarming Winter Days",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"White snow to warm regions and warm cotton-padded coats to cold regions! Want to help out making heartwarming winter days? Then go to <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> and Woolsie."
 		},
@@ -33911,6 +33914,7 @@ QuestInfoList = {
 	},
 	[17385] = {
 		Title = "Exchange Festa Cards",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You found a special card from your Gift Box? Then take them to <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> and Bling. You can get special gifts from them."
 		},
@@ -33918,6 +33922,7 @@ QuestInfoList = {
 	},
 	[17386] = {
 		Title = "Mingle with participants",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"How about enjoying Snow Festa with other <NAVI>[participants]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>?"
 		},
@@ -33925,6 +33930,7 @@ QuestInfoList = {
 	},
 	[17387] = {
 		Title = "Snow Flower Bouquet Making",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"To make a Snow Bouquet, you need 10 <ITEM>Magical Snow Flowers<INFO>25425</INFO></ITEM>. Don't forget to bring one <ITEM>Carrot<INFO>515</INFO></ITEM> because snowmen want to have a nose. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
@@ -33932,6 +33938,7 @@ QuestInfoList = {
 	},
 	[17388] = {
 		Title = "Stand by: The chill remains",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You still have the effect of Magical Snow Flower. Please come back after dawn. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
@@ -33939,6 +33946,7 @@ QuestInfoList = {
 	},
 	[17389] = {
 		Title = "Heartwarming Winter Days",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Snow for children who don’t get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of Warm Cotton x 10!"
 		},
@@ -33946,6 +33954,7 @@ QuestInfoList = {
 	},
 	[17390] = {
 		Title = "Stand by: Packing cotton",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"We’re packing cotton. I think we’ll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
 		},
@@ -33953,6 +33962,7 @@ QuestInfoList = {
 	},
 	[17391] = {
 		Title = "Exchange Festa Cards",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Your lucky word is DECEMBER!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Collect D, E, C, E, M, B, E, and R cards and bring them to me. That will be eight cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
@@ -33960,6 +33970,7 @@ QuestInfoList = {
 	},
 	[17392] = {
 		Title = "Exchange Festa Cards",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Your lucky word is SNOW!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Bring S, N, O, and W cards to me. That will be four cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
@@ -33967,6 +33978,7 @@ QuestInfoList = {
 	},
 	[17393] = {
 		Title = "Exchange Festa Cards",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Your lucky word is FESTIVAL!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Bring F, E, S, T, I, V, A, and L cards to me. That will be eight cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
@@ -33974,6 +33986,7 @@ QuestInfoList = {
 	},
 	[17394] = {
 		Title = "Exchange Festa Cards",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Your lucky word is WHITE!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Collect W, H, I, T, and E cards and bring them to me. There will be five of them. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
@@ -33981,6 +33994,7 @@ QuestInfoList = {
 	},
 	[17395] = {
 		Title = "Stand by: Card exchange once a day",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"You can only exchange letter cards once a day. Got it? So come back after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
@@ -33988,6 +34002,7 @@ QuestInfoList = {
 	},
 	[17396] = {
 		Title = "O time, halt your hasty feet.",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Pacify <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> who is crying and listen to his story."
 		},
@@ -33995,6 +34010,7 @@ QuestInfoList = {
 	},
 	[17397] = {
 		Title = "O time, halt your hasty feet.",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Bring me <ITEM>Potato<INFO>516</INFO></ITEM> x 3, <ITEM>Milk<INFO>519</INFO></ITEM> x 3, and Blue Card L, O, V, and E one each! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
 		},
@@ -34002,6 +34018,7 @@ QuestInfoList = {
 	},
 	[17398] = {
 		Title = "O time, halt your hasty feet.",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Right! Come on, let’s bring these lovely snacks to the <NAVI>[Villain]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>!"
 		},
@@ -34009,6 +34026,7 @@ QuestInfoList = {
 	},
 	[17399] = {
 		Title = "O time, halt your hasty feet.",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Come on, let’s bring these snacks for the next <NAVI>[Villain]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"
 		},
@@ -34016,6 +34034,7 @@ QuestInfoList = {
 	},
 	[17400] = {
 		Title = "O time, halt your hasty feet.",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Let’s go to the last <NAVI>[Villain]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"
 		},
@@ -34023,6 +34042,7 @@ QuestInfoList = {
 	},
 	[17401] = {
 		Title = "O time, halt your hasty feet.",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"Now let’s go back to the Clock Tower and stop the <NAVI>[Villain Boss]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> from executing their plan!"
 		},
@@ -34030,6 +34050,7 @@ QuestInfoList = {
 	},
 	[17402] = {
 		Title = "Need attention",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"I knew that even villains would love winter snacks. Get <ITEM>Potato<INFO>516</INFO></ITEM> x 3 and <ITEM>Snow Festa Cards Pack<INFO>23554</INFO></ITEM> x 3 by defeating Your Gift Box x 5! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
 		},
@@ -34037,6 +34058,7 @@ QuestInfoList = {
 	},
 	[17403] = { 
 		Title = "Standby: Needs attention", 
+		IconName = "ico_ev.bmp",
 		IconName = "ico_ev.bmp", 
 		Description = { 
 			"After all, I thought winter treats and affectionate cards would work. Now rest soundly and help me again after dawn. - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>" 
