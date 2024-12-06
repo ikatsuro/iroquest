@@ -54954,5 +54954,464 @@ QuestInfoList = {
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[19066] = {
+		Title = "Investigator Rudolf's story",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I listened to Investigator Rudolf's story.",
+			"Now I can have quests from Juno Monster Society",
+			"who came out for a buisness trip at Event sites."
+		},
+		Summary = ""
+	},
+	[19067] = {
+		Title = "[Daily] Rudolf's favor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I can do a Rudolf's favor only once a day.",
+			"But if I give some <ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM> to him?",
+			"Let's go to Rudolf again.",
+			"¡¡",
+			"<NAVI>[January Rudolf]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> / <NAVI>[February Rudolf]<INFO>prontera,163,92,0,101,0</INFO></NAVI> / <NAVI>[March Rudolf]<INFO>yuno,180,145,0,101,0</INFO></NAVI>",
+			"<NAVI>[April Rudolf]<INFO>prontera,170,288,0,101,0</INFO></NAVI> / <NAVI>[May Rudolf]<INFO>geffen,74,42,0,101,0</INFO></NAVI> / <NAVI>[June Rudolf]<INFO>comodo,248,128,0,101,0</INFO></NAVI>",
+			"<NAVI>[July Rudolf]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> / <NAVI>[August Rudolf]<INFO>prontera,149,305,0,101,0</INFO></NAVI> / <NAVI>[September Rudolf]<INFO>alberta,131,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[October Rudolf]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> / <NAVI>[November Rudolf]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> / <NAVI>[December Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reset at 04 AM",
+		CoolTimeQuest = 1
+	},
+	[19068] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"100 Fish Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19069] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"100 Fish Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19070] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Fish Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19071] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Fish Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19072] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Small Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,163,92,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19073] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Small Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,163,92,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19074] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Small Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,163,92,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19075] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Small Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,163,92,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19076] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Formless Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>yuno,180,145,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19077] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Formless Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>yuno,180,145,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19078] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Formless Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>yuno,180,145,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19079] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Formless Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>yuno,180,145,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19080] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Earth property Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,170,288,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19081] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Earth property Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,170,288,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19082] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Earth property Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,170,288,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19083] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Earth property Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,170,288,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19084] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Large Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>geffen,74,42,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19085] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Large Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>geffen,74,42,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19086] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Large Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>geffen,74,42,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19087] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Large Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>geffen,74,42,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19088] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Fire property Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>comodo,248,128,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19089] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Fire property Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>comodo,248,128,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19090] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Fire property Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>comodo,248,128,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19091] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Fire property Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>comodo,248,128,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19092] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Ghost property Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19093] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Ghost property Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19094] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Ghost property Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19095] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Ghost property Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19096] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Medium sized Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,149,305,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19097] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Medium sized Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,149,305,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19098] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Medium sized Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,149,305,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19099] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Medium sized Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prontera,149,305,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19100] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Plant Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>alberta,131,174,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19101] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Plant Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>alberta,131,174,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19102] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Plant Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>alberta,131,174,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19103] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Plant Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>alberta,131,174,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19104] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Devil Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19105] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Devil Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19106] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Devil Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19107] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Devil Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19108] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19109] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19110] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19111] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19112] = {
+		Title = "Rudolf's favor Lv1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Water property Monsters which are Lv.50 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19113] = {
+		Title = "Rudolf's favor Lv2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Water property Monsters which are Lv.100 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19114] = {
+		Title = "Rudolf's favor Lv3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Water property Monsters which are Lv.150 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
+	},
+	[19115] = {
+		Title = "Rudolf's favor Lv4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Water property Monsters which are Lv.200 or higher",
+			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
+		},
+		Summary = ""
 	}
+
 }
