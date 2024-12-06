@@ -4446,7 +4446,7 @@ QuestInfoList = {
 		Title = "Fire Event",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"To participate in setting a fire, you need a few items that can burn well. Please come <NAVI>[to me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> with 5 fine branches, 10 old tree roots and 1 fire arrow."
+			"To participate in setting a fire, you need a few items that can burn well. Please come <NAVI>[to me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> with 5 <ITEM>[High-quality branches]<INFO>25391</INFO></ITEM>, 10 <ITEM>[Tree Root]<INFO>902</INFO></ITEM> and 1 <ITEM>[Tree Root]<INFO>1752</INFO></ITEM>."
 		},
 		Summary = "Great Fire Material"
 	},
@@ -4478,9 +4478,9 @@ QuestInfoList = {
 		Title = "Resurrected Twig",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I hope you will get rid of 10 resurrected branches and get about 10 good quality branches. My Reputation depends on it! <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
+			"I hope you will get rid of 10 resurrected branches and get about 10 <ITEM>[High-quality branches]<INFO>25391</INFO></ITEM>. My Reputation depends on it! <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
 		},
-		Summary = "10 quality branches"
+		Summary = "10 High-quality branches"
 	},
 	[3370] = {
 		Title = "Atmosphere: Resurrected Branch",
@@ -4512,7 +4512,7 @@ QuestInfoList = {
 		Title = "Songpyeon preparation",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Songpyeon's ingredients are running out. Go get Songpyeon some ingredients? 1 grain, 3 honey, 10 green herbs. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+			"Songpyeon's ingredients are running out. Go get Songpyeon some ingredients? 1 <ITEM>[Grain]<INFO>577</INFO></ITEM>, 3 <ITEM>[Honey]<INFO>518</INFO></ITEM>, 10 <ITEM>[Green Herb]<INFO>511</INFO></ITEM>. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Songpyeon ingredients"
 	},
@@ -4520,7 +4520,7 @@ QuestInfoList = {
 		Title = "Prepare Mooncake",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The moon cake's ingredients have run out. Can you get some moon cake ingredients? 1 yellow spice and 3 pieces of wood. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+			"The moon cake's ingredients have run out. Can you get some moon cake ingredients? 1 <ITEM>[Yellow Spice]<INFO>7452</INFO></ITEM> and 3 <ITEM>[Trunks]<INFO>1019</INFO></ITEM>. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Mooncake material"
 	},
@@ -4528,7 +4528,7 @@ QuestInfoList = {
 		Title = "Preparing roast turkey",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The ingredients for roast turkey are running out. Can you get some ingredients for the roast turkey? 1 plain sauce, 3 lemons and 10 carrots. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+			"The ingredients for roast turkey are running out. Can you get some ingredients for the roast turkey? 1 <ITEM>[Savory Sauce]<INFO>7454</INFO></ITEM>, 3 <ITEM>[Lemon]<INFO>568</INFO></ITEM> and 10 <ITEM>[Carrot]<INFO>515</INFO></ITEM>. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Ingredients for roast turkey"
 	},
@@ -33996,7 +33996,7 @@ QuestInfoList = {
 	[17397] = {
 		Title = "O time, halt your hasty feet.",
 		Description = {
-			"Bring me Sweet Potato x 3, Milk x 3, and Blue Card L, O, V, and E one each! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+			"Bring me <ITEM>Potato<INFO>516</INFO></ITEM> x 3, <ITEM>Milk<INFO>519</INFO></ITEM> x 3, and Blue Card L, O, V, and E one each! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Winter Snack of Love"
 	},
@@ -34031,7 +34031,7 @@ QuestInfoList = {
 	[17402] = {
 		Title = "Need attention",
 		Description = {
-			"I knew that even villains would love winter snacks. Get Sweet Potato x 3 and Snow Festa Card Pack x 3 by defeating Your Gift Box x 5! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+			"I knew that even villains would love winter snacks. Get <ITEM>Potato<INFO>516</INFO></ITEM> x 3 and <ITEM>Snow Festa Cards Pack<INFO>23554</INFO></ITEM> x 3 by defeating Your Gift Box x 5! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Gifts for the Villains"
 	},
@@ -60114,6 +60114,6 @@ QuestInfoList = {
 		},
 		Summary = ""
 	}
-	
+
 
 }
