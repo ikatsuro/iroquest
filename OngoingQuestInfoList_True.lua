@@ -33932,7 +33932,7 @@ QuestInfoList = {
 		Title = "Snow Flower Bouquet Making",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"To make a Snow Bouquet,\nyou need <b>10</b> <ITEM>Magical Snow Flowers<INFO>25425</INFO></ITEM>. Don't forget to bring <b>1</b> <ITEM>Carrot <INFO>515</INFO></ITEM> because snowmen want to have a nose. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+			"To make a Snow Bouquet, you need \n<b>10</b> <ITEM>Magical Snow Flowers<INFO>25425</INFO></ITEM>. \nDon't forget to bring <b>1</b> <ITEM>Carrot <INFO>515</INFO></ITEM> because snowmen want to have a nose. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Snow Flower x 10, Carrot x 1"
 	},
