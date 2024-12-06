@@ -33956,7 +33956,7 @@ QuestInfoList = {
 		Title = "Stand by: Packing cotton",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"We’re packing cotton. I think we’ll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
+			"We're packing cotton. I think we'll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reset at 04:00"
 	},
@@ -34020,7 +34020,7 @@ QuestInfoList = {
 		Title = "O time, halt your hasty feet.",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Right! Come on, let’s bring these lovely snacks to the <NAVI>[Villain]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>!"
+			"Right! Come on, let's bring these lovely snacks to the <NAVI>[Villain]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Winter Snacks for Villains 1"
 	},
@@ -34028,7 +34028,7 @@ QuestInfoList = {
 		Title = "O time, halt your hasty feet.",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Come on, let’s bring these snacks for the next <NAVI>[Villain]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"
+			"Come on, let's bring these snacks for the next <NAVI>[Villain]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Winter Snacks for Villains 2"
 	},
@@ -34036,7 +34036,7 @@ QuestInfoList = {
 		Title = "O time, halt your hasty feet.",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Let’s go to the last <NAVI>[Villain]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"
+			"Let's go to the last <NAVI>[Villain]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Winter Snacks for Villains 3"
 	},
@@ -34044,7 +34044,7 @@ QuestInfoList = {
 		Title = "O time, halt your hasty feet.",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Now let’s go back to the Clock Tower and stop the <NAVI>[Villain Boss]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> from executing their plan!"
+			"Now let's go back to the Clock Tower and stop the <NAVI>[Villain Boss]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> from executing their plan!"
 		},
 		Summary = "To the Clock Tower"
 	},
@@ -34052,13 +34052,12 @@ QuestInfoList = {
 		Title = "Need attention",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I knew that even villains would love winter snacks. Get <ITEM>Potato<INFO>516</INFO></ITEM> x 3 and <ITEM>Snow Festa Cards Pack<INFO>23554</INFO></ITEM> x 3 by defeating Your Gift Box x 5! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+			"I knew that even villains would love winter snacks. Get <b>3</b> <ITEM>Potato <INFO>516</INFO></ITEM> and <b>3</b> <ITEM>Snow Festa Cards Pack <INFO>23554</INFO></ITEM> by defeating Your Gift Box x 5! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Gifts for the Villains"
 	},
 	[17403] = { 
 		Title = "Standby: Needs attention", 
-		IconName = "ico_ev.bmp",
 		IconName = "ico_ev.bmp", 
 		Description = { 
 			"After all, I thought winter treats and affectionate cards would work. Now rest soundly and help me again after dawn. - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>" 
