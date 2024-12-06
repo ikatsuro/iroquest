@@ -33946,9 +33946,9 @@ QuestInfoList = {
 	},
 	[17389] = {
 		Title = "Heartwarming Winter Days",
-		IconName = "ico_ev.bmp",
+		IconName = "ico_ev.bmp",		
 		Description = {
-			"Snow for children who don’t get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of Warm Cotton x 10!"
+			"Snow for children who don't get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We] <INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of <ITEM>Warm Cotton  <INFO>25426</INFO></ITEM>"
 		},
 		Summary = "Warm Cotton x 10"
 	},
