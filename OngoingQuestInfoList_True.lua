@@ -60134,6 +60134,139 @@ QuestInfoList = {
 			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
 		},
 		Summary = ""
+	},
+	[297042] = {
+		Title = "[Event] Lutie Monster Battle (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"A suspicious santa invited you to join a monster battle tournament held in Lutie during christmas season.\n\t\t\n\t\tWell, you can smell a good-good-sweet EXP coming from this event and decide to participate.\n\t\t\n\t\tBut first of all, you'll need to train how to battle in this bizarre tournament.?\n\t\tAnd not to mention, you don't have any monsters to help you, and all you have is a chicken borrowed from that suspicious Santa.\n\t\t\n\t\tLet's talk to <NAVI>[Assistant Chloe]<INFO>xmas,158,134,0,101,0</INFO></NAVI> and learn how to battle.\n\t\t\n\t\tIf you don't see her at all, let's return to Santa and ask him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Talk to Assistant Chloe",
+		NpcSpr = "4_M_SANTA",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 128
+	},
+	[297043] = {
+		Title = "[Event] Lutie Monster Battle (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have learned how to fight and it's time to face your ^4D4DFFfirst rival^000000.\n\t\t\n\t\t^4D4DFFThat time I tried to pick up a cute maid in the middle of dungeon, but I got frozen in ice instead^000000\n\t\t\n\t\tWhat a weirdly long name; it reminds you of that overrated fantasy novel genre.?\n\t\t\n\t\tLet's talk to <NAVI>[Frozen Guy]<INFO>xmas,103,270,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Frozen Guy",
+		NpcSpr = "4_M_FROZEN1",
+		NpcNavi = "xmas",
+		NpcPosX = 103,
+		NpcPosY = 270
+	},
+	[297044] = {
+		Title = "[Event] Lutie Monster Battle (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated the Frozen Guy and it's time to face your ^4D4DFFsecond rival^000000.\n\t\t\n\t\t^4D4DFFToy Factory's Corporate Workaholic^000000\n\t\t\n\t\tI think I just saw the dark side of the Toy Factory...?\n\t\t\n\t\tLet's talk to <NAVI>[Tired Snowman]<INFO>xmas,155,304,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Tired Snowman",
+		NpcSpr = "4_M_SNOWMAN",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 304
+	},
+	[297045] = {
+		Title = "[Event] Lutie Monster Battle (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated the poor snowman and it's time to face your ^4D4DFFfinal rival^000000.\n\t\t\n\t\t^4D4DFFSultan of Lutie^000000\n\t\t\n\t\tWhy there's a sultan here in Lutie...?\n\t\t\n\t\tLet's talk to <NAVI>[Sultan of Lutie]<INFO>xmas,145,234,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Sultan of Lutie",
+		NpcSpr = "4_M_ARDHA",
+		NpcNavi = "xmas",
+		NpcPosX = 145,
+		NpcPosY = 234
+	},
+	[297046] = {
+		Title = "[Event] Lutie Monster Battle (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated all the contenders.\n\t\t\n\t\tBut I think it's too anti-climatic, right?\n\t\tI heard there's a hidden contender in this tournament.\n\t\t\n\t\tAnyway, you can return to <NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> and claim your reward.\n\t\t\n\t\tMerry Christmas!\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Talk to Suspicious Santa",
+		NpcSpr = "4_M_SANTA",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 128
+	},
+	[297047] = {
+		Title = "[Challenge] Legendary Christmas Pope",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You decided to accept the challenge.\n\t\t\n\t\tThe one and only legendary Christmas pope!\n\t\t\n\t\tTalk to <NAVI>[Christmas Pope]<INFO>xmas,259,119,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Christmas Pope",
+		NpcSpr = "4_F_ARUNA_POP2",
+		NpcNavi = "xmas",
+		NpcPosX = 259,
+		NpcPosY = 119
+	},
+	[297048] = {
+		Title = "[Cooldown] Lutie Monster battle",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have done enough today.\n\t\t^FF0000Only 1 monster battle is available every day.^000000\n\t\n\t\tLet's return to Suspicious Santa after 20 hours if you want to do monster battle.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Reset after 20 hours",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_SANTA",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 128
+	},
+	[297049] = {
+		Title = "[Daily] Lutie Monster Battle",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Your today's rival is the Frozen Guy team.\n\t\t\n\t\t^4D4DFFThat time I tried to pick up a cute maid in the middle of dungeon, but I got frozen in ice instead^000000\n\t\t\n\t\tLet's talk to <NAVI>[Frozen Guy]<INFO>xmas,103,270,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Frozen Guy",
+		NpcSpr = "4_M_FROZEN1",
+		NpcNavi = "xmas",
+		NpcPosX = 103,
+		NpcPosY = 270
+	},
+	[297050] = {
+		Title = "[Daily] Lutie Monster Battle",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Your today's rival is the snowman team.\n\t\t\n\t\t^4D4DFFToy Factory's Corporate Workaholic^000000\n\t\t\n\t\tLet's talk to <NAVI>[Tired Snowman]<INFO>xmas,155,304,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Tired Snowman",
+		NpcSpr = "4_M_SNOWMAN",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 304
+	},
+	[297051] = {
+		Title = "[Daily] Lutie Monster Battle",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Your today's rival is the sultan team.\n\t\t\n\t\t^4D4DFFSultan of Lutie^000000\n\t\t\n\t\tLet's talk to <NAVI>[Sultan of Lutie]<INFO>xmas,145,234,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Defeat Sultan of Lutie",
+		NpcSpr = "4_M_ARDHA",
+		NpcNavi = "xmas",
+		NpcPosX = 145,
+		NpcPosY = 234
+	},
+	[297052] = {
+		Title = "[Daily] Lutie Monster Battle",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated today's contender.\n\t\t\n\t\tLet's return to <NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> and claim your reward.\n\t\t\n\t\tMerry Christmas!\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+		},
+		Summary = "Talk to Suspicious Santa",
+		NpcSpr = "4_M_SANTA",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 128
 	}
 
 
