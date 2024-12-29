@@ -25557,10 +25557,16 @@ QuestInfoList = {
 	},
 	[12347] = {
 		Title = "Trace of Laboratory Access",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"The effects of the ancient science laboratory being accessed through dimensions is left."
 		},
-		Summary = "Traces of Laboratory Access"
+		NpcSpr = "4_LGTSCIENCE",
+		NpcNavi = "verus01",
+		NpcPosX = 149,
+		NpcPosY = 155,
+		Summary = "Traces of Laboratory Access",
+		CoolTimeQuest = 1
 	},
 	[12370] = {
 		Title = "A member of the Union",
