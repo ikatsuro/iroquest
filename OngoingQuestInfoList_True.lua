@@ -59683,6 +59683,1697 @@ QuestInfoList = {
 		Description = { "The time left to rent items again:" },
 		Summary = ""
 	},
+	[5471] = {
+		Title = "(Wanted)",
+		Description = {
+			"It is said that the royal family of Prontera will reward those who capture the top boss of the Constellation, Entweihen Crothen."
+		},
+		Summary = "Bounty Alliance Token 300"
+	},
+	[12513] = {
+		Title = "Why The Tower Was Destroyed",
+		Description = {
+			"It seems that the Culprit is located inside the half-blown away tower. Let's check what kind of existence it is.."
+		},
+		Summary = "New Tower Owner"
+	},
+	[12514] = {
+		Title = "Aftereffects of Entering The Tower",
+		Description = {
+			"It takes a lot of mental energy to get in and out of this place. Even if you have errands left, it is best to visit again after 3 days.."
+		},
+		Summary = "Re-entry 3 days later at 4am",
+		CoolTimeQuest = 1
+	},
+	[12515] = {
+		Title = "Face to Face with The New Tower Owner",
+		Description = {
+			"The new tower's owner did not kill all of the tower's occupants. He's truly generous, you can't guess how strong he is."
+		},
+		Summary = "Let's take shelter."
+	},
+	[12516] = {
+		Title = "Secret of the Fountain 1",
+		Description = {
+			"Amplify Betelgeuse's power by more than 300% to win. <ITEM>A feature has been added to increase the specific difficulty level to the limit using meteorite powder<INFO>1000372</INFO></ITEM>."
+		},
+		Summary = "Strengthening Abilities"
+	},
+	[12517] = {
+		Title = "Secret of the Fountain 1",
+		Description = {
+			"Amplify the power of Betelgeuse by more than 600% to win. <ITEM>The ability to seal a specific difficulty level to 0 using meteorite powder<INFO>1000372</INFO></ITEM> has been added."
+		},
+		Summary = "Strengthening Abilities"
+	},
+	[12518] = {
+		Title = "An Outcast",
+		Description = {
+			"It is clear that a tectonic shift has occurred in the tower's ecosystem. Before we can confirm who owns the changed throne, we need to organize things neatly."
+		},
+		Summary = "Please leave quickly"
+	},
+	[12519] = {
+		Title = "Whereabouts of the original owner",
+		Description = {
+			"If the tower had become like this, the entity that originally ruled this place would no longer be alive."
+		},
+		Summary = "Now it might not be a big deal"
+	},
+	[12540] = {
+		Title = "Sunken Tower",
+		Description = {
+			"Someone is desperately needed to clean up the twisted beings that are rampant in the basement of the tower destroyed by Betelgeuse."
+		},
+		Summary = "Underground purification"
+	},
+	[12541] = {
+		Title = "High tide time",
+		Description = {
+			"You cannot enter the entrance of the sunken tower when water is rushing in."
+		},
+		Summary = "Re-entry 3 days later at 4 a.m.",
+		CoolTimeQuest = 1
+	},
+	[12542] = {
+		Title = "Goddess' protection",
+		Description = {
+			"The Goddess' protection is with you. Reaching a certain point with divine protection will help you grow."
+		},
+		Summary = "Let's go down quickly."
+	},
+	[5497] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converters (Wind) to ^0565C9Guard Yorayo^000000 at Izlude Undersea Tunnel 4F(iz_dun03). The package must be delivered to the coordinates (67 76)."
+		},
+		Summary = ""
+	},
+	[5498] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Guard Yorayo and received a receipt."
+		},
+		Summary = ""
+	},
+	[5499] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converters (Wind) to ^0565C9Guard Yarayo^000000 at Izlude Undersea Tunnel 5F(iz_dun04). The package must be delivered to the coordinates (86 45)."
+		},
+		Summary = ""
+	},
+	[5500] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Guard Yarayo and received a receipt."
+		},
+		Summary = ""
+	},
+	[5501] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 30 Carrots to ^0565C9Picknicker Lucci^000000 at Good Turtles Village(tur_dun03). The package must be delivered to the coordinates (132 156)."
+		},
+		Summary = ""
+	},
+	[5502] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Picknicker Lucci and received a receipt."
+		},
+		Summary = ""
+	},
+	[5503] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 30 Sweet Potatos to ^0565C9Picknicker Lucci^000000 at Turtle Palace(tur_dun04). The package must be delivered to the coordinates (86 175)."
+		},
+		Summary = ""
+	},
+	[5504] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Adventurer Jungfan and received a receipt."
+		},
+		Summary = ""
+	},
+	[5505] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Beginner Wizard German^000000 at Sphinx 5F(in_sphinx5). The package must be delivered to the coordinates (109 109)."
+		},
+		Summary = ""
+	},
+	[5506] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Beginner Wizard German and received a receipt."
+		},
+		Summary = ""
+	},
+	[5507] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Creator Pira^000000 at Inside Pyramid 4F(moc_pryd04). The package must be delivered to the coordinates (78 194)."
+		},
+		Summary = ""
+	},
+	[5508] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Pira and received a receipt."
+		},
+		Summary = ""
+	},
+	[5509] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Minstrel Flounder^000000 at Inside Pyramid 2F(moc_pryd06). The package must be delivered to the coordinates (97 17)."
+		},
+		Summary = ""
+	},
+	[5510] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Minstrel Flounder and received a receipt."
+		},
+		Summary = ""
+	},
+	[5511] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Holy Water to ^0565C9Shadow Chaser Acto^000000 at Cursed Monastery 1F(abbey01). The package must be delivered to the coordinates (51 45)."
+		},
+		Summary = ""
+	},
+	[5512] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Shadow Chaser Acto and received a receipt."
+		},
+		Summary = ""
+	},
+	[5513] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Silver Arrow to ^0565C9Ranger Ellen^000000 at Cursed Monastery B1F(abbey02). The package must be delivered to the coordinates (157 32)."
+		},
+		Summary = ""
+	},
+	[5514] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Ranger Ellen and received a receipt."
+		},
+		Summary = ""
+	},
+	[5515] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 30 Meats to ^0565C9Sura Cuke^000000 at Cursed Monastery B2F(abbey03). The package must be delivered to the coordinates (108 23)."
+		},
+		Summary = ""
+	},
+	[5516] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sura Cuke and received a receipt."
+		},
+		Summary = ""
+	},
+	[5517] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converter (Water) to ^0565C9Man covering his face^000000 at Thor Volcano Dungeon 1F(thor_v01). The package must be delivered to the coordinates (18 246)."
+		},
+		Summary = ""
+	},
+	[5518] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Man covering his face and received a receipt."
+		},
+		Summary = ""
+	},
+	[5519] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converter (Water) to ^0565C9Man covering his face^000000 at Thor Volcano Dungeon 2F(thor_v02). The package must be delivered to the coordinates (99 200)."
+		},
+		Summary = ""
+	},
+	[5520] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Man covering his face and received a receipt."
+		},
+		Summary = ""
+	},
+	[5521] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converter (Water) to ^0565C9Man covering his face^000000 at Thor Volcano Dungeon 3F(thor_v03). The package must be delivered to the coordinates (44 283)."
+		},
+		Summary = ""
+	},
+	[5522] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Man covering his face and received a receipt."
+		},
+		Summary = ""
+	},
+	[5523] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifier to ^0565C9Sanctuary Research Priest^000000 at Holy Ground 2F(ra_san05). The package must be delivered to the coordinates (151 89)."
+		},
+		Summary = ""
+	},
+	[5524] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sanctuary Research Priest and received a receipt."
+		},
+		Summary = ""
+	},
+	[5525] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converter (Water) to ^0565C9Pattuk a generous one^000000 at Ice Cave 3F(ice_dun03). The package must be delivered to the coordinates (150 69)."
+		},
+		Summary = ""
+	},
+	[5526] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Pattuk a generous one and received a receipt."
+		},
+		Summary = ""
+	},
+	[5527] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Bouquet to ^0565C9A lonely woman^000000 at Somatology Laboratory B2F(lhz_dun02). The package must be delivered to the coordinates (170 23)."
+		},
+		Summary = ""
+	},
+	[5528] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A lonely woman and received a receipt."
+		},
+		Summary = ""
+	},
+	[5529] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Bouquet to ^0565C9A lonely woman^000000 at Somatology Laboratory B3F(lhz_dun03). The package must be delivered to the coordinates (159 122)."
+		},
+		Summary = ""
+	},
+	[5530] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A lonely woman and received a receipt."
+		},
+		Summary = ""
+	},
+	[5531] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Bouquet to ^0565C9A lonely woman^000000 at Somatology Laboratory B4F(lhz_dun04). The package must be delivered to the coordinates (238 49)."
+		},
+		Summary = ""
+	},
+	[5532] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A lonely woman and received a receipt."
+		},
+		Summary = ""
+	},
+	[5533] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Yggdrasil Leaves to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t05). The package must be delivered to the coordinates (223 99)."
+		},
+		Summary = ""
+	},
+	[5534] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5535] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Blue Gemstone to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t06). The package must be delivered to the coordinates (135 129)."
+		},
+		Summary = ""
+	},
+	[5536] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5537] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t07). The package must be delivered to the coordinates (37 178)."
+		},
+		Summary = ""
+	},
+	[5538] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5539] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Blue Gemstones to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t08). The package must be delivered to the coordinates (49 54)."
+		},
+		Summary = ""
+	},
+	[5540] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5541] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t09). The package must be delivered to the coordinates (13 114)."
+		},
+		Summary = ""
+	},
+	[5542] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5543] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Blue Gemstones to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t10). The package must be delivered to the coordinates (158 111)."
+		},
+		Summary = ""
+	},
+	[5544] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5545] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t11). The package must be delivered to the coordinates (34 25)."
+		},
+		Summary = ""
+	},
+	[5546] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5547] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Blue Gemstones to ^0565C9Creator Ellec^000000 at Thanatos Tower - Upper Level(tha_t12). The package must be delivered to the coordinates (100 18)."
+		},
+		Summary = ""
+	},
+	[5548] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Creator Ellec and received a receipt."
+		},
+		Summary = ""
+	},
+	[5549] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Spicy Sauce to ^0565C9Geek Eater Blubber^000000 at Abyss Lake Underground Cave(abyss_03). The package must be delivered to the coordinates (100 40)."
+		},
+		Summary = ""
+	},
+	[5550] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Geek Eater Blubber and received a receipt."
+		},
+		Summary = ""
+	},
+	[5551] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 30 Meats to ^0565C9Monk Wabi^000000 at Center of Juperos(jupe_core). The package must be delivered to the coordinates (134 283)."
+		},
+		Summary = ""
+	},
+	[5552] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Monk Wabi and received a receipt."
+		},
+		Summary = ""
+	},
+	[5553] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Witherless Rose to ^0565C9A lonely woman^000000 at Robot Factory level 2(kh_dun02). The package must be delivered to the coordinates (17 222)."
+		},
+		Summary = ""
+	},
+	[5554] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A lonely woman and received a receipt."
+		},
+		Summary = ""
+	},
+	[5555] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 3 Butterfly Wings to ^0565C9A dying man^000000 at Clock Tower B4F(alde_dun04). The package must be delivered to the coordinates (147 137)."
+		},
+		Summary = ""
+	},
+	[5556] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A dying man and received a receipt."
+		},
+		Summary = ""
+	},
+	[5557] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 3 Butterfly Wings to ^0565C9Adventurer Molly^000000 at Clock Tower 4f(c_tower4). The package must be delivered to the coordinates (179 57)."
+		},
+		Summary = ""
+	},
+	[5558] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Adventurer Molly and received a receipt."
+		},
+		Summary = ""
+	},
+	[5559] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Silver Arrows to ^0565C9Hunter Panini^000000 at Glast Heim 1f(gl_cas01). The package must be delivered to the coordinates (198 37)."
+		},
+		Summary = ""
+	},
+	[5560] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Hunter Panini and received a receipt."
+		},
+		Summary = ""
+	},
+	[5561] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Silver Arrows to ^0565C9Hunter Panini^000000 at Glast Heim 2f(gl_cas02). The package must be delivered to the coordinates (96 33)."
+		},
+		Summary = ""
+	},
+	[5562] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Hunter Panini and received a receipt."
+		},
+		Summary = ""
+	},
+	[5563] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Crusader Seoribi^000000 at The Lowest Cave in Glast Heim(gl_dun01). The package must be delivered to the coordinates (124 265)."
+		},
+		Summary = ""
+	},
+	[5564] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Crusader Seoribi and received a receipt."
+		},
+		Summary = ""
+	},
+	[5565] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 3 Butterfly Wings to ^0565C9Knight Yonapal^000000 at The Lowest Cave in Glast Heim(gl_dun02). The package must be delivered to the coordinates (225 257)."
+		},
+		Summary = ""
+	},
+	[5566] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Knight Yonapal and received a receipt."
+		},
+		Summary = ""
+	},
+	[5567] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Rogue Irita^000000 at Inside Glast Heim Chivalry 1F(gl_knt01). The package must be delivered to the coordinates (159 23)."
+		},
+		Summary = ""
+	},
+	[5568] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Rogue Irita and received a receipt."
+		},
+		Summary = ""
+	},
+	[5569] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Rogue Irash^000000 at Inside Glast Heim Chivalry 2F(gl_knt02). The package must be delivered to the coordinates (145 283)."
+		},
+		Summary = ""
+	},
+	[5570] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Rogue Irash and received a receipt."
+		},
+		Summary = ""
+	},
+	[5571] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Wizard Esser^000000 at Glast Heim Underprison B2F(gl_prison1). The package must be delivered to the coordinates (160 29)."
+		},
+		Summary = ""
+	},
+	[5572] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Wizard Esser and received a receipt."
+		},
+		Summary = ""
+	},
+	[5573] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Fire Arrows to ^0565C9Bard Adolic^000000 at Glast Heim Culvert B3F(gl_sew03). The package must be delivered to the coordinates (182 277)."
+		},
+		Summary = ""
+	},
+	[5574] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Bard Adolic and received a receipt."
+		},
+		Summary = ""
+	},
+	[5575] = {
+		Title = "(A-Delivery Quest)",
+		Description = {
+			"I should deliver 3 Butterfly Wings to ^0565C9Monk Wabi^000000 at Glast Heim Culvert B4F(gl_sew04). The package must be delivered to the coordinates (68 262)."
+		},
+		Summary = ""
+	},
+	[5576] = {
+		Title = "(A-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Monk Wabi and received a receipt."
+		},
+		Summary = ""
+	},
+	[5577] = {
+		Title = "(Delivery Quest) Cool down",
+		Description = {
+			"There are no new requests registered on the City Merchants Association bulletin board. It is said that the request resets at 4 AM."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[5578] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Silver Arrows to ^0565C9Ranger Motu^000000 at Payon Cave(pay_dun01). The package must be delivered to the coordinates (53 50)."
+		},
+		Summary = ""
+	},
+	[5579] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Ranger Motu and received a receipt."
+		},
+		Summary = ""
+	},
+	[5580] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Silver Arrows to ^0565C9Ranger Motu^000000 at Payon Cave(pay_dun02). The package must be delivered to the coordinates (33 63)."
+		},
+		Summary = ""
+	},
+	[5581] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Ranger Motu and received a receipt."
+		},
+		Summary = ""
+	},
+	[5582] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Orange Potion to ^0565C9Novice on the hunt^000000 at Prontera Culvert B2F(prt_sewb2). The package must be delivered to the coordinates (19 33)."
+		},
+		Summary = ""
+	},
+	[5583] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Novice on the hunt and received a receipt."
+		},
+		Summary = ""
+	},
+	[5584] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Yellow Potion to ^0565C9Thief Lady^000000 at Prontera Culvert B3F(prt_sewb3). The package must be delivered to the coordinates (179 149)."
+		},
+		Summary = ""
+	},
+	[5585] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Thief Lady and received a receipt."
+		},
+		Summary = ""
+	},
+	[5586] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Assasin Guild member^000000 at Prontera Culvert B4F(prt_sewb4). The package must be delivered to the coordinates (112 86)."
+		},
+		Summary = ""
+	},
+	[5587] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Assasin Guild member and received a receipt."
+		},
+		Summary = ""
+	},
+	[5588] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Traveler from the another world^000000 at Labyrinth Forest(prt_maze02). The package must be delivered to the coordinates (106 127)."
+		},
+		Summary = ""
+	},
+	[5589] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Traveler from the another world and received a receipt."
+		},
+		Summary = ""
+	},
+	[5590] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Adventurer Tory^000000 at Labyrinth Forest(prt_maze03). The package must be delivered to the coordinates (17 176)."
+		},
+		Summary = ""
+	},
+	[5591] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Adventurer Tory and received a receipt."
+		},
+		Summary = ""
+	},
+	[5592] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Orange Potion to ^0565C9Bastard Liyu^000000 at Undersea Tunnel(iz_dun01). The package must be delivered to the coordinates (36 53)."
+		},
+		Summary = ""
+	},
+	[5593] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Bastard Liyu and received a receipt."
+		},
+		Summary = ""
+	},
+	[5594] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converter (Wind) to ^0565C9Continental Guard^000000 at Undersea Tunnel(iz_dun02). The package must be delivered to the coordinates (230 226)."
+		},
+		Summary = ""
+	},
+	[5595] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Continental Guard and received a receipt."
+		},
+		Summary = ""
+	},
+	[5596] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Red Potion to ^0565C9Newbie Adventurer Jarsh^000000 at Payon Cave 4F(pay_dun03). The package must be delivered to the coordinates (149 142)."
+		},
+		Summary = ""
+	},
+	[5597] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Newbie Adventurer Jarsh and received a receipt."
+		},
+		Summary = ""
+	},
+	[5598] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Archaeologist Matt^000000 at Payon Cave 5F(pay_dun04). The package must be delivered to the coordinates (33 109)."
+		},
+		Summary = ""
+	},
+	[5599] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Archaeologist Matt and received a receipt."
+		},
+		Summary = ""
+	},
+	[5600] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Awakening Potion to ^0565C9Traveler Yss^000000 at Sunken Ship 2F(treasure02). The package must be delivered to the coordinates (99 41)."
+		},
+		Summary = ""
+	},
+	[5601] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Traveler Yss and received a receipt."
+		},
+		Summary = ""
+	},
+	[5602] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Awakening Potion to ^0565C9Prilgrim Ting^000000 at Turtle Island(tur_dun01). The package must be delivered to the coordinates (164 60)."
+		},
+		Summary = ""
+	},
+	[5603] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Prilgrim Ting and received a receipt."
+		},
+		Summary = ""
+	},
+	[5604] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Warrior with a scimitar^000000 at Turtle Island Dungeon(tur_dun02). The package must be delivered to the coordinates (150 243)."
+		},
+		Summary = ""
+	},
+	[5605] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Warrior with a scimitar and received a receipt."
+		},
+		Summary = ""
+	},
+	[5606] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Orange Potion to ^0565C9Injured Cat^000000 at Sphinx B2F(in_sphinx2). The package must be delivered to the coordinates (147 133)."
+		},
+		Summary = ""
+	},
+	[5607] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Injured Cat and received a receipt."
+		},
+		Summary = ""
+	},
+	[5608] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Yellow Potion to ^0565C9Security Guard Seowi^000000 at Sphinx B3F(in_sphinx3). The package must be delivered to the coordinates (205 37)."
+		},
+		Summary = ""
+	},
+	[5609] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Security Guard Seowi and received a receipt."
+		},
+		Summary = ""
+	},
+	[5610] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Soldier Araki^000000 at Sphinx B4F(in_sphinx4). The package must be delivered to the coordinates (130 130)."
+		},
+		Summary = ""
+	},
+	[5611] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Soldier Araki and received a receipt."
+		},
+		Summary = ""
+	},
+	[5612] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Red Potion to ^0565C9Taekwon girl Sireou^000000 at Inside Pyramid 2F(moc_pryd02). The package must be delivered to the coordinates (20 180)."
+		},
+		Summary = ""
+	},
+	[5613] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Taekwon girl Sireou and received a receipt."
+		},
+		Summary = ""
+	},
+	[5614] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Orange Potion to ^0565C9Arch Bishop Shavil^000000 at Inside Pyramid 3F(moc_pryd03). The package must be delivered to the coordinates (92 83)."
+		},
+		Summary = ""
+	},
+	[5615] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Arch Bishop Shavil and received a receipt."
+		},
+		Summary = ""
+	},
+	[5616] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Orange Potion to ^0565C9Rune Knight Preth^000000 at Inside Pyramid B1F(moc_pryd05). The package must be delivered to the coordinates (102 84)."
+		},
+		Summary = ""
+	},
+	[5617] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Rune Knight Preth and received a receipt."
+		},
+		Summary = ""
+	},
+	[5618] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Orange Potion to ^0565C9Arunafeltz member^000000 at Geffen Dungeon B2F(gef_dun01). The package must be delivered to the coordinates (120 220)."
+		},
+		Summary = ""
+	},
+	[5619] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Arunafeltz member and received a receipt."
+		},
+		Summary = ""
+	},
+	[5620] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Yellow Potion to ^0565C9Professor Shog^000000 at Geffen Dungeon B3F(gef_dun02). The package must be delivered to the coordinates (91 127)."
+		},
+		Summary = ""
+	},
+	[5621] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Professor Shog and received a receipt."
+		},
+		Summary = ""
+	},
+	[5622] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Sanctuary Research Priest^000000 at North Holy Ground 1F(ra_san01). The package must be delivered to the coordinates (140 110)."
+		},
+		Summary = ""
+	},
+	[5623] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sanctuary Research Priest and received a receipt."
+		},
+		Summary = ""
+	},
+	[5624] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Sanctuary Research Priest^000000 at West Holy Ground 1F(ra_san02). The package must be delivered to the coordinates (219 256)."
+		},
+		Summary = ""
+	},
+	[5625] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sanctuary Research Priest and received a receipt."
+		},
+		Summary = ""
+	},
+	[5626] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Sanctuary Research Priest^000000 at East Holy Ground 1F(ra_san03). The package must be delivered to the coordinates (20 155)."
+		},
+		Summary = ""
+	},
+	[5627] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sanctuary Research Priest and received a receipt."
+		},
+		Summary = ""
+	},
+	[5628] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Magnifiers to ^0565C9Sanctuary Research Priest^000000 at South Holy Ground 1F(ra_san04). The package must be delivered to the coordinates (200 193)."
+		},
+		Summary = ""
+	},
+	[5629] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sanctuary Research Priest and received a receipt."
+		},
+		Summary = ""
+	},
+	[5630] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converters (Wind) to ^0565C9Merchant Azu^000000 at Ice Cave 2F(ice_dun02). The package must be delivered to the coordinates (168 147)."
+		},
+		Summary = ""
+	},
+	[5631] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Merchant Azu and received a receipt."
+		},
+		Summary = ""
+	},
+	[5632] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Bouquet to ^0565C9A lonely woman^000000 at Somatology Laboratory B1F(lhz_dun01). The package must be delivered to the coordinates (162 288)."
+		},
+		Summary = ""
+	},
+	[5633] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A lonely woman and received a receipt."
+		},
+		Summary = ""
+	},
+	[5634] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Blacksmith Flige^000000 at Mjolnir Dead Pit 2F(mjo_dun02). The package must be delivered to the coordinates (359 354)."
+		},
+		Summary = ""
+	},
+	[5635] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Blacksmith Flige and received a receipt."
+		},
+		Summary = ""
+	},
+	[5636] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Butterfly Wings to ^0565C9Sorcerer Ryoma^000000 at Mjolnir Dead Pit 3F(mjo_dun03). The package must be delivered to the coordinates (310 246)."
+		},
+		Summary = ""
+	},
+	[5637] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Sorcerer Ryoma and received a receipt."
+		},
+		Summary = ""
+	},
+	[5638] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Miner Piltuber^000000 at Mine Dungeon 2F(ein_dun02). The package must be delivered to the coordinates (281 273)."
+		},
+		Summary = ""
+	},
+	[5639] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Miner Piltuber and received a receipt."
+		},
+		Summary = ""
+	},
+	[5640] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 2 Elemental Converter (Water) to ^0565C9Knight Shovalli^000000 at Nogg Road 2F(mag_dun02). The package must be delivered to the coordinates (43 56)."
+		},
+		Summary = ""
+	},
+	[5641] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Knight Shovalli and received a receipt."
+		},
+		Summary = ""
+	},
+	[5642] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Assassin Guild member^000000 at Thanatos Tower - Lower Level(tha_t02). The package must be delivered to the coordinates (146 142)."
+		},
+		Summary = ""
+	},
+	[5643] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Assassin Guild member and received a receipt."
+		},
+		Summary = ""
+	},
+	[5644] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Assassin Guild member^000000 at Thanatos Tower - Lower Level(tha_t03). The package must be delivered to the coordinates (226 139)."
+		},
+		Summary = ""
+	},
+	[5645] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Assassin Guild member and received a receipt."
+		},
+		Summary = ""
+	},
+	[5646] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 White Potion to ^0565C9Assassin Guild member^000000 at Thanatos Tower - Lower Level(tha_t04). The package must be delivered to the coordinates (60 157)."
+		},
+		Summary = ""
+	},
+	[5647] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Assassin Guild member and received a receipt."
+		},
+		Summary = ""
+	},
+	[5648] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Berserk Potion to ^0565C9Rune Knight Wallaby^000000 at Abyss Lake Underground Cave(abyss_02). The package must be delivered to the coordinates (262 274)."
+		},
+		Summary = ""
+	},
+	[5649] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Rune Knight Wallaby and received a receipt."
+		},
+		Summary = ""
+	},
+	[5650] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Berserk Potion to ^0565C9Rune Knight Veramyl^000000 at Ruins of Juperos(juperos_02). The package must be delivered to the coordinates (46 76)."
+		},
+		Summary = ""
+	},
+	[5651] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Rune Knight Veramyl and received a receipt."
+		},
+		Summary = ""
+	},
+	[5652] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 1 Witherless Rose to ^0565C9A lonely woman^000000 at Robot Factory level 1(kh_dun01). The package must be delivered to the coordinates (2 208)."
+		},
+		Summary = ""
+	},
+	[5653] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to A lonely woman and received a receipt."
+		},
+		Summary = ""
+	},
+	[5654] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly WIngs to ^0565C9Wizard Luric^000000 at Clock Tower B2F(alde_dun02). The package must be delivered to the coordinates (262 250)."
+		},
+		Summary = ""
+	},
+	[5655] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Wizard Luric and received a receipt."
+		},
+		Summary = ""
+	},
+	[5656] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly WIngs to ^0565C9Knight Eoupon^000000 at Clock Tower B3F(alde_dun03). The package must be delivered to the coordinates (273 72)."
+		},
+		Summary = ""
+	},
+	[5657] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Knight Eoupon and received a receipt."
+		},
+		Summary = ""
+	},
+	[5658] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly WIngs to ^0565C9Archer Ado^000000 at Clock Tower 2F(c_tower2). The package must be delivered to the coordinates (253 33)."
+		},
+		Summary = ""
+	},
+	[5659] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Archer Ado and received a receipt."
+		},
+		Summary = ""
+	},
+	[5660] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly WIngs to ^0565C9Wizard Yorick^000000 at Clock Tower 3F(c_tower3). The package must be delivered to the coordinates (143 227)."
+		},
+		Summary = ""
+	},
+	[5661] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Wizard Yorick and received a receipt."
+		},
+		Summary = ""
+	},
+	[5662] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 5 Yggdrasil Leaves to ^0565C9Meth^000000 at Glast Heim St. Abbey(gl_church). The package must be delivered to the coordinates (148 38)."
+		},
+		Summary = ""
+	},
+	[5663] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Meth and received a receipt."
+		},
+		Summary = ""
+	},
+	[5664] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Blue Gemstones to ^0565C9Arch Bishop Tyls^000000 at Glast Heim Churchyard(gl_chyard). The package must be delivered to the coordinates (156 52)."
+		},
+		Summary = ""
+	},
+	[5665] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Arch Bishop Tyls and received a receipt."
+		},
+		Summary = ""
+	},
+	[5666] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 500 Silver Arrows to ^0565C9Archer Corel^000000 at Inside Glast Heim(gl_in01). The package must be delivered to the coordinates (157 13)."
+		},
+		Summary = ""
+	},
+	[5667] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Archer Corel and received a receipt."
+		},
+		Summary = ""
+	},
+	[5668] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 20 Traps to ^0565C9Rogue Trainer Plex^000000 at Glast Heim Underprison(gl_prison). The package must be delivered to the coordinates (34 75)."
+		},
+		Summary = ""
+	},
+	[5669] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Rogue Trainer Plex and received a receipt."
+		},
+		Summary = ""
+	},
+	[5670] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Knight Ephad^000000 at Glast Heim Culvert B1F(gl_sew01). The package must be delivered to the coordinates (270 266)."
+		},
+		Summary = ""
+	},
+	[5671] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Knight Ephad and received a receipt."
+		},
+		Summary = ""
+	},
+	[5672] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Cat Knight Thub^000000 at Glast Heim Culvert B2F(gl_sew02). The package must be delivered to the coordinates (25 252)."
+		},
+		Summary = ""
+	},
+	[5673] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Cat Knight Thub and received a receipt."
+		},
+		Summary = ""
+	},
+	[5674] = {
+		Title = "(B-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Fly Wings to ^0565C9Dessert Warrior Seth^000000 at Glast Heim Staircase Dungeon(gl_step). The package must be delivered to the coordinates (30 10)."
+		},
+		Summary = ""
+	},
+	[5675] = {
+		Title = "(B-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Dessert Warrior Seth and received a receipt."
+		},
+		Summary = ""
+	},
+	[5676] = {
+		Title = "(Delivery Quest) Cool down",
+		Description = {
+			"There are no new requests registered on the City Merchants Association bulletin board. It is said that the request resets at 4 AM."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[5677] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Red Potion to ^0565C9Agent X^000000 at Prontera Culvert B1F(prt_sewb1). The package must be delivered to the coordinates (204 229)."
+		},
+		Summary = ""
+	},
+	[5678] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Agent X and received a receipt."
+		},
+		Summary = ""
+	},
+	[5679] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"I should deliver 3 Butterfly Wings to ^0565C9Apprentice Monk Clig^000000 at Labyrinth Forest(prt_maze01). The package must be delivered to the coordinates (100 100)."
+		},
+		Summary = ""
+	},
+	[5680] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Apprentice Monk Clig and received a receipt."
+		},
+		Summary = ""
+	},
+	[5681] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"I should deliver 10 Red Potion to ^0565C9Kid Tti^000000 at Undersea Tunnel(iz_dun00). The package must be delivered to the coordinates (130 138)."
+		},
+		Summary = ""
+	},
+	[5682] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"I delivered the package to Kid Tti and received a receipt."
+		},
+		Summary = ""
+	},
+	[5683] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"페이욘 던전 1층(pay_dun00)의 ^0565C9수도사 트링^000000에게 블루 젬스톤 5개를 배달해 달라는 의뢰이다. 물품 인수자는 (36 53)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5684] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"수도사 트링 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5685] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"알베르타 침몰선 1층(treasure01)의 ^0565C9로그 하령^000000에게 성수 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (74 52)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5686] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"로그 하령 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5687] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"모로크 개미지옥 던전 1층(anthell01)의 ^0565C9검사 심쿵^000000에게 빨간포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (107 124)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5688] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"검사 심쿵 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5689] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"모로크 개미지옥 던전 2층(anthell02)의 ^0565C9닌자 구간^000000에게 빨간포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (52 257)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5690] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"닌자 구간 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5691] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"코모도 서쪽 동굴 카루(beach_dun)의 ^0565C9대마법사 밀^000000에게 초록포션 5개를 배달해 달라는 의뢰이다. 물품 인수자는 (90 40)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5692] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"대마법사 밀 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5693] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"코모도 북쪽 동굴 루안다(beach_dun2)의 ^0565C9로그 에이요^000000에게 노란포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (157 80)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5694] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"로그 에이요 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5695] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"코모도 동쪽 동굴 마루(beach_dun3)의 ^0565C9상단고양이 고씨^000000에게 빨간포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (161 252)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5696] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"상단고양이 고씨 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5697] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"모로크 스핑크스 지하 1층(in_sphinx1)의 ^0565C9블랙스미스 하카^000000에게 노란포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (138 61)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5698] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"블랙스미스 하카 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5699] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"모로크 피라미드 1층(moc_pryd01)의 ^0565C9로그 미센^000000에게 빨간포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (122 112)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5700] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"로그 미센 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5701] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"게펜 오크 지하 동굴 1층(orcsdun01)의 ^0565C9수행기사 밴픽^000000에게 주홍포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (95 170)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5702] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"수행기사 밴픽 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5703] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"게펜 오크 지하 동굴 2층(orcsdun02)의 ^0565C9수행기사 밴픽^000000에게 노란포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (60 95)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5704] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"수행기사 밴픽 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5705] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"게펜 지하 던전 1층(gef_dun00)의 ^0565C9짐승 불로어^000000에게 노란포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (171 174)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5706] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"짐승 불로어 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5707] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"라헬 얼음 동굴 1층(ice_dun01)의 ^0565C9탐험가 파이어^000000에게 코튼셔츠 1개를 배달해 달라는 의뢰이다. 물품 인수자는 (233 80)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5708] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"탐험가 파이어 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5709] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"묘르닐 폐광 1층(mjo_dun01)의 ^0565C9정령연구원^000000에게 파리의 날개 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (75 215)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5710] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"정령연구원 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5711] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"아인베흐 광산 1층(ein_dun01)의 ^0565C9배고픈 광부^000000에게 고기 30개를 배달해 달라는 의뢰이다. 물품 인수자는 (48 252)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5712] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"배고픈 광부 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5713] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"유노 노그로드 1층(mag_dun01)의 ^0565C9피크니커^000000에게 고구마 30개를 배달해 달라는 의뢰이다. 물품 인수자는 (221 198)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5714] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"피크니커 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5715] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"타나토스 타워 하층부 박물관 입구(tha_t01)에 있는 ^0565C9고고학자 미엔^000000에게 돋보기 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (122 44)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5716] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"고고학자 미엔 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5717] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"휘겔 어비스 호수 지하 동굴 1층(abyss_01)의 ^0565C9형님 고양이^000000에게 괴물의 먹이 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (247 267)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5718] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"형님 고양이 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5719] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"유페로스 폐허 외부(juperos_01)에 있는 ^0565C9유노학자 저비^000000에게 집중의 포션 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (58 227)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5720] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"유노학자 저비 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5721] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"알데바란 시계탑 지하 1층(alde_dun01)의 ^0565C9방랑자 비비^000000에게 파리의 날개 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (80 275)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5722] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"방랑자 비비 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5723] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"알데바란 시계탑 지상 1층(c_tower1)의 ^0565C9방랑자 비비^000000에게 파리의 날개 10개를 배달해 달라는 의뢰이다. 물품 인수자는 (378 118)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5724] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"방랑자 비비 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
+	[5725] = {
+		Title = "(C-Delivery Quest)",
+		Description = {
+			"글레스트헤임(glast_01)에 있는 ^0565C9레이딘 커스^000000에게 설치용 트랩 20개를 배달해 달라는 의뢰이다. 물품 인수자는 (260 53)The package must be delivered to the coordinates (,)."
+		},
+		Summary = ""
+	},
+	[5726] = {
+		Title = "(C-Delivery Quest) Receipt",
+		Description = {
+			"레이딘 커스 I delivered the package to [Name] and received a receipt."
+		},
+		Summary = ""
+	},
 	[19066] = {
 		Title = "Investigator Rudolf's story",
 		IconName = "ico_ev.bmp",
