@@ -59698,11 +59698,16 @@ QuestInfoList = {
 		Summary = "New Tower Owner"
 	},
 	[12514] = {
-		Title = "Aftereffects of Entering The Tower",
+		Title = "[Cooldown] Constellation Tower",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"It takes a lot of mental energy to get in and out of this place. Even if you have errands left, it is best to visit again after 3 days.."
 		},
 		Summary = "Re-entry 3 days later at 4am",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "e_tower",
+		NpcPosX = 72,
+		NpcPosY = 116,
 		CoolTimeQuest = 1
 	},
 	[12515] = {
@@ -59748,11 +59753,16 @@ QuestInfoList = {
 		Summary = "Underground purification"
 	},
 	[12541] = {
-		Title = "High tide time",
+		Title = "[Cooldown] Sunken Tower",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"You cannot enter the entrance of the sunken tower when water is rushing in."
 		},
 		Summary = "Re-entry 3 days later at 4 a.m.",
+		NpcSpr = "4_4JOB_LETICIA",
+		NpcNavi = "alberta",
+		NpcPosX = 214,
+		NpcPosY = 74,
 		CoolTimeQuest = 1
 	},
 	[12542] = {
