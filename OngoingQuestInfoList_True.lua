@@ -61974,6 +61974,218 @@ QuestInfoList = {
 		NpcNavi = "xmas",
 		NpcPosX = 155,
 		NpcPosY = 128
+	},
+	[297053] = {
+		Title = "[Event] Lunar New Year Festival (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You meet the guardian of the lunar new year festival.\n\t\tThe great wise snake lord is asking for a favor from you.\n\t\tLet's talk to <NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> and hear its request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Listen to Snake Lord's Request",
+		NpcSpr = "4_SNAKE_LORD",
+		NpcNavi = "gonryun",
+		NpcPosX = 159,
+		NpcPosY = 117
+	},
+	[297054] = {
+		Title = "[Event] Lunar New Year Festival (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Wise Snake Lord asks you to help its old friend named Yu.\n\t\tHe seems to be tending a vegetable shop, let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Help Old Man Yu",
+		NpcSpr = "4_M_TWOLDMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 130,
+		NpcPosY = 120
+	},
+	[297055] = {
+		Title = "[Event] Lunar New Year Festival (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Old Man Yu asks you to help another guy named Uncle Sun during the festival.\n\t\tHe seems to be tending a tea bar, let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Help Uncle Sun",
+		NpcSpr = "4_M_CHNOLD",
+		NpcNavi = "gonryun",
+		NpcPosX = 187,
+		NpcPosY = 110
+	},
+	[297056] = {
+		Title = "[Event] Lunar New Year Festival (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Uncle Sun asks you to help another guy named Chef Yao during the festival.\n\t\tHe seems to be tending a restaurant, let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Help Chef Yao",
+		NpcSpr = "4_M_CHNCOOK",
+		NpcNavi = "gonryun",
+		NpcPosX = 197,
+		NpcPosY = 138
+	},
+	[297057] = {
+		Title = "[Event] Lunar New Year Festival (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough people.\n\t\tLet's go back to <NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> and receive your blessings.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Talk to Wise Snake Lord",
+		NpcSpr = "4_SNAKE_LORD",
+		NpcNavi = "gonryun",
+		NpcPosX = 159,
+		NpcPosY = 117
+	},
+	[297058] = {
+		Title = "[Daily] Old Man Yu's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems Old Man Yu needs another help today. Let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Old Man Yu]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> - Vegetable Shop Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Help Old Man Yu",
+		NpcSpr = "4_M_TWOLDMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 130,
+		NpcPosY = 120
+	},
+	[297059] = {
+		Title = "[Daily] Uncle Sun's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems Uncle Sun needs another help today. Let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Uncle Sun]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> - Tea Bar Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Help Uncle Sun",
+		NpcSpr = "4_M_CHNOLD",
+		NpcNavi = "gonryun",
+		NpcPosX = 187,
+		NpcPosY = 110
+	},
+	[297060] = {
+		Title = "[Daily] Chef Yao's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems Chef Yao needs another help today. Let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Chef Yao]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Help Chef Yao",
+		NpcSpr = "4_M_CHNCOOK",
+		NpcNavi = "gonryun",
+		NpcPosX = 197,
+		NpcPosY = 138
+	},
+	[297061] = {
+		Title = "[Cooldown] Old Man Yu's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Old Man Yu]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> - Vegetable Shop Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_TWOLDMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 130,
+		NpcPosY = 120
+	},
+	[297062] = {
+		Title = "[Cooldown] Uncle Sun's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Uncle Sun]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> - Tea Bar Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_CHNOLD",
+		NpcNavi = "gonryun",
+		NpcPosX = 187,
+		NpcPosY = 110
+	},
+	[297063] = {
+		Title = "[Cooldown] Chef Yao's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Chef Yao]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_CHNCOOK",
+		NpcNavi = "gonryun",
+		NpcPosX = 197,
+		NpcPosY = 138
+	},
+	[297064] = {
+		Title = "[Event] Monster Lunar Society",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems Juno Monster Society is holding a limited event during Lunar New Year."
+		},
+		Summary = "Hear Investigator Lee",
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 171,
+		NpcPosY = 141
+	},
+	[297065] = {
+		Title = "[Cooldown] Monster Lunar Society",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's <NAVI>[Investigator Lee]<INFO>gonryun,171,141,0,101,0</INFO></NAVI> tomorrow."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 171,
+		NpcPosY = 141
+	},
+	[297066] = {
+		Title = "[Event] Monster Lunar Society (50)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Lv.50 or higher Brute monsters.",
+			"Report to <NAVI>[Investigator Lee]<INFO>gonryun,171,141,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Brute Monsters",
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 171,
+		NpcPosY = 141
+	},
+	[297067] = {
+		Title = "[Event] Monster Lunar Society (100)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Lv.100 or higher Brute monsters.",
+			"Report to <NAVI>[Investigator Lee]<INFO>gonryun,171,141,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Brute Monsters",
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 171,
+		NpcPosY = 141
+	},
+	[297068] = {
+		Title = "[Event] Monster Lunar Society (150)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Lv.150 or higher Brute monsters.",
+			"Report to <NAVI>[Investigator Lee]<INFO>gonryun,171,141,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Brute Monsters",
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 171,
+		NpcPosY = 141
+	},
+	[297069] = {
+		Title = "[Event] Monster Lunar Society (200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat 100 Lv.200 or higher Brute monsters.",
+			"Report to <NAVI>[Investigator Lee]<INFO>gonryun,171,141,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Brute Monsters",
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "gonryun",
+		NpcPosX = 171,
+		NpcPosY = 141
 	}
 
 
