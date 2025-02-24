@@ -25380,7 +25380,7 @@ QuestInfoList = {
 		Summary = "First encounter."
 	},
 	[12317] = {
-		Title = "Trace of Time Travel",
+		Title = "Old Glast Heim",
 		IconName = "ico_sc.bmp",
 		Description = { "Time travel to Old Glast Heim has been prohibited for 23hours." },
 		Summary = "Dimension distorted.",
@@ -25470,7 +25470,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12334] = {
-		Title = "Traces of time shifting",
+		Title = "Old Glast Heim: Advanced",
 		IconName = "ico_sc.bmp",
 		Description = { "Time-shifting to old glast heim for 70 hours is prohibited." },
 		Summary = "Distorted.",
@@ -48718,7 +48718,7 @@ QuestInfoList = {
 		}
 	},
 	[12460] = {
-		Title = "Aftermath of downfall",
+		Title = "Fall of Glast Heim: Normal",
 		IconName = "ico_sc.bmp",
 		Description = {
 			"It's hard to watch the scene of downfall in any way. You cannot enter or create ^ff0000Glastheim Purification^000000 while the aftereffects remain."
@@ -48728,7 +48728,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12461] = {
-		Title = "Powerful aftermath of death",
+		Title = "Fall of Glast Heim: Hard",
 		Description = {
 			"This aftereffect is accompanied by the aftereffect of the downfall. During the remaining time, menus related to ^ff0000Glastheim Purification (Hard)^000000 do not appear and cannot be used."
 		},
@@ -48753,7 +48753,7 @@ QuestInfoList = {
 		}
 	},
 	[12493] = {
-		Title = "Aftermath of the challenge",
+		Title = "Old Glast Heim: Challenge",
 		IconName = "ico_sc.bmp",
 		Description = {
 			"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."
@@ -59698,7 +59698,7 @@ QuestInfoList = {
 		Summary = "New Tower Owner"
 	},
 	[12514] = {
-		Title = "[Cooldown] Constellation Tower",
+		Title = "Constellation Tower",
 		IconName = "ico_sc.bmp",
 		Description = {
 			"It takes a lot of mental energy to get in and out of this place. Even if you have errands left, it is best to visit again after 3 days.."
@@ -59753,7 +59753,7 @@ QuestInfoList = {
 		Summary = "Underground purification"
 	},
 	[12541] = {
-		Title = "[Cooldown] Sunken Tower",
+		Title = "Sunken Tower",
 		IconName = "ico_sc.bmp",
 		Description = {
 			"You cannot enter the entrance of the sunken tower when water is rushing in."
