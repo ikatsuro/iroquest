@@ -62186,6 +62186,39 @@ QuestInfoList = {
 		NpcNavi = "gonryun",
 		NpcPosX = 171,
 		NpcPosY = 141
+	},
+	[12364] = {
+		Title = "Collapsed Pharos Lighthouse",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Talk to Reckless Adventurer"
+		},
+		Summary = "Talk to Reckless Adventurer"
+	},
+	[12365] = {
+		Title = "[Cooldown] Collapsed Pharos Lighthouse",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's talk to Reckless Adventurer after 3 hours."
+		},
+		Summary = "Reset after 3 hours",
+		CoolTimeQuest = 1
+	},
+	[12366] = {
+		Title = "Defeat 10th Floor Boss",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat Infinite Eddga"
+		},
+		Summary = "Defeat Infinite Eddga"
+	},
+	[12367] = {
+		Title = "Defeat 30th Floor Boss",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat Infinite Phreeoni"
+		},
+		Summary = "Defeat Infinite Phreeoni"
 	}
 
 
