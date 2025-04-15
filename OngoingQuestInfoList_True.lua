@@ -62219,6 +62219,139 @@ QuestInfoList = {
 			"Defeat Infinite Phreeoni"
 		},
 		Summary = "Defeat Infinite Phreeoni"
+	},
+	[8938] = {
+		Title = "Disciple of the Great Kung Fu Master",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I spoke with Po, who appeared in Prontera."
+		},
+		Summary = "Talk to Po"
+	},
+	[8939] = {
+		Title = "[Cooldown] Po's Louyang Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today's training is completed. Let's go back to <NAVI>[Po]<INFO>prontera,158,224,0,101,0</INFO></NAVI> tomorrow for more training."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8940] = {
+		Title = "[Daily] Po's Louyang Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I need to defeat 10 Mi Gao and 5 Dumporings in Louyang Field. Let's report to <NAVI>[Po]<INFO>lou_fild01,232,90,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Monsters"
+	},
+	[8941] = {
+		Title = "[Cooldown] Po's Hugel Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today's training is completed. Let's go back to <NAVI>[Po]<INFO>prontera,158,224,0,101,0</INFO></NAVI> tomorrow for more training."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8942] = {
+		Title = "[Daily] Po's Hugel Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I need to defeat 10 Yellow Novus and 5 Dumporings in Hugel Field. Let's report to <NAVI>[Po]<INFO>hu_fild04,291,366,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Monsters"
+	},
+	[8943] = {
+		Title = "[Cooldown] Po's Portus Luna Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today's training is completed. Let's go back to <NAVI>[Po]<INFO>prontera,158,224,0,101,0</INFO></NAVI> tomorrow for more training."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8944] = {
+		Title = "[Daily] Po's Portus Luna Training (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I need to defeat 10 Kobold Archer and 5 Dumporings in Portus Luna. Let's report to <NAVI>[Po]<INFO>ra_fild06,277,43,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Monsters"
+	},
+	[8945] = {
+		Title = "[Daily] Po's Portus Luna Training (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I need to defeat 10 Kobold (Axe), 10 Kobold (Hammer), and 10 Kobold (Mace) in Portus Luna. Let's report to <NAVI>[Po]<INFO>ra_fild06,277,43,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Monsters"
+	},
+	[8946] = {
+		Title = "[Cooldown] Po's Glast Heim Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today's training is completed. Let's go back to <NAVI>[Po]<INFO>prontera,158,224,0,101,0</INFO></NAVI> tomorrow for more training."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8947] = {
+		Title = "[Daily] Po's Glast Heim Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I need to defeat 10 Gargoyle and 5 Dumporings in Glast Heim. Let's report to <NAVI>[Po]<INFO>glast_01,370,308,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Defeat Monsters"
+	},
+	[8949] = {
+		Title = "Zhen's Trading Corner",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was appointed as an honorary disciple of the Jade Palace by Po. It seems that Dragon Warrior, <NAVI>[Zhen]<INFO>prontera,156,226,0,101,0</INFO></NAVI> also has something to help with."
+		},
+		Summary = "Talk to Zhen"
+	},
+	[8950] = {
+		Title = "Shifu's Special Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was appointed as an honorary disciple of the Jade Palace by Po. By the way, <NAVI>[Shifu]<INFO>prontera,153,224,0,101,0</INFO></NAVI> is also helping with training..?"
+		},
+		Summary = "Talk to Shifu"
+	},
+	[8951] = {
+		Title = "[Daily] Shifu's Special Training (90)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Master <NAVI>[Shifu]<INFO>prontera,153,224,0,101,0</INFO></NAVI> has proposed special training to defeat 100 monsters of level 90 or higher. Let's finish it quickly as befitting an honorary disciple of the Jade Palace!"
+		},
+		Summary = "Defeat Lv.90 or higher Monsters"
+	},
+	[8952] = {
+		Title = "[Daily] Shifu's Special Training (151)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Master <NAVI>[Shifu]<INFO>prontera,153,224,0,101,0</INFO></NAVI> has proposed special training to defeat 100 monsters of level 151 or higher. Let's finish it quickly as befitting an honorary disciple of the Jade Palace!"
+		},
+		Summary = "Defeat Lv.151 or higher Monsters"
+	},
+	[8953] = {
+		Title = "[Daily] Shifu's Special Training (201)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Master <NAVI>[Shifu]<INFO>prontera,153,224,0,101,0</INFO></NAVI> has proposed special training to defeat 100 monsters of level 201 or higher. Let's finish it quickly as befitting an honorary disciple of the Jade Palace!"
+		},
+		Summary = "Defeat Lv.201 or higher Monsters"
+	},
+	[8954] = {
+		Title = "[Cooldown] Shifu's Special Training",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today special training is over. Let's go back to <NAVI>[Shifu]<INFO>prontera,153,224,0,101,0</INFO></NAVI> tomorrow for more training."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	}
 
 
