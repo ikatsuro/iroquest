@@ -62352,6 +62352,282 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
+	},
+	[295491] = {
+		Title = "[Cooldown] Battle Pass - Rudus Waste Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[295490] = {
+		Title = "[Daily] Battle Pass 1-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 15 Giant Caput at <NAVI>[Laboratory Waste Disposal Plant Rudus Floor 3]<INFO>sp_rudus3,378,42,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 15 Giant Caput"
+	},
+	[295492] = {
+		Title = "[Daily] Battle Pass 1-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 15 Venedi at <NAVI>[Laboratory Waste Disposal Plant Rudus Floor 3]<INFO>sp_rudus3,378,42,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 15 Venedi"
+	},
+	[295494] = {
+		Title = "[Daily] Battle Pass 1-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 15 Dolorian at <NAVI>[Laboratory Waste Disposal Plant Rudus Floor 3]<INFO>sp_rudus3,378,42,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 15 Dolorian"
+	},
+	[295493] = {
+		Title = "[Cooldown] Battle Pass - Niflheim Dungeon",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[295512] = {
+		Title = "[Daily] Battle Pass 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Collect 5 Piece of Black Cloth, 5 Pumpkin Lantern, and 5 Rusty Kitchen Knife from monsters inside <NAVI>[Banquet Hall of the Dead]<INFO>niflheim,146,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Collect Required Materials"
+	},
+	[295495] = {
+		Title = "[Cooldown] Battle Pass - Amicitia Lab 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[295496] = {
+		Title = "[Daily] Battle Pass 3-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 10 Amitera at <NAVI>[Abandoned Lab Amicitia 1F]<INFO>ein_fild08,155,96,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 10 Amitera"
+	},
+	[295498] = {
+		Title = "[Daily] Battle Pass 3-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 10 Litus at <NAVI>[Abandoned Lab Amicitia 1F]<INFO>ein_fild08,155,96,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 10 Litus"
+	},
+	[295500] = {
+		Title = "[Daily] Battle Pass 3-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 7 Fillia and 7 Vanilaqus at <NAVI>[Abandoned Lab Amicitia 1F]<INFO>ein_fild08,155,96,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 7 Fillia and Vanilaqus"
+	},
+	[295497] = {
+		Title = "[Cooldown] Battle Pass - Amicitia Lab 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[295502] = {
+		Title = "[Daily] Battle Pass 4-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 10 Lavaeter at <NAVI>[Abandoned Lab Amicitia 2F]<INFO>ein_fild08,155,96,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 10 Lavaeter"
+	},
+	[295504] = {
+		Title = "[Daily] Battle Pass 4-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 10 Fulgor at <NAVI>[Abandoned Lab Amicitia 2F]<INFO>ein_fild08,155,96,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 10 Fulgor"
+	},
+	[295506] = {
+		Title = "[Daily] Battle Pass 4-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 7 Fillia and 7 Vanilaqus at <NAVI>[Abandoned Lab Amicitia 2F]<INFO>ein_fild08,155,96,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 7 Fillia and Vanilaqus"
+	},
+	[295499] = {
+		Title = "[Cooldown] Battle Pass - Ghost Hunting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[295508] = {
+		Title = "[Daily] Battle Pass 5",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 5 Ghost Cube and 5 Lude Gal at <NAVI>[Banquet Hall of The Dead]<INFO>niflheim,146,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 5 Ghost Cube and Lude Gal"
+	},
+	[295501] = {
+		Title = "[Cooldown] Battle Pass - Serial Killer",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
+		},
+		Summary = "Reset at 4 AM"
+	},
+	[295510] = {
+		Title = "[Daily] Battle Pass 6-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 5 Brutal Murderer at <NAVI>[Banquet Hall of The Dead]<INFO>niflheim,146,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt 5 Brutal Murderer"
+	},
+	[295511] = {
+		Title = "[Daily] Battle Pass 6-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's eliminate 5 Gan Ceann at <NAVI>[Banquet Hall of The Dead]<INFO>niflheim,146,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 5 Gan Ceann"
+	},
+	[295513] = {
+		Title = "Battle Pass Season Quests",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Complete 444 Daily Quests. You can check the progress of your progress on <NAVI>[Mission Board]<INFO>prontera,194,297,0,101,0</INFO></NAVI> during Battle Pass Season."
+		},
+		Summary = "Complete 444 Daily Quests."
+	},
+	[295503] = {
+		Title = "Battle Pass Season Quests - Completed",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Completed 444 Daily Quests."
+		},
+		Summary = "Congratulations, you are a very hardworking player."
+	},
+	[295520] = {
+		Title = "[Cooldown] Ding Ding Daily Shop",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Today's daily shop list has been changed. You can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295521] = {
+		Title = "Ding Ding Daily Shop - Reset 1 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 1st item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295522] = {
+		Title = "Ding Ding Daily Shop - Reset 2 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 2nd item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295523] = {
+		Title = "Ding Ding Daily Shop - Reset 3 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 3rd item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295524] = {
+		Title = "Ding Ding Daily Shop - Reset 4 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 4th item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295525] = {
+		Title = "Ding Ding Daily Shop - Reset 5 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 5th item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295526] = {
+		Title = "Ding Ding Daily Shop - Reset 6 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 6th item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295527] = {
+		Title = "Ding Ding Daily Shop - Reset 7 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 7th item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295528] = {
+		Title = "Ding Ding Daily Shop - Reset 8 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After purchasing the 8th item in the Daily Shop, you can reset the list via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295529] = {
+		Title = "Ding Ding Daily Shop - Reset 10 times",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The maximum number of daily shop resets that can be done per day has been reached. Please try again via <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI> after 4 AM."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[295534] = {
+		Title = "Royal Hunting Ground Free Entry - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Today, you have already paid entry. Please return to the Hunting Gate Keeper after 04:00"
+		},
+		Summary = "Reset 04:00",
+		CoolTimeQuest = 1
+	},
+	[295535] = {
+		Title = "Royal Hunting Ground Entry Fee - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Free Entry Today, Please Return to Hunting Gate Keeper After 04:00"
+		},
+		Summary = "Reset 04:00",
+		CoolTimeQuest = 1
 	}
 
 
