@@ -62359,7 +62359,8 @@ QuestInfoList = {
 		Description = {
 			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[295490] = {
 		Title = "[Daily] Battle Pass 1-1",
@@ -62391,7 +62392,8 @@ QuestInfoList = {
 		Description = {
 			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[295512] = {
 		Title = "[Daily] Battle Pass 2",
@@ -62407,7 +62409,8 @@ QuestInfoList = {
 		Description = {
 			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[295496] = {
 		Title = "[Daily] Battle Pass 3-1",
@@ -62439,7 +62442,8 @@ QuestInfoList = {
 		Description = {
 			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[295502] = {
 		Title = "[Daily] Battle Pass 4-1",
@@ -62471,7 +62475,8 @@ QuestInfoList = {
 		Description = {
 			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[295508] = {
 		Title = "[Daily] Battle Pass 5",
@@ -62487,7 +62492,8 @@ QuestInfoList = {
 		Description = {
 			"This daily quest can be received again once the cooldown expires. Head to <NAVI>[Mission Board]<INFO>prontera,164,297,0,101,0</INFO></NAVI> to receive it again during Battle Pass Season."
 		},
-		Summary = "Reset at 4 AM"
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[295510] = {
 		Title = "[Daily] Battle Pass 6-1",
