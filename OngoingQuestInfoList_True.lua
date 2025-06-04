@@ -21522,7 +21522,12 @@ QuestInfoList = {
 	[11379] = {
 		Title = "Final Room",
 		Description = { "You have entered the final room. You can enter again after 23 hours." },
-		Summary = ""
+		Summary = "23 hours Cooldown",
+		NpcSpr = "4_F_BERRYTEA",
+		NpcNave = "verus01",
+		NpcPosX = 123,
+		NpcPosY = 181,
+		CoolTimeQuest = 1
 	},
 	[11380] = {
 		Title = "Final Room",
@@ -43620,7 +43625,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Talk to Elena Bolkova at Clana Namieri to retake the quest."
 		},
-		Summary = "Reset at 08:00",
+		Summary = "Reset at 4AM",
 		NpcSpr = "4_F_ELENA",
 		NpcNavi = "rebel_in",
 		NpcPosX = 70,
