@@ -62639,6 +62639,166 @@ QuestInfoList = {
 		},
 		Summary = "Reset 04:00",
 		CoolTimeQuest = 1
+	},
+	[297070] = {
+		Title = "[Event] Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You received the hunting quest from Sarah."
+		},
+		Summary = "Listen to Sarah's request",
+		NpcSpr = "4_F_SARAH",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297071] = {
+		Title = "[Daily] Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 220 lv.30 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.30 or higher monster",
+		NpcSpr = "4_F_SARAH",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297072] = {
+		Title = "[Daily] Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 220 lv.91 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.91 or higher monster",
+		NpcSpr = "4_F_SARAH",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297073] = {
+		Title = "[Daily] Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 220 lv.151 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.151 or higher monster",
+		NpcSpr = "4_F_SARAH",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297074] = {
+		Title = "[Daily] Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 220 lv.201 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.201 or higher monster",
+		NpcSpr = "4_F_SARAH",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297075] = {
+		Title = "[Cooldown] Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's visit her tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_SARAH",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297076] = {
+		Title = "[Cooldown] Anniversary Check-in",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have checked in for today. Let's go back tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_ANNIVERSARY",
+		NpcNavi = "hugel",
+		NpcPosX = 101,
+		NpcPosY = 138
+	},
+	[297077] = {
+		Title = "[Event] Anniversary Taming Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You received the taming quest from Lovelean."
+		},
+		Summary = "Listen to Lovelean's request",
+		NpcSpr = "4_F_KAFRA8",
+		NpcNavi = "hugel",
+		NpcPosX = 74,
+		NpcPosY = 89
+	},
+	[297078] = {
+		Title = "[Daily] Anniversary Taming Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to capture 10 Cake Poring to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,74,89,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Capture 10 Cake Poring",
+		NpcSpr = "4_F_KAFRA8",
+		NpcNavi = "hugel",
+		NpcPosX = 74,
+		NpcPosY = 89
+	},
+	[297079] = {
+		Title = "[Cooldown] Anniversary Taming Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's visit her tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,74,89,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_KAFRA8",
+		NpcNavi = "hugel",
+		NpcPosX = 74,
+		NpcPosY = 89
+	},
+	[297080] = {
+		Title = "[Event] Anniversary Delivery Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You received the delivery quest from Leilah."
+		},
+		Summary = "Listen to Leilah's request",
+		NpcSpr = "4_F_KAFRA5",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 95
+	},
+	[297081] = {
+		Title = "[Daily] Anniversary Delivery Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to deliver the package to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,79,95,0,101,0</INFO></NAVI> - Delivery Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Deliver the package",
+		NpcSpr = "4_F_KAFRA5",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 95
+	},
+	[297082] = {
+		Title = "[Cooldown] Anniversary Delivery Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's visit her tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,79,95,0,101,0</INFO></NAVI> - Delivery Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_KAFRA5",
+		NpcNavi = "hugel",
+		NpcPosX = 79,
+		NpcPosY = 95
 	}
 
 
