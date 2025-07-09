@@ -12632,10 +12632,15 @@ QuestInfoList = {
 	},
 	[7598] = {
 		Title = "Caged God",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Confined in his own world, the Demon God is cursed to suffer for eternity. Come back tomorrow and put him out of his misery once more."
 		},
 		Summary = "Come back tomorrow.",
+		NpcSpr = "4_M_REDSWORD",
+		NpcNavi = "moro_vol",
+		NpcPosX = 108,
+		NpcPosY = 88,
 		CoolTimeQuest = 1
 	},
 	[7599] = {
@@ -18473,10 +18478,15 @@ QuestInfoList = {
 	},
 	[9319] = {
 		Title = "Pursuing Hiding Morroc Continues",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"The ^8B4513Senior Tracker^000000's message: Please come back tomorrow and help me pursue Morroc."
 		},
 		Summary = "Come back after 23 hours.",
+		NpcSpr = "4_M_JOB_ASSASSIN",
+		NpcNavi = "moro_cav",
+		NpcPosX = 61,
+		NpcPosY = 69,
 		CoolTimeQuest = 1
 	},
 	[9335] = {
@@ -21524,7 +21534,7 @@ QuestInfoList = {
 		Description = { "You have entered the final room. You can enter again after 23 hours." },
 		Summary = "23 hours Cooldown",
 		NpcSpr = "4_F_BERRYTEA",
-		NpcNave = "verus01",
+		NpcNavi = "verus01",
 		NpcPosX = 123,
 		NpcPosY = 181,
 		CoolTimeQuest = 1
@@ -30277,6 +30287,10 @@ QuestInfoList = {
 			"Isle of Bios becomes accessible for 23 hours after each exploration. You can enter it again after:"
 		},
 		Summary = "23-hour downtime.",
+		NpcSpr = "4_M_FROZEN_KN",
+		NpcNavi = "moro_cav",
+		NpcPosX = 50,
+		NpcPosY = 64,
 		CoolTimeQuest = 1
 	},
 	[15006] = {
@@ -62242,6 +62256,126 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
 	},
+	[18206] = {
+		Title = "[Dungeon] Twisted Magic Plains",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"I have obtained information about the plains where magic is twisted."
+		},
+		Summary = ""
+	},
+	[18207] = {
+		Title = "[Daily] Light Support Purification",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have decided to take on the purification of the twisted plains. The hunting objective is 100 monsters. Once you're done, report back to <NAVI>[Priest Pano]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Monster in Twisted Plains",
+		NpcSpr = "4_F_TRAINEE",
+		NpcNavi = "ra_fild10",
+		NpcPosX = 352,
+		NpcPosY = 341
+	},
+	[18208] = {
+		Title = "[Daily] Heavy Support Purification",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have decided to take on the purification of the twisted plains. The hunting objective is 500 monsters. Once you're done, report back to <NAVI>[Priest Pano]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Monster in Twisted Plains",
+		NpcSpr = "4_F_TRAINEE",
+		NpcNavi = "ra_fild10",
+		NpcPosX = 352,
+		NpcPosY = 341
+	},
+	[18209] = {
+		Title = "[Cooldown] Support Purification",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The daily quest for today is completed. Let's return to <NAVI>[Priest Pano]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI> tomorrow to take on another request."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_TRAINEE",
+		NpcNavi = "ra_fild10",
+		NpcPosX = 352,
+		NpcPosY = 341
+	},
+	[18210] = {
+		Title = "[Weekly] Focus! Weekly Cleanse",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You have decided to take on the weekly purification of the twisted plains. The hunting objective is 5000 monsters. Once you're done, report back to <NAVI>[Priest Pano]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Monster in Twisted Plains",
+		NpcSpr = "4_F_TRAINEE",
+		NpcNavi = "ra_fild10",
+		NpcPosX = 352,
+		NpcPosY = 341
+	},
+	[18211] = {
+		Title = "[Cooldown] Focus! Weekly Cleanse",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The weekly quest for this week is completed. Let's return to <NAVI>[Priest Pano]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI> next week to take on another request."
+		},
+		Summary = "Reset at 4 AM on Saturday",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_TRAINEE",
+		NpcNavi = "ra_fild10",
+		NpcPosX = 352,
+		NpcPosY = 341
+	},
+	[18212] = {
+		Title = "[Dungeon] Mjolnir Underground Cave",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"I got information about the Mjolnir Underground Cave."
+		},
+		Summary = ""
+	},
+	[18213] = {
+		Title = "[Daily] 100 Monster Slaying Operation",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have decided to take on the monster slaying operation in Mjolnir Underground Cave. The hunting objective is 100 monsters. Once you're done, report back to <NAVI>[Rebellion Agent]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Monsters in Mjolnir Underground"
+	},
+	[18214] = {
+		Title = "[Daily] 500 Monster Slaying Operation",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have decided to take on the monster slaying operation in Mjolnir Underground Cave. The hunting objective is 500 monsters. Once you're done, report back to <NAVI>[Rebellion Agent]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Monsters in Mjolnir Underground"
+	},
+	[18215] = {
+		Title = "[Cooldown] Monster Slaying Operation",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The daily quest for today is completed. Let's return to <NAVI>[Rebellion Agent]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI> tomorrow to take on another request."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[18216] = {
+		Title = "[Weekly] Large Scale Slaying Operation",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You have decided to take on the large-scale operation in Mjolnir Underground Cave. The hunting objective is 5000 monsters. Once you're done, report back to <NAVI>[Rebellion Agent]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Monsters in Mjolnir Underground"
+	},
+	[18217] = {
+		Title = "[Cooldown] Large Scale Slaying Operation",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The weekly quest for this week is completed. Let's return to <NAVI>[Rebellion Agent]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI> next week to take on another request."
+		},
+		Summary = "Reset at 4 AM on Saturday",
+		CoolTimeQuest = 1
+	},
 	[8940] = {
 		Title = "[Daily] Po's Louyang Training",
 		IconName = "ico_ev.bmp",
@@ -62799,6 +62933,459 @@ QuestInfoList = {
 		NpcNavi = "hugel",
 		NpcPosX = 79,
 		NpcPosY = 95
+	},
+	[23307] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It is said that the residents of Hugel have been unable to go near the Abyss Lake since the purple lightning recently struck the lake. Let's scout out the area around <NAVI>[Abyss Lake]<INFO>hu_fild05,344,226,0,101,0</INFO></NAVI> to see if there are any problems."
+		},
+		Summary = "Exploring the Abyss Lake"
+	},
+	[23308] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Met Hiccup and Toothless at the Tranquil Abyss Lake. Hiccup and Toothless were said to have suddenly lost their ability to fly while flying nearby. Let's investigate if there is any cause that could be affecting the Tranquil Abyss Lake ^4d4dffSouthwest^000000."
+		},
+		Summary = "Looking around the lake"
+	},
+	[23309] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup and Toothless were said to have suddenly lost their ability to fly while flying nearby. Let's investigate if there is any cause that could have affected the Tranquil Abyss Lake ^4d4dff north^000000."
+		},
+		Summary = "Looking around the lake"
+	},
+	[23310] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup and Toothless were said to have suddenly lost their ability to fly while flying nearby. Let's investigate if there is any cause that could have affected the Tranquil Abyss Lake ^4d4dffNortheast^000000."
+		},
+		Summary = "Looking around the lake"
+	},
+	[23311] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I looked around the entire area of the Tranquil Abyss Lake, but I didn't find anything unusual. Let's go back to Hiccup at the Tranquil Abyss Lake and tell him this news."
+		},
+		Summary = "Talking to Hiccup"
+	},
+	[23312] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have been asked to find some fish for Toothless to eat. Get one <ITEM>[Fresh Fish]<INFO>579</INFO></ITEM> and bring it to Toothless at the Tranquil Abyss Lake."
+		},
+		Summary = "1 Fresh Fish"
+	},
+	[23313] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"First, let's find out what problems Hiccup and Toothless are having. Let's meet Hiccup at <NAVI>[Prontera East Library]<INFO>prt_elib,45,78,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Prontera East Library"
+	},
+	[23314] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Tony, whom you met at the library east of Prontera, suggested that you try the method in the book. Obtain 1 <ITEM>[Tooth of Bat]<INFO>913</INFO></ITEM> and take it to <NAVI>[Tony]<INFO>prt_elib,45,78,0,101,0</INFO></NAVI> at the library east of Prontera."
+		},
+		Summary = "1 Tooth of Bat"
+	},
+	[23315] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup and Toothless said they would check if flying was possible. Let's wait for Hiccup and Toothless at the meeting place in the Abyss Lake Underground Cave."
+		},
+		Summary = "Waiting at the meeting place"
+	},
+	[23316] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup is gathering knowledge from many experts in Ragnarok. Gather the Ingredients he needs to unravel the mystery."
+		},
+		Summary = "Material Looting Quest in Ragnarok"
+	},
+	[23317] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup is gathering knowledge from many experts in Ragnarok. Gather the Ingredients he needs to unravel the mystery."
+		},
+		Summary = "Material Looting Quest in Ragnarok"
+	},
+	[23318] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup is gathering knowledge from many experts in Ragnarok. Gather the Ingredients he needs to unravel the mystery."
+		},
+		Summary = "Material Looting Quest in Ragnarok"
+	},
+	[23319] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"We mined minerals in the Abyss Lake Underground Cave. We can feel a presence inside the cave, so let's check it out."
+		},
+		Summary = "Checking for presence"
+	},
+	[23320] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Met Hiccup's friend Astrid in the Abyss Lake Underground Cave. Let's bring Astrid to Hiccup in the Tranquil Abyss Lake."
+		},
+		Summary = "Talking to Hiccup"
+	},
+	[23321] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"We decided to go together to meet Tony with the minerals we collected from the Abyss Lake Underground Cave. Let's meet up with Hiccup and his friends at <NAVI>[Prontera East Library]<INFO>prt_elib,45,78,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Prontera East Library"
+	},
+	[23322] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup and his party decided to return to the Tranquil Abyss Lake and try flying again. Let's hear the results of the test flight from Hiccup at the Tranquil Abyss Lake."
+		},
+		Summary = "Talking to Hiccup"
+	},
+	[23323] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"This time, we decided to get help from the potion expert at Geffen. Let's join Hiccup and his party at <NAVI>[Geffen]<INFO>geffen_in,177,117,0,101,0</INFO></NAVI>."
+		},
+		Summary = "To Geffen"
+	},
+	[23324] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The graduate student we met at Geffen readily agreed to help Hiccup and his party. Let's collect one each of the potion ingredients: <ITEM>[White Herb]<INFO>509</INFO></ITEM>, <ITEM>[Blue Herb]<INFO>510</INFO></ITEM>, and <ITEM>[Green Herb]<INFO>511</INFO></ITEM>."
+		},
+		Summary = "Collect White Herb, Blue Herb, Green Herb"
+	},
+	[23325] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Geffen's graduate student made a potion. Let's ask Hiccup at the Tranquil Abyss Lake how the potion worked."
+		},
+		Summary = "Talking to Hiccup"
+	},
+	[23326] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems that Hiccup and his party's work is roughly finished. Let's go back to Hugel and tell <NAVI>[Benjamin]<INFO>hugel,101,139,0,101,0</INFO></NAVI> that the Abyss Lake is safe."
+		},
+		Summary = "Talk to Benjamin"
+	},
+	[23327] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I heard about the twins and the two-headed dragon that appeared in Prontera. Could they be Hiccup's friends? Let's go back to the Tranquil Abyss Lake and tell Hiccup this news."
+		},
+		Summary = "Talking to Hiccup"
+	},
+	[23328] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hiccup asked to confirm if the twins that appeared in Prontera were his friends Ruffnut and Tuffnut. Let's go to <NAVI>[Prontera]<INFO>prontera,146,229,0,101,0</INFO></NAVI>."
+		},
+		Summary = "To Prontera"
+	},
+	[23329] = {
+		Title = "Strange Things Happened at Abyss Lake",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"We handed over Ruffnut and Tuffnut, who were being looked after by the Giant Guardian. Let's take them to Hiccup at the Tranquil Abyss Lake."
+		},
+		Summary = "Talking to Hiccup"
+	},
+	[23330] = {
+		Title = "Hiccup needs potion ingredients",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Hiccup needs potion ingredients"
+		}
+	},
+	[23331] = {
+		Title = "Hiccup needs potion ingredients",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Hiccup asked me to collect potion ingredients. Take 5 <ITEM>[Red Herb]<INFO>507</INFO></ITEM> and 5 <ITEM>[Blue Herb]<INFO>510</INFO></ITEM> to Hiccup at the Tranquil Abyss Lake."
+		},
+		Summary = "Red Herb, Blue Herb"
+	},
+	[23332] = {
+		Title = "Hiccup Needs Potion Ingredients - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received and performed again when the waiting time expires. The quest can be received through Hiccup at the Tranquil Abyss Lake."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[23333] = {
+		Title = "Toothless is still hungry",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Toothless is hungry. Get some fish for Toothless to eat."
+		}
+	},
+	[23334] = {
+		Title = "Toothless is still hungry",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Toothless is hungry. Get some <ITEM>[Fresh Fish]<INFO>579</INFO></ITEM> for Toothless to eat."
+		},
+		Summary = "5 Fresh Fish item looting quest in Ragnarok"
+	},
+	[23335] = {
+		Title = "Toothless is still hungry - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received and performed again when the waiting time expires. The quest can be received through Toothless at the Tranquil Abyss Lake."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[23342] = {
+		Title = "Ruffnut's terrifying exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"When Ruffnut returns to Berk, he wants to brag about his exploits in the world of Ragnarok.\n\t\tScout out locations where Ruffnut can show off his Viking prowess and give him the information he needs."
+		},
+		Summary = "Glastheim Hunting Quest"
+	},
+	[23343] = {
+		Title = "Ruffnut's terrifying exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Glast Heim Underground Prison Floor 1]<INFO>gl_prison,16,70,0,101,0</INFO></NAVI> After hunting 50 monsters, report to Ruffnut at the Tranquil Abyss Lake."
+		}
+	},
+	[23344] = {
+		Title = "Ruffnut's terrifying exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Glast heim Underground Cave 1F]<INFO>gl_dun01,132,258,0,101,0</INFO></NAVI> After hunting 50 monsters, report to Ruffnut at the Tranquil Abyss Lake."
+		}
+	},
+	[23345] = {
+		Title = "Ruffnut's terrifying exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Glastheim Castle 2st floor]<INFO>gl_cas02,104,190,0,101,0</INFO></NAVI> After defeating 50 monsters, report to Ruffnut at the Tranquil Abyss Lake."
+		}
+	},
+	[23346] = {
+		Title = "Ruffnut's terrifying exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Glastheim Castle Abyss 1st floor]<INFO>gl_cas01_,200,39,0,101,0</INFO></NAVI> After defeating 50 monsters, report to Ruffnut at the Tranquil Abyss Lake."
+		}
+	},
+	[23347] = {
+		Title = "Ruffnut's terrifying exploration story - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received and performed again when the waiting time expires. The quest can be received through Ruffnut in the Tranquil Abyss Lake."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[23348] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Tuffnut has hatched a plan to help Hiccup. To secretly assist with the map he's been drawing to help get back home.\n\t\tTo help Tuffnut with his map, you'll need to: \n\t\t- Explore the continent of Runemidgard.\n\t\t- Interact with the specified NPC at a specific point in Ragnarok Field and return. \n\t\t(Location is in Achievements - Expeditions - Explore Runemidgard)"
+		}
+	},
+	[23349] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and can be received and performed again when the waiting time expires. The quest can be received through Tuffnut in the Tranquil Abyss Lake."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[23350] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild01,260,180,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23351] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild02,129,290,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23352] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild03,268,186,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23353] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild04,348,88,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23354] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild05,198,250,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23355] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild06,251,218,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23356] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild07,117,152,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23357] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild08,377,114,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23358] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild09,253,292,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23359] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tuffnut]<INFO>prt_fild10,322,272,0,101,0</INFO></NAVI> and let's go explore the Prontera field."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23360] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Fields with Tuffnut. If you're lost, find the ^4d4dffLarge Tree^000000 visible ^4d4dffSouth^000000 from <NAVI>[Starting Point]<INFO>prt_fild01,260,180,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23361] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera field with Tuffnut. If you get lost, find the ^4d4dff big tree southwest^000000 from <NAVI>[starting point]<INFO>prt_fild02,129,290,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23362] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Field with Tuffnut. If you're lost, go down the road from <NAVI>[Starting Point]<INFO>prt_fild03,268,186,0,101,0</INFO></NAVI> to ^4d4dffSouth^000000."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23363] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Field with Tuffnut. If you're lost, <NAVI>[Starting Point]<INFO>prt_fild04,348,88,0,101,0</INFO></NAVI>, find the ^4d4dff Tree-filled Place^000000, visible ^4d4dffWest^000000."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23364] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Fields with Tuffnut. If you get lost, find the ^4d4dffunique terrain^000000, located ^4d4dffright above^000000 from <NAVI>[Starting Point]<INFO>prt_fild05,198,250,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23365] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Field with Tuffnut. If you're lost, find the ^4d4dfftrees^000000 visible at ^4d4dffNorth^000000 from <NAVI>[Starting Point]<INFO>prt_fild06,251,218,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23366] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Fields with Tuffnut. If you're lost, <NAVI>[Starting Point]<INFO>prt_fild07,117,152,0,101,0</INFO></NAVI>, find the ^4d4dffProtruding Terrain^000000 in the ^4d4dffSouthwest^000000."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23367] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera Field with Tuffnut. If you get lost, <NAVI>[Starting Point]<INFO>prt_fild08,377,114,0,101,0</INFO></NAVI> and find the ^4d4dff intricately tangled paths^000000, visible ^4d4dffNorthwest^000000."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23368] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera field with Tuffnut. If you're lost, find the ^4d4dff tree^000000 visible at ^4d4dffwest^000000 from <NAVI>[Starting point]<INFO>prt_fild09,253,292,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tuffnut"
+	},
+	[23369] = {
+		Title = "Tuffnut's exciting exploration story",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's go explore the Prontera field with Tuffnut. If you're lost, find the ^4d4dff tree^000000 visible in the ^4d4dff northwest^000000 from <NAVI>[Starting point]<INFO>prt_fild10,322,272,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tuffnut"
 	}
 
 
