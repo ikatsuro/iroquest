@@ -63386,6 +63386,13 @@ QuestInfoList = {
 			"Let's go explore the Prontera field with Tuffnut. If you're lost, find the ^4d4dff tree^000000 visible in the ^4d4dff northwest^000000 from <NAVI>[Starting point]<INFO>prt_fild10,322,272,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Tuffnut"
+	},
+	[11495] = {
+		Title = "Hi! I'm Premi!",
+		Description = {
+			"Hello! I'm Premi! Nice to meet you~~"
+		},
+		Summary = "Hi!"
 	}
 
 
