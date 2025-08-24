@@ -63393,6 +63393,304 @@ QuestInfoList = {
 			"Hello! I'm Premi! Nice to meet you~~"
 		},
 		Summary = "Hi!"
+	},
+	[17791] = {
+		Title = "[Event] Sessrumnir Ocean Week (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At Sessrumnir in Rachel, <NAVI>[Maram]<INFO>ra_temple,137,127,0,101,0</INFO></NAVI>, the host of Ocean Week, seems to have something on his mind."
+		},
+		Summary = "Talk to Maram"
+	},
+	[17792] = {
+		Title = "[Event] Sessrumnir Ocean Week (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Pope is said to be somewhere within Sessrumnir. Head to <NAVI>[a possible location]<INFO>ra_temple,30,155,0,101,0</INFO></NAVI> to investigate."
+		},
+		Summary = "The Pope?"
+	},
+	[17793] = {
+		Title = "[Event] Sessrumnir Ocean Week (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've just missed her. Perhaps you should try looking around <NAVI>[another spot]<INFO>ra_temple,121,93,0,101,0</INFO></NAVI> within Sessrumnir."
+		},
+		Summary = "The Pope??"
+	},
+	[17794] = {
+		Title = "[Event] Sessrumnir Ocean Week (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've decided to search around the <NAVI>[Event Venue]<INFO>ra_temple,201,168,0,101,0</INFO></NAVI> of Sessrumnir Ocean Week. Start by checking the area near the snack stall."
+		},
+		Summary = "Check Snack Stall"
+	},
+	[17795] = {
+		Title = "[Event] Sessrumnir Ocean Week (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"A delicious aroma is spreading through the Sessrumnir Ocean Week <NAVI>[Event Venue]<INFO>ra_temple,213,166,0,101,0</INFO></NAVI>. Let's bring the Pope and check it out."
+		},
+		Summary = "Drawn by the smell"
+	},
+	[17796] = {
+		Title = "[Event] Sessrumnir Ocean Week (6)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You were recommended a refreshing watermelon dessert to freshen up. Head over to the <NAVI>[Watermelon Dessert]<INFO>ra_temple,79,59,0,101,0</INFO></NAVI> stand set up at the Sessrumnir Ocean Week venue."
+		},
+		Summary = "Sweet Dessert"
+	},
+	[17797] = {
+		Title = "[Event] Sessrumnir Ocean Week (7)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Looks like the Pope wants to have some fun in the water. Let's find a good <NAVI>[spot to splash around]<INFO>ra_temple,210,117,0,101,0</INFO></NAVI> in Sessrumnir."
+		},
+		Summary = "Summer means water fun!"
+	},
+	[17798] = {
+		Title = "[Event] Sessrumnir Ocean Week (8)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Pope says this much is enough. Let's escort her back to the <NAVI>[people]<INFO>ra_temple,137,127,0,101,0</INFO></NAVI> who are likely waiting in Sessrumnir."
+		},
+		Summary = "Safe Return"
+	},
+	[17799] = {
+		Title = "[Event] Splash into Summer!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Several <NAVI>[water play areas]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI> were set up for Sessrumnir Ocean Week. Feel free to take a look around and enjoy the sights."
+		},
+		Summary = "Off to the water zone"
+	},
+	[17800] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Demon-type monsters that are level 90 or higher."
+		},
+		Summary = "Defeat Lv.90 Monsters"
+	},
+	[17801] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Demon-type monsters that are level 150 or higher."
+		},
+		Summary = "Defeat Lv.150 Monsters"
+	},
+	[17802] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Demon-type monsters that are level 200 or higher."
+		},
+		Summary = "Defeat Lv.200 Monsters"
+	},
+	[17803] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Water-property monsters that are level 90 or higher."
+		},
+		Summary = "Defeat Lv.90 Monsters"
+	},
+	[17804] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Water-property monsters that are level 150 or higher."
+		},
+		Summary = "Defeat Lv.150 Monsters"
+	},
+	[17805] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Water-property monsters that are level 200 or higher."
+		},
+		Summary = "Defeat Lv.200 Monsters"
+	},
+	[17806] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Brute-type monsters that are level 90 or higher."
+		},
+		Summary = "Defeat Lv.90 Monsters"
+	},
+	[17807] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Brute-type monsters that are level 150 or higher."
+		},
+		Summary = "Defeat Lv.150 Monsters"
+	},
+	[17808] = {
+		Title = "[Daily] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To enjoy safe and fun water activities at <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>, stamina is essential. You'll need to build up your endurance by defeating around 100 Brute-type monsters that are level 200 or higher."
+		},
+		Summary = "Defeat Lv.200 Monsters"
+	},
+	[17809] = {
+		Title = "[Cooldown] Trainer's Ambition",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Moving too much isn't always a good thing. Rest is important, too. After a proper break, Let's head back to <NAVI>[Sessrumnir]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI> for more training."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[17810] = {
+		Title = "[Daily] A Summer's Story",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Sessrumnir Ocean Week is full of exciting activities! Gather around with your <NAVI>[friends]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI> and experience the joy of good company and great conversation."
+		},
+		Summary = "Listen to the Story"
+	},
+	[17811] = {
+		Title = "[Daily] A Summer's Story",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You know there are kobolds living in the fields nearby, right? I'm too scared to even go near them. Try dealing with about 20 kobolds wielding hammers, then come back here to <NAVI>[Sessrumnir]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI> and tell me about it."
+		},
+		Summary = "Defeat 20 Kobolds"
+	},
+	[17812] = {
+		Title = "[Daily] A Summer's Story",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Please go face those green Basilisks then come back and tell me about it at <NAVI>[Sessrumnir]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>. Maybe around 20 of them should do?"
+		},
+		Summary = "Defeat 20 Basilisks"
+	},
+	[17813] = {
+		Title = "[Daily] A Summer's Story",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I've only heard stories about that distant place called the Ancient Odin's Temple. I've never actually been there. Try facing about 20 of Holy Frus and Holy Skogul, then come back and tell me about it at <NAVI>[Sessrumnir]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 20 Monsters"
+	},
+	[17814] = {
+		Title = "[Cooldown] A Summer's Story",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping for today. Let's go back to <NAVI>[Storyteller]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[17815] = {
+		Title = "[Daily] Noodle Crisis",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Who knew noodles would be this popular...?",
+			"------------------------",
+			"Let's catch about 10 Dandy Stars and bring 10 <ITEM>[Smooth Noodles]<INFO>25841</INFO></ITEM> back to <NAVI>[Noodle Seller]<INFO>ra_temple,203,170,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather Ingredients"
+	},
+	[17816] = {
+		Title = "[Cooldown] Noodle Crisis",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping for today. Let's go back to <NAVI>[Noodle Seller]<INFO>ra_temple,203,170,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[17817] = {
+		Title = "[Daily] Secret Herb",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Secret Behind the Best-Selling Dish is...",
+			"------------------------",
+			"Let's hunt about 10 Magic Herbs and bring 10 <ITEM>[Healthy Herbs]<INFO>25342</INFO></ITEM> back to <NAVI>[Grilled Squid Seller]<INFO>ra_temple,215,168,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather Ingredients"
+	},
+	[17818] = {
+		Title = "[Cooldown] Secret Herb",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping for today. Let's go back to <NAVI>[Grilled Squid Seller]<INFO>ra_temple,215,168,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[17819] = {
+		Title = "[Daily] Tastiest Summer Treat",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The fate of the Ocean Week desserts is in your hands!",
+			"------------------------",
+			"Let's hunt about 10 Watermelings and bring 10 <ITEM>[Summer Watermelons]<INFO>1001741</INFO></ITEM> back to <NAVI>[Watermelon Seller]<INFO>ra_temple,79,59,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather Ingredients"
+	},
+	[17820] = {
+		Title = "[Cooldown] Tastiest Summer Treat",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping for today. Let's go back to <NAVI>[Watermelon Seller]<INFO>ra_temple,79,59,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[17821] = {
+		Title = "[Daily] Behind the Water Park",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Desert life doesn't come with swimming lessons.",
+			"------------------------",
+			"Let's drop by the <NAVI>[Water Play Area]<INFO>ra_temple,211,91,0,101,0</INFO></NAVI> and help out some beginners?"
+		},
+		Summary = "Swimming Lessons"
+	},
+	[17822] = {
+		Title = "[Daily] Behind the Water Park",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Turns out trash doesn't walk itself to the bin.",
+			"------------------------",
+			"Let's tidy up <NAVI>[Sessrumnir]<INFO>ra_temple,120,114,0,101,0</INFO></NAVI> and make it sparkle again!"
+		},
+		Summary = "Clean-up work"
+	},
+	[17823] = {
+		Title = "[Daily] Behind the Water Park",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"With an event as big as Sessrumnir Ocean Week, safety is a top priority.",
+			"------------------------",
+			"Let's take a look around and inspect the <NAVI>[facilities]<INFO>ra_temple,66,171,0,101,0</INFO></NAVI> to make sure everything's in order."
+		},
+		Summary = "Facility inspection"
+	},
+	[17824] = {
+		Title = "[Daily] Behind the Water Park",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"With everything taken care of, it's time to report back to the <NAVI>[Lifeguard]<INFO>ra_temple,213,120,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Report to lifeguard"
+	},
+	[17825] = {
+		Title = "[Cooldown] Behind the Water Park",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping for today. Let's go back to <NAVI>[Lifeguard]<INFO>ra_temple,213,120,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	}
 
 
