@@ -35039,25 +35039,34 @@ QuestInfoList = {
 		Summary = "Aged Stranger"
 	},
 	[18119] = {
-		Title = "Gusli",
+		Title = "[EP19] Guest on the Northern Wind (1)",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"You now have a Gusli! You should really learn to play it before showing it to the Csar as evidence!"
+			"With enough information gathered about the northern lands, you've decided to head to the Varmundt Mansion with Maram and Miriam.",
+			"--------",
+			"Speak with <NAVI>[Elly]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>, who should be waiting in the parlor to discuss the next steps."
 		},
-		Summary = "Aged Stranger"
+		Summary = "Talk to Elly"
 	},
 	[18120] = {
-		Title = "Gusli",
+		Title = "[EP19] Guest on the Northern Wind (2)",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Beautiful! You can play the Gusli! Now it's time to show off your musical skills to the Csar of Moscovia, thereby letting him see evidence of the existence of Whale Island!"
+			"You've decided to gather information about Issgard from the Prontera Royal Palace.",
+			"--------",
+			"Follow <NAVI>[Crux]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI>'s lead from the Varmundt Mansion to travel to the palace."
 		},
-		Summary = "Csar Aleksay III"
+		Summary = "Visit Prontera Royal Palace"
 	},
 	[18121] = {
-		Title = "Shafka",
+		Title = "[EP19] Guardian's Box and Invitation (1)",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"If you want a Shafka hat, bring the materials that Irina has asked for, so she can make you one!"
+			"Lehar says that in order to gain entry to Issgard, we must receive permission from its guardians using the Guardian's Box.",
+			"--------",
+			"The box is kept in <NAVI>[Nihil]<INFO>prt_cas,331,343,0,101,0</INFO></NAVI>'s chamber at the Prontera Royal Palace. let's use it to obtain the invitation."
 		},
-		Summary = "20 Nine Tails, 10 Yarn, 10 Soft Silk, 20 Sea-otter Fur, 1 Spool"
+		Summary = "Talk to Nihil"
 	},
 	[19101] = {
 		Title = "The Eye of Hellion",
@@ -63386,6 +63395,1905 @@ QuestInfoList = {
 			"Let's go explore the Prontera field with Tuffnut. If you're lost, find the ^4d4dff tree^000000 visible in the ^4d4dff northwest^000000 from <NAVI>[Starting point]<INFO>prt_fild10,322,272,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Tuffnut"
+	},
+	[5972] = {
+		Title = "[OP] Eagle Patrol",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've joined the Eagle Patrol.",
+			"If you're ready to head out on patrol, go see <NAVI>[Patrol Captain]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Patrol Captain"
+	},
+	[5973] = {
+		Title = "[Cooldown] Eagle Patrol",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've completed the patrol of the Frozen Scale Hill with the Eagle Patrol.",
+			"If you want to join another patrol, go see the <NAVI>[Patrol Captain]<INFO>icecastle,23,115,0,101,0</INFO></NAVI> tomorrow."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[5974] = {
+		Title = "[Daily] Eagle Patrol (1)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Set out with the Eagle Team to patrol Frozen Scale Hill."
+		},
+		Summary = "Patrol with Team"
+	},
+	[5975] = {
+		Title = "[Daily] Eagle Patrol (2)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have completed the patrol with the Eagle Team.",
+			"Report to the Patrol Captain who is waiting to give you your reward."
+		},
+		Summary = "Report to Patrol Captain"
+	},
+	[5976] = {
+		Title = "[OP] Supply Officer Gorir",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Supply Officer Gorir forced a request upon me."
+		},
+		Summary = ""
+	},
+	[5977] = {
+		Title = "[Cooldown] No Feeding Allowed",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the request of the Supply Officer, I retrieved food left out for wild animals.",
+			"It was a relatively simple task with decent pay, so I'll visit <NAVI>[Supply Officer Gorir]<INFO>icecastle,97,177,0,101,0</INFO></NAVI> again tomorrow.",
+			"-",
+			"Note: Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[5978] = {
+		Title = "[Daily] No Feeding Allowed (1)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Supply Officer Gorir asked me for a favor.",
+			"I can take care of it during patrol with the Eagle Team, or when I have time.",
+			"Head to <NAVI>[Frozen Scale Hill]<INFO>jor_back1,380,229,0,101,0</INFO></NAVI> to retrieve food someone left out for wild animals.",
+			"-",
+			"Note: Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Retrieve the Food"
+	},
+	[5979] = {
+		Title = "[Daily] No Feeding Allowed (2)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I retrieved the food someone left out for wild animals.",
+			"Let's report back to <NAVI>[Supply Officer Gorir]<INFO>icecastle,97,177,0,101,0</INFO></NAVI> to finish the request.",
+			"-",
+			"Note: Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Report to Gorir"
+	},
+	[5980] = {
+		Title = "[OP] Secret Fun",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Met Private Horiryu at the Eagle Patrol Barracks."
+		},
+		Summary = ""
+	},
+	[5981] = {
+		Title = "[Cooldown] Secret Fun",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The feather I delivered was quietly exchanged for supplies.",
+			"It seems this is all being done under the radar.",
+			"Tomorrow, I'll sneak another to <NAVI>[Private Horiryu]<INFO>icas_in,34,56,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[5982] = {
+		Title = "[Daily] Secret Fun",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Private Horiryu]<INFO>icas_in,34,56,0,101,0</INFO></NAVI> seems to need warm feathers to endure the cold.",
+			"  ",
+			"Bring 10 of any one type from the list below:",
+			"-",
+			"<ITEM>[Round Feather]<INFO>6393</INFO></ITEM>",
+			"<ITEM>[Soft Feather]<INFO>7063</INFO></ITEM>",
+			"<ITEM>[Burning Feather]<INFO>6691</INFO></ITEM>",
+			"<ITEM>[Red Feather]<INFO>7440</INFO></ITEM>",
+			"<ITEM>[Bird Feather]<INFO>916</INFO></ITEM>",
+			"<ITEM>[Cendrawasih Feather]<INFO>6405</INFO></ITEM>",
+			"<ITEM>[PecoPeco Feather]<INFO>7101</INFO></ITEM>",
+			"<ITEM>[Blue Feather]<INFO>7441</INFO></ITEM>",
+			"<ITEM>[Harpy Feather]<INFO>7115</INFO></ITEM>"
+		},
+		Summary = "Deliver the Materials"
+	},
+	[5983] = {
+		Title = "[OP] Encounter with Test Subject 210426",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"I encountered a mysterious young man during patrol, but he vanished soon after.",
+			"He said he was heading toward <NAVI>[Frozen Scale Plains]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>, right?",
+			"I should go look for him when I have time.",
+			"-",
+			"Note: Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = ""
+	},
+	[5984] = {
+		Title = "[OP] Rgan Transformation Scroll",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"I met my new friend Lunch on the Frozen Scale Plains.",
+			"It seems he can transform into different appearances.",
+			"  ",
+			"The <ITEM>[Rgan Transformation Scroll]<INFO>101162</INFO></ITEM> I got from Lunch looks useful, so I should head back to the <NAVI>[Ice Castle]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> and report."
+		},
+		Summary = "Report to Ice Castle"
+	},
+	[5985] = {
+		Title = "[Cooldown] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I brought meal for <NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>.",
+			"If I have time tomorrow, maybe I should do it again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5986] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Broken Liquor Jars today.",
+			"Let's bring him 10 <ITEM>[Broken Liquor Jar]<INFO>7158</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5987] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Cloud Crumbs today.",
+			"Let's bring him 10 <ITEM>[Cloud Crumb]<INFO>7162</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5988] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Straw Baskets today.",
+			"Let's bring him 10 <ITEM>[Straw Basket]<INFO>7299</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5989] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Denture from Dragon Masks today.",
+			"Let's bring him 10 <ITEM>[Denture from Dragon Mask]<INFO>7266</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5990] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Yaga's Pestle today.",
+			"Let's bring him 10 <ITEM>[Yaga's Pestle]<INFO>7762</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5991] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Leopard Skin today.",
+			"Let's bring him 10 <ITEM>[Leopard Skin]<INFO>7171</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5992] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Cendrawasih Feather today.",
+			"Let's bring him 10 <ITEM>[Cendrawasih Feather]<INFO>6405</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5993] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Jejellopy today.",
+			"Let's bring him 10 <ITEM>[Jejellopy]<INFO>6498</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5994] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Brown Rat Tail today.",
+			"Let's bring him 10 <ITEM>[Brown Rat Tail]<INFO>25285</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[5995] = {
+		Title = "[Daily] Lunch's Menu Choice",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> seems to be craving Piece of Bamboo today.",
+			"Let's bring him 10 <ITEM>[Piece of Bamboo]<INFO>7171</INFO></ITEM>."
+		},
+		Summary = "Bring Required Materials",
+		NpcSpr = "4_EP19_LUNCH",
+		NpcNavi = "jor_back2",
+		NpcPosX = 250,
+		NpcPosY = 30
+	},
+	[8784] = {
+		Title = "[Daily] Helping Moryara Fish",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Recognized for my skill in catching seaweed, I've been tasked with hunting Shining Seaweed.",
+			"--------",
+			"After defeating 20 of them, return to <NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI> at Frozen Tail."
+		},
+		Summary = "Hunt 20 Shining Seaweed"
+	},
+	[8785] = {
+		Title = "[Cooldown] Helping Moryara Fish",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping Moryara today. Visit <NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8786] = {
+		Title = "[Daily] Helping Moryara Fish",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I'm not confident I can fish properly in these conditions.",
+			"--------",
+			"So let's defeat 20 Shining Seaweed and return to <NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI> at Frozen Tail."
+		},
+		Summary = "Hunt 20 Shining Seaweed"
+	},
+	[8787] = {
+		Title = "[Daily] Lunchtime with Zoryara",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"I thought I'd be helping Zoryara with cooking...",
+			"but instead, I've been tasked with gathering Ice Straw Skins that Iwin's kids love.",
+			"--------",
+			"Bring 15 <ITEM>[Thin and Tough Shell]<INFO>1000830</INFO></ITEM> to <NAVI>[Zoryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI> at the Ice Castle cafeteria."
+		},
+		Summary = "Bring 15 Thin and Tough Shell"
+	},
+	[8788] = {
+		Title = "[Cooldown] Lunchtime with Zoryara",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping Zoryara today. Visit <NAVI>[Zoryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8789] = {
+		Title = "[Daily] Lunchtime with Zoryara",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Zoryara asked me to deliver favorite snack of the Iwin children again today.",
+			"--------",
+			"Bring 15 <ITEM>[Thin and Tough Shell]<INFO>1000830</INFO></ITEM> to <NAVI>[Zoryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI> at the Ice Castle cafeteria."
+		},
+		Summary = "Bring 15 Thin and Tough Shell"
+	},
+	[8790] = {
+		Title = "[Daily] Priest, Have Mercy?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Pabuyasavigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI> in the Serpent's Nest has asked for <ITEM>[Rgan Shell]<INFO>1000822</INFO></ITEM> from outside.",
+			"--------",
+			"About 30 should be enough."
+		},
+		Summary = "Bring 30 Rgan Shell"
+	},
+	[8791] = {
+		Title = "[Cooldown] Priest, Have Mercy?",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Pabuyasavigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8792] = {
+		Title = "[Daily] Priest, Have Mercy?",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Pabuyasavigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI> in the Serpent's Nest has asked for <ITEM>[Rgan Shell]<INFO>1000822</INFO></ITEM> from outside.",
+			"--------",
+			"About 30 should be enough."
+		},
+		Summary = "Bring 30 Rgan Shell"
+	},
+	[8793] = {
+		Title = "[Side] A Curious Thing",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Delfanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI> in the Serpent's Nest wants you to speak with the mid-level Rgans working in the hatchery:",
+			"--------",
+			"Talk to <NAVI>[The Obedient One]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>.",
+			"Talk to <NAVI>[The Lazy One]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>.",
+			"Talk to <NAVI>[The Disobedient One]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Rgans"
+	},
+	[8794] = {
+		Title = "[Side] The Old Snake",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI> in the Serpent's Nest has asked for 15 <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM>.",
+			"--------",
+			"Let's bring it for him."
+		},
+		Summary = "Bring 15 Low-quality Rgan Magic Core"
+	},
+	[8795] = {
+		Title = "[Side] Doctrine and Sermon",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After Bernagand's sermon ended in the Serpent's Nest, <NAVI>[Euramigand]<INFO>jor_nest,18,92,0,101,0</INFO></NAVI> called out to the adventurer in Rgan form.",
+			"--------",
+			"Let's hear it."
+		},
+		Summary = "Talk to Euramigand"
+	},
+	[8796] = {
+		Title = "[Daily] New Faces",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI> in the Serpent's Nest has asked you to hunt 20 Primitive Rgans."
+		},
+		Summary = "Hunt 20 Primitive Rgans"
+	},
+	[8797] = {
+		Title = "[Cooldown] Tasks given by a Rgan",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[8798] = {
+		Title = "[Daily] Tasks given by a Rgan",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The high-ranking Rgan, <NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI> has ordered you to hunt 20 Primitive Rgans."
+		},
+		Summary = "Hunt 20 Primitive Rgans"
+	},
+	[8799] = {
+		Title = "[Side] A Curious Thing (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You need to speak with all three in the Serpent's Nest:",
+			"--------",
+			"Talk to <NAVI>[The Obedient One]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>.",
+			"Talk to <NAVI>[The Lazy One]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>.",
+			"Talk to <NAVI>[The Disobedient One]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Rgans"
+	},
+	[8800] = {
+		Title = "[Side] A Curious Thing (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You need to speak with all three in the Serpent's Nest:",
+			"--------",
+			"Talk to <NAVI>[The Obedient One]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>.",
+			"Talk to <NAVI>[The Lazy One]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>.",
+			"Talk to <NAVI>[The Disobedient One]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Rgans"
+	},
+	[8801] = {
+		Title = "[Side] A Curious Thing (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"All of <NAVI>[Delfanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>'s tasks in the Serpent's Nest have been completed.",
+			"--------",
+			"Return to him for further instructions."
+		},
+		Summary = "Talk to Delfanagand"
+	},
+	[8802] = { Title = "1st Rgan in the Hatchery", IconName = "ico_ep.bmp", Summary = "" },
+	[8803] = { Title = "2nd Rgan in the Hatchery", IconName = "ico_ep.bmp", Summary = "" },
+	[8804] = { Title = "3rd Rgan in the Hatchery", IconName = "ico_ep.bmp", Summary = "" },
+	[11794] = {
+		Title = "[Side] Saint of Purification (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Voglinde seems to be looking for a certain Cardinal.",
+			"--------",
+			"Let's ask some <NAVI>[friends]<INFO>icas_in,130,201,0,101,0</INFO></NAVI> who arrived at the Ice Castle via airship if they know anything about the Cardinal's whereabouts."
+		},
+		Summary = "Talk to Maram"
+	},
+	[11795] = {
+		Title = "[Side] Saint of Purification (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Maram says he hasn't seen the Cardinal Voglinde is looking for.",
+			"--------",
+			"Let's ask <NAVI>[Lehar]<INFO>icas_in,136,197,0,101,0</INFO></NAVI> who just returned to the Ice Castle, about the Cardinal."
+		},
+		Summary = "Talk to Lehar"
+	},
+	[11796] = {
+		Title = "[Side] Saint of Purification (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lehar also seems unaware of the Cardinal's whereabouts.",
+			"--------",
+			"Let's report back to <NAVI>[Voglinde]<INFO>icas_in,164,228,0,101,0</INFO></NAVI> inside the Ice Castle."
+		},
+		Summary = "Talk to Voglinde"
+	},
+	[11797] = {
+		Title = "[Side] Saint of Purification (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"To find this so-called saint, you must return to Midgard.",
+			"--------",
+			"Go speak with <NAVI>[Hellock]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> in Frozen Tail."
+		},
+		Summary = "Talk to Hellock"
+	},
+	[11798] = {
+		Title = "[Side] Saint of Purification (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You arrived in Aldebaran by riding Hellock¡¯s sled.",
+			"--------",
+			"Let's speak with <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> again."
+		},
+		Summary = "Talk to Hellock"
+	},
+	[11799] = {
+		Title = "[Side] Saint of Purification (6)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You need to gather information about the saint.",
+			"--------",
+			"Go meet <NAVI>[Acolyte Leader Alice]<INFO>prontera,254,309,0,101,0</INFO></NAVI> in Prontera."
+		},
+		Summary = "Talk to Acolyte Leader"
+	},
+	[11800] = {
+		Title = "[Side] Saint of Purification (7)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Follow Alice to the <NAVI>[Saint's Quarters]<INFO>prt_cas,20,32,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Search Saint's Quarter"
+	},
+	[11801] = {
+		Title = "[Side] Saint of Purification (8)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You found the <NAVI>[Saint]<INFO>prt_cas,18,32,0,101,0</INFO></NAVI> in the royal palace of Prontera.",
+			"She appears to be packing for a journey to Isgard.",
+			"--------",
+			"Wait and watch over her until Alice returns with the porter."
+		},
+		Summary = "Talk to the Saint"
+	},
+	[11802] = {
+		Title = "[Side] Saint of Purification (9)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Alice has returned to the Prontera Royal Palace with a porter, but Friederike's belongings are still completely unorganized?and far too many.",
+			"--------",
+			"Check the <NAVI>[Travel Bag]<INFO>prt_cas,15,31,0,101,0</INFO></NAVI> to see what can be reduced."
+		},
+		Summary = "Check the Travel Bag"
+	},
+	[11803] = {
+		Title = "[Side] Saint of Purification (10)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's check another <NAVI>[Travel Bag]<INFO>prt_cas,16,27,0,101,0</INFO></NAVI> located in Friederike's quarters."
+		},
+		Summary = "Check the Travel Bag"
+	},
+	[11804] = {
+		Title = "[Side] Saint of Purification (11)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Well, it seems there's another <NAVI>[Travel Bag]<INFO>prt_cas,26,27,0,101,0</INFO></NAVI>. Let's check it just in case"
+		},
+		Summary = "Check the Travel Bag"
+	},
+	[11805] = {
+		Title = "[Side] Saint of Purification (12)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"There's yet another <NAVI>[Travel Bag]<INFO>prt_cas,23,36,0,101,0</INFO></NAVI>. Let's take a look inside."
+		},
+		Summary = "Check the Travel Bag"
+	},
+	[11806] = {
+		Title = "[Side] Saint of Purification (13)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"How many times we need to check her <NAVI>[Travel Bag]<INFO>prt_cas,22,30,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Check the Travel Bag"
+	},
+	[11807] = {
+		Title = "[Side] Saint of Purification (14)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After a long while, the packing is finally done.",
+			"--------",
+			"Let's talk to <NAVI>[Alice]<INFO>prt_cas,21,31,0,101,0</INFO></NAVI> inside Friederike's quarters."
+		},
+		Summary = "Talk to Alice"
+	},
+	[11808] = {
+		Title = "[Side] Saint of Purification (15)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You're all set to depart for Issgard.",
+			"--------",
+			"Let's meet <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> in Aldebaran to travel back to Issgard."
+		},
+		Summary = "Talk to Hellock"
+	},
+	[11809] = {
+		Title = "[Side] Saint of Purification (16)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've arrived back in Issgard.",
+			"--------",
+			"Escort Friederike to the <NAVI>[Ice Castle]<INFO>icecastle,23,123,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Go to Ice Castle"
+	},
+	[11810] = {
+		Title = "[Side] Saint of Purification (17)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Head to the room prepared for <NAVI>[Friederike]<INFO>icecastle,59,213,0,101,0</INFO></NAVI> in the Ice Castle."
+		},
+		Summary = "Talk to Friederike"
+	},
+	[11811] = {
+		Title = "[Side] Saint of Purification (18)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Voglinde came to Friederike¡¯s room in the Ice Castle to confirm her safe arrival, then quietly left.",
+			"--------",
+			"It seems the next task has been entrusted to <NAVI>[Lehar]<INFO>icas_in,35,118,0,101,0</INFO></NAVI>.  Let's go speak with him."
+		},
+		Summary = "Talk to Lehar"
+	},
+	[11812] = {
+		Title = "[OP] Friederike's Day",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Now staying in her room at the Ice Castle, <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI> says she's been tasked by Voglinde with purifying the Rgan's mana cores. Let's hear more from her."
+		},
+		Summary = "Talk to Friederike"
+	},
+	[11813] = {
+		Title = "[Daily] Friederike's Day",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 10 Primitive Rgan and 10 Lowest Rgan. Don't forget to gather 10 <ITEM>[Rgan Magic Core]<INFO>1000705</INFO></ITEM>!",
+			"--------",
+			"Return to <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Hunt and Gather Materials"
+	},
+	[11814] = {
+		Title = "[Cooldown] Friederike's Day",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11815] = {
+		Title = "[Side] Frozen Sea (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In Friederike's room at the Ice Castle, Tamarin?brought by Surr?was purified by Friederike's power.",
+			"--------",
+			"Speak with the now-awake <NAVI>[Tamarin]<INFO>icas_in,28,119,0,101,0</INFO></NAVI> to hear his story."
+		},
+		Summary = "Talk to Tamarin"
+	},
+	[11816] = {
+		Title = "[Side] Frozen Sea (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Tamarin says he needs to investigate the pit he fell into.",
+			"--------",
+			"Before checking the pit itself, let's look around the <NAVI>[Hunting Trap]<INFO>jor_back1,300,272,0,101,0</INFO></NAVI> in the Frozen Scale Hill area to see if anything seems off."
+		},
+		Summary = "Investigate the Hunting Trap"
+	},
+	[11817] = {
+		Title = "[Side] Frozen Sea (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Nothing seemed unusual with the first trap.",
+			"--------",
+			"Check another <NAVI>[Hunting Trap]<INFO>jor_back2,346,203,0,101,0</INFO></NAVI> in the Frozen Scale Hill area to see if anything stands out."
+		},
+		Summary = "Investigate the Hunting Trap"
+	},
+	[11818] = {
+		Title = "[Side] Frozen Sea (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Nothing seemed unusual with the trap.",
+			"--------",
+			"Now, investigate the <NAVI>[Hunting Trap]<INFO>jor_back2,260,294,0,101,0</INFO></NAVI> in the Frozen Scale Plains near the pit."
+		},
+		Summary = "Investigate the Hunting Trap"
+	},
+	[11819] = {
+		Title = "[Side] Frozen Sea (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You found traces of what appears to be decay around the trap.",
+			"--------",
+			"Report your findings to <NAVI>[Surr]<INFO>jor_back2,255,312,0,101,0</INFO></NAVI> who's near the pit in the Frozen Scale Plains."
+		},
+		Summary = "Talk to Surr"
+	},
+	[11820] = {
+		Title = "[Side] Frozen Sea (6)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The pit Tamarin fell into is filled with such strong toxins that even a diving suit couldn't protect him.",
+			"--------",
+			"Return to <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI> in her room at the Ice Castle and ask for help."
+		},
+		Summary = "Talk to Friederike"
+	},
+	[11821] = {
+		Title = "[Side] Frozen Sea (7)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've convinced Friederike.",
+			"--------",
+			"Head back to the <NAVI>[Pit]<INFO>jor_back2,258,314,0,101,0</INFO></NAVI> in the Frozen Scale Plains and purify the poisonous fumes."
+		},
+		Summary = "Return to the Pit"
+	},
+	[11822] = {
+		Title = "[Side] Frozen Sea (8)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The pit has been purified.",
+			"Wearing a diving suit just in case, Surr has offered to go in and investigate first.",
+			"--------",
+			"While Surr is checking the pit, eliminate 10 nearby monsters in the Frozen Scale Plains and collect 3 pieces of <ITEM>[Frozen Meat]<INFO>1000708</INFO></ITEM>.",
+			"Talk to <NAVI>[Surr]<INFO>jor_back2,255,312,0,101,0</INFO></NAVI> when you're done."
+		},
+		Summary = "Hunt and Gather Materials"
+	},
+	[11823] = {
+		Title = "[Side] Frozen Sea (9)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In the Frozen Scale Plains, Surr shares what he discovered while investigating the Pit.",
+			"--------",
+			"He suggests heading <NAVI>[down]<INFO>jor_back2,258,314,0,101,0</INFO></NAVI> together to take a closer look."
+		},
+		Summary = "Head to the Pit"
+	},
+	[11824] = {
+		Title = "[Side] Frozen Sea (10)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've descended into the pit.",
+			"--------",
+			"Speak with <NAVI>[Alf]<INFO>jor_ab01,115,14,0,101,0</INFO></NAVI>, who arrived ahead of you."
+		},
+		Summary = "Talk to Alf"
+	},
+	[11825] = {
+		Title = "[Side] Frozen Sea (11)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Defeat 5 monsters around the first floor of the Abandoned Pit.",
+			"--------",
+			"Once you're done, investigate the next <NAVI>[Suspicious Trace]<INFO>jor_ab01,222,107,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Trace"
+	},
+	[11826] = {
+		Title = "[Side] Frozen Sea (12)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You need to defeat additional 5 monsters around the first floor of the Abandoned Pit.",
+			"--------",
+			"Once you're done, investigate the next <NAVI>[Suspicious Trace]<INFO>jor_ab01,104,270,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Trace"
+	},
+	[11827] = {
+		Title = "[Side] Frozen Sea (13)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've found the passage to the second floor of the Abandoned Pit.",
+			"Defeat 5 monsters on the first floor and collect 2 pieces of <ITEM>[Frozen Meat]<INFO>1000708</INFO></ITEM>.",
+			"--------",
+			"When you're done, it's time to <NAVI>[move to the next area]<INFO>jor_ab01,16,235,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Explore Further"
+	},
+	[11828] = {
+		Title = "[Side] Frozen Sea (14)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've moved to the second floor of the Abandoned Pit.",
+			"Defeat 10 monsters on the this floor and collect 2 pieces of <ITEM>[Frozen Meat]<INFO>1000708</INFO></ITEM>.",
+			"--------",
+			"When you're done, <NAVI>[check]<INFO>jor_ab02,28,253,0,101,0</INFO></NAVI> to see if there are any further connected areas."
+		},
+		Summary = "Explore Further"
+	},
+	[11829] = {
+		Title = "[Side] Frozen Sea (15)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The investigation of the Abandoned Pit is complete.",
+			"--------",
+			"Return to the Ice Castle and deliver the collected materials to <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Friederike"
+	},
+	[11830] = {
+		Title = "[OP] Abandoned Pit Investigation",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> has spoken about the dangers of the Abandoned Pit and believes further investigation may be necessary."
+		},
+		Summary = "Talk to Surr"
+	},
+	[11831] = {
+		Title = "[Daily] Abandoned Pit 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> has asked you to defeat around ^e5555e40 monsters^000000 on the ^e5555e1st floor of the Abandoned Pit^000000 and collect ^e5555e20 pieces of Frozen Meat^000000."
+		},
+		Summary = "Hunt and Gather Materials"
+	},
+	[11832] = {
+		Title = "[Cooldown] Abandoned Pit 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11833] = {
+		Title = "[Daily] Abandoned Pit 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> has asked you to defeat around ^e5555e40 monsters^000000 on the ^e5555e2nd floor of the Abandoned Pit^000000 and collect ^e5555e20 pieces of Frozen Meat^000000."
+		},
+		Summary = "Hunt and Gather Materials"
+	},
+	[11834] = {
+		Title = "[Cooldown] Abandoned Pit 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11835] = {
+		Title = "[OP] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Alf has gone ahead to begin the investigation of the Abandoned Pit.",
+			"--------",
+			"Find and speak with <NAVI>[Alf]<INFO>jor_ab01,115,14,0,101,0</INFO></NAVI> inside the pit."
+		},
+		Summary = "Talk to Alf"
+	},
+	[11836] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Alf has asked you to investigate the ominous traces.",
+			"--------",
+			"Once the investigation is complete, report back to <NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11837] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab01,163,253,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11838] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab01,117,141,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11839] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab01,222,125,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11840] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab01,196,260,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11841] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab01,112,62,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11842] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab01,25,265,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11843] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab02,151,272,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11844] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab02,139,148,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11845] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab02,182,83,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11846] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab02,48,27,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11847] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab02,208,48,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11848] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Find and investigate the <NAVI>[Ominous Trace]<INFO>jor_ab02,201,184,0,101,0</INFO></NAVI> that Alf mentioned in the Abandoned Pit."
+		},
+		Summary = "Investigate the Traces"
+	},
+	[11849] = {
+		Title = "[Daily] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've finished investigating the ominous traces in the Abandoned Pit.",
+			"--------",
+			"Return to <NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> and report your findings."
+		},
+		Summary = "Talk to Surr"
+	},
+	[11850] = {
+		Title = "[Cooldown] Dig and Dig",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Surr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11851] = {
+		Title = "[OP] Need a Refrigerator?",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Tamarin]<INFO>icas_in,28,119,0,101,0</INFO></NAVI> at the Ice Castle seems quite worried about gathering food supplies."
+		},
+		Summary = "Talk to Tamarin"
+	},
+	[11852] = {
+		Title = "[Daily] Need a Refrigerator?",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Let's help <NAVI>[Tamarin]<INFO>icas_in,28,119,0,101,0</INFO></NAVI> by hunting ^e5555e20 monsters^000000 in the ^e5555eFrozen Scale Plains^000000 and gather ^e5555e10 Frozen Meats^000000."
+		},
+		Summary = "Hunt and Gather Materials"
+	},
+	[11853] = {
+		Title = "[Cooldown] Need a Refrigerator?",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Tamarin]<INFO>icas_in,28,119,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11854] = {
+		Title = "[Daily] Crispy Tools",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the Ice Castle, Tamarin is worried that the hunting traps might break in the cold.",
+			"--------",
+			"Let's help him by checking the <NAVI>[Frozen Trap]<INFO>jor_back2,367,36,0,101,0</INFO></NAVI> condition."
+		},
+		Summary = "Check Frozen Trap"
+	},
+	[11855] = {
+		Title = "[Daily] Crispy Tools",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the Ice Castle, Tamarin is worried that the hunting traps might break in the cold.",
+			"--------",
+			"Let's help him by checking the <NAVI>[Frozen Trap]<INFO>jor_back2,84,88,0,101,0</INFO></NAVI> condition."
+		},
+		Summary = "Check Frozen Trap"
+	},
+	[11856] = {
+		Title = "[Daily] Crispy Tools",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the Ice Castle, Tamarin is worried that the hunting traps might break in the cold.",
+			"--------",
+			"Let's help him by checking the <NAVI>[Frozen Trap]<INFO>jor_back2,158,320,0,101,0</INFO></NAVI> condition."
+		},
+		Summary = "Check Frozen Trap"
+	},
+	[11857] = {
+		Title = "[Daily] Crispy Tools",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the Ice Castle, Tamarin is worried that the hunting traps might break in the cold.",
+			"--------",
+			"Let's help him by checking the <NAVI>[Frozen Trap]<INFO>jor_back2,190,184,0,101,0</INFO></NAVI> condition."
+		},
+		Summary = "Check Frozen Trap"
+	},
+	[11858] = {
+		Title = "[Daily] Crispy Tools",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"The frozen trap has been inspected.",
+			"--------",
+			"Return to <NAVI>[Tamarin]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Tamarin"
+	},
+	[11859] = {
+		Title = "[Cooldown] Crispy Tools",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Tamarin]<INFO>icas_in,28,119,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12560] = {
+		Title = "[Cooldown] Airship Infiltration",
+		Description = {
+			"We've successfully disabled the airship to the point that it won't be operational for a while.",
+			"--------",
+			"If there are signs it starts moving again, we may need to infiltrate it once more."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12561] = {
+		Title = "[Daily] Airship Infiltration",
+		Description = {
+			"We can't fully assess the risks of completely destroying the airship.",
+			"--------",
+			"For now, let's focus on disabling the core that controls its operating logic."
+		},
+		Summary = "Disable the Core"
+	},
+	[16636] = {
+		Title = "[EP19] Investigate Juncea's Lab",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"While no one's around, let's investigate <NAVI>[Juncea's Lab]<INFO>jor_nest,51,152,0,101,0</INFO></NAVI> inside the Serpent's Nest."
+		},
+		Summary = "Investigate Juncea's Lab"
+	},
+	[16637] = {
+		Title = "[EP19] Investigate Bagot's Lab",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"While no one's around, let's investigate <NAVI>[Bagot's Lab]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI> inside the Serpent's Nest."
+		},
+		Summary = "Investigate Bagot's Lab"
+	},
+	[16638] = {
+		Title = "[EP19] Investigate Rgan Guard Area",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"While no one's around, let's investigate the area around the <NAVI>[Rgan Guards]<INFO>jor_nest,177,176,0,101,0</INFO></NAVI> inside the Serpent's Nest."
+		},
+		Summary = "Investigate Rgan Guard Area"
+	},
+	[16639] = {
+		Title = "[EP19] Juncea's Lab",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's search through the <NAVI>[pile of documents]<INFO>jor_nest,19,142,0,101,0</INFO></NAVI> in Juncea's lab inside the Serpent's Nest."
+		},
+		Summary = "Search Documents"
+	},
+	[16640] = {
+		Title = "[EP19] Juncea's Lab",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's search through the <NAVI>[pile of documents]<INFO>jor_nest,21,195,0,101,0</INFO></NAVI> in Juncea's lab inside the Serpent's Nest."
+		},
+		Summary = "Search Documents"
+	},
+	[16641] = {
+		Title = "[EP19] Bagot's Lab",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's search through the <NAVI>[pile of documents]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI> in Bagot's lab inside the Serpent's Nest."
+		},
+		Summary = "Search Documents"
+	},
+	[16642] = {
+		Title = "[EP19] Bagot's Lab",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's search through the <NAVI>[pile of documents]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI> in Bagot's lab inside the Serpent's Nest."
+		},
+		Summary = "Search Documents"
+	},
+	[16643] = {
+		Title = "[EP19] Rgan Guards Area",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Near the Rgan Guards inside the Serpent's Nest, there appears to be a <NAVI>[ledger]<INFO>jor_nest,181,173,0,101,0</INFO></NAVI> lying among the documents. Let's take a quick look."
+		},
+		Summary = "Search Documents"
+	},
+	[16644] = {
+		Title = "[EP19] Rgan Guards Area",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's quietly eavesdrop on the conversation of the <NAVI>[Rgan Guards]<INFO>jor_nest,173,177,0,101,0</INFO></NAVI> inside the Serpent's Nest."
+		},
+		Summary = "Listen to the Conversation"
+	},
+	[16645] = {
+		Title = "[EP19] Clue Exchange",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We've gathered a fair number of clues. Let's return to <NAVI>[Lazy]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>, who is disguised as a Rgan inside the Serpent's Nest, and share what we've found to discuss our thoughts."
+		},
+		Summary = "Talk to Lazy"
+	},
+	[16646] = {
+		Title = "[EP19] Stealthy Approach (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Head to Juncea's Laboratory inside the Serpent's Nest and speak with <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> to gain her trust."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[16647] = {
+		Title = "[EP19] Stealthy Approach (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems Juncea is craving something sweet. Let's head back to the <NAVI>[Ice Castle]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> and look for a place where we can find a treat."
+		},
+		Summary = "Search for Treats"
+	},
+	[16648] = {
+		Title = "[EP19] Stealthy Approach (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Head to Juncea's Laboratory inside the Serpent's Nest and give the <NAVI>[Ice treat]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> to Juncea."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[16649] = {
+		Title = "[EP19] Stealthy Approach (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Bring either one <NAVI>[ice treat]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> from the Ice Castle or 10 <ITEM>[Low-Grade Rgan Mana Cores]<INFO>1000707</INFO></ITEM> to <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>, who is waiting inside the Serpent's Nest."
+		},
+		Summary = "Bring Juncea's Request"
+	},
+	[16650] = {
+		Title = "[EP19] Stealthy Approach (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Bring either one <NAVI>[ice treat]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> from the Ice Castle or 10 <ITEM>[Low-Grade Rgan Mana Cores]<INFO>1000707</INFO></ITEM> to <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>, who is waiting inside the Serpent's Nest."
+		},
+		Summary = "Bring Juncea's Request"
+	},
+	[16651] = {
+		Title = "[EP19] Stealthy Approach (6)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In Juncea's Laboratory inside the Serpent's Nest, show the ledger taken from the Rgan Guards to <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[16652] = {
+		Title = "[EP19] Stealthy Approach (7)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Bagot has appeared in Juncea's Laboratory inside the Serpent's Nest. Try to smooth things over so it doesn't look like you were trying to sway <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[16653] = {
+		Title = "[EP19] Growing Suspicion (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Return to the Ice Castle and share your findings so far with <NAVI>[Lazy]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Lazy"
+	},
+	[16654] = {
+		Title = "[EP19] Growing Suspicion (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Continue the conversation with Lazy and <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI> at the Ice Castle."
+		},
+		Summary = "Talk to Miriam"
+	},
+	[16655] = {
+		Title = "[EP19] A Close Call (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We've decided to move things along a bit faster. Head to <NAVI>[Juncea's Laboratory]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI> inside the Serpent's Nest and try to persuade Juncea."
+		},
+		Summary = "Visit Juncea's Lab"
+	},
+	[16656] = {
+		Title = "[EP19] A Close Call (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Inside Juncea's Laboratory in the Serpent's Nest, there's spilled liquid near an unfamiliar box. Let's look for a <NAVI>[container]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> to collect it."
+		},
+		Summary = "Obtain Juncea's Test Tube"
+	},
+	[16657] = {
+		Title = "[EP19] A Close Call (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Inside Juncea's Laboratory in the Serpent's Nest, you've transferred a bit of the pooled liquid near the <NAVI>[box]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI> into the empty test tube."
+		},
+		Summary = "Obtain Red Liquid Sample"
+	},
+	[16658] = {
+		Title = "[EP19] A Close Call (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"While trying to sneak out of Juncea's Laboratory inside the Serpent's Nest, you're spotted by an unfamiliar <NAVI>[Rgan]<INFO>jor_nest,24,185,0,101,0</INFO></NAVI>. They say they have something to tell you?let's hear them out."
+		},
+		Summary = "Talk to the Rgan"
+	},
+	[16659] = {
+		Title = "[EP19] A Close Call (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's said that Juncea is waiting in <NAVI>[Bagot's Laboratory]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI> inside the Serpent's Nest."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[16660] = {
+		Title = "[EP19] A Close Call (6)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's talk to Juncea in <NAVI>[Bagot's Laboratory]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI> inside the Serpent's Nest."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[16661] = {
+		Title = "[EP19] A Close Call (7)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Bring the unconscious Juncea, who has transformed into a monster, back to town and speak with <NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Return to Town"
+	},
+	[16662] = {
+		Title = "[Daily] Simulation Battle",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Speak with <NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, who is waiting in front of Bagot's Laboratory in the Serpent's Nest. You'll be able to battle a simulated version of Juncea, created using her virtual data."
+		},
+		Summary = "Defeat Simulated Juncea"
+	},
+	[16663] = {
+		Title = "[Cooldown] Simulation Battle",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"If you've defeated the simulated Juncea, take a day to rest. After a good rest, you can return to <NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, who's waiting in front of Bagot's Laboratory in the Serpent's Nest, to battle again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[17619] = {
+		Title = "[EP19] lazy's Plan",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Using the Rgan Transformation Scroll, infiltrate the <NAVI>[Rgan Hideout]<INFO>jor_back3,98,318,0,101,0</INFO></NAVI>.",
+			"--------",
+			"Don't forget to bring the transformation scroll."
+		},
+		Summary = "Head to the Rgan Hideout"
+	},
+	[17620] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Upon entering the <NAVI>[Serpent's Nest]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI>, the adventurer must pretend to be a newly hatched Rgan."
+		},
+		Summary = "Act as a newborn Rgan"
+	},
+	[17621] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"\"You don't belong in a place like this. I'll take you to the <NAVI>[upper area]<INFO>jor_nest,184,49,0,101,0</INFO></NAVI> of the Nest. Make sure to follow me closely.\""
+		},
+		Summary = "Head to Upper Section"
+	},
+	[17622] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"On the way to receive Lord Rasgand's blessing, I'll first show you the upper <NAVI>[Egg Incubation Chamber]<INFO>jor_nest,196,202,0,101,0</INFO></NAVI> inside the Nest."
+		},
+		Summary = "Head to the Chamber"
+	},
+	[17623] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"On the way, we'll pass by the <NAVI>[Outsiders' Quarters]<INFO>jor_nest,115,187,0,101,0</INFO></NAVI> within the Nest. I'll point out the location?make sure not to enter it, even by mistake."
+		},
+		Summary = "Move Along"
+	},
+	[17624] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Alright, it's truly time to receive the blessing ceremony from Lord Rasgand. Let's head further up into the Nest to the <NAVI>[Upper Area]<INFO>jor_nest,53,244,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Move Along"
+	},
+	[17625] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (6)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"If you've got nowhere else to go, why not head to the Illusion Research Lab in the Nest? Go see <NAVI>[Juncea]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI>?maybe get a health check-up while you're at it."
+		},
+		Summary = "Visit Juncea"
+	},
+	[17626] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (7)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"All rested up? Good, then let's get to work. Is the Serpent's Nest unfamiliar to you? Come a bit closer to <NAVI>[my side]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> so I can run the check-up."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[17627] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (8)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The <NAVI>[Egg]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI> you came from should still be usable. Bring me the shell of a high-grade Lagan egg. I want to study that egg and the lingering mana within it. You said you were born in the Serpent's Warmth, right?"
+		},
+		Summary = "Return to where I was born"
+	},
+	[17628] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (9)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems high-grade eggs are kept separately. Head over to the <NAVI>[Serpent's Nest]<INFO>jor_nest,23,58,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Head to the Hatchery"
+	},
+	[17629] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (10)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The high-grade Regan eggshell has been safely secured. Return to <NAVI>[Juncea]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> in the Serpent's Nest and show her the shell."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[17630] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (11)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Bagot has appeared at the Illusion's Quarters in the Serpent's Nest. Let's speak with <NAVI>[Bagot]<INFO>jor_nest,26,142,0,101,0</INFO></NAVI> and hear what his purpose is."
+		},
+		Summary = "Talk to Bagot"
+	},
+	[17631] = {
+		Title = "[EP19] Infiltrating the Serpent's Nest (12)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Juncea is visibly furious at Bagot's one-sided announcement in the Serpent's Nest. What could have caused such anger? Let's speak with <NAVI>[Juncea]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Juncea"
+	},
+	[17632] = {
+		Title = "[EP19] Infiltration Mission Report (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"There's nothing more to hear from Juncea for now. Let's step <NAVI>[outside the Nest]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI> and discuss things with Lazy."
+		},
+		Summary = "Head Outside"
+	},
+	[17633] = {
+		Title = "[EP19] Infiltration Mission Report (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"First, let's check on the <NAVI>[airship]<INFO>jor_nest,24,252,0,101,0</INFO></NAVI> said to be inside the Serpent's Nest. We'll need to assess its location and any guarding personnel."
+		},
+		Summary = "Scout the Airship"
+	},
+	[17634] = {
+		Title = "[EP19] Infiltration Mission Report (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Now that we've identified the airship's location, let's head back and come up with a plan. Next, we should make our way to the <NAVI>[Warmth of the Serpent God]<INFO>jor_dun02,153,239,0,101,0</INFO></NAVI> and rescue our companions in the lower sector, right?."
+		},
+		Summary = "Rescue Companions"
+	},
+	[17635] = {
+		Title = "[EP19] Infiltration Mission Report (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Didn't you say you would take the <NAVI>[Priest]<INFO>jor_dun02,150,269,0,101,0</INFO></NAVI> who are working under forced labor in the Warmth of the Serpent God area? Hurry and get them out of here."
+		},
+		Summary = "Explore Further"
+	},
+	[17636] = {
+		Title = "[EP19] Infiltration Mission Report (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"There's still much to do. Let's head back to the <NAVI>[Ice Castle]<INFO>icas_in,34,189,0,101,0</INFO></NAVI> and come up with a plan."
+		},
+		Summary = "Back to Ice Castle"
+	},
+	[17637] = {
+		Title = "[EP19] Airship Infiltration Operation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We need to disable the <NAVI>[airship]<INFO>jor_nest,22,254,0,101,0</INFO></NAVI> hidden within the Serpent's Nest. That should slow down their movements. Let's take a closer look."
+		},
+		Summary = "Head to the Airship"
+	},
+	[17638] = {
+		Title = "[EP19] Search for Vulnerabilities",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Return to the <NAVI>[Serpent's Nest]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI> and investigate the weak point more thoroughly."
+		},
+		Summary = "Back to Serpent's Nest"
+	},
+	[17639] = {
+		Title = "[EP19] Escort the Recon Report",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"I'm also heading to the Ice Castle, so I'll accompany you. They've probably finished their meal by now and should be at the <NAVI>[dining hall]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Visit the Dining Hall"
+	},
+	[17640] = {
+		Title = "[EP19] Chaotic Serpent's Nest (1)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"What's that burden you're carrying? My <NAVI>[Home]<INFO>icas_in,247,116,0,101,0</INFO></NAVI> in the Ice Castle is nearby, so let's head there first."
+		},
+		Summary = "Head to Horr's House"
+	},
+	[17641] = {
+		Title = "[EP19] Chaotic Serpent's Nest (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"I'll make the antidote, so just bring 20 of <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> and come to the <NAVI>[Ice Castle]<INFO>icas_in,247,116,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Bring 20 Low-quality Rgan Magic Core"
+	},
+	[17642] = {
+		Title = "[EP19] Chaotic Serpent's Nest (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"At the Ice Castle, <NAVI>[Juncea]<INFO>icas_in,243,117,0,101,0</INFO></NAVI> awakens in Horr's home and seems to be deep in thought. It looks like she's nearly convinced."
+		},
+		Summary = "Persuade Juncea"
+	},
+	[17643] = {
+		Title = "[EP19] Chaotic Serpent's Nest (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Aurelie]<INFO>icas_in,249,113,0,101,0</INFO></NAVI> has shown up at Horr's home in the Ice Castle to deliver news in person. Could something serious have happened?"
+		},
+		Summary = "Talk to Aurelie"
+	},
+	[17644] = {
+		Title = "[EP19] Chaotic Serpent's Nest (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"here was a scout report that the Rgans are making suspicious moves. I believe now is the right time for us to act as well. We should head to the <NAVI>[Serpent's Nest]<INFO>jor_que,271,88,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Head to Serpent's Nest"
+	},
+	[17645] = {
+		Title = "[EP19] Chaotic Serpent's Nest (6)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's split up and check the situation near the <NAVI>[Warmth of the Serpent God]<INFO>jor_que,144,253,0,101,0</INFO></NAVI> area. There might still be some elite Rgans remaining."
+		},
+		Summary = "Investigate the Area"
+	},
+	[17646] = {
+		Title = "[EP19] Chaotic Serpent's Nest (7)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"There are only signs of a swift departure here. Perhaps someone <NAVI>[who knows the situation]<INFO>jor_que,131,148,0,101,0</INFO></NAVI> can be found somewhere near the area."
+		},
+		Summary = "Investigate the Area"
+	},
+	[17647] = {
+		Title = "[EP19] Chaotic Serpent's Nest (8)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The h-honored ones... they all gathered... not us... up <NAVI>[above the nest]<INFO>jor_que,32,37,0,101,0</INFO></NAVI>... so please, hurry... the honored ones must... go quickly..."
+		},
+		Summary = "Head to the Upper Area"
+	},
+	[17648] = {
+		Title = "[EP19] Chaotic Serpent's Nest (9)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"So we have to break through the wall blocking the <NAVI>[nest entrance]<INFO>jor_que,32,37,0,101,0</INFO></NAVI> and defeat the Rgans beyond it to meet Rasgand, right?"
+		},
+		Summary = "Break Through"
+	},
+	[17649] = {
+		Title = "[EP19] Those Who Vanished",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"No matter what we try, this door won't open. We'll have to post a watcher and keep an eye on it. For now, let's return to the <NAVI>[Ice Castle]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Back to Ice Castle"
+	},
+	[17650] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Thank you for willingly offering your help. Rather than wasting time here, let¡¯s head <NAVI>[outside]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> the Ice Castle and discuss how to proceed with the search."
+		},
+		Summary = "Head Outside"
+	},
+	[17651] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back2,222,123,0,101,0</INFO></NAVI> on the Frozen Scale Plains where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17652] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back2,49,175,0,101,0</INFO></NAVI> on the Frozen Scale Plains where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17653] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back2,309,99,0,101,0</INFO></NAVI> on the Frozen Scale Plains where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17654] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back2,113,235,0,101,0</INFO></NAVI> on the Frozen Scale Plains where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17655] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back2,279,307,0,101,0</INFO></NAVI> on the Frozen Scale Plains where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17656] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back3,152,359,0,101,0</INFO></NAVI> on the Frozen Scale Glacier where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17657] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back3,328,277,0,101,0</INFO></NAVI> on the Frozen Scale Glacier where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17658] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back3,128,138,0,101,0</INFO></NAVI> on the Frozen Scale Glacier where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17659] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back3,264,133,0,101,0</INFO></NAVI> on the Frozen Scale Glacier where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17660] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Take this ultra-powerful antenna and bury it at the <NAVI>[location]<INFO>jor_back3,46,324,0,101,0</INFO></NAVI> on the Frozen Scale Glacier where Rgans are likely to appear. I¡¯ve marked it in advance, so it should be easy to find."
+		},
+		Summary = "Plant the Device"
+	},
+	[17661] = {
+		Title = "[Daily] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"All the ultra-powerful antennas have been buried at the designated locations. Let¡¯s return to <NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> at the Ice Castle and report back."
+		},
+		Summary = "Report to Horr"
+	},
+	[17662] = {
+		Title = "[Cooldown] Tracking the Underground Hideout",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[18122] = {
+		Title = "[EP19] Guardian's Box and Invitation (2)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The invitation has been secured.",
+			"--------",
+			"Return to the <NAVI>[Varmundt Mansion]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI> and regroup with your companions."
+		},
+		Summary = "Back to Varmundt Mansion"
+	},
+	[18123] = {
+		Title = "[EP19] Guardian's Box and Invitation (3)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Upon arriving at the Barmunt Mansion, you're informed that you can depart at any time from the <NAVI>[Airship Dock]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>.",
+			"--------",
+			"Board the airship and deliver the invitation to Navigator Ginger."
+		},
+		Summary = "Talk to Ginger"
+	},
+	[18124] = {
+		Title = "[EP19] Guardian's Box and Invitation (5)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The airship IF safely landed in Isgard, thanks to the protective magic tied to the invitation.",
+			"--------",
+			"Disembark and look around the area, then speak with <NAVI>[Lehar]<INFO>jor_tail,221,53,0,101,0</INFO></NAVI> for guidance."
+		},
+		Summary = "Talk to Lehar"
+	},
+	[18125] = {
+		Title = "[EP19] Toward the Ice Castle",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Following Lehar's guidance, you've set out for the place known as the Ice Castle.",
+			"--------",
+			"Once you arrive, speak with <NAVI>[Lehar]<INFO>icas_in,141,216,0,101,0</INFO></NAVI> to be introduced to the Guardian."
+		},
+		Summary = "Talk to Lehar"
+	},
+	[18126] = {
+		Title = "[EP19] Audience in the Ice Castle",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In Issgard's Ice Castle, the guardians Leon and Aurelie are watching over the seal with the Iwins.",
+			"--------",
+			"Continue the conversation with <NAVI>[Leon]<INFO>icas_in,138,220,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Leon"
+	},
+	[18127] = {
+		Title = "[EP19] Meeting the Iwin Scouts",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Leon advised that meeting the Iwin Scouts, who regularly patrol the Issgard region, might be helpful.",
+			"--------",
+			"Find the <NAVI>[Patrol Captain]<INFO>icecastle,23,115,0,101,0</INFO></NAVI> at the Ice Castle entrance."
+		},
+		Summary = "Talk to Patrol Captain"
+	},
+	[18128] = {
+		Title = "[EP19] Meeting with Voglinde",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems that Voglinde has something on her mind.",
+			"--------",
+			"Let's meet <NAVI>[Voglinde]<INFO>icas_in,162,224,0,101,0</INFO></NAVI> who is waiting inside the Ice Castle."
+		},
+		Summary = "Talk to Voglinde"
+	},
+	[18129] = {
+		Title = "[EP19] Guardian's Box and Invitation (4)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Spend some time talking with your companions aboard the airship IF until you reach your destination."
+		},
+		Summary = "Talk to your companions"
+	},
+	[18130] = {
+		Title = "[Daily] Vellgunde's Research Materials",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the Ice Castle, Vellgunde, who is researching the Curse of Jormungand, needs a large quantity of <ITEM>[Purified Magic Core]<INFO>1000706</INFO></ITEM>.",
+			"--------",
+			"You must defeat Rgans to obtain <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM>, have them purified through <NAVI>[Friederike]<INFO>icas_in,32,123,0,101,0</INFO></NAVI>, and deliver them to <NAVI>[Vellgunde]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Bring 3 Purified Magic Core"
+	},
+	[18131] = {
+		Title = "[Cooldown] Vellgunde's Research Materials",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Vellgunde]<INFO>icas_in,185,63,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[18132] = {
+		Title = "[Side] Help Wanted",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In the Ice Castle lobby, Lehar says that Leon is urgently looking for someone to help.",
+			"--------",
+			"Let's speak with <NAVI>[Leon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI> and hear what he has to say."
+		},
+		Summary = "Talk to Leon"
+	},
+	[18133] = {
+		Title = "[Side] Leon's Story",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Discuss a concrete plan for how to rescue the stranded individual who may be lost in the harsh icy plains of Issgard with <NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Miriam"
+	},
+	[18134] = {
+		Title = "[Daily] Searching for Survivors ? Frozen Glacier",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Miriam and I have divided the search area to rescue the abducted people taken to Issgard. Let's search the Frozen Scale Glacier for any stranded survivors."
+		},
+		Summary = "Find Survivors"
+	},
+	[18135] = {
+		Title = "[Daily] Searching for Survivors ? Frozen Plains",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Miriam and I have divided the search area to rescue the abducted people taken to Issgard. Let's search the Frozen Scale Plains for any stranded survivors."
+		},
+		Summary = "Find Survivors"
+	},
+	[18136] = {
+		Title = "[Daily] Searching for Survivors ? Completed",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"A lost Midgardian taken to Issgard has been found.",
+			"--------",
+			"Return to the Ice Castle and hand them over to <NAVI>[Maram]<INFO>icas_in,262,179,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Maram"
+	},
+	[18137] = {
+		Title = "[Cooldown] Searching for Survivors",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[18138] = {
+		Title = "[Side] A Unique Way to Survive",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In the Serpent's Nest, <NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI> has asked you to retrieve Mana Cores from those deemed \"the sinful\" ? likely referring to the Primitive and Lowest Rgan.",
+			"--------",
+			"Hunt them down and collect 10 <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM>."
+		},
+		Summary = "Bring 10 Low-quality Rgan Magic Core"
+	},
+	[18139] = {
+		Title = "[Daily] Our Precious Provisions",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>, encountered in the Serpent's Nest, still wishes to recover the power from the Sinners.",
+			"--------",
+			"Hunt down Primitive and Lesser Rgans and collect 30 <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM>."
+		},
+		Summary = "Bring 30 Low-quality Rgan Magic Core"
+	},
+	[18140] = {
+		Title = "[Cooldown] Our Precious Provisions",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[18141] = {
+		Title = "[Daily] A Refined Hobby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Serpent's Nest, <NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>, who enjoys crafting accessories as a hobby, has asked for help gathering materials.",
+			"  ",
+			"Bring 10 of each item from the list below:",
+			"--------",
+			"<ITEM>[Thin and Tough Shell]<INFO>1000830</INFO></ITEM>",
+			"<ITEM>[Bait Bellflower]<INFO>1000829</INFO></ITEM>",
+			"<ITEM>[Calapy]<INFO>1000824</INFO></ITEM>",
+			"<ITEM>[Fluorescent Liquid]<INFO>7326</INFO></ITEM>"
+		},
+		Summary = "Collect Materials"
+	},
+	[18142] = {
+		Title = "[Cooldown] A Refined Hobby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[18143] = {
+		Title = "[Daily] For Safer Labor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"At the Serpent's Nest, <NAVI>[Hanadosiragand]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI> who oversees ice extraction, says it's hard to work due to threats from local wildlife.",
+			"--------",
+			"Head to the glacier and hunt 20 Limacina and 20 Calmaring."
+		},
+		Summary = "Hunt Glacier Monsters"
+	},
+	[18144] = {
+		Title = "[Cooldown] For Safer Labor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You're done helping today. Visit <NAVI>[Hanadosiragand]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	},
 	[11495] = {
 		Title = "Hi! I'm Premi!",
