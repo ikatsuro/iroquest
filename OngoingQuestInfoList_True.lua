@@ -65599,7 +65599,1012 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
+	},
+	[297083] = {
+		Title = "[Daily][S2] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.30 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.30 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297084] = {
+		Title = "[Daily][S2] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.90 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.90 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297085] = {
+		Title = "[Daily][S2] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.150 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.150 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297086] = {
+		Title = "[Daily][S2] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.200 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.200 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297087] = {
+		Title = "[Cooldown][S2] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest I today. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297088] = {
+		Title = "[Daily][S2] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Brute monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Brute monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297089] = {
+		Title = "[Daily][S2] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Undead monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Undead monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297090] = {
+		Title = "[Daily][S2] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Demihuman monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Demihuman monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297091] = {
+		Title = "[Daily][S2] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Plant monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Plant monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297092] = {
+		Title = "[Cooldown][S2] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest II today. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297093] = {
+		Title = "[Daily][S2] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Fire property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Fire property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297094] = {
+		Title = "[Daily][S2] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Water property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Water property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297095] = {
+		Title = "[Daily][S2] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Wind property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Wind property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297096] = {
+		Title = "[Daily][S2] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Earth property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Earth property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297097] = {
+		Title = "[Cooldown][S2] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest III today. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297098] = {
+		Title = "[Season][S2] Battle Pass Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to complete 50 Battle Pass daily quests to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Complete 50 Daily Quests",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297099] = {
+		Title = "[Cooldown][S2] BP Hunting Area - Free",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have used the free attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "EP19_NPC_IWIN_SY",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297100] = {
+		Title = "[Cooldown][S2] BP Hunting Area - Paid",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have used the paid attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "EP19_NPC_IWIN_SY",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297101] = {
+		Title = "[Cooldown][S2] Juncea's Treat",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have gifted Juncea a treat. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Juncea]<INFO>prontera,129,328,0,101,0</INFO></NAVI> - Research NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_JUNCEA",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[16776] = {
+		Title = "[Cooldown] Night Market - Goldfish Scooping",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"This quest is a daily quest and can be accepted again once the cooldown expires.",
+			"You can receive it from the Goldfish Sis in the Prontera Night Market."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16777] = {
+		Title = "[Cooldown] Night Market - Fortune Reading",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"This quest is a daily quest and can be accepted again once the cooldown expires.",
+			"You can receive it from the Astrologer in the Prontera Night Market."
+		},
+		Summary = "04시 초기화",
+		CoolTimeQuest = 1
+	},
+	[17734] = {
+		Title = "Safety Rating SSS",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Adventurer, would you be willing to meet my friend? You should be able to find them somewhere here in the Prontera Night Market."
+		},
+		Summary = "Find Berto"
+	},
+	[17735] = {
+		Title = "Safety Rating SSS",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Then, on your way home, let’s stop by the Prontera shelter first."
+		},
+		Summary = "Reinforced Wall"
+	},
+	[17736] = {
+		Title = "Safety Rating SSS",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Allow me to show you Prontera’s signal device, crafted with the utmost care."
+		},
+		Summary = "Critical Distress Signal"
+	},
+	[17737] = {
+		Title = "Safety Rating SSS",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I'm alright now. I should go see Argyle-he should still be in the Prontera Night Market, right?"
+		},
+		Summary = "To the Fireworks Merchant"
+	},
+	[18241] = {
+		Title = "[Event] Fluffy Varmundt?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"In another parallel dimension's Prontera, the Night Market Festival is in full swing.",
+			"There, you meet Dito, who wishes to have a Plush Doll modeled after Varmundt.",
+			"Try your luck at the claw machine."
+		},
+		Summary = "Deliver 1 Varmundt Plush Doll",
+		NpcSpr = "4_RAGFES_11",
+		NpcNavi = "x_prt_evt",
+		NpcPosX = 91,
+		NpcPosY = 83
+	},
+	[18242] = {
+		Title = "[Event] Special Melody Card",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"In another parallel dimension's Prontera, the Night Market Festival is in full swing.",
+			"There, you meet a Festival Minstrel who offers to exchange a music box if you bring him 10 Special Melody Cards.",
+			"It seems Melody Cards can be obtained from the claw machine."
+		},
+		Summary = "Deliver 10 Special Melody Cards",
+		NpcSpr = "4_M_NEWOZ",
+		NpcNavi = "x_prt_evt",
+		NpcPosX = 117,
+		NpcPosY = 26
+	},
+	[23092] = {
+		Title = "Night Market Founding Member",
+		Description = {
+			"Since you've lent us your help, once the Night Market officially begins business, you'll be honored as a founding member!",
+			"- Maxim, Night Market Committee Chairman"
+		},
+		Summary = ""
+	},
+	[23119] = {
+		Title = "[Event] Welcome to the Night Market",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Varmundt hopes someone more knowledgeable about festivals will visit the Night Market. Visit <NAVI>[Varmundt]<INFO>prontera,156,303,0,101,0</INFO></NAVI> to travel to another dimension's Prontera and meet Maxim, the host of the Night Market."
+		},
+		Summary = "Talk to Maxim"
+	},
+	[23120] = {
+		Title = "[Event] Lighting Inspection (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've been tasked with inspecting the lighting at the Prontera Night Market. Check the lights placed throughout the town."
+		},
+		Summary = "Check the lighting"
+	},
+	[23121] = {
+		Title = "[Event] Lighting Inspection (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've been tasked with inspecting the lighting at the Prontera Night Market. Check the lights placed throughout the town."
+		},
+		Summary = "Check the lighting"
+	},
+	[23122] = {
+		Title = "[Event] Lighting Inspection (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've been tasked with inspecting the lighting at the Prontera Night Market. Check the lights placed throughout the town."
+		},
+		Summary = "Check the lighting"
+	},
+	[23123] = {
+		Title = "[Event] Lighting Inspection (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've finished inspecting all the lights at the Prontera Night Market. Fortunately, none of them seem to be broken. Return to Maxim at the Prontera Night Market and report the results."
+		},
+		Summary = "Talk to Maxim"
+	},
+	[23124] = {
+		Title = "[Event] Kids These Days",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"When you returned to Maxim, some residents were there voicing complaints. Maxim didn't seem too concerned, but something about it felt unsettling. Help Kusekili at the Prontera Night Market, who's currently facing the brunt of their criticism.."
+		},
+		Summary = "Help Kusekili"
+	},
+	[23125] = {
+		Title = "[Event] Kids These Days",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You helped Kusekili and managed to send the residents away without incident. Hopefully, that settled things... Speak with Kusekili at the Prontera Night Market.."
+		},
+		Summary = "Talk to Kusekili"
+	},
+	[23126] = {
+		Title = "[Event] Kids These Days",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Kusekili said his own matter was taken care of and asked you to help Maxim in his place. Return to Maxim at the Prontera Night Market."
+		},
+		Summary = "Talk to Maxim"
+	},
+	[23127] = {
+		Title = "[Event] Serious? Just Me Again?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"With preparations for the Night Market now complete, Maxim said he could finally take a break. He asked you to keep Ernest company, since Ernest tends to worry too much. Go talk to Ernest at the Prontera Night Market."
+		},
+		Summary = "Talk to Ernest"
+	},
+	[23128] = {
+		Title = "[Event] Serious? Just Me Again?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest is frustrated with the Night Market Committee friends who are doing nothing despite having plenty of work to do. Gather the items needed to tidy up the Night Market on their behalf. Collect 5 Rusted Screws and 10 Pieces of Wood, then bring them to Ernest at the Prontera Night Market."
+		},
+		Summary = "Gather Ingredients"
+	},
+	[23129] = {
+		Title = "[Event] Keep Your Feelings Out of It",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest said that Kusekili has been urgently looking for me. Could something have happened? Go find Kusekili at the Prontera Night Market."
+		},
+		Summary = "Talk to Kusekili"
+	},
+	[23130] = {
+		Title = "[Event] Keep Your Feelings Out of It",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"According to Kusekili, there's a stall owner who stubbornly insists on selling prohibited goods. Go to the Monster Bread stall owner at the Prontera Night Market and warn them once more."
+		},
+		Summary = "Talk to the Monster Bread stall owner"
+	},
+	[23131] = {
+		Title = "[Event] Keep Your Feelings Out of It",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems the Monster Bread stall owner was simply a monster enthusiast. Since it'll be difficult to break that stubbornness, go ahead and confiscate the Monster Bread without hesitation."
+		},
+		Summary = "Confiscate the Monster Bread"
+	},
+	[23132] = {
+		Title = "[Event] Keep Your Feelings Out of It",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"All the Monster Bread has been confiscated. After taking such a firm stance, surely the stall owner must have gotten the message. Return to Kusekili at the Prontera Night Market and report the outcome."
+		},
+		Summary = "Talk to Kusekili"
+	},
+	[23133] = {
+		Title = "[Event] No Such Thing as a Bad Monster",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Kusekili mentioned that Nonda Ankana has something she personally wants to ask. What could Nonda Ankana be curious about? Go meet her at the Prontera Night Market."
+		},
+		Summary = "Talk to Nonda Ankana"
+	},
+	[23134] = {
+		Title = "[Event] No Such Thing as a Bad Monster",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Nonda Ankana seems to be interested in Cute Pets and is curious about how to use Cupet Coins. Try using the Goldhand's vending machine in Prontera. You'll need 10 Cupet Coins to use it."
+		},
+		Summary = "Try Goldhand Vending Machine"
+	},
+	[23135] = {
+		Title = "[Event] No Such Thing as a Bad Monster",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I used the Goldhand's vending machine. Return to the Prontera Night Market and report the outcome to Nonda Ankana."
+		},
+		Summary = "Talk to Nonda Ankana"
+	},
+	[23136] = {
+		Title = "[Event] Night Market Opening Day",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Tomorrow marks the opening of the Night Market. Once the day breaks, go see Maxim at the Prontera Night Market. What events will unfold at the grand opening?"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[23137] = {
+		Title = "[Event] See You Tomorrow, Night Market",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I've received plenty of tasks from the Night Market today. Once it hits 4 AM, any unfinished tasks can no longer be completed, so be sure to finish them before then! After 4 AM, you can visit Maksim at the Prontera Night Market to receive new tasks."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[23138] = {
+		Title = "[Event] You Can't Call That Extra Protein",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Bugs were found in the night market food! When I went to Kusekili, who's supposedly in charge of stall food safety at the Prontera Night Market, they told me to go see either Ernest or the stall owner instead."
+		},
+		Summary = "Find Ernest or the stall owner"
+	},
+	[23139] = {
+		Title = "[Event] You Can't Call That Extra Protein",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I told Ernest about the bugs in the night market food. Ernest said he would firmly warn the stall owner. Go tell Kusekili at the Prontera Night Market about this."
+		},
+		Summary = "Talk to Kusekili"
+	},
+	[23140] = {
+		Title = "[Event] You Can't Call That Extra Protein",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"When I told the stall owner there were bugs in the food, they quietly tried to smooth it over by offering me a bribe. It should be fine to pretend nothing happened, right? Go to Kusekili at the Prontera Night Market and tell them it was just a mistake about the bugs."
+		},
+		Summary = "Talk to Kusekili"
+	},
+	[23141] = {
+		Title = "[Cooldown] You Can't Call That Extra Protein",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Once again, I found bugs in the night market food and brought them to Ernest. If the stall hygiene hasn't improved by tomorrow, go see Ernest at the Prontera Night Market."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[23142] = {
+		Title = "[Cooldown] You Can't Call That Extra Protein",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Once again, I found bugs in the food from the night market stalls and brought them to the Southern Chef. If bugs show up again tomorrow, I might be able to use it as leverage to strike a good deal with the Southern Chef."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[23143] = {
+		Title = "[Event] I Liked It Better at the Start",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Thanks to you, Adventurer, the grotesque appearance of the Monster Bread was changed. That was truly a great help. However, with its new look, some customers are now complaining that even the taste has changed. Please meet the Forbidden Monster Bread Squad at the Prontera Night Market and resolve their grievances.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Squad"
+	},
+	[23144] = {
+		Title = "[Event] I Liked It Better at the Start",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Even after you gathered the Red Herbs for the jam that goes into the Monster Bread last time, customers are still voicing complaints. Please meet with the Forbidden Monster Bread Squad once more at the Prontera Night Market.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Squad"
+	},
+	[23145] = {
+		Title = "[Event] I Liked It Better at the Start",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Forbidden Monster Bread Squad says they need 5 Red Herbs to make Red Herb Jam. Collect 5 Red Herbs and bring them to the Forbidden Monster Bread Squad at the Prontera Night Market.."
+		},
+		Summary = "Gather Ingredients"
+	},
+	[23146] = {
+		Title = "[Event] Cat Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I hear cats keep gathering around the Grilled Fish Stall, giving the vendor quite the headache. Go find the Fish Vendor at the Prontera Night Market and help resolve this problem somehow.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Fishmonger"
+	},
+	[23147] = {
+		Title = "[Event] Cat Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Feeding the cats to solve the problem-what a peaceful and surprisingly effective solution! It seems the Fish Vendor at the Prontera Night Market was pleased with the results, since he's asked for your help once again. I'll be counting on you this time as well!",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Fishmonger"
+	},
+	[23148] = {
+		Title = "[Event] Cat Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Place the cat food in a suitable spot near the Grilled Fish Stall!"
+		},
+		Summary = "Place the cat food"
+	},
+	[23149] = {
+		Title = "[Event] Cat Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Place the cat food in a suitable spot near the Grilled Fish Stall!"
+		},
+		Summary = "Place the cat food"
+	},
+	[23150] = {
+		Title = "[Event] Cat Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Place the cat food in a suitable spot near the Grilled Fish Stall!"
+		},
+		Summary = "Place the cat food"
+	},
+	[23151] = {
+		Title = "[Event] Cat Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After placing the cat food in the right spot, return to the Fish Vendor at the Prontera Night Market and report the outcome."
+		},
+		Summary = "Talk to the Fishmonger"
+	},
+	[23152] = {
+		Title = "[Event] An Unexpectedly Popular Dish",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Have you tried the food at the Night Market stalls? Surprisingly, the vegetable skewers have become so popular that the Skewer Stall is completely swamped. Could you lend the Skewer Vendor at the Prontera Night Market a hand?",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Skewer Vendor"
+	},
+	[23153] = {
+		Title = "[Event] An Unexpectedly Popular Dish",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Skewer Stall is doing its best, but it seems rushing to secure ingredients isn't going too well. For the smooth operation of the Night Market, it would be helpful if you could assist the Skewer Vendor at the Prontera Night Market once again.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Skewer Vendor"
+	},
+	[23154] = {
+		Title = "[Event] An Unexpectedly Popular Dish",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Skewer Stall has run out of ingredients for their vegetable skewers. Gather 5 Carrots and 2 Green Herbs, then bring them to the Skewer Vendor at the Prontera Night Market.."
+		},
+		Summary = "Gather Ingredients"
+	},
+	[23155] = {
+		Title = "[Event] Work Less, Earn More?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Did you know the Night Market has a sponsor? There's someone stationed here to prepare reports for them, but from what I can tell, there seems to be a problem. Go find the Scribe at the Prontera Night Market and see if he needs any help.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Scribe"
+	},
+	[23156] = {
+		Title = "[Event] Work Less, Earn More?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Helping with the reports might turn out to benefit us as well. If you assist the Scribe, they might say good things about the Committee to our sponsors. Please lend the Scribe at the Prontera Night Market a hand once again.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Scribe"
+	},
+	[23157] = {
+		Title = "[Event] Work Less, Earn More?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Scribe said he would show you a previous report and instructed you to copy it word for word without a single mistake. Speak with the Scribe at the Prontera Night Market and transcribe the report."
+		},
+		Summary = "Transcribe the Report"
+	},
+	[23158] = {
+		Title = "[Event] Rift Within the Dimensional Rift",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Have you ever seen the guards patrolling the Night Market? They're not only there to prevent accidents but also to promptly report spots in need of repair-truly invaluable. I've heard that several cracks have formed in the ground. Speak with the Guard at the Prontera Night Market to learn the exact locations, then begin the repairs..",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Guard"
+	},
+	[23159] = {
+		Title = "[Event] Rift Within the Dimensional Rift",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I heard there's an issue with the floor crack you repaired last time. Since you're responsible, go talk to the Guard at the Prontera Night Market to get the details and handle it properly.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Guard"
+	},
+	[23160] = {
+		Title = "[Event] Floor Crack Repair (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Repair the crack on the north side of the Prontera Night Market."
+		},
+		Summary = "Repair the crack"
+	},
+	[23161] = {
+		Title = "[Event] Floor Crack Repair (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Repair the crack on the north side of the Prontera Night Market."
+		},
+		Summary = "Repair the crack"
+	},
+	[23162] = {
+		Title = "[Event] Floor Crack Repair (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Repair the crack on the north side of the Prontera Night Market."
+		},
+		Summary = "Repair the crack"
+	},
+	[23163] = {
+		Title = "[Event] Rift Within the Dimensional Rift",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After repairing all the cracks in the Prontera Night Market floor, return to the Guard and report the results."
+		},
+		Summary = "Talk to the Guard"
+	},
+	[23164] = {
+		Title = "[Event] Hygiene First",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"We keep receiving reports that insects are being found in food from a certain Night Market stall. Could you meet with the Prontera Night Market's warehouse keeper and inspect the Southern Cuisine stall's storage? If pests are really present, please catch them for the time being.",
+			"- Ernest, Night Market Committee Member -"
+		},
+		Summary = "Talk to the Warehouse Keeper"
+	},
+	[23165] = {
+		Title = "[Event] Hygiene First",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems that insects are still being found in food from a certain Night Market stall. Could you once again meet with the Prontera Night Market's warehouse keeper and inspect the Southern Cuisine stall's storage? If you find pests again, please eliminate them.",
+			"- Ernest, Night Market Committee Member -"
+		},
+		Summary = "Talk to the Warehouse Keeper"
+	},
+	[23166] = {
+		Title = "[Event] Hygiene First",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The storage of the Southern Cuisine stall is crawling with rats and insects. Catch 10 of them as evidence, then report to the Prontera Night Market's warehouse keeper."
+		},
+		Summary = "Clear out 10 Rats or Insects"
+	},
+	[23167] = {
+		Title = "[Event] Searching for Love",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I heard there's someone with a good idea to help revitalize the Night Market. I was too busy to hear the details myself, but I'm sure it will be of great help to us. Meet Ravioli at the Prontera Night Market and listen to their proposal.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to Ravioli"
+	},
+	[23168] = {
+		Title = "[Event] Searching for Love",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The last plan failed, didn't it? Still, I believe Ravioli's idea has real potential if we refine it a little. Meet with Ravioli again at the Prontera Night Market and work on improving it with the goal of implementing it at next year's festival.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to Ravioli"
+	},
+	[23169] = {
+		Title = "[Event] Searching for Love",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ravioli at the Prontera Night Market is trying to set up a date there. It really just seems like a personal whim, but Maxim apparently thinks it's a good idea. Help Ravioli look for someone with ^4d4dffred hair^000000."
+		},
+		Summary = "Love for Red Hair"
+	},
+	[23170] = {
+		Title = "[Event] Someone with Red Hair (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with red hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find Red-Haired Visitor"
+	},
+	[23171] = {
+		Title = "[Event] Someone with Red Hair (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with red hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find Red-Haired Visitor"
+	},
+	[23172] = {
+		Title = "[Event] Someone with Red Hair (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with red hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find Red-Haired Visitor"
+	},
+	[23173] = {
+		Title = "[Event] Searching for Love",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ravioli at the Prontera Night Market is trying to set up a date there. It really just seems like a personal whim, but Maxim apparently thinks it's a good idea. Help Ravioli look for someone with ^4d4dffblue hair^000000."
+		},
+		Summary = "Love for Blue Hair"
+	},
+	[23174] = {
+		Title = "[Event] Someone with Blue Hair (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with blue hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find Blue-Haired Visitor"
+	},
+	[23175] = {
+		Title = "[Event] Someone with Blue Hair (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with blue hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find Blue-Haired Visitor"
+	},
+	[23176] = {
+		Title = "[Event] Someone with Blue Hair (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with blue hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find Blue-Haired Visitor"
+	},
+	[23177] = {
+		Title = "[Event] Searching for Love",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ravioli at the Prontera Night Market is trying to set up a date there. It really just seems like a personal whim, but Maxim apparently thinks it's a good idea. Help Ravioli look for someone with ^4d4dffwhite hair^000000."
+		},
+		Summary = "Love for White Hair"
+	},
+	[23178] = {
+		Title = "[Event] Someone with White Hair (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with white hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find White-Haired Visitor"
+	},
+	[23179] = {
+		Title = "[Event] Someone with White Hair (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with white hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find White-Haired Visitor"
+	},
+	[23180] = {
+		Title = "[Event] Someone with White Hair (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, look for someone with white hair and ask if they'd be interested in going on a date with Ravioli."
+		},
+		Summary = "Find White-Haired Visitor"
+	},
+	[23181] = {
+		Title = "[Event] Just One More Time, I Swear",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Have you tried the claw machine at the Night Market? I gave it a go myself, and the prizes inside are quite tempting. However, it seems there's someone camping in front of the machine just for the rewards. Please remind the Gambler at the Prontera Night Market not to inconvenience other visitors.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Gambler"
+	},
+	[23182] = {
+		Title = "[Event] Just One More Time, I Swear",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Thanks to you, the area around the claw machine has been pleasant for a while. But since it's in a secluded spot with little supervision, it seems people are starting to quietly try and take it over again. If the Gambler shows up at the Prontera Night Market once more, remind them not to inconvenience other visitors.",
+			"- Maxim, Night Market Committee Chairman -"
+		},
+		Summary = "Talk to the Gambler"
+	},
+	[23183] = {
+		Title = "[Event] Just One More Time, I Swear",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Gambler at the Prontera Night Market shows no intention of leaving the claw machine. Use your eloquence to persuade him to step away and go back."
+		},
+		Summary = "Convince the Gambler"
+	},
+	[23259] = {
+		Title = "[Event] Mysterious Toy (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"At the Prontera Night Market, Chairman Maxim announced its reopening and mentioned a mysterious toy that has recently become popular there. If you meet Ernest at the Prontera Night Market, you may hear more about this toy.."
+		},
+		Summary = "Talk to Ernest"
+	},
+	[23260] = {
+		Title = "[Event] Mysterious Toy (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest is trying to stop the mysterious toy from spreading through the Night Market. To find a solution, he wants to hear the adventurer’s honest impressions of it. Head to the Prontera Night Market and try out the mysterious toy Ernest has prepared."
+		},
+		Summary = "Try the Mysterious Toy"
+	},
+	[23261] = {
+		Title = "[Event] Mysterious Toy (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You followed the instructions in the manual and tried using the toy, but nothing happened. Report the results of your experience to Ernest at the Prontera Night Market."
+		},
+		Summary = "Talk to Ernest"
+	},
+	[23262] = {
+		Title = "[Event] Mysterious Toy (4-1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest suspects that, due to public opinion, there are others who haven’t spoken honestly about the mysterious toy. He has asked you to investigate. Talk to the residents of the Prontera Night Market about the toy."
+		},
+		Summary = "Talk to the residents"
+	},
+	[23263] = {
+		Title = "[Event] Mysterious Toy (4-2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest suspects that, due to public opinion, there are others who haven’t spoken honestly about the mysterious toy. He has asked you to investigate. Talk to the residents of the Prontera Night Market about the toy."
+		},
+		Summary = "Talk to the residents"
+	},
+	[23264] = {
+		Title = "[Event] Mysterious Toy (4-3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest suspects that, due to public opinion, there are others who haven’t spoken honestly about the mysterious toy. He has asked you to investigate. Talk to the residents of the Prontera Night Market about the toy."
+		},
+		Summary = "Talk to the residents"
+	},
+	[23265] = {
+		Title = "[Event] Mysterious Toy (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You’ve gathered opinions about the mysterious toy from the residents. Now, return to Ernest at the Prontera Night Market and share the information you collected."
+		},
+		Summary = "Talk to Ernest"
+	},
+	[23266] = {
+		Title = "[Event] Mysterious Toy (6)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ernest thanked you for gathering information on the suspicious toy and said he would handle the matter personally from here on. He also suggested you go meet Nonda Ankana. Find Nonda Ankana at the Prontera Night Market."
+		},
+		Summary = "Talk to Nonda Ankana"
+	},
+	[23267] = {
+		Title = "[Event] Profound Flavor",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems if you bring Sweet Pink Whipped Cream to Brad, you will able to taste his masterpiece."
+		},
+		Summary = ""
+	},
+	[24050] = {
+		Title = "[Event] The Best Cotton Candy (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The cotton candy vendor at the Prontera Night Market refuses to accept tasteless cotton candy. To help make delicious night market snacks, seek out the <NAVI>[Ingredient Courier]<INFO>x_prt_evt,50,37,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Ingredient Courier"
+	},
+	[24051] = {
+		Title = "[Event] The Best Cotton Candy (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The ingredient deliveryman at the Prontera Night Market suggested that if you're thinking of making cotton candy, you should also check out other cotton candy stalls. Speak with the <NAVI>[Cotton Candy Kid]<INFO>x_prt_evt,80,56,0,101,0</INFO></NAVI> in front of a cotton candy stand to hear her opinion."
+		},
+		Summary = "Talk to Cotton Candy Kid"
+	},
+	[24052] = {
+		Title = "[Event] The Best Cotton Candy (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Cotton Candy Kid you met at the Prontera Night Market recommended trying something other than cotton candy-specifically the bakery in the northeast part of the market. Check in with the <NAVI>[Bakery Customer]<INFO>x_prt_evt,77,92,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Bakery Customer"
+	},
+	[24053] = {
+		Title = "[Event] The Best Cotton Candy (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Bakery Customer at the Prontera Night Market mentioned being tempted by the smell of grilled fish while strolling around. Go check with the <NAVI>[Grilled Fish Customer]<INFO>x_prt_evt,53,87,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Grilled Fish Customer"
+	},
+	[24054] = {
+		Title = "[Event] The Best Cotton Candy (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Grilled Fish Customer at the Prontera Night Market mentioned wanting some refreshing cold noodles as a palate cleanser. Now that you've gathered information on what people are craving, return to the <NAVI>[Cotton Candy Merchant]<INFO>x_prt_evt,29,28,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Cotton Candy Merchant"
+	},
+	[24055] = {
+		Title = "[Daily] Creepy Memories",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>[Cotton Candy Merchant]<INFO>x_prt_evt,29,28,0,101,0</INFO></NAVI> at the Prontera Night Market seems to need something spooky as an ingredient for a new kind of cotton candy. Hunt down 10 Rockers near the western outskirts of Prontera and then return."
+		},
+		Summary = "Hunt 10 Rockers"
+	},
+	[24056] = {
+		Title = "[Daily] Creepy Memories",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>[Cotton Candy Merchant]<INFO>x_prt_evt,29,28,0,101,0</INFO></NAVI> at the Prontera Night Market seems to need something spooky as an ingredient for a new kind of cotton candy. Hunt down 10 Hornets near the western outskirts of Prontera and then return."
+		},
+		Summary = "Hunt 10 Hornets"
+	},
+	[24057] = {
+		Title = "[Daily] Creepy Memories",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>[Cotton Candy Merchant]<INFO>x_prt_evt,29,28,0,101,0</INFO></NAVI> at the Prontera Night Market seems to need something spooky as an ingredient for a new kind of cotton candy. Hunt down 10 Hornets near the western outskirts of Prontera and then return."
+		},
+		Summary = "Hunt 10 Thief Bug"
+	},
+	[24058] = {
+		Title = "[Cooldown] Creepy Memories",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've helped the <NAVI>[Cotton Candy Merchant]<INFO>x_prt_evt,29,28,0,101,0</INFO></NAVI> at the Prontera Night Market. Take a good rest today and come back tomorrow."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
 	}
-
-
 }
