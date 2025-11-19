@@ -36912,6 +36912,7 @@ QuestInfoList = {
 	},
 	[60214] = {
 		Title = "MVP Summoning Timer",
+		IconName = "ico_sc.bmp",
 		NpcSpr = "2_M_SAGE_OLD",
 		NpcNavi = "gef_tower",
 		NpcPosX = 41,
@@ -62217,20 +62218,29 @@ QuestInfoList = {
 	},
 	[12364] = {
 		Title = "Collapsed Pharos Lighthouse",
-		IconName = "ico_dq.bmp",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Talk to Reckless Adventurer"
 		},
-		Summary = "Talk to Reckless Adventurer"
+		Summary = "Talk to Reckless Adventurer",
+		NpcSpr = "4_F_GON",
+		NpcNavi = "cmd_fild07",
+		NpcPosX = 58,
+		NpcPosY = 278
 	},
 	[12365] = {
 		Title = "[Cooldown] Collapsed Pharos Lighthouse",
-		IconName = "ico_dq.bmp",
+		IconName = "ico_sc.bmp",
 		Description = {
 			"Let's talk to Reckless Adventurer after 3 hours."
 		},
 		Summary = "Reset after 3 hours",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		Summary = "Talk to Reckless Adventurer",
+		NpcSpr = "4_F_GON",
+		NpcNavi = "cmd_fild07",
+		NpcPosX = 58,
+		NpcPosY = 278
 	},
 	[12366] = {
 		Title = "Defeat 10th Floor Boss",
