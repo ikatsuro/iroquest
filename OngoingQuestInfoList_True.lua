@@ -49800,267 +49800,217 @@ QuestInfoList = {
 	},
 	[12470] = {
 		Title = "[Daily] Andrea's Revenge I",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tAndrea is mortally wounded by a scythe wielded by a small creature. He wants you to punish upon this small creature that caused his death.\n\t\t\t\n\t\t\t^ff0000\"Don't be fooled by its cute appearance. It's worse than the devil.\"^000000\n\t\t\t\n\t\t\tI guess I'll have to check to see if it's really cute though.\n\t\t"
+			"\t\t\tAndrea is mortally wounded by a scythe wielded by a small creature. He wants you to punish upon this small creature that caused his death.\n\n\t\t\t^ff0000\"Don't be fooled by its cute appearance. It's worse than the devil.\"^000000\n\n\t\t\tI guess I'll have to check to see if it's really cute though.\n\t\t"
 		},
 		Summary = "Defeat Chaotic Baphomet Jr.",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25271,
-				ItemNum = 1
-			}
+			{ ItemID = 25271, ItemNum = 1 }
 		}
 	},
 	[12471] = {
 		Title = "[Daily] Andrea's Revenge II",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tAfter suffering a fatal injury, Andrea tried to heal with his own spiritual power, but he was overpowered by this chaotic entities.\n\t\t\t\n\t\t\t^ff0000\"It's probably the soul of an adventurer who died long before me. What else?\"^000000\n\t\t\t\n\t\t\tIt is unknown whether Andrea was such a hot blooded acolyte even when he was alive.\n\t\t"
+			"\t\t\tAfter suffering a fatal injury, Andrea tried to heal with his own spiritual power, but he was overpowered by this chaotic entities.\n\n\t\t\t^ff0000\"It's probably the soul of an adventurer who died long before me. What else?\"^000000\n\n\t\t\tIt is unknown whether Andrea was such a hot blooded acolyte even when he was alive.\n\t\t"
 		},
 		Summary = "Defeat Chaotic Ghostring",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25271,
-				ItemNum = 1
-			}
+			{ ItemID = 25271, ItemNum = 1 }
 		}
 	},
 	[12472] = {
 		Title = "[Daily] Anes' Revenge I",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tThis fast and vicious insect dealt a decisive blow to Anes. She believes that all winged insects should be eradicated from the world.\n\t\t\t\n\t\t\t^ff0099\"Don't let down your guard just because it looks like a fly. Because their prey includes 'living' people...\"^000000\n\t\t\t\n\t\t\tIt seems that there are no good memories between her and this insect.\n\t\t"
+			"\t\t\tThis fast and vicious insect dealt a decisive blow to Anes. She believes that all winged insects should be eradicated from the world.\n\n\t\t\t^ff0099\"Don't let down your guard just because it looks like a fly. Because their prey includes 'living' people...\"^000000\n\n\t\t\tIt seems that there are no good memories between her and this insect.\n\t\t"
 		},
 		Summary = "Defeat Chaotic Hunter Fly",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25271,
-				ItemNum = 1
-			}
+			{ ItemID = 25271, ItemNum = 1 }
 		}
 	},
 	[12473] = {
 		Title = "[Daily] Anes' Revenge II",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tAs she lost her way, she was attacked by this cruel predator that jumped out of the bushes.\n\t\t\tUnfortunately, it happened just as she was about to take a bite of the sandwich she had made since dawn for her expedition.\n\t\t\t\n\t\t\t^ff0099\"When you find that damn thing, take off all its legs and throw it in the mud.\"^000000\n\n\t\t\t\n\t\t\tIf anyone disturbs her meal time, it will be a big problem.\n\t\t"
+			"\t\t\tAs she lost her way, she was attacked by this cruel predator that jumped out of the bushes.\n\t\t\tUnfortunately, it happened just as she was about to take a bite of the sandwich she had made since dawn for her expedition.\n\n\t\t\t^ff0099\"When you find that damn thing, take off all its legs and throw it in the mud.\"^000000\n\n\n\t\t\tIf anyone disturbs her meal time, it will be a big problem.\n\t\t"
 		},
 		Summary = "Defeat Chaotic Killer Mantis",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25271,
-				ItemNum = 1
-			}
+			{ ItemID = 25271, ItemNum = 1 }
 		}
 	},
 	[12474] = {
 		Title = "[Daily] Silvano's Revenge I",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tSilvano clearly remembers who attacked him and left him in a near-death state.\n\t\t\tThe enemy in his memory looked similar to the monster that attacked Anes, but it clearly had different characteristics.\n\t\t\t\n\t\t\t^ff0077\"What did Agnes want? Right, exterminate them all.\"^000000\n\t\t"
+			"\t\t\tSilvano clearly remembers who attacked him and left him in a near-death state.\n\t\t\tThe enemy in his memory looked similar to the monster that attacked Anes, but it clearly had different characteristics.\n\n\t\t\t^ff0077\"What did Agnes want? Right, exterminate them all.\"^000000\n\t\t"
 		},
 		Summary = "Defeat Chaotic Mantis",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25781,
-				ItemNum = 1
-			}
+			{ ItemID = 25781, ItemNum = 1 }
 		}
 	},
 	[12475] = {
 		Title = "[Daily] Silvano's Revenge II",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tSilvano, who was in a near-death state, did not even have time to chant a recovery spell, so he tried to use potions.\n\t\t\tBut all the potions in his inventory had been swallowed by this mushy monster.\n\t\t\t\n\t\t\t^ff0077\"I just hope that no other adventurer suffers the same fate.\"^000000\n\t\t\t\n\t\t\tIt will be up to the next adventurer to grant his small wish.\n\t\t"
+			"\t\t\tSilvano, who was in a near-death state, did not even have time to chant a recovery spell, so he tried to use potions.\n\t\t\tBut all the potions in his inventory had been swallowed by this mushy monster.\n\n\t\t\t^ff0077\"I just hope that no other adventurer suffers the same fate.\"^000000\n\n\t\t\tIt will be up to the next adventurer to grant his small wish.\n\t\t"
 		},
 		Summary = "Defeat Chaotic Poporing",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25782,
-				ItemNum = 1
-			}
+			{ ItemID = 25782, ItemNum = 1 }
 		}
 	},
 	[12476] = {
 		Title = "[Daily] Cecilia's Revenge I",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\t^0000ff\"Watch out for that snake, it's much fiercer than it looks. The moment you look away, it will attack.\"^000000\n\t\t\t\n\t\t\tCecilia was momentarily exhausted and was bitten by this monster where she was sitting.\n\t\t\tShe became unable to move due to the paralyzing poison that quickly spread through her body.\n\t\t\t\n\t\t\t^0000ff\"If you want to take a break in the labyrinth, I won't stop you. But if I were alive, I would avoid that...\"^000000\n\t\t"
+			"\t\t\t^0000ff\"Watch out for that snake, it's much fiercer than it looks. The moment you look away, it will attack.\"^000000\n\n\t\t\tCecilia was momentarily exhausted and was bitten by this monster where she was sitting.\n\t\t\tShe became unable to move due to the paralyzing poison that quickly spread through her body.\n\n\t\t\t^0000ff\"If you want to take a break in the labyrinth, I won't stop you. But if I were alive, I would avoid that...\"^000000\n\t\t"
 		},
 		Summary = "Defeat Chaotic Side Winder",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25783,
-				ItemNum = 1
-			}
+			{ ItemID = 25783, ItemNum = 1 }
 		}
 	},
 	[12477] = {
 		Title = "[Daily] Cecilia's Revenge II",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tShe was in a situation where she couldn't move due to paralyzing poison, and she suffered a wound from this spiky monster.\n\t\t\t\n\t\t\t^0000ff\"Do you know the feeling of not being able to move due to paralyze? It's all because of that damn skewered monster!!\"^000000\n\t\t\t\n\t\t\tHer anger is understandable.\n\t\t"
+			"\t\t\tShe was in a situation where she couldn't move due to paralyzing poison, and she suffered a wound from this spiky monster.\n\n\t\t\t^0000ff\"Do you know the feeling of not being able to move due to paralyze? It's all because of that damn skewered monster!!\"^000000\n\n\t\t\tHer anger is understandable.\n\t\t"
 		},
 		Summary = "Defeat Chaotic Stem Worm",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
-			{
-				ItemID = 25784,
-				ItemNum = 1
-			}
+			{ ItemID = 25784, ItemNum = 1 }
 		}
 	},
 	[12478] = {
 		Title = "[Weekly] Soul Purification - Andrea",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
 		},
 		Summary = "Defeat Chaotic Andrea",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
-			{
-				ItemID = 25781,
-				ItemNum = 3
-			}
+			{ ItemID = 25781, ItemNum = 3 }
 		}
 	},
 	[12479] = {
 		Title = "[Weekly] Soul Purification - Anes",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
 		},
 		Summary = "Defeat Chaotic Anes",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
-			{
-				ItemID = 25782,
-				ItemNum = 3
-			}
+			{ ItemID = 25782, ItemNum = 3 }
 		}
 	},
 	[12480] = {
 		Title = "[Weekly] Soul Purification - Silvano",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
 		},
 		Summary = "Defeat Chaotic Silvano",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
-			{
-				ItemID = 25783,
-				ItemNum = 3
-			}
+			{ ItemID = 25783, ItemNum = 3 }
 		}
 	},
 	[12481] = {
 		Title = "[Weekly] Soul Purification - Cecilia",
-		IconName = "ico_dq.bmp",
 		Description = {
-			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
+			"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes' resentment and hatred during their end.\n\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"
 		},
 		Summary = "Defeat Chaotic Cecilia",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
-			{
-				ItemID = 25784,
-				ItemNum = 3
-			}
+			{ ItemID = 25784, ItemNum = 3 }
 		}
 	},
 	[12482] = {
 		Title = "Disappearance of a Colleague",
 		Description = {
-			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> around Prontera Cathedral.\n\t\t\t\n\t\t\tAt Irene's request, you must inform Esmeralda, the guild leader about the situation of missing guild members.\n\t\t"
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> around Prontera Cathedral.\n\n\t\t\tAt Irene's request, you must inform Esmeralda, the guild leader about the situation of missing guild members.\n\t\t"
 		},
 		Summary = "Talk to Esmeralda about the situation"
 	},
 	[12483] = {
 		Title = "Follow Up",
 		Description = {
-			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tI relayed the news to the Priest guild leader, but I'm curious about the next action.\n\t\t\tLet's follow Esmeralda into the labyrinth and see what happened next.\n\t\t"
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\n\t\t\tI relayed the news to the Priest guild leader, but I'm curious about the next action.\n\t\t\tLet's follow Esmeralda into the labyrinth and see what happened next.\n\t\t"
 		},
 		Summary = "Talk to Esmeralda inside the Labyrinth"
 	},
 	[12484] = {
 		Title = "Searching for Traces - Andrea",
 		Description = {
-			"\t\t\tYou must find traces of Andrea who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+			"\t\t\tYou must find traces of Andrea who entered the Illusion of Labyrinth.\n\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
 		},
 		Summary = "Find Andrea"
 	},
 	[12485] = {
 		Title = "Searching for Traces - Anes",
 		Description = {
-			"\t\t\tYou must find traces of Anes who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+			"\t\t\tYou must find traces of Anes who entered the Illusion of Labyrinth.\n\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
 		},
 		Summary = "Find Anes"
 	},
 	[12486] = {
 		Title = "Searching for Traces - Silvano",
 		Description = {
-			"\t\t\tYou must find traces of Silvano who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+			"\t\t\tYou must find traces of Silvano who entered the Illusion of Labyrinth.\n\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
 		},
 		Summary = "Find Silvano"
 	},
 	[12487] = {
 		Title = "Searching for Traces - Cecilia",
 		Description = {
-			"\t\t\tYou must find traces of Cecilia who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
+			"\t\t\tYou must find traces of Cecilia who entered the Illusion of Labyrinth.\n\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000\n\t\t"
 		},
 		Summary = "Find Cecilia"
 	},
 	[12488] = {
 		Title = "Search Result",
 		Description = {
-			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tWe have found all traces of the four missing acolytes. Let's meet Esmeralda and gives her the search result.\n\t\t"
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\n\t\t\tWe have found all traces of the four missing acolytes. Let's meet Esmeralda and gives her the search result.\n\t\t"
 		},
 		Summary = "Report what you found to Esmeralda"
 	},
 	[12489] = {
 		Title = "Guest Guild Member",
 		Description = {
-			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tLet¡¯s meet the acolytes who have been revived as souls and work as guest guild members.\n\t\t"
+			"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\n\t\t\tLet��s meet the acolytes who have been revived as souls and work as guest guild members.\n\t\t"
 		},
 		Summary = "Join as Guest Member of the Guild"
 	},
 	[12490] = {
 		Title = "[Cooldown] Daily Mission",
 		Description = {
-			"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tAs the guest member of Prontera Priest guild, I have received all daily quests. These missions can be accepted ^ff0000every day at 4 AM^000000 and cannot be received multiple times.\n\t\t"
+			"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\n\t\t\tAs the guest member of Prontera Priest guild, I have received all daily quests. These missions can be accepted ^ff0000every day at 4 AM^000000 and cannot be received multiple times.\n\t\t"
 		},
-		Summary = "Reset at 4 AM the next day",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM the next day"
 	},
 	[12491] = {
 		Title = "[Cooldown] Weekly Mission",
 		Description = {
-			"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tAs the guest member of Prontera Priest guild, I have received the weekly quest. This mission can be accepted ^ff0000every Saturday at 4 AM^000000 and cannot be received multiple times.\n\t\t"
+			"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\n\t\t\tAs the guest member of Prontera Priest guild, I have received the weekly quest. This mission can be accepted ^ff0000every Saturday at 4 AM^000000 and cannot be received multiple times.\n\t\t"
 		},
-		Summary = "Reset every Saturday at 4 AM",
-		CoolTimeQuest = 1
+		Summary = "Reset every Saturday at 4 AM"
 	},
 	[12492] = {
 		Title = "Esmeralda",
@@ -58584,7 +58534,7 @@ QuestInfoList = {
 		Title = "Hunting - Lighthalzen Field-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Lighthalzen Field]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Lippiri]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Rafflesia]<INFO>RAFFLESIA,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Stem Worm]<INFO>STEM_WORM,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Metaling]<INFO>METALING,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Lighthalzen Field]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Lippiri]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Rafflesia]<INFO>RAFFLESIA,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Stem Worm]<INFO>STEM_WORM,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Metaling]<INFO>METALING,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_M_HUBOY",
@@ -58609,7 +58559,7 @@ QuestInfoList = {
 		Title = "Hunting - Geffen Field",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Geffen Field]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Geppel]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Petite]<INFO>PETIT,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Mantis]<INFO>MANTIS,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Side Winder]<INFO>SIDE_WINDER,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Geffen Field]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Geppel]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Petite]<INFO>PETIT,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Mantis]<INFO>MANTIS,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Side Winder]<INFO>SIDE_WINDER,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_M_MIDDLE",
@@ -58634,7 +58584,7 @@ QuestInfoList = {
 		Title = "Hunting - Turtle Island",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Turtle Island]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Terel]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Spring Rabbit]<INFO>SPRING_RABBIT,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Dragon Tail]<INFO>DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Pest]<INFO>PEST,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Turtle Island]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Terel]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Spring Rabbit]<INFO>SPRING_RABBIT,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Dragon Tail]<INFO>DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Pest]<INFO>PEST,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_M_BRZ_MAN1",
@@ -58659,7 +58609,7 @@ QuestInfoList = {
 		Title = "Hunting - Entrance to Thanatos Tower",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Entrance to Thanatos Tower]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Hugo]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Red Novus]<INFO>NOVUS,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Yellow Novus]<INFO>NOVUS_,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Geographer]<INFO>GEOGRAPHER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Dragon Egg]<INFO>DRAGON_EGG,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Entrance to Thanatos Tower]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Hugo]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Red Novus]<INFO>NOVUS,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Yellow Novus]<INFO>NOVUS_,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Geographer]<INFO>GEOGRAPHER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Dragon Egg]<INFO>DRAGON_EGG,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_MAL_CAPTAIN",
@@ -58684,7 +58634,7 @@ QuestInfoList = {
 		Title = "Hunting - Starry Coral Area",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Starry Coral Area]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Madewon]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Red Eruma]<INFO>RED_ERUMA,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Siorava]<INFO>SIORAVA,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Starry Coral Area]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Madewon]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Red Eruma]<INFO>RED_ERUMA,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Siorava]<INFO>SIORAVA,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_F_TAEKWON",
@@ -58709,7 +58659,7 @@ QuestInfoList = {
 		Title = "Hunting - Turtle Island Dungeon",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Turtle Island Dungeon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tydon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Solider]<INFO>SOLIDER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Pest]<INFO>PEST,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Freezer]<INFO>FREEZER,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Turtle Island Dungeon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tydon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Solider]<INFO>SOLIDER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Pest]<INFO>PEST,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Freezer]<INFO>FREEZER,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_M_NINJA_BLUE",
@@ -58734,7 +58684,7 @@ QuestInfoList = {
 		Title = "Hunting - Good Turtles Village",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Good Turtles Village]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tsen]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>.\n\t\t\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Assaulter]<INFO>ASSULTER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Freezer]<INFO>FREEZER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Heater]<INFO>HEATER,0,0,3,-222,1</INFO></NAVI>"
+			"^4D4DFFJuno Monster Society Hunting Request^000000\n\t\tYou have been commissioned to hunt 80 monsters in <NAVI>[Good Turtles Village]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>. After completing the request, report to <NAVI>[Investigator Tsen]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>.\n\n\t\t^FF0000Target Monster^000000\n\t\t<NAVI>[Assaulter]<INFO>ASSULTER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Permeter]<INFO>PERMETER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Freezer]<INFO>FREEZER,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[Heater]<INFO>HEATER,0,0,3,-222,1</INFO></NAVI>"
 		},
 		Summary = "",
 		NpcSpr = "4_M_SIT_NOVICE",
@@ -59021,7 +58971,7 @@ QuestInfoList = {
 		Title = "[Event] Lullaby for the Lily (1)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Maya, a spiritualist from a certain organization, has been dispatched to Geffen to calm the ^4D4DFFspirit disturbance^000000 occurring during the ^4D4DFFFestival of the Dead^000000.\n\t\tIt seems there is a huge spirit disturbance found ^4D4DFFnear the Orc Village^000000 and it's somehow related to a ^4D4DFFfamous urban legend^000000 in Rune Midgard.\n\t\tSo, she is looking for an experienced adventurer to investigate the location and perform a spirit cleansing there.\n\t\t\n\t\tWell, you seem interested in this so-called spirit cleansing and decided to take up the request.\n\t\tLet's visit the <NAVI>[Entrance to Orc Dungeon]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and see whether the legend is true.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"Maya, a spiritualist from a certain organization, has been dispatched to Geffen to calm the ^4D4DFFspirit disturbance^000000 occurring during the ^4D4DFFFestival of the Dead^000000.\n\t\tIt seems there is a huge spirit disturbance found ^4D4DFFnear the Orc Village^000000 and it's somehow related to a ^4D4DFFfamous urban legend^000000 in Rune Midgard.\n\t\tSo, she is looking for an experienced adventurer to investigate the location and perform a spirit cleansing there.\n\n\t\tWell, you seem interested in this so-called spirit cleansing and decided to take up the request.\n\t\tLet's visit the <NAVI>[Entrance to Orc Dungeon]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and see whether the legend is true.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Investigate the location",
 		NpcSpr = "4_F_MALAYA",
@@ -59033,7 +58983,7 @@ QuestInfoList = {
 		Title = "[Event] Lullaby for the Lily (2)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You found the mysterious novice inside the entrance to the Orc Dungeon. Maya is also following you in her 'spirit form'.\n\t\tBut as soon as you approached the novice, she suddenly screamed, and everything went crazy.\n\t\t\n\t\tWhen you realized, you had been teleported to another place, and it's not looking good.\n\t\tYes. There's an <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI> waiting in front of you.\n\t\tWhy don't you gather up courage and try talking to it?\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"You found the mysterious novice inside the entrance to the Orc Dungeon. Maya is also following you in her 'spirit form'.\n\t\tBut as soon as you approached the novice, she suddenly screamed, and everything went crazy.\n\n\t\tWhen you realized, you had been teleported to another place, and it's not looking good.\n\t\tYes. There's an <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI> waiting in front of you.\n\t\tWhy don't you gather up courage and try talking to it?\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Talk to Ominous Spirit",
 		NpcSpr = "4_F_MALAYA",
@@ -59045,7 +58995,7 @@ QuestInfoList = {
 		Title = "[Event] Spirit Cleansing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have been tasked with purifying 5 spirit fragments that are scattered within this building complex to weaken that <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\tLet's show them that you are a talented adventurer, and maybe the organization will offer you a new job.\n\t\t\n\t\tJust walk around this area, and you might bump into one of the spirits.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"You have been tasked with purifying 5 spirit fragments that are scattered within this building complex to weaken that <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\tLet's show them that you are a talented adventurer, and maybe the organization will offer you a new job.\n\n\t\tJust walk around this area, and you might bump into one of the spirits.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Purify 5 Spirits",
 		NpcSpr = "4_F_MALAYA",
@@ -59057,7 +59007,7 @@ QuestInfoList = {
 		Title = "[Event] Lullaby for the Lily (3)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\tWho would have thought that this spirit is the one who torments Tiger Lily's soul?\n\t\t\n\t\tLet's go back and confront the spirit once and for all.\n\t\t\n\t\tOf course, Maya will do the job. \n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\tWho would have thought that this spirit is the one who torments Tiger Lily's soul?\n\n\t\tLet's go back and confront the spirit once and for all.\n\n\t\tOf course, Maya will do the job. \n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Confront Ominous Spirit",
 		NpcSpr = "4_F_MALAYA",
@@ -59069,7 +59019,7 @@ QuestInfoList = {
 		Title = "[Event] Lullaby for the Lily (4)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The ominous spirit has been purified. Tiger Lily's soul is no longer imprisoned by these malicious entities.\n\t\t\n\t\tNow, we might be able to purify <NAVI>[Tiger Lily]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and let her rest in peace once and for all.\n\t\t\n\t\tIt's time to say goodbye for the last time to her.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"The ominous spirit has been purified. Tiger Lily's soul is no longer imprisoned by these malicious entities.\n\n\t\tNow, we might be able to purify <NAVI>[Tiger Lily]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and let her rest in peace once and for all.\n\n\t\tIt's time to say goodbye for the last time to her.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Purify Tiger Lily",
 		NpcSpr = "4_F_MALAYA",
@@ -59081,7 +59031,7 @@ QuestInfoList = {
 		Title = "[Event] Lullaby for the Lily (5)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The tormented soul of a novice has been released, and she already left this world in peace.\n\t\t\n\t\tBut I think I heard some weird things that come from that novice.\n\t\t\n\t\tWell, let's just talk to <NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> and end this bizzare adventure.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"The tormented soul of a novice has been released, and she already left this world in peace.\n\n\t\tBut I think I heard some weird things that come from that novice.\n\n\t\tWell, let's just talk to <NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> and end this bizzare adventure.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Talk to Maya",
 		NpcSpr = "4_F_MALAYA",
@@ -59093,7 +59043,7 @@ QuestInfoList = {
 		Title = "[Daily] Spirit Cleansing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have accepted Maya's request to do a spirit cleansing today.\n\t\tLet's dive into the spirit realm and finish it early before dinner.\n\t\t\n\t\tIf I recall correctly, first, you need to talk to the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>, right?\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"You have accepted Maya's request to do a spirit cleansing today.\n\t\tLet's dive into the spirit realm and finish it early before dinner.\n\n\t\tIf I recall correctly, first, you need to talk to the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>, right?\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Talk to Ominous Spirit",
 		NpcSpr = "4_F_MALAYA",
@@ -59105,7 +59055,7 @@ QuestInfoList = {
 		Title = "[Daily] Spirit Cleansing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\t\t\n\t\tLet's confront the spirit and finish the job quickly.\n\t\tWell, Maya will be the one who does the job, though.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.\n\n\t\tLet's confront the spirit and finish the job quickly.\n\t\tWell, Maya will be the one who does the job, though.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Confront Ominous Spirit",
 		NpcSpr = "4_F_MALAYA",
@@ -59117,7 +59067,7 @@ QuestInfoList = {
 		Title = "[Daily] Spirit Cleansing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have completed today's Spirit Cleansing session.\n\t\n\t\tLet's report to 'real' Maya and claim your rewards.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"You have completed today's Spirit Cleansing session.\n\n\t\tLet's report to 'real' Maya and claim your rewards.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Talk to Maya",
 		NpcSpr = "4_F_MALAYA",
@@ -59129,7 +59079,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Spirit Cleansing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have done enough today.\n\t\t^FF0000Too many spirit cleansings will take a toll on your body.^000000\n\t\n\t\tLet's return to Maya after 20 hours if you want to do another spirit cleansing.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
+			"You have done enough today.\n\t\t^FF0000Too many spirit cleansings will take a toll on your body.^000000\n\n\t\tLet's return to Maya after 20 hours if you want to do another spirit cleansing.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen\n\t\t<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange\n\t\t"
 		},
 		Summary = "Reset after 20 hours",
 		CoolTimeQuest = 1,
@@ -61875,7 +61825,7 @@ QuestInfoList = {
 		Title = "[Event] Lutie Monster Battle (1)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"A suspicious santa invited you to join a monster battle tournament held in Lutie during christmas season.\n\t\t\n\t\tWell, you can smell a good-good-sweet EXP coming from this event and decide to participate.\n\t\t\n\t\tBut first of all, you'll need to train how to battle in this bizarre tournament.?\n\t\tAnd not to mention, you don't have any monsters to help you, and all you have is a chicken borrowed from that suspicious Santa.\n\t\t\n\t\tLet's talk to <NAVI>[Assistant Chloe]<INFO>xmas,158,134,0,101,0</INFO></NAVI> and learn how to battle.\n\t\t\n\t\tIf you don't see her at all, let's return to Santa and ask him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"A suspicious santa invited you to join a monster battle tournament held in Lutie during christmas season.\n\n\t\tWell, you can smell a good-good-sweet EXP coming from this event and decide to participate.\n\n\t\tBut first of all, you'll need to train how to battle in this bizarre tournament.?\n\t\tAnd not to mention, you don't have any monsters to help you, and all you have is a chicken borrowed from that suspicious Santa.\n\n\t\tLet's talk to <NAVI>[Assistant Chloe]<INFO>xmas,158,134,0,101,0</INFO></NAVI> and learn how to battle.\n\n\t\tIf you don't see her at all, let's return to Santa and ask him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Talk to Assistant Chloe",
 		NpcSpr = "4_M_SANTA",
@@ -61887,7 +61837,7 @@ QuestInfoList = {
 		Title = "[Event] Lutie Monster Battle (2)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have learned how to fight and it's time to face your ^4D4DFFfirst rival^000000.\n\t\t\n\t\t^4D4DFFThat time I tried to pick up a cute maid in the middle of dungeon, but I got frozen in ice instead^000000\n\t\t\n\t\tWhat a weirdly long name; it reminds you of that overrated fantasy novel genre.?\n\t\t\n\t\tLet's talk to <NAVI>[Frozen Guy]<INFO>xmas,103,270,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You have learned how to fight and it's time to face your ^4D4DFFfirst rival^000000.\n\n\t\t^4D4DFFThat time I tried to pick up a cute maid in the middle of dungeon, but I got frozen in ice instead^000000\n\n\t\tWhat a weirdly long name; it reminds you of that overrated fantasy novel genre.?\n\n\t\tLet's talk to <NAVI>[Frozen Guy]<INFO>xmas,103,270,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Frozen Guy",
 		NpcSpr = "4_M_FROZEN1",
@@ -61899,7 +61849,7 @@ QuestInfoList = {
 		Title = "[Event] Lutie Monster Battle (3)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have defeated the Frozen Guy and it's time to face your ^4D4DFFsecond rival^000000.\n\t\t\n\t\t^4D4DFFToy Factory's Corporate Workaholic^000000\n\t\t\n\t\tI think I just saw the dark side of the Toy Factory...?\n\t\t\n\t\tLet's talk to <NAVI>[Tired Snowman]<INFO>xmas,155,304,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You have defeated the Frozen Guy and it's time to face your ^4D4DFFsecond rival^000000.\n\n\t\t^4D4DFFToy Factory's Corporate Workaholic^000000\n\n\t\tI think I just saw the dark side of the Toy Factory...?\n\n\t\tLet's talk to <NAVI>[Tired Snowman]<INFO>xmas,155,304,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Tired Snowman",
 		NpcSpr = "4_M_SNOWMAN",
@@ -61911,7 +61861,7 @@ QuestInfoList = {
 		Title = "[Event] Lutie Monster Battle (4)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have defeated the poor snowman and it's time to face your ^4D4DFFfinal rival^000000.\n\t\t\n\t\t^4D4DFFSultan of Lutie^000000\n\t\t\n\t\tWhy there's a sultan here in Lutie...?\n\t\t\n\t\tLet's talk to <NAVI>[Sultan of Lutie]<INFO>xmas,145,234,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You have defeated the poor snowman and it's time to face your ^4D4DFFfinal rival^000000.\n\n\t\t^4D4DFFSultan of Lutie^000000\n\n\t\tWhy there's a sultan here in Lutie...?\n\n\t\tLet's talk to <NAVI>[Sultan of Lutie]<INFO>xmas,145,234,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Sultan of Lutie",
 		NpcSpr = "4_M_ARDHA",
@@ -61923,7 +61873,7 @@ QuestInfoList = {
 		Title = "[Event] Lutie Monster Battle (5)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have defeated all the contenders.\n\t\t\n\t\tBut I think it's too anti-climatic, right?\n\t\tI heard there's a hidden contender in this tournament.\n\t\t\n\t\tAnyway, you can return to <NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> and claim your reward.\n\t\t\n\t\tMerry Christmas!\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You have defeated all the contenders.\n\n\t\tBut I think it's too anti-climatic, right?\n\t\tI heard there's a hidden contender in this tournament.\n\n\t\tAnyway, you can return to <NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> and claim your reward.\n\n\t\tMerry Christmas!\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Talk to Suspicious Santa",
 		NpcSpr = "4_M_SANTA",
@@ -61935,7 +61885,7 @@ QuestInfoList = {
 		Title = "[Challenge] Legendary Christmas Pope",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You decided to accept the challenge.\n\t\t\n\t\tThe one and only legendary Christmas pope!\n\t\t\n\t\tTalk to <NAVI>[Christmas Pope]<INFO>xmas,259,119,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You decided to accept the challenge.\n\n\t\tThe one and only legendary Christmas pope!\n\n\t\tTalk to <NAVI>[Christmas Pope]<INFO>xmas,259,119,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Christmas Pope",
 		NpcSpr = "4_F_ARUNA_POP2",
@@ -61947,7 +61897,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Lutie Monster battle",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have done enough today.\n\t\t^FF0000Only 1 monster battle is available every day.^000000\n\t\n\t\tLet's return to Suspicious Santa after 20 hours if you want to do monster battle.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You have done enough today.\n\t\t^FF0000Only 1 monster battle is available every day.^000000\n\n\t\tLet's return to Suspicious Santa after 20 hours if you want to do monster battle.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Reset after 20 hours",
 		CoolTimeQuest = 1,
@@ -61960,7 +61910,7 @@ QuestInfoList = {
 		Title = "[Daily] Lutie Monster Battle",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Your today's rival is the Frozen Guy team.\n\t\t\n\t\t^4D4DFFThat time I tried to pick up a cute maid in the middle of dungeon, but I got frozen in ice instead^000000\n\t\t\n\t\tLet's talk to <NAVI>[Frozen Guy]<INFO>xmas,103,270,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"Your today's rival is the Frozen Guy team.\n\n\t\t^4D4DFFThat time I tried to pick up a cute maid in the middle of dungeon, but I got frozen in ice instead^000000\n\n\t\tLet's talk to <NAVI>[Frozen Guy]<INFO>xmas,103,270,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Frozen Guy",
 		NpcSpr = "4_M_FROZEN1",
@@ -61972,7 +61922,7 @@ QuestInfoList = {
 		Title = "[Daily] Lutie Monster Battle",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Your today's rival is the snowman team.\n\t\t\n\t\t^4D4DFFToy Factory's Corporate Workaholic^000000\n\t\t\n\t\tLet's talk to <NAVI>[Tired Snowman]<INFO>xmas,155,304,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"Your today's rival is the snowman team.\n\n\t\t^4D4DFFToy Factory's Corporate Workaholic^000000\n\n\t\tLet's talk to <NAVI>[Tired Snowman]<INFO>xmas,155,304,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Tired Snowman",
 		NpcSpr = "4_M_SNOWMAN",
@@ -61984,7 +61934,7 @@ QuestInfoList = {
 		Title = "[Daily] Lutie Monster Battle",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Your today's rival is the sultan team.\n\t\t\n\t\t^4D4DFFSultan of Lutie^000000\n\t\t\n\t\tLet's talk to <NAVI>[Sultan of Lutie]<INFO>xmas,145,234,0,101,0</INFO></NAVI> when you're ready.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"Your today's rival is the sultan team.\n\n\t\t^4D4DFFSultan of Lutie^000000\n\n\t\tLet's talk to <NAVI>[Sultan of Lutie]<INFO>xmas,145,234,0,101,0</INFO></NAVI> when you're ready.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Defeat Sultan of Lutie",
 		NpcSpr = "4_M_ARDHA",
@@ -61996,7 +61946,7 @@ QuestInfoList = {
 		Title = "[Daily] Lutie Monster Battle",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have defeated today's contender.\n\t\t\n\t\tLet's return to <NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> and claim your reward.\n\t\t\n\t\tMerry Christmas!\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
+			"You have defeated today's contender.\n\n\t\tLet's return to <NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> and claim your reward.\n\n\t\tMerry Christmas!\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Suspicious Santa]<INFO>xmas,155,128,0,101,0</INFO></NAVI> - A suspicious Santa who endorses monster battle in Lutie.\n\t\t<NAVI>[Christmas Machine]<INFO>xmas,158,128,0,101,0</INFO></NAVI> - A suspicious vending machine that can exchange your token for items.\n\t\t"
 		},
 		Summary = "Talk to Suspicious Santa",
 		NpcSpr = "4_M_SANTA",
@@ -62008,7 +61958,7 @@ QuestInfoList = {
 		Title = "[Event] Lunar New Year Festival (1)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You meet the guardian of the lunar new year festival.\n\t\tThe great wise snake lord is asking for a favor from you.\n\t\tLet's talk to <NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> and hear its request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"You meet the guardian of the lunar new year festival.\n\t\tThe great wise snake lord is asking for a favor from you.\n\t\tLet's talk to <NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> and hear its request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Listen to Snake Lord's Request",
 		NpcSpr = "4_SNAKE_LORD",
@@ -62020,7 +61970,7 @@ QuestInfoList = {
 		Title = "[Event] Lunar New Year Festival (2)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The Wise Snake Lord asks you to help its old friend named Yu.\n\t\tHe seems to be tending a vegetable shop, let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"The Wise Snake Lord asks you to help its old friend named Yu.\n\t\tHe seems to be tending a vegetable shop, let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Help Old Man Yu",
 		NpcSpr = "4_M_TWOLDMAN",
@@ -62032,7 +61982,7 @@ QuestInfoList = {
 		Title = "[Event] Lunar New Year Festival (3)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Old Man Yu asks you to help another guy named Uncle Sun during the festival.\n\t\tHe seems to be tending a tea bar, let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"Old Man Yu asks you to help another guy named Uncle Sun during the festival.\n\t\tHe seems to be tending a tea bar, let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Help Uncle Sun",
 		NpcSpr = "4_M_CHNOLD",
@@ -62044,7 +61994,7 @@ QuestInfoList = {
 		Title = "[Event] Lunar New Year Festival (4)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Uncle Sun asks you to help another guy named Chef Yao during the festival.\n\t\tHe seems to be tending a restaurant, let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"Uncle Sun asks you to help another guy named Chef Yao during the festival.\n\t\tHe seems to be tending a restaurant, let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Help Chef Yao",
 		NpcSpr = "4_M_CHNCOOK",
@@ -62056,7 +62006,7 @@ QuestInfoList = {
 		Title = "[Event] Lunar New Year Festival (5)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough people.\n\t\tLet's go back to <NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> and receive your blessings.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"You have helped enough people.\n\t\tLet's go back to <NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> and receive your blessings.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Wise Snake Lord]<INFO>gonryun,159,117,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Talk to Wise Snake Lord",
 		NpcSpr = "4_SNAKE_LORD",
@@ -62068,7 +62018,7 @@ QuestInfoList = {
 		Title = "[Daily] Old Man Yu's Request",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems Old Man Yu needs another help today. Let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Old Man Yu]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> - Vegetable Shop Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"It seems Old Man Yu needs another help today. Let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Old Man Yu]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> - Vegetable Shop Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Help Old Man Yu",
 		NpcSpr = "4_M_TWOLDMAN",
@@ -62080,7 +62030,7 @@ QuestInfoList = {
 		Title = "[Daily] Uncle Sun's Request",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems Uncle Sun needs another help today. Let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Uncle Sun]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> - Tea Bar Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"It seems Uncle Sun needs another help today. Let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Uncle Sun]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> - Tea Bar Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Help Uncle Sun",
 		NpcSpr = "4_M_CHNOLD",
@@ -62092,7 +62042,7 @@ QuestInfoList = {
 		Title = "[Daily] Chef Yao's Request",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems Chef Yao needs another help today. Let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Chef Yao]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"It seems Chef Yao needs another help today. Let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Chef Yao]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Help Chef Yao",
 		NpcSpr = "4_M_CHNCOOK",
@@ -62104,7 +62054,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Old Man Yu's Request",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Old Man Yu]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> - Vegetable Shop Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> him tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Old Man Yu]<INFO>gonryun,130,120,0,101,0</INFO></NAVI> - Vegetable Shop Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -62117,7 +62067,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Uncle Sun's Request",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Uncle Sun]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> - Tea Bar Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> him tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Uncle Sun]<INFO>gonryun,187,110,0,101,0</INFO></NAVI> - Tea Bar Owner.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -62130,7 +62080,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Chef Yao's Request",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Chef Yao]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
+			"You have helped enough today. Let's <NAVI>[visit]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> him tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Chef Yao]<INFO>gonryun,197,138,0,101,0</INFO></NAVI> - Guardian of the Lunar Festival.\n\t\t<NAVI>[Grandma Yin]<INFO>gonryun,144,114,0,101,0</INFO></NAVI> - You can exchange Red Envelope for guaranteed item here.\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -62809,7 +62759,7 @@ QuestInfoList = {
 		Title = "[Daily] Anniversary Hunting Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 220 lv.30 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"It seems you need to hunt 220 lv.30 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Defeat Lv.30 or higher monster",
 		NpcSpr = "4_F_SARAH",
@@ -62821,7 +62771,7 @@ QuestInfoList = {
 		Title = "[Daily] Anniversary Hunting Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 220 lv.91 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"It seems you need to hunt 220 lv.91 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Defeat Lv.91 or higher monster",
 		NpcSpr = "4_F_SARAH",
@@ -62833,7 +62783,7 @@ QuestInfoList = {
 		Title = "[Daily] Anniversary Hunting Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 220 lv.151 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"It seems you need to hunt 220 lv.151 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Defeat Lv.151 or higher monster",
 		NpcSpr = "4_F_SARAH",
@@ -62845,7 +62795,7 @@ QuestInfoList = {
 		Title = "[Daily] Anniversary Hunting Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 220 lv.201 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"It seems you need to hunt 220 lv.201 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Defeat Lv.201 or higher monster",
 		NpcSpr = "4_F_SARAH",
@@ -62857,7 +62807,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Anniversary Hunting Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough today. Let's visit her tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"You have helped enough today. Let's visit her tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sarah?]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -62870,7 +62820,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Anniversary Check-in",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have checked in for today. Let's go back tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"You have checked in for today. Let's go back tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -62895,7 +62845,7 @@ QuestInfoList = {
 		Title = "[Daily] Anniversary Taming Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to capture 10 Cake Poring to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,74,89,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"It seems you need to capture 10 Cake Poring to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,74,89,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Capture 10 Cake Poring",
 		NpcSpr = "4_F_KAFRA8",
@@ -62907,7 +62857,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Anniversary Taming Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough today. Let's visit her tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,74,89,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"You have helped enough today. Let's visit her tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,74,89,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -62932,7 +62882,7 @@ QuestInfoList = {
 		Title = "[Daily] Anniversary Delivery Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to deliver the package to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,79,95,0,101,0</INFO></NAVI> - Delivery Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"It seems you need to deliver the package to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,79,95,0,101,0</INFO></NAVI> - Delivery Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Deliver the package",
 		NpcSpr = "4_F_KAFRA5",
@@ -62944,7 +62894,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Anniversary Delivery Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have helped enough today. Let's visit her tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,79,95,0,101,0</INFO></NAVI> - Delivery Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+			"You have helped enough today. Let's visit her tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,79,95,0,101,0</INFO></NAVI> - Delivery Quest NPC\n\t\t<NAVI>[Administrator]<INFO>hugel,101,138,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Trader Lucy]<INFO>hugel,101,143,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -65614,7 +65564,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt I",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 200 lv.30 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 200 lv.30 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt Lv.30 or higher monster",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65626,7 +65576,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt I",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 200 lv.90 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 200 lv.90 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt Lv.90 or higher monster",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65638,7 +65588,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt I",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 200 lv.150 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 200 lv.150 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt Lv.150 or higher monster",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65650,7 +65600,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt I",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 200 lv.200 or higher monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 200 lv.200 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt Lv.200 or higher monster",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65662,7 +65612,7 @@ QuestInfoList = {
 		Title = "[Cooldown][S2] Battle Pass Hunt I",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have completed Daily Quest I today. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"You have completed Daily Quest I today. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -65675,7 +65625,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt II",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 100 Brute monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 100 Brute monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 100 Brute monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65687,7 +65637,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt II",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 100 Undead monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 100 Undead monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 100 Undead monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65699,7 +65649,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt II",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 100 Demihuman monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 100 Demihuman monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 100 Demihuman monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65711,7 +65661,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt II",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 100 Plant monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 100 Plant monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 100 Plant monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65723,7 +65673,7 @@ QuestInfoList = {
 		Title = "[Cooldown][S2] Battle Pass Hunt II",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have completed Daily Quest II today. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"You have completed Daily Quest II today. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -65736,7 +65686,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt III",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 50 Fire property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 50 Fire property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 50 Fire property monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65748,7 +65698,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt III",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 50 Water property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 50 Water property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 50 Water property monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65760,7 +65710,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt III",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 50 Wind property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 50 Wind property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 50 Wind property monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65772,7 +65722,7 @@ QuestInfoList = {
 		Title = "[Daily][S2] Battle Pass Hunt III",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to hunt 50 Earth property monsters to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to hunt 50 Earth property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Hunt 50 Earth property monsters",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65784,7 +65734,7 @@ QuestInfoList = {
 		Title = "[Cooldown][S2] Battle Pass Hunt III",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have completed Daily Quest III today. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"You have completed Daily Quest III today. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -65797,7 +65747,7 @@ QuestInfoList = {
 		Title = "[Season][S2] Battle Pass Quest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems you need to complete 50 Battle Pass daily quests to complete the request.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+			"It seems you need to complete 50 Battle Pass daily quests to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
 		},
 		Summary = "Complete 50 Daily Quests",
 		NpcSpr = "4_EP19_AURELIE",
@@ -65809,7 +65759,7 @@ QuestInfoList = {
 		Title = "[Cooldown][S2] BP Hunting Area - Free",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have used the free attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
+			"You have used the free attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -65822,7 +65772,7 @@ QuestInfoList = {
 		Title = "[Cooldown][S2] BP Hunting Area - Paid",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have used the paid attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
+			"You have used the paid attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -65835,7 +65785,7 @@ QuestInfoList = {
 		Title = "[Cooldown][S2] Juncea's Treat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You have gifted Juncea a treat. Let's return tomorrow.\n\t\t\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Juncea]<INFO>prontera,129,328,0,101,0</INFO></NAVI> - Research NPC\n\t\t"
+			"You have gifted Juncea a treat. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Juncea]<INFO>prontera,129,328,0,101,0</INFO></NAVI> - Research NPC\n\t\t"
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
@@ -66616,5 +66566,63 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
+	},
+	[297102] = {
+		Title = "Toilet Paper Thief",
+		Description = {
+			"Assist the 'Kafra' to find the Toilet Paper Thief.\n\t\t\tThe culprit only appears on the right side of the Prontera Culvert Floor 3 map.\n\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Strange Kafra]<INFO>prt_sewb3,169,40,0,101,0</INFO></NAVI>\n\t\t\t"
+		},
+		Summary = "Find 5 Toilet Paper Thief",
+		NpcSpr = "4_F_NFDEADKAFRA",
+		NpcNavi = "prt_sewb3",
+		NpcPosX = 169,
+		NpcPosY = 40
+	},
+	[297103] = {
+		Title = "Report back to Strange Kafra",
+		Description = {
+			"The Toilet Paper Thief has been caught, let's go back to Strange Kafra."
+		},
+		Summary = "Report back to Strange Kafra",
+		NpcSpr = "4_F_NFDEADKAFRA",
+		NpcNavi = "prt_sewb3",
+		NpcPosX = 169,
+		NpcPosY = 40
+	},
+	[297104] = {
+		Title = "[Cooldown]Toilet Paper Thief",
+		Description = {
+			"You already helped the Strange Kafra today. Let's return tomorrow.\n\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Strange Kafra]<INFO>prt_sewb3,169,40,0,101,0</INFO></NAVI>\n\t\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_NFDEADKAFRA",
+		NpcNavi = "prt_sewb3",
+		NpcPosX = 169,
+		NpcPosY = 40
+	},
+	[297105] = {
+		Title = "Sewer Ghost Hunting!",
+		Description = {
+			"You meet the a knight named Sakray in the culvert. He got a report about Ghost from the Brasilis Toilet that swarms the prontera sewers and asked for our assistance.\n\t\t\tLet's help him hunt the ghost at Prontera Culvert Floor 3.\n\n\t\t\tHunt 150 of ^4d4dffThe Paper^000000.\n\t\t\tHunt 150 of ^4d4dffRudo^000000.\n\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Sakray?]<INFO>prt_sewb3,174,40,0,101,0</INFO></NAVI>\n\t\t\t"
+		},
+		Summary = "Defeat Sewer Ghost",
+		NpcSpr = "4_M_SAKRAYROYAL",
+		NpcNavi = "prt_sewb3",
+		NpcPosX = 174,
+		NpcPosY = 40
+	},
+	[297106] = {
+		Title = "[Cooldown]Sewer Ghost Hunting!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Sakray is blessed with your help today. Let's take a rest and return tomorrow.\n\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Sakray?]<INFO>prt_sewb3,174,40,0,101,0</INFO></NAVI>\n\t\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_SAKRAYROYAL",
+		NpcNavi = "prt_sewb3",
+		NpcPosX = 174,
+		NpcPosY = 40
 	}
 }
