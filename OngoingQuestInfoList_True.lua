@@ -66624,5 +66624,291 @@ QuestInfoList = {
 		NpcNavi = "prt_sewb3",
 		NpcPosX = 174,
 		NpcPosY = 40
+	},
+	[297107] = {
+		Title = "[Event] Operation Santa Claus (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You encountered a <NAVI>troubled Cookie<INFO>xmas,130,232,0,101,0</INFO></NAVI> during your stroll in Lutie.",
+			"He seems worried that the Christmas presents won't make it in time.",
+			"       ",
+			"He asked you to gather ^4D4DFF5 Christmas Socks^000000 and ^4D4DFF10 Christmas Hats^000000.",
+			"       ",
+			"You can obtain Christmas Socks by ^4D4DFFthrowing the bait^000000 he gave you at ^FF0000Naughty Smokeys^000000 found around the world.",
+			"As for the Christmas Hats, you should be able to get them by ^4D4DFFdefeating^000000 ^FF0000Naughty Goblins^000000 and ^FF0000Naughty Orcs^000000."
+		},
+		Summary = "Complete Cookie's Request",
+		NpcSpr = "4_M_COOKIE",
+		NpcNavi = "xmas",
+		NpcPosX = 130,
+		NpcPosY = 232
+	},
+	[297108] = {
+		Title = "[Event] Operation Santa Claus (1-1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"While you were gathering materials, <NAVI>troubled Cookie<INFO>xmas,130,232,0,101,0</INFO></NAVI> also asked you to teach a lesson to some monsters wandering around wearing Christmas hats.",
+			"       ",
+			"He asked you to defeat ^4D4DFF5 Naughty Goblins^000000 and ^4D4DFF5 Naughty Orcs^000000.",
+			"You can find them roaming all over the world during the holiday season."
+		},
+		Summary = "Ruin the Monsters' Christmas",
+		NpcSpr = "4_M_COOKIE",
+		NpcNavi = "xmas",
+		NpcPosX = 130,
+		NpcPosY = 232
+	},
+	[297109] = {
+		Title = "[Event] Operation Santa Claus (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The troubled Cookie is grateful for your help, but he's already piled even more work onto you.",
+			"       ",
+			"He asked you to deliver the materials to <NAVI>Chief<INFO>xmas,167,235,0,101,0</INFO></NAVI>.",
+			"It seems he's too scared to face the Chief himself... I wonder why."
+		},
+		Summary = "Bring Materials to Chief",
+		NpcSpr = "4_M_COOKIE",
+		NpcNavi = "xmas",
+		NpcPosX = 130,
+		NpcPosY = 232
+	},
+	[297110] = {
+		Title = "[Event] Operation Santa Claus (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you've been completely dragged into this holiday workload.",
+			"With the Chief's overwhelming aura, you couldn't even think about declining...",
+			"       ",
+			"He asked you to craft ^4D4DFF5 Christmas Presents^000000 using that <NAVI>strange-looking box<INFO>xmas,173,235,0,101,0</INFO></NAVI> over there.",
+			"If I remember correctly, each Christmas Present requires 1 Christmas Sock and 2 Christmas Hats to make.",
+			"       ",
+			"Once you're done, head back to <NAVI>Chief<INFO>xmas,167,235,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Craft 5 Christmas Presents",
+		NpcSpr = "4_XMAS_CAT1",
+		NpcNavi = "xmas",
+		NpcPosX = 167,
+		NpcPosY = 235
+	},
+	[297111] = {
+		Title = "[Event] Operation Santa Claus (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Yep, there's no turning back from this holiday shift now.",
+			"       ",
+			"The Chief has ordered you to deliver the ^4D4DFF5 Christmas Presents^000000 to <NAVI>Santa Claus<INFO>xmas,145,234,0,101,0</INFO></NAVI> himself.",
+			"Maybe if you play the role of a good kid and deliver them, Santa might reward you with something..."
+		},
+		Summary = "Deliver Presents to Santa",
+		NpcSpr = "4_XMAS_CAT1",
+		NpcNavi = "xmas",
+		NpcPosX = 167,
+		NpcPosY = 235
+	},
+	[297112] = {
+		Title = "[Event] Operation Santa Claus (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"What a twist! Now you're becoming a Santa Claus too!",
+			"       ",
+			"Santa asked you to help deliver these ^4D4DFF5 Christmas Presents^000000 to ^4D4DFF5 kids^000000 around Lutie yourself.",
+			"Either this 'Santa' is busy at the moment... or just being lazy because of the cold weather.",
+			"       ",
+			"Anyway, he shared the locations of all these good kids.",
+			"       ",
+			"Let me see... <NAVI>Eccentric Girl<INFO>xmas,148,301,0,101,0</INFO></NAVI>, <NAVI>Hiding Boy<INFO>xmas,214,160,0,101,0</INFO></NAVI>, ",
+			"<NAVI>Reliable Girl<INFO>xmas,113,289,0,101,0</INFO></NAVI>, <NAVI>Noble Boy<INFO>xmas,116,289,0,101,0</INFO></NAVI>, ",
+			"<NAVI>Cozy Girl<INFO>xmas,143,135,0,101,0</INFO></NAVI>, <NAVI>Teddy Boy<INFO>xmas,73,106,0,101,0</INFO></NAVI>, ",
+			"<NAVI>Chilly Boy<INFO>xmas,140,55,0,101,0</INFO></NAVI>, and <NAVI>Foreign Girl<INFO>xmas,252,118,0,101,0</INFO></NAVI>.",
+			"       ",
+			"Why are there so many...? Well, I guess I'll have to pick 5 kids from the list.",
+			"Once you're done, head back to <NAVI>Santa Claus<INFO>xmas,145,234,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Deliver 5 Presents",
+		NpcSpr = "4_M_SANTA",
+		NpcNavi = "xmas",
+		NpcPosX = 145,
+		NpcPosY = 234
+	},
+	[297113] = {
+		Title = "[Daily] Christmas Logistic Run",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems the Chief has managed to rope you into work once again.",
+			"Now he needs you to deliver logistics to the Christmas operatives around Lutie.",
+			"       ",
+			"If you get lost, you can ask the Chief for directions again... but be ready for some nagging.",
+			"       ",
+			"Once you're done, head back to <NAVI>Chief<INFO>xmas,167,235,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Deliver Logistics",
+		NpcSpr = "4_XMAS_CAT1",
+		NpcNavi = "xmas",
+		NpcPosX = 167,
+		NpcPosY = 235
+	},
+	[297114] = {
+		Title = "[Cooldown] Christmas Logistic Run",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping the Chief for today. Visit <NAVI>him<INFO>xmas,167,235,0,101,0</INFO></NAVI> again tomorrow if you're ready for another run."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_XMAS_CAT1",
+		NpcNavi = "xmas",
+		NpcPosX = 167,
+		NpcPosY = 235
+	},
+	[297115] = {
+		Title = "[Daily] Christmas Silent Guardian (30)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You met a strange person standing by the gate on the outskirts of Lutie.",
+			"He looks menacing at first, but he actually seems like a good person.",
+			"Apparently, he's been silently protecting Christmas in Lutie by stopping monster attacks behind the scenes.",
+			"       ",
+			"Let's lend him a hand by defeating 200 monsters of any kind, as long as they're level 30 or higher.",
+			"       ",
+			"Once you're done, report back to the <NAVI>man<INFO>xmas,153,54,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat Monsters",
+		NpcSpr = "4_M_RUSBALD",
+		NpcNavi = "xmas",
+		NpcPosX = 153,
+		NpcPosY = 54
+	},
+	[297120] = {
+		Title = "[Daily] Christmas Silent Guardian (90)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You met a strange person standing by the gate on the outskirts of Lutie.",
+			"He looks menacing at first, but he actually seems like a good person.",
+			"Apparently, he's been silently protecting Christmas in Lutie by stopping monster attacks behind the scenes.",
+			"       ",
+			"Let's lend him a hand by defeating 200 monsters of any kind, as long as they're level 90 or higher.",
+			"       ",
+			"Once you're done, report back to the <NAVI>man<INFO>xmas,153,54,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat Monsters",
+		NpcSpr = "4_M_RUSBALD",
+		NpcNavi = "xmas",
+		NpcPosX = 153,
+		NpcPosY = 54
+	},
+	[297121] = {
+		Title = "[Daily] Christmas Silent Guardian (150)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You met a strange person standing by the gate on the outskirts of Lutie.",
+			"He looks menacing at first, but he actually seems like a good person.",
+			"Apparently, he's been silently protecting Christmas in Lutie by stopping monster attacks behind the scenes.",
+			"       ",
+			"Let's lend him a hand by defeating 200 monsters of any kind, as long as they're level 150 or higher.",
+			"       ",
+			"Once you're done, report back to the <NAVI>man<INFO>xmas,153,54,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat Monsters",
+		NpcSpr = "4_M_RUSBALD",
+		NpcNavi = "xmas",
+		NpcPosX = 153,
+		NpcPosY = 54
+	},
+	[297122] = {
+		Title = "[Daily] Christmas Silent Guardian (200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You met a strange person standing by the gate on the outskirts of Lutie.",
+			"He looks menacing at first, but he actually seems like a good person.",
+			"Apparently, he's been silently protecting Christmas in Lutie by stopping monster attacks behind the scenes.",
+			"       ",
+			"Let's lend him a hand by defeating 200 monsters of any kind, as long as they're level 200 or higher.",
+			"       ",
+			"Once you're done, report back to the <NAVI>man<INFO>xmas,153,54,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat Monsters",
+		NpcSpr = "4_M_RUSBALD",
+		NpcNavi = "xmas",
+		NpcPosX = 153,
+		NpcPosY = 54
+	},
+	[297116] = {
+		Title = "[Cooldown] Christmas Silent Guardian",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping the Menacing Adult for today. Visit <NAVI>him<INFO>xmas,153,54,0,101,0</INFO></NAVI> again tomorrow if you're ready for another run."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_RUSBALD",
+		NpcNavi = "xmas",
+		NpcPosX = 153,
+		NpcPosY = 54
+	},
+	[297117] = {
+		Title = "[Daily] Pampered Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You met a mother and daughter duo in the center of Lutie.",
+			"For some reason, you've suddenly become the mother's wish-granter for her pampered child.",
+			"       ",
+			"Show your Christmas spirit and benevolent aura by helping them with whatever they need.",
+			"       ",
+			"Once you're done, report back to the <NAVI>mother<INFO>xmas,162,156,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Grant the Child's Wish",
+		NpcSpr = "4_F_RUSWOMAN1",
+		NpcNavi = "xmas",
+		NpcPosX = 162,
+		NpcPosY = 156
+	},
+	[297118] = {
+		Title = "[Cooldown] Pampered Problems",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You're done helping the Doting Mother for today. Visit <NAVI>her<INFO>xmas,162,156,0,101,0</INFO></NAVI> again tomorrow if you're ready for another run."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_RUSWOMAN1",
+		NpcNavi = "xmas",
+		NpcPosX = 162,
+		NpcPosY = 156
+	},
+	[297119] = {
+		Title = "[Cooldown] Santa is Coming to Town",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've gifted enough kids for today. Check on them again tomorrow if you want to give out more presents.",
+			"       ",
+			"^4D4DFFKids' Location^000000",
+			"<NAVI>Eccentric Girl<INFO>xmas,148,301,0,101,0</INFO></NAVI>, <NAVI>Hiding Boy<INFO>xmas,214,160,0,101,0</INFO></NAVI>, ",
+			"<NAVI>Reliable Girl<INFO>xmas,113,289,0,101,0</INFO></NAVI>, <NAVI>Noble Boy<INFO>xmas,116,289,0,101,0</INFO></NAVI>, ",
+			"<NAVI>Cozy Girl<INFO>xmas,143,135,0,101,0</INFO></NAVI>, <NAVI>Teddy Boy<INFO>xmas,73,106,0,101,0</INFO></NAVI>, ",
+			"<NAVI>Chilly Boy<INFO>xmas,140,55,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_SANTA",
+		NpcNavi = "xmas",
+		NpcPosX = 145,
+		NpcPosY = 234
+	},
+	[297123] = {
+		Title = "[Cooldown] Warming Bonfire Buff",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've warmed yourself by the bonfire enough for today. ",
+			"Let's refrain from using it again for now before that menacing man stares us into eternity.",
+			"       ",
+			"Come back again tomorrow if you need another buff."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_BONFIRE",
+		NpcNavi = "xmas",
+		NpcPosX = 155,
+		NpcPosY = 51
 	}
 }
