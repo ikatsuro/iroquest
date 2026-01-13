@@ -66567,6 +66567,1615 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
 	},
+	[8806] = {
+		Title = "I grew a plant",
+		Description = {
+			"How did you finish one in six seconds? It is checked when you complete the plant practice in the Fantasy Book once."
+		},
+		Summary = ""
+	},
+	[8807] = {
+		Title = "[Cooldown] Plant Practices",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"This quest is a daily quest, and when the waiting time expires, you can receive it again from <NAVI>[the book]<INFO>prt_elib,59,53,0,101,0</INFO></NAVI> again."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8808] = {
+		Title = "How to make Fertilizer",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Devries says that there is a book that summarizes things that are too long to explain, so read them."
+		},
+		Summary = "Read Making Fertilizer for Beginners"
+	},
+	[8809] = {
+		Title = "Let's make a Fertilizer (1)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"On the prepared lab bench, combine the ingredients to be used as fertilizers according to Devries' instructions."
+		},
+		Summary = "Work at the lab bench"
+	},
+	[8810] = {
+		Title = "Let's make a Fertilizer (2)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Show Devries the beaker. It's strange to see things that I normally see used for other purposes like this."
+		},
+		Summary = "Talk to Devries"
+	},
+	[8811] = {
+		Title = "Let's fertilize",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Fertilizer is mixed with the cultured soil in the middle of Devries's laboratory. Touching the soil seems to be more pleasant than I thought."
+		},
+		Summary = "Applying fertilizer to the soil"
+	},
+	[8812] = {
+		Title = "A sprout has grown",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"A seed that has just been planted has sprouted in an instant! Let's do our best until we're all grown up. Nutrients must be prepared on the lab bench."
+		},
+		Summary = "Work at the lab bench"
+	},
+	[8813] = {
+		Title = "Sprinkle with Nutrients",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Germination grass or mushrooms should be sprayed with nutrients. To make a nutrient, harvest the grass in the lab."
+		},
+		Summary = "Sprinkle nutrients into the culture soil"
+	},
+	[8814] = {
+		Title = "Nurturing success!",
+		IconName = "ico_vr.bmp",
+		Description = { "You have grown your plants wonderfully! Let Devries evaluate you." },
+		Summary = "Talk to Devries"
+	},
+	[8815] = {
+		Title = "Gift of Ink",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Receive a clear gift from Ink. Experience can be received directly, or it can be exchanged for <ITEM>[Fantasy Growth Potion]<INFO>101404</INFO></ITEM> although there might be a loss in efficiency."
+		},
+		Summary = "Conversation with Ink"
+	},
+	[8816] = {
+		Title = "The easiest alchemy in the world",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"If alchemy is that easy, would anyone make an alchemist? But today, an experienced alchemist is doing everything but choosing. And... the book seems to be easy at first... It's really easy, isn't it?"
+		},
+		Summary = "Reading the easiest alchemy in the world"
+	},
+	[8817] = {
+		Title = "Pick Grass",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Anyway, you have to pick one grass. The book, which was not easy at all, was written about grass in detail, so please refer to it."
+		},
+		Summary = "Choose a pool according to the content of the book"
+	},
+	[16664] = {
+		Title = "Elena Volkova, the Great Flame - First Reading",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I started reading \\'Elena Bolkova, the Great Flame\\' of the <NAVI>[Fantasy Book]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI> for the first time. Read all and meet the Table of Contents Fairy Ink."
+		},
+		Summary = "Complete the first reading of the Fantasy Book"
+	},
+	[16665] = {
+		Title = "[Cooldown] Elena Volkova, the Great Flame",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"\\'Elena Bolkova, the Great Flame\\' of the <NAVI>[Fantasy Book]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI> can only be read once a day. Let's wait a little longer."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[16666] = {
+		Title = "Elena Volkova, the Great Flame",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I started reading \\'Elena Bolkova, the Great Flame\\' of the <NAVI>[Fantasy Book]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI> for the first time. Read all and meet the Table of Contents Fairy Ink."
+		},
+		Summary = "Complete the first book of the Fantasy Book"
+	},
+	[17663] = {
+		Title = "The Lady of Gold Spoon wants to live quietly",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI> Experiencing \\'The Lady of Gold Spoon wants to live quietly\\'!"
+		},
+		Summary = "VR Experience"
+	},
+	[17664] = {
+		Title = "The Lady of Gold Spoon wants to live quietly",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI> Experiencing \\'The Lady of Gold Spoon wants to live quietly\\'!"
+		},
+		Summary = "VR Experience"
+	},
+	[17665] = {
+		Title = "[Cooldown] The Lady of Gold Spoon wants to live quietly",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After dawn, <NAVI>[Fantasy Series-001]<INFO>prt_elib,51,61,0,101,0</INFO></NAVI> \\'The Lady of Gold Spoon wants to live quietly\\' is available for re-reading, so please find it again."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[18145] = {
+		Title = "A Scientist's Escape Record - First Experience",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I am experiencing the Fantasy Series \\\"A Scientist's Escape Record\\\". Please activate the borrowed book to receive guidance. (Activation: Double Click)"
+		},
+		Summary = ""
+	},
+	[18146] = {
+		Title = "A Scientist's Escape Record - 1",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 1-1]<INFO>hu_fild02,270,273,0,101,0</INFO></NAVI>: Eisen Werner, who caused an explosion in the laboratory at the decisive moment, escaped from the chaos. Eisen Werner was able to escape successfully as soon as the item was activated, although it was a bit difficult to move away from the facility due to the movement prevention effect that the rebellions had installed for their operation."
+		},
+		Summary = "Read Chapter 1-1"
+	},
+	[18147] = {
+		Title = "A Scientist's Escape Record - 2",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 1-1]<INFO>hu_fild02,270,273,0,101,0</INFO></NAVI>: \\\"Movement should be done when it is safe.\\\" Eisen Werner indifferently ordered the butterfly. Eisen Werner will be safely hiding near the tree while the butterfly takes care of the nearby norbus."
+		},
+		Summary = "Let's ensure safety"
+	},
+	[18148] = {
+		Title = "A Scientist's Escape Record - 3",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 1-2]<INFO>hu_fild04,307,379,0,101,0</INFO></NAVI>: Eisen Werner, who defeated the nearby Norbus using butterflies, started moving along the set path. In Aizen's mind, the only thought was that he wanted to get to Hugel as soon as possible and take a warm rest."
+		},
+		Summary = "Read Chapter 1-2"
+	},
+	[18149] = {
+		Title = "A Scientist's Escape Record - 4",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 1-2]<INFO>hu_fild04,307,379,0,101,0</INFO></NAVI>: \\\"If you find a Grass Fairy near here, we'll show you a safe shortcut!\\\" The dastardly kid offered a deal. Eisen Werner ordered the butterfly without delay. \\\"Butterfly, find the plant that matches the description.\\\""
+		},
+		Summary = "Find the Grass Fairy"
+	},
+	[18150] = {
+		Title = "A Scientist's Escape Record - 5",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel's Tavern <NAVI>[Chapter 1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI>: Eisen Werner missed a hot meal. \\\"After taking a break here, I'll have to board the plane. I'll have to go to Einbroch.\\\""
+		},
+		Summary = "Read Chapter 1-3"
+	},
+	[18151] = {
+		Title = "A Scientist's Escape Record - 6",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel's Tavern <NAVI>[Chapter 1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI>: \\\"I'll have to move slowly.\\\" After a leisurely meal, Werner took a break and ordered the butterfly to scout the area just in case anything happens."
+		},
+		Summary = "Scouting the 1st floor"
+	},
+	[18152] = {
+		Title = "A Scientist's Escape Record - 7",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel's Tavern <NAVI>[Chapter 1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI>: On the first floor of the pub, a group of rebellions are eating. A scientist who ran away for a while, the owner of the Werner Institute. There are stories about impressions. The faithful secretary, Nabi, went to deliver this message to the owner."
+		},
+		Summary = "Report the reconnaissance results to Aizen"
+	},
+	[18153] = {
+		Title = "A Scientist's Escape Record - 8",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Inn <NAVI>[Chapter 1-4]<INFO>hu_in01,321,20,0,101,0</INFO></NAVI>: Eisen Werner sat on the bed in the inn room, deep in thought. I looked at the research recorded on the butterfly, but I couldn't figure out how I got into this situation."
+		},
+		Summary = "Read Chapter 1-4"
+	},
+	[18154] = {
+		Title = "A Scientist's Escape Record - 9",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 2-1]<INFO>hu_fild04,64,363,0,101,0</INFO></NAVI>: \\\"I can't help it. I can't help it.\\\" Eisen Werner murmured as if brainwashed, looking at the mountain pass before his eyes. \\\"Damn Rebellion bastards.\\\" Cursing the culprit for not being able to use the airship, his steps up along the mountain road were heavy."
+		},
+		Summary = "Read Chapter 2-1"
+	},
+	[18155] = {
+		Title = "A Scientist's Escape Record - 10",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI>: The cold wind blows like a dagger and pierces the hot body. The top of the mountain, which I looked around while swiping the goosebumps, was a superb view! There was no point. Eisen Werner was rarely furious. \\\"Butterfly!!!!\\\""
+		},
+		Summary = "Read Chapter 2-2"
+	},
+	[18156] = {
+		Title = "A Scientist's Escape Record - 11",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI>: Terrain scan, Nabal and Eisen Werner did not have the energy to move further. I don't want to, but it's camping. This is definitely a night out. Eisen Werner decided to suffer the faithful butterfly who had caused him hardship. Butterflies had to move in a hurry to chase the monsters around the campsite."
+		},
+		Summary = "Report to Aizen after defeating the monster"
+	},
+	[18157] = {
+		Title = "A Scientist's Escape Record - 12",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Chapter 2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI>: Eisen Werner, having secured safety, took out the research records stored in the butterfly one by one. Why did he come to study time regression? So I just didn't want to see him die like that..."
+		},
+		Summary = "Safe Bonfire Operation"
+	},
+	[18158] = {
+		Title = "A Scientist's Escape Record - 13",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Yuno Field <NAVI>[Chapter 2-3]<INFO>yuno_fild06,41,321,0,101,0</INFO></NAVI>: A tedious hike and a rough road after. Eisen Werner was barely walking with a heavy body, as if his body had already been torn apart. All that was left was a few potions and herbs. I'm just trying to clean a butterfly."
+		},
+		Summary = "Read Chapter 2-3"
+	},
+	[18159] = {
+		Title = "A Scientist's Escape Record - 14",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Yuno Field <NAVI>[Chapter 2-4]<INFO>yuno_fild06,308,172,0,101,0</INFO></NAVI>: Humans. There are people! Even great campsites exist! Despite the fact that he was a fugitive who had to avoid others, Eisen Werner was happy to see the shadows of people he saw after a few days."
+		},
+		Summary = "Read Chapter 2-4"
+	},
+	[18160] = {
+		Title = "A Scientist's Escape Record - end",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You have experienced all the escape records of a scientist. Return to the East Library of Prontera, return the book to the 'A Scientist's Escape Record' <NAVI>[cradle]<INFO>prt_elib,59,60,0,101,0</INFO></NAVI>, and receive a complete reading reward from the Table of Contents Fairy Ink!"
+		},
+		Summary = "Returning books to the library",
+		NpcSpr = "4_VR_BOOK_BLUE",
+		NpcNavi = "prt_elib",
+		NpcPosX = "59",
+		NpcPosY = "60"
+	},
+	[18161] = {
+		Title = "[Cooldown] A Scientist's Escape Record",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Your rental record of the Fantasy Series 'A Scientist's Escape Record' remains. You need to recharge your magic power, so if you want to experience it again, please use the book <NAVI>[cradle]<INFO>prt_elib,59,60,0,101,0</INFO></NAVI> in the East Library of Prontera after the charging time has passed."
+		},
+		Summary = "Reset at 04:00",
+		NpcSpr = "4_VR_BOOK_BLUE",
+		NpcNavi = "prt_elib",
+		NpcPosX = "59",
+		NpcPosY = "60",
+		CoolTimeQuest = 1
+	},
+	[18162] = {
+		Title = "Read A Scientist's Escape Record",
+		IconName = "ico_vr.bmp",
+		Description = { "You have read the Fantasy Series 'A Scientist's Escape Record' at least once!" },
+		Summary = ""
+	},
+	[18163] = {
+		Title = "A Scientist's Escape Record - 2-1",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Checkpoint 2-1]<INFO>hu_fild02,266,151,0,101,0</INFO></NAVI>: It seems that the butterfly deceived itself. A slight sense of betrayal passed through Eisen Werner's back, but Eisen Werner now had no choice but to trust the butterfly. \\\"The machine betrays me... that's an overstatement.\\\""
+		},
+		Summary = "Reach Checkpoint 2-1"
+	},
+	[18164] = {
+		Title = "A Scientist's Escape Record - 9-1",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Checkpoint 9-1]<INFO>hu_fild04,59,146,0,101,0</INFO></NAVI>: Everyone knows that regular hiking is good for health. But wouldn't it be crazy to walk through the forest while running through the Novus that run like a dog in a state of overlapping fatigue?"
+		},
+		Summary = "Reach Checkpoint 9-1"
+	},
+	[18165] = {
+		Title = "A Scientist's Escape Record - 9-2",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Checkpoint 9-2]<INFO>hu_fild04,286,159,0,101,0</INFO></NAVI>: Eisen Werner stumbled and rolled his shin on a slope. Eisen Werner, who did not want to consume his healing potions for such small wounds, had no choice but to procure medicinal herbs locally. \\\"Butterfly, somehow get a green herb and a yellow herb one by one.\\\""
+		},
+		Summary = "Deliver Herbs to Checkpoint 9-2"
+	},
+	[18166] = {
+		Title = "A Scientist's Escape Record - 9-3",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hugel Field <NAVI>[Checkpoint 9-3]<INFO>hu_fild04,170,114,0,101,0</INFO></NAVI>: There are many Novus in the fields and mountains surrounding Abyss Lake. A lot. In the distance, in the sense of the butterfly, Eisen Werner can be seen climbing the mountain on all fours, breathing heavily. Nabi, a clever AI assistant, has decided to put the Novus aside for her master's comfortable journey."
+		},
+		Summary = "Arrive safely at Checkpoint 9-3"
+	},
+	[18167] = {
+		Title = "A Scientist's Escape Record - 13-1",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Yuno Field <NAVI>[Checkpoint 13-1]<INFO>yuno_fild06,126,334,0,101,0</INFO></NAVI>: He said that there would be someone a little further away, so he tried to walk, but Elmes Fletou's slippers weren't comfortable. I don't know if it's because of the sand on the slippers or because my tired body is crying out for rest, but Eisen Werner followed the guidance of the butterfly, leading his heavy body."
+		},
+		Summary = "Reach Checkpoint 13-1"
+	},
+	[18168] = {
+		Title = "A Scientist's Escape Record - 13-2",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Yuno Field <NAVI>[Checkpoint 13-2]<INFO>yuno_fild06,224,261,0,101,0</INFO></NAVI>: My mouth was dry and I had to drag my stiff legs. A sand wind blows over my blurry vision again. Eisen Werner, in a sudden soaring resentment, kicked something that caught his foot, and he lost all his energy and collapsed. \\\"Slippers appeared in front of the master.\\\" Eisen Werner screamed silently at the dry report and threw off his car shoes in anger."
+		},
+		Summary = "Arrive safely at Checkpoint 13-2"
+	},
+	[18169] = {
+		Title = "A Scientist's Escape Record - 13-3",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Yuno Field <NAVI>[Checkpoint 13-3]<INFO>yuno_fild06,301,255,0,101,0</INFO></NAVI>: Eisen Werner's tossed shoes stimulated nearby slippers and forced the butterfly to crawl while dealing with the slippers. \\\"Where the hell are people? Butterfly! Butterfly!!!!\\\""
+		},
+		Summary = "Arrive safely at Checkpoint 13-3"
+	},
+	[8818] = {
+		Title = "Nilem's Poring Study",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The author of <NAVI>[Fantasy Book 007-Growing Angelings]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI> is Nelem!",
+			"It is said that Nilem wrote a book so that the ecology of the Poring can be observed right next to it based on the research results so far... ?"
+		},
+		Summary = "Read Growing Angellings"
+	},
+	[8819] = {
+		Title = "Growing Angellings",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"This quest is a daily quest, and when the waiting time expires, you can receive it again from <NAVI>[the book]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI> again."
+		},
+		Summary = "Reset at 04:00"
+	},
+	[8820] = {
+		Title = "Adventurer's Legend",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Eventually, the adventurer saved Poringtera from the hand of evil!",
+			"...the years have passed...",
+			"One day, the hero in hiding hears a call from Talli."
+		},
+		Summary = "Talk to Bully"
+	},
+	[8821] = {
+		Title = "Clarification's Request",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I entrust the adventurer with the cute young Poring, who is a fool of the Valkyrie and a friend of all adventurers.",
+			"Please raise this child as an Angeling. The adventurer nodded at Talli's earnest request."
+		},
+		Summary = "Talk to Gullaring"
+	},
+	[8822] = {
+		Title = "Say hello to Gullaring (1)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Poringtera is a small town of the Poring people made up of three islands.",
+			"The villagers are very sympathetic to the warriors who have settled in Poringtera after the invasion of Poringtera.",
+			"The hero decided to take Gullaring to the square."
+		},
+		Summary = "Talk to Gullaring"
+	},
+	[8823] = {
+		Title = "Say hello to Gullaring (2)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Poringtera is a small town of the Poring people made up of three islands.",
+			"The villagers are very sympathetic to the warriors who have settled in Poringtera after the invasion of Poringtera.",
+			"The hero decided to take Gullaring to the square."
+		},
+		Summary = "Talk to Doloring"
+	},
+	[8824] = {
+		Title = "Say hello to Gullaring (3)",
+		IconName = "ico_vr.bmp",
+		Description = { "When Doloring's short story was over, Wolvering summoned a warrior." },
+		Summary = "Talk to Wolvering"
+	},
+	[8825] = {
+		Title = "April's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8826] = {
+		Title = "May's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8827] = {
+		Title = "June's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8828] = {
+		Title = "July is the month to play",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The inhabitants of Poringtera enjoy a simple holiday in July, when there is less field work. Gullaring's teachers are also busy getting ready to go out and play.",
+			"The Hero and Gullaring also decided to go out and play."
+		},
+		Summary = "Scheduling the Gullaring"
+	},
+	[8829] = {
+		Title = "August's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8830] = {
+		Title = "September's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8831] = {
+		Title = "October's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8832] = {
+		Title = "November's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8833] = {
+		Title = "December is the month to play",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The inhabitants of Poringtera enjoy a simple holiday in December, when there is less field work. Gullaring's teachers are also busy getting ready to go out and play.",
+			"The Hero and Gullaring also decided to go out and play."
+		},
+		Summary = "Scheduling the Gullaring"
+	},
+	[8834] = {
+		Title = "January's Plan",
+		IconName = "ico_vr.bmp",
+		Description = { "What are you going to teach Gullaring this month?" },
+		Summary = "Scheduling the Gullaring"
+	},
+	[8835] = {
+		Title = "Dreaming Poring",
+		IconName = "ico_vr.bmp",
+		Description = { "Gullaring grew up?" },
+		Summary = "Talk to Gullaring"
+	},
+	[8836] = {
+		Title = "The Growth of Gullaring",
+		IconName = "ico_vr.bmp",
+		Description = { "Gullaring grew up to be what he wanted. May you be happy any way." },
+		Summary = "Talk to Gullaring"
+	},
+	[8837] = {
+		Title = "Gift of Ink",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Receive a clear gift from Ink.",
+			"Experience can be received directly, or it can be exchanged for <ITEM>[Fantasy Growth Potion]<INFO>101404</INFO></ITEM> although there might be a loss in efficiency."
+		},
+		Summary = "Conversation with Ink"
+	},
+	[8838] = {
+		Title = "Return",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Now that she has returned to Prontera safely, she must tell Nelem her feelings.",
+			"As if it appeared suddenly before reading a book, wouldn't it appear suddenly if you touch the <NAVI>[book]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI>?"
+		},
+		Summary = "Talk to Nelem"
+	},
+	[16667] = {
+		Title = "Dungeon Food - First Reading",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I started reading \\'Dungeon Food\\' of the <NAVI>[Fantasy Book]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI> for the first time. Read all and meet the Table of Contents Fairy Ink."
+		},
+		Summary = "Complete the first reading of the Fantasy Book"
+	},
+	[16668] = {
+		Title = "[Cooldown] Dungeon Food",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"\\'Dungeon Food\\' of the <NAVI>[Fantasy Book]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI> can only be read once a day. Let's wait a little longer."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[16669] = {
+		Title = "Dungeon Food - Ink in the Book",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I started reading \\'Dungeon Food\\' of the Fantasy Book. Let's talk with <NAVI>[Ink]<INFO>vr_bob,293,202,0,101,0</INFO></NAVI> in the Fantasy Book."
+		},
+		Summary = "Talk with Ink"
+	},
+	[16670] = {
+		Title = "Dungeon Food - Seyren Windsor Strange Midday",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Seyren Windsor]<INFO>vr_bob,296,200,0,101,0</INFO></NAVI> of the Fantasy Book is watching from his side."
+		},
+		Summary = "Talk to Seyren Windsor"
+	},
+	[16671] = {
+		Title = "Dungeon Food - Two people on the beach",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Let's meet <NAVI>[Margaretha Sorin]<INFO>vr_bob,146,293,0,101,0</INFO></NAVI> and Kathryne Keyron at the beach in the Fantasy Book and ask for the lunch menu."
+		},
+		Summary = "Talk to Margaretha Sorin"
+	},
+	[16672] = {
+		Title = "Dungeon Food - Margaretha Sorin",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Ask <NAVI>[Margaretha Sorin]<INFO>vr_bob,146,293,0,101,0</INFO></NAVI> a question at the beach in the Fantasy Book."
+		},
+		Summary = "Talk to Margaretha Sorin."
+	},
+	[16673] = {
+		Title = "Dungeon Food - Kathryne Keyron",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Ask <NAVI>[Kathryne Keyron]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI> a question at the beach in the Fantasy Book."
+		},
+		Summary = "Talk to Kathryne Keyron"
+	},
+	[16674] = {
+		Title = "Dungeon Food - Lunch Menu",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Deliver your wishes to <NAVI>[Seyren Windsor]<INFO>vr_bob,144,289,0,101,0</INFO></NAVI> who appears on the beach in the Fantasy Book."
+		},
+		Summary = "Talk to Seyren Windsor"
+	},
+	[16675] = {
+		Title = "Dungeon Food - Bet Hunt",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"We decided to directly procure fresh lunch ingredients from the beach in the Fantasy Book. Let's go to <NAVI>[Kathryne Keyron]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Kathryne Keyron"
+	},
+	[16676] = {
+		Title = "Dungeon Food - Catching Crabs and Clams",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Hunt five crabs and ten clams on the beach in the Fantasy Book and go to <NAVI>[Kathryne Keyron]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Kathryne Keyron"
+	},
+	[16677] = {
+		Title = "Dungeon Food - Match the hunting time",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After hunting on the beach in the Fantasy Book for the first time, it might be a good thing if you go to <NAVI>[Kathryne Keyron]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Kathryne Keyron"
+	},
+	[16678] = {
+		Title = "Dungeon Food - Bet Result",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I won a bet with Kathryne Keyron in the Fantasy Series. Could something good happen?"
+		},
+		Summary = "Bet won"
+	},
+	[16679] = {
+		Title = "Dungeon Food - Prepare for lunch",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Deliver the caught seafood to <NAVI>[Seyren Windsor]<INFO>vr_bob,295,209,0,101,0</INFO></NAVI>, who is preparing lunch at the dormitory in the Fantasy Book."
+		},
+		Summary = "Talk to Seyren Windsor"
+	},
+	[16680] = {
+		Title = "Dungeon Food - Grilled Crab",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"She was assigned a mission by Seyren Windsor in the Fantasy Book. Let's grill crabs with Margaretha Sorin in the <NAVI>[oven]<INFO>vr_bob,290,209,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cooking in the Fire Pit"
+	},
+	[16681] = {
+		Title = "Dungeon Food - Crab Delivery",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Bring the well-roasted crabs and shelled crab meat to <NAVI>[Seyren Windsor]<INFO>vr_bob,295,209,0,101,0</INFO></NAVI> in the Fantasy Book."
+		},
+		Summary = "Talk to Seyren Windsor"
+	},
+	[16682] = {
+		Title = "Dungeon Food - Condiment Delivery",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Another mission was assigned to me by Seyren Windsor in the Fantasy Book. Bring tomato paste and paprika powder from <NAVI>[Cupboard]<INFO>vr_bob,302,210,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Look at the Cupboard"
+	},
+	[16683] = {
+		Title = "Dungeon Food - Is this seasoning?",
+		IconName = "ico_vr.bmp",
+		Description = { "I took the spices out of the cupboard." },
+		Summary = "Get the seasoning"
+	},
+	[16684] = {
+		Title = "Dungeon Food - Is this seasoning?",
+		IconName = "ico_vr.bmp",
+		Description = { "I took the spices out of the cupboard." },
+		Summary = "Get the seasoning"
+	},
+	[16685] = {
+		Title = "Dungeon Food - Is this seasoning?",
+		IconName = "ico_vr.bmp",
+		Description = { "I took the spices out of the cupboard." },
+		Summary = "Get the seasoning"
+	},
+	[16686] = {
+		Title = "Dungeon Food - Is this seasoning?",
+		IconName = "ico_vr.bmp",
+		Description = { "I took the spices out of the cupboard." },
+		Summary = "Get the seasoning"
+	},
+	[16687] = {
+		Title = "Dungeon Food - Cooking Completion",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Excellent crab bisque soup is ready. Take it to an outdoor table and join <NAVI>[Kathryne Keyron]<INFO>vr_bob,291,195,0,101,0</INFO></NAVI>, Margaretha Sorin and Seyren Windsor."
+		},
+		Summary = "Talk to Kathryne Keyron"
+	},
+	[16688] = {
+		Title = "Dungeon Food - Finished Meal",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The meal ended satisfactorily. <NAVI>[Margaretha Sorin]<INFO>vr_bob,294,196,0,101,0</INFO></NAVI> volunteered to clean up the mess."
+		},
+		Summary = "Talk to Margaretha Sorin"
+	},
+	[16689] = {
+		Title = "Dungeon Food - The End of the Story",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After dinner, it's time to wrap up the short story. Speak with <NAVI>[Seyren Windsor]<INFO>vr_bob,290,198,0,101,0</INFO></NAVI> to prepare to close the book."
+		},
+		Summary = "Talk to Seyren Windsor"
+	},
+	[16690] = {
+		Title = "Dungeon Food - Complete",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"I finished reading. Talk to <NAVI>[Ink]<INFO>vr_bob,293,202,0,101,0</INFO></NAVI> to receive a reward and close the book."
+		},
+		Summary = "Talk with Ink"
+	},
+	[12582] = {
+		Title = "I'm the only pure-blooded in the Academy",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> 'I'm the only pure-blooded in the Academy' First experience!"
+		},
+		Summary = "Fantasy Book Experience"
+	},
+	[12583] = {
+		Title = "I'm the only pure-blooded in the Academy (Forbidden Book)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> 'I'm the only pure-blooded in the Academy(Forbidden Book)' First experience!"
+		},
+		Summary = "Fantasy Book Experience"
+	},
+	[12584] = {
+		Title = "[Cooldown] I'm the only pure-blooded in the Academy",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After dawn, you can reread <NAVI>[Fantasy Series-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> 'I'm the only pure-blooded in the Academy', so please come back."
+		},
+		Summary = "Reset at 04.00 AM",
+		CoolTimeQuest = 1
+	},
+	[12585] = {
+		Title = "I'm the only pure-blooded in the Academy",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> 'I'm the only pure-blooded in the Academy' First Experience!"
+		},
+		Summary = "Fantasy Book Experience"
+	},
+	[12586] = {
+		Title = "I'm the only pure-blooded in the Academy (Forbidden Book)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> 'I'm the only pure-blooded in the Academy(Forbidden Book)' First Experience!"
+		},
+		Summary = "Fantasy Book Experience"
+	},
+	[12587] = {
+		Title = "I'm the only pure-blooded in the Academy (Forbidden Book)",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After dawn, you can reread <NAVI>[Fantasy Series-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> 'I'm the only pure-blooded in the Academy(Forbidden Book)' so please come back "
+		},
+		Summary = "Reset at 04.00 AM",
+		CoolTimeQuest = 1
+	},
+	[17666] = {
+		Title = "Me and Me",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> Experiencing \"Me and Me\"!"
+		},
+		Summary = "VR Experience"
+	},
+	[17667] = {
+		Title = "Me and Me",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> Experiencing \"Me and Me\"!"
+		},
+		Summary = "VR Experience"
+	},
+	[17668] = {
+		Title = "[Cooldown] Me and Me",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After dawn, you can reread <NAVI>[Fantasy Series-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \"Me and Me.\" Please come back then."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[23020] = {
+		Title = "Critura Work Manual",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> Let's engrave the guidelines for academy duties on your body and mind through ¡°Guidelines for Frontline Workers: Critura Work Manual.¡±"
+		},
+		Summary = "VR Experience"
+	},
+	[23021] = {
+		Title = "Critura Work Manual",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"<NAVI>[Fantasy Series-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> Let's engrave the guidelines for academy duties on your body and mind through ¡°Guidelines for Frontline Workers: Critura Work Manual.¡±"
+		},
+		Summary = "VR Experience"
+	},
+	[23022] = {
+		Title = "[Cooldown] Critura Work Manual",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"To ensure all users can experience it, <NAVI>[Fantasy Series-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> ¡°Guidelines for Frontline Workers: Critura Work Manual¡± can only be accessed once per day."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[23023] = {
+		Title = "New Employee Registration Procedure",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You¡¯ve safely entered the Fantasy Series: Guidelines for Frontline Workers - Critura Work Manual. Talk to Marbron, who came to greet you."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23024] = {
+		Title = "New Employee Registration Procedure",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Marbron tells you to speak with Sprakki to proceed with the new employee registration. Talk to Sprakki at the 1st floor counter."
+		},
+		Summary = "Talk to Sprakki"
+	},
+	[23025] = {
+		Title = "New Employee Registration Procedure",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You¡¯ve completed the new employee registration. Inform Marbron that the registration is done."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23026] = {
+		Title = "New Employee Registration Procedure",
+		IconName = "ico_vr.bmp",
+		Description = { "Head to the Archer Classroom on the 2nd floor to begin official training." },
+		Summary = "Go to the Archer Classroom"
+	},
+	[23027] = {
+		Title = "Regular and Periodic Duties",
+		IconName = "ico_vr.bmp",
+		Description = { "When ready, talk to Marbron to learn the basics of academy work." },
+		Summary = "Talk to Marbron"
+	},
+	[23028] = {
+		Title = "Regular and Periodic Duties",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You¡¯ve learned the basics of academy work. When ready, tell Marbron you¡¯d like to try real practice."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23029] = {
+		Title = "Regular and Periodic Duties",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Organize all the documents scattered in the Archer Classroom and report back to Marbron."
+		},
+		Summary = "Process the documents"
+	},
+	[23030] = {
+		Title = "Document Handling 1",
+		IconName = "ico_vr.bmp",
+		Description = { "Handle the document on the desk in the Archer Classroom." },
+		Summary = ""
+	},
+	[23031] = {
+		Title = "Document Handling 2",
+		IconName = "ico_vr.bmp",
+		Description = { "Handle the document on the desk in the Archer Classroom." },
+		Summary = ""
+	},
+	[23032] = {
+		Title = "Document Handling 3",
+		IconName = "ico_vr.bmp",
+		Description = { "Handle the document on the desk in the Archer Classroom." },
+		Summary = ""
+	},
+	[23033] = {
+		Title = "Document Handling 4",
+		IconName = "ico_vr.bmp",
+		Description = { "Handle the document on the desk in the Archer Classroom." },
+		Summary = ""
+	},
+	[23034] = {
+		Title = "Document Handling 5",
+		IconName = "ico_vr.bmp",
+		Description = { "Handle the document on the desk in the Archer Classroom." },
+		Summary = ""
+	},
+	[23035] = {
+		Title = "Document Handling 6",
+		IconName = "ico_vr.bmp",
+		Description = { "Handle the document on the desk in the Archer Classroom." },
+		Summary = ""
+	},
+	[23036] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Take a short break, then talk to Marbron to continue your training." },
+		Summary = "Talk to Marbron"
+	},
+	[23037] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Meet Marbron on the 1st floor of Critura Academy." },
+		Summary = "Talk to Marbron on the 1st floor"
+	},
+	[23038] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Follow Marbron to the infirmary located on the southwest side of the 1st floor."
+		},
+		Summary = "Go to the Infirmary"
+	},
+	[23039] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"There¡¯s a healer in the infirmary. Staff members can enjoy welfare benefits there. Greet the healer."
+		},
+		Summary = "Greet the Healer"
+	},
+	[23040] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Follow Marbron to the Supply Room on the northwest side of the 1st floor." },
+		Summary = "Go to the Supply Room"
+	},
+	[23041] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"In the Supply Room is Combat Instructor Sveno. You¡¯ll likely work with him often while at the academy. Greet Sveno."
+		},
+		Summary = "Greet Combat Instructor Sveno"
+	},
+	[23042] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Follow Marbron to the Main Lecture Hall on the north side of the 1st floor." },
+		Summary = "Go to the Main Lecture Hall"
+	},
+	[23043] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Follow Marbron to the Library on the northeast side of the 1st floor." },
+		Summary = "Go to the Library"
+	},
+	[23044] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Follow Marbron to the Cafeteria on the southeast side of the 1st floor." },
+		Summary = "Go to the Cafeteria"
+	},
+	[23045] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Takuaz is in the cafeteria. According to Marbron, meals are the most important thing for any worker... Greet Takuaz."
+		},
+		Summary = "Greet Takuaz"
+	},
+	[23046] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"It seems the 1st floor tour is complete. Should we head back to the 2nd floor?"
+		},
+		Summary = "Go back to the 2nd floor?"
+	},
+	[23047] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "Sprakki is calling you. Go see Sprakki at the 1st floor counter." },
+		Summary = "Talk to Sprakki"
+	},
+	[23048] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Let Marbron, who returned to the 2nd-floor Archer Classroom, know that you forgot the documents to submit to Sprakki."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23049] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Help Marbron and search for the work-study student's work log behind the classroom."
+		},
+		Summary = "Find the work log"
+	},
+	[23050] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = { "You found the work log. Bring it to Marbron." },
+		Summary = "Talk to Marbron"
+	},
+	[23051] = {
+		Title = "Academy Facilities and Staff Guide",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Take a short break on the 2nd floor. Marbron said it's okay to eat the snacks in the classroom."
+		},
+		Summary = "Eat a snack"
+	},
+	[23052] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23053] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23054] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23055] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23056] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "Mikaela has arrived. Listen in on what Marbron and Mikaela are talking about." },
+		Summary = "Listen to Marbron and Mikaela's conversation"
+	},
+	[23057] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23058] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23059] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23060] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A professor has arrived. Listen to what Marbron and the professor talk about." },
+		Summary = "Listen to Marbron and the professor's conversation"
+	},
+	[23061] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A complainant has arrived. Watch how Marbron handles the complaint." },
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23062] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Marbron asked you to find the archer lecture curriculum on the lectern at the back of the classroom."
+		},
+		Summary = "Find the curriculum on the lectern"
+	},
+	[23063] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The complainant seems very upset with Marbron. Talk to the complainant instead of Marbron."
+		},
+		Summary = "Talk to the complainant"
+	},
+	[23064] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "A firm hand for a difficult complainant! Teach the troublemaker a lesson." },
+		Summary = "Deal with the complainant"
+	},
+	[23065] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Marbron asked you to make a 'No Entry for Outsiders' notice to be posted outside. Create the notice on the lectern at the back of the classroom."
+		},
+		Summary = "Create the notice"
+	},
+	[23066] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"From what you heard, Marbron almost ended up doing tasks that weren't his. Talk with Marbron again."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23067] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"During a consultation with a complainant, Marbron lost his words and paused the session. Talk to Marbron."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23068] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"The professor tried to pass off overdue paperwork and left. Talk to Marbron about how to handle this crisis."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23069] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "After ups and downs, the complainant left. Talk to Marbron." },
+		Summary = "Talk to Marbron"
+	},
+	[23070] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "You completed the 'No Entry for Outsiders' notice. Bring it to Marbron." },
+		Summary = "Talk to Marbron"
+	},
+	[23071] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"It's important to distinguish tasks you must do from those you don't. Check the appendix in the book placed at the back of the classroom for useful information."
+		},
+		Summary = "Read the book at the back of the classroom"
+	},
+	[23072] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"After calming down by eating a stress-relief jelly, Marbron resumes consultations. Watch how Marbron handles the complainant."
+		},
+		Summary = "Listen to the complainant and Marbron's conversation"
+	},
+	[23073] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Marbron says there's sometimes room to accept overdue documents and went to see Sprakki. Head down to the 1st floor."
+		},
+		Summary = "Go down to the 1st floor and talk to Marbron"
+	},
+	[23074] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "You found the archer lecture curriculum. Deliver it to the complainant." },
+		Summary = "Deliver the curriculum to the complainant"
+	},
+	[23075] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Marbron went down to the 1st floor to teach front-line workers what they should do instead of fighting with complainants. Let's go down to the 1st floor."
+		},
+		Summary = "Go down to the 1st floor and talk to Marbron"
+	},
+	[23076] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "You checked the Critura Academy org chart. Return to Marbron." },
+		Summary = "Talk to Marbron"
+	},
+	[23077] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "After ups and downs, the complainant left. Talk with Marbron again." },
+		Summary = "Talk to Marbron"
+	},
+	[23078] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"You checked the org chart. Follow Marbron, who went ahead, down to the 1st floor."
+		},
+		Summary = "Go down to the 1st floor and talk to Marbron"
+	},
+	[23079] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"Luckily, Sprakki can accept the documents. But some things need to be fixed... Ask Sprakki what to correct."
+		},
+		Summary = "Talk to Sprakki"
+	},
+	[23080] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = {
+			"According to Marbron, there are quite a few people who give front-line workers a hard time. He says he'll tell you how to deal with them..."
+		},
+		Summary = "Talk to Marbron"
+	},
+	[23081] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "Talk to Marbron in the 2nd-floor classroom to finish the experience." },
+		Summary = "Talk to Marbron"
+	},
+	[23082] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "Talk to Marbron on the 1st floor to finish the experience." },
+		Summary = "Talk to Marbron"
+	},
+	[23083] = {
+		Title = "Handling Sudden Situations",
+		IconName = "ico_vr.bmp",
+		Description = { "Talk to Marbron on the 1st floor to finish the experience." },
+		Summary = "Talk to Marbron"
+	},
+	[23084] = {
+		Title = "Satisfaction Survey",
+		IconName = "ico_vr.bmp",
+		Description = { "Inform Sprakki on the 1st floor that the experience has ended." },
+		Summary = "Talk to Sprakki"
+	},
+	[23085] = {
+		Title = "Experience Completion",
+		IconName = "ico_vr.bmp",
+		Description = { "You have finished all experiences. Talk to Ink to receive your souvenir." },
+		Summary = "Talk to Ink"
+	},
+	[12592] = {
+		Title = "Garden of Time",
+		IconName = "ico_nq.bmp",
+		Description = { "Beyond the twisted dimensional rift lies... the Garden of Time." },
+		Summary = "Discover the Garden of Time"
+	},
+	[12593] = {
+		Title = "Helping Leticia",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Leticia has declared that she will take care of the areas posing a threat within the Garden of Time.",
+			"Oscar, worried about her working alone, has asked for your help.",
+			"Find <NAVI>Leticia<INFO>t_garden,118,92,0,101,0</INFO></NAVI> and see if there's anything you can do to assist her."
+		},
+		Summary = "Find Leticia"
+	},
+	[12594] = {
+		Title = "Watching Over Rigel",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Rigel is attempting to construct a prison to contain the dimensional criminals.",
+			"Oskar has asked you to check on her progress.",
+			"Find <NAVI>Rigel<INFO>t_garden,165,215,0,101,0</INFO></NAVI> and see how her work is coming along."
+		},
+		Summary = "Visit Rigel"
+	},
+	[12595] = {
+		Title = "Western Barrier",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Leticia has sensed an unknown force trying to push its way into the Garden of Time from a foreign dimension.",
+			"To control it, an entrance must be created and stabilized in a safe location.",
+			"Create a passage to the unknown dimension above the <NAVI>Dimensional Barrier<INFO>t_garden,82,92,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Create the Western Barrier"
+	},
+	[12596] = {
+		Title = "Eastern Barrier",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Leticia has sensed an unknown force trying to push its way into the Garden of Time from a foreign dimension.",
+			"To control it, an entrance must be created and stabilized in a safe location.",
+			"Create a passage to the unknown dimension above the <NAVI>Dimensional Barrier<INFO>t_garden,149,92,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Create the Eastern Barrier"
+	},
+	[12597] = {
+		Title = "Prison Access Registration",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Rigel is attempting to construct a massive prison within the twisted space beneath the Garden of Time.",
+			"To enter and exit the prison, registration in the Prison Manual is required.",
+			"Head to the <NAVI>Prison Manual<INFO>t_garden,165,232,0,101,0</INFO></NAVI> and complete your registration."
+		},
+		Summary = "Obtain Prison Access"
+	},
+	[12598] = {
+		Title = "[Cooldown] Diluvio Request",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Diluvio's request.",
+			"Even if you complete the task, no additional requests can be accepted until the cooldown period has passed.",
+			"If the request is not completed before the cooldown period ends, it will be considered a failure."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12599] = {
+		Title = "[Cooldown] Teremotus Request",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Teremotus request.",
+			"Even if you complete the task, no additional requests can be accepted until the cooldown period has passed.",
+			"If the request is not completed before the cooldown period ends, it will be considered a failure."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12600] = {
+		Title = "[Cooldown] Serpens Request",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Serpens request.",
+			"Even if you complete the task, no additional requests can be accepted until the cooldown period has passed.",
+			"If the request is not completed before the cooldown period ends, it will be considered a failure."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12601] = {
+		Title = "[Cooldown] Procella Request",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Procella request.",
+			"Even if you complete the task, no additional requests can be accepted until the cooldown period has passed.",
+			"If the request is not completed before the cooldown period ends, it will be considered a failure."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12602] = {
+		Title = "[Cooldown] Ardor Request",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Ardor request.",
+			"Even if you complete the task, no additional requests can be accepted until the cooldown period has passed.",
+			"If the request is not completed before the cooldown period ends, it will be considered a failure."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12610] = {
+		Title = "[Cooldown] Cleaning Complete!",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You can't just let uninvited pests run wild in such a beautiful garden. You've successfully finished today's cleaning."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12611] = {
+		Title = "[Cooldown] Interview Complete",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Did you enjoy today's meeting with the warden? Thanks to that, you've secured one key for sure. If you have time tomorrow, you should stop by again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12612] = {
+		Title = "[Cooldown] Weekly Reward Claim",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You've defeated one of the most notorious dimensional criminals and claimed your reward. While entry to the prison remains available at any time, you won't be able to receive additional rewards until the record resets- so use your keys wisely."
+		},
+		Summary = "Resets on Monday at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12613] = {
+		Title = "Divine Beast of Spring",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"For some reason, the guardian beasts that once protected the Seat of Life still recognize the dimensional criminal as their master. Defeat them and seize the key that grants access to the Hall of Life."
+		},
+		Summary = "Defeat Floral Pegasus"
+	},
+	[12614] = {
+		Title = "Divine Beast of Summer",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"For some reason, the guardian beasts that once protected the Seat of Life still recognize the dimensional criminal as their master. Defeat them and seize the key that grants access to the Hall of Life."
+		},
+		Summary = "Defeat Coral Marine"
+	},
+	[12615] = {
+		Title = "Divine Beast of Autumn",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"For some reason, the guardian beasts that once protected the Seat of Life still recognize the dimensional criminal as their master. Defeat them and seize the key that grants access to the Hall of Life."
+		},
+		Summary = "Defeat Maple Tree"
+	},
+	[12616] = {
+		Title = "Divine Beast of Winter",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"For some reason, the guardian beasts that once protected the Seat of Life still recognize the dimensional criminal as their master. Defeat them and seize the key that grants access to the Hall of Life."
+		},
+		Summary = "Defeat Monarch Penguin"
+	},
+	[12617] = {
+		Title = "Dimensional Criminal Reformation",
+		IconName = "ico_nq.bmp",
+		Description = { "Criminal correction." },
+		Summary = "Subdue the Dimensional Criminal"
+	},
+	[12618] = {
+		Title = "Confronting Oscar",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Speak with Oscar, who is standing at the <NAVI>Mansion Entrance<INFO>t_garden,117,140,0,101,0</INFO></NAVI>, and see if he needs any assistance."
+		},
+		Summary = "Find Oscar"
+	},
+	[12619] = {
+		Title = "[Cooldown] Take a Short Break",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"It's best to enter the Dimensional Prison only once per hour. Take a short rest and return when you're ready- and don't forget your key."
+		},
+		Summary = "Resets after 1 hour",
+		CoolTimeQuest = 1
+	},
+	[12620] = {
+		Title = "Meeting with the Spirits",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Head to the <NAVI>northwest plaza<INFO>t_garden,106,118,0,101,0</INFO></NAVI> and meet with the gathered spirits."
+		},
+		Summary = "Listen to the spirits' troubles"
+	},
+	[12621] = {
+		Title = "Terremotus Request 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Small Spirits of the Blue Earth and 50 Mutated Spirits of the Blue Earth in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12622] = {
+		Title = "Terremotus Request 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Blue Earth and 50 Giant Spirits of the Blue Earth in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12623] = {
+		Title = "Terremotus Request 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Small Spirits of the Firm Earth and 50 Mutated Spirits of the Firm Earth in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12624] = {
+		Title = "Terremotus Request 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Firm Earth and 50 Giant Spirits of the Firm Earth in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12625] = {
+		Title = "Ardor Request 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Small Spirits of the Blue Flame and 50 Mutated Spirits of the Blue Flame in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12626] = {
+		Title = "Ardor Request 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Blue Flame and 50 Giant Spirits of the Blue Flame in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12627] = {
+		Title = "Ardor Request 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Small Spirits of the Red Flame and 50 Mutated Spirits of the Red Flame in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12628] = {
+		Title = "Ardor Request 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Red Flame and 50 Giant Spirits of the Red Flame in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12629] = {
+		Title = "Procella Request 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Lesser Spirits of the Fierce Wind and 50 Mutated Spirits of the Fierce Wind in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12630] = {
+		Title = "Procella Request 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Fierce Wind and 50 Greater Spirits of the Fierce Wind in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12631] = {
+		Title = "Procella Request 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Lesser Spirits of the Withered Wind and 50 Mutated Spirits of the Withered Wind in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12632] = {
+		Title = "Procella Request 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Withered Wind and 50 Great Spirits of the Withered Wind in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12633] = {
+		Title = "Diluvio Request 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Small Spirits of the Cold Water and 50 Mutated Spirits of the Cold Water in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12634] = {
+		Title = "Diluvio Request 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Cold Water and 50 Giant Spirits of the Cold Water in the Forgotten Memories Area 1. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12635] = {
+		Title = "Diluvio Request 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Lesser Spirits of the Hot Water and 50 Mutated Spirits of the Hot Water in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12636] = {
+		Title = "Diluvio Request 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You received a request to defeat 50 Spirits of the Hot Water and 50 Giant Spirits of the Hot Water in the Forgotten Memories Area 2. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12637] = {
+		Title = "Serpens Request 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to eliminate 150 Corrupted Spirits in the Forgotten Memories Area 1, regardless of type. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12638] = {
+		Title = "Serpens Request 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to eliminate 150 Corrupted Spirits in the Forgotten Memories Area 2, regardless of type. Once the task is complete, report back to the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Hunt Corrupted Spirits"
+	},
+	[12639] = {
+		Title = "Serpens Request 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to collect 10 Wrath of Tainted Agni and seal them inside the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>. Search through each area of the Forgotten Memories to find them."
+		},
+		Summary = "Collect 10 Wrath of Tainted Agni"
+	},
+	[12640] = {
+		Title = "Serpens Request 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to collect 10 Wrath of Tainted Aqua and seal them inside the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>. Search through each area of the Forgotten Memories to find them."
+		},
+		Summary = "Collect 10 Wrath of Tainted Aqua"
+	},
+	[12641] = {
+		Title = "Serpens Request 5",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to collect 10 Wrath of Tainted Ventus and seal them inside the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>. Search through each area of the Forgotten Memories to find them."
+		},
+		Summary = "Collect 10 Wrath of Tainted Ventus"
+	},
+	[12642] = {
+		Title = "Serpens Request 6",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to collect 10 Wrath of Tainted Terra and seal them inside the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>. Search through each area of the Forgotten Memories to find them."
+		},
+		Summary = "Collect 10 Wrath of Tainted Terra"
+	},
+	[12643] = {
+		Title = "Serpens Request 7",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've been asked to collect 20 Wrath of Tainted Spirits and seal them inside the <NAVI>[Spirit Complaint Terminal]<INFO>t_garden,124,122,0,101,0</INFO></NAVI>. Search through each area of the Forgotten Memories to find them."
+		},
+		Summary = "Collect 20 Wrath of Tainted Spirits"
+	},
 	[297102] = {
 		Title = "Toilet Paper Thief",
 		Description = {
