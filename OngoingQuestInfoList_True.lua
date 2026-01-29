@@ -68519,5 +68519,103 @@ QuestInfoList = {
 		NpcNavi = "xmas",
 		NpcPosX = 155,
 		NpcPosY = 51
+	},
+	[297124] = {
+		Title = "[Daily] Forgotten Time Hunt",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 monsters of any kind, as long as they're level 200 or higher.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Hunt Forgotten Time Monsters",
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297125] = {
+		Title = "[Cooldown] Forgotten Time Hunt",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest today. Let's return tomorrow.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297126] = {
+		Title = "[Cooldown] Event Pass Check-in",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily check-in today. Let's return tomorrow.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297127] = {
+		Title = "[Event] Dimensional Investigator",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to defeat Dimensional Criminal Rigel 5 times.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Defeat Dimensional Criminal",
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297128] = {
+		Title = "[Event] Dimensional Warden",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to defeat Dimensional Criminal Rigel 10 times.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Defeat Dimensional Criminal",
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297129] = {
+		Title = "[Event] Hall of Life Explorer",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to claim weekly reward in Hall of Life MD once.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Claim Hall of Life Rewards Once",
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297130] = {
+		Title = "[Completed] Dimensional Investigator",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated Dimensional Criminal Rigel 5 times.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Quest Completed",
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
+	},
+	[297131] = {
+		Title = "[Completed] Dimensional Warden",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated Dimensional Criminal Rigel 10 times.\n\t\t\t\n\t\t\t^FF0000Client Info^000000\n\t\t\t<NAVI>[Alter Maggi]<INFO>t_garden,134,99,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t\t"
+		},
+		Summary = "Quest Completed",
+		NpcSpr = "4_4JOB_MAGGI",
+		NpcNavi = "t_garden",
+		NpcPosX = 134,
+		NpcPosY = 99
 	}
 }
