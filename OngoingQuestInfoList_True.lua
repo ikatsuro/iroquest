@@ -1306,7 +1306,7 @@ QuestInfoList = {
 	},
 	[1335] = {
 		Title = "Lovely Candy Basket",
-		Description = { "Bring 5 Candy, 5 Lolipop, 3 Throat Candy to Garnish Lorenzo." },
+		Description = { "Bring 5 Candy, 5 Candy Cane, 3 Throat Candy to Garnish Lorenzo." },
 		Summary = "Deliver goods to Garnish"
 	},
 	[1336] = {
@@ -1316,7 +1316,7 @@ QuestInfoList = {
 	},
 	[1337] = {
 		Title = "Lucky Sweets",
-		Description = { "Bring 1 Lucky Cady, 1 Luck Lolipop, 1 Lucky Cookie to Miss Fortuna." },
+		Description = { "Bring 1 Lucky Candy, 1 Lucky Candy Cane, 1 Lucky Cookie to Miss Fortuna." },
 		Summary = "Deliver goods to Miss Fortuna"
 	},
 	[1338] = {
