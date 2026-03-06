@@ -68617,5 +68617,268 @@ QuestInfoList = {
 		NpcNavi = "t_garden",
 		NpcPosX = 134,
 		NpcPosY = 99
+	},
+	[297132] = {
+		Title = "[Event] Rites of the Three Souls (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You encounter a weakened divine being known as the <NAVI>Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI>.",
+			"During the Lunar New Year season, it seeks your aid to restore its lost power."
+		},
+		Summary = "Complete Fire Horse's Request",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297133] = {
+		Title = "[Event] Rites of the Three Souls (1-1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"As a test of resolve, the <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> asks you to defeat 50 monsters of any kind, provided they are Level 30 or higher."
+		},
+		Summary = "Defeat 50 Monsters",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297134] = {
+		Title = "[Event] Rites of the Three Souls (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Divine Fire Horse senses the return of its strength.",
+			"It asks you to seek out <NAVI>Prosperity<INFO>louyang,210,116,0,101,0</INFO></NAVI>, one of its divided souls, and learn the rites of restoration."
+		},
+		Summary = "Talk to Prosperity",
+		NpcSpr = "4_M_GREATPO",
+		NpcNavi = "louyang",
+		NpcPosX = 210,
+		NpcPosY = 116
+	},
+	[297135] = {
+		Title = "[Event] Rites of the Three Souls (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Having begun the rites of Prosperity, you are given further guidance.",
+			"Prosperity instructs you to seek out <NAVI>Charisma<INFO>louyang,214,116,0,101,0</INFO></NAVI>, the soul that governs influence and harmony."
+		},
+		Summary = "Talk to Charisma",
+		NpcSpr = "4_F_TWMASKGIRL",
+		NpcNavi = "louyang",
+		NpcPosX = 214,
+		NpcPosY = 116
+	},
+	[297136] = {
+		Title = "[Event] Rites of the Three Souls (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"With Charisma awakened, a new path opens.",
+			"Charisma asks you to seek out <NAVI>Luck<INFO>louyang,221,116,0,101,0</INFO></NAVI>, the final soul tied to the Divine Fire Horse."
+		},
+		Summary = "Talk to Luck",
+		NpcSpr = "4_M_TWMASKMAN",
+		NpcNavi = "louyang",
+		NpcPosX = 221,
+		NpcPosY = 116
+	},
+	[297137] = {
+		Title = "[Event] Rites of the Three Souls (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The three souls of the Divine Fire Horse have been restored.",
+			"Return to the <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> and learn how to guide its power moving forward."
+		},
+		Summary = "Talk to Fire Horse",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297138] = {
+		Title = "[Cooldown] Lunar Coupon Daily Claim",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>Prosperity<INFO>louyang,210,116,0,101,0</INFO></NAVI> has already granted today's Lunar Coupon.",
+			"Return tomorrow when the flow of fortune renews."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_GREATPO",
+		NpcNavi = "louyang",
+		NpcPosX = 210,
+		NpcPosY = 116
+	},
+	[297139] = {
+		Title = "[Cooldown] Lunar Envelope Daily Claim",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> has already granted today's Lunar Envelope.",
+			"Return tomorrow when the lunar cycle begins anew."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297140] = {
+		Title = "[Cooldown] Offering to the Divine Flame",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today's Offering to the <NAVI>Divine Flame<INFO>louyang,217,119,0,101,0</INFO></NAVI> has already been completed.",
+			"Return tomorrow when the fire is ready to receive more energy."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297141] = {
+		Title = "[Daily] Offering to the Divine Flame (30)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> asks you to gather energy through battle.",
+			"Defeat the required number of monsters of the appropriate level and offer their energy to the Divine Flame."
+		},
+		Summary = "Defeat Lv.30 Monsters",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297142] = {
+		Title = "[Daily] Offering to the Divine Flame (90)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> asks you to gather energy through battle.",
+			"Defeat the required number of monsters of the appropriate level and offer their energy to the Divine Flame."
+		},
+		Summary = "Defeat Lv.90 Monsters",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297143] = {
+		Title = "[Daily] Offering to the Divine Flame (150)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> asks you to gather energy through battle.",
+			"Defeat the required number of monsters of the appropriate level and offer their energy to the Divine Flame."
+		},
+		Summary = "Defeat Lv.150 Monsters",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297144] = {
+		Title = "[Daily] Offering to the Divine Flame (200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Divine Fire Horse<INFO>louyang,217,119,0,101,0</INFO></NAVI> asks you to gather energy through battle.",
+			"Defeat the required number of monsters of the appropriate level and offer their energy to the Divine Flame."
+		},
+		Summary = "Defeat Lv.200 Monsters",
+		NpcSpr = "NIGHTMARE_TERROR_H",
+		NpcNavi = "louyang",
+		NpcPosX = 217,
+		NpcPosY = 119
+	},
+	[297145] = {
+		Title = "[Event] Way of the Auspice (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Way of the Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> begins with a measured hunt.",
+			"Defeat 30 Dancing Dragons and return with 10 materials taken from them."
+		},
+		Summary = "Collect 10 Dancing Blood",
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
+	},
+	[297146] = {
+		Title = "[Event] Way of the Auspice (1-1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Way of the Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> begins with a measured hunt.",
+			"Defeat 30 Dancing Dragons and return with 10 materials taken from them."
+		},
+		Summary = "Defeat 30 Dancing Dragons",
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
+	},
+	[297147] = {
+		Title = "[Event] Way of the Auspice (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Way of the Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> continues with a steadier challenge.",
+			"Defeat 30 Festive Geographers and collect 10 of their dropped materials."
+		},
+		Summary = "Collect 10 Festive Leaf",
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
+	},
+	[297148] = {
+		Title = "[Event] Way of the Auspice (2-1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Way of the Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> continues with a steadier challenge.",
+			"Defeat 30 Festive Geographers and collect 10 of their dropped materials."
+		},
+		Summary = "Defeat 30 Festive Geographers",
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
+	},
+	[297149] = {
+		Title = "[Event] Way of the Auspice (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Way of the Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> reaches its final trial, where balance is tested.",
+			"Defeat 15 Dancing Dragons and 15 Festive Geographers, then collect 5 materials from each."
+		},
+		Summary = "Collect Materials",
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
+	},
+	[297150] = {
+		Title = "[Event] Way of the Auspice (3-1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The <NAVI>Way of the Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> reaches its final trial, where balance is tested.",
+			"Defeat 15 Dancing Dragons and 15 Festive Geographers, then collect 5 materials from each."
+		},
+		Summary = "Defeat Monsters",
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
+	},
+	[297151] = {
+		Title = "[Cooldown] Way of the Auspice",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The path of the <NAVI>Auspice<INFO>louyang,227,125,0,101,0</INFO></NAVI> does not rush.",
+			"The next trial will reveal itself when the day turns anew."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_SE_SUN",
+		NpcNavi = "louyang",
+		NpcPosX = 227,
+		NpcPosY = 125
 	}
 }
