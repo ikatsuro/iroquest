@@ -68880,5 +68880,14 @@ QuestInfoList = {
 		NpcNavi = "louyang",
 		NpcPosX = 227,
 		NpcPosY = 125
+	},
+	[18081] = {
+		Title = "Orcish Voucher Delivery - Cooldown",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Once a day, you can deliver 100 <ITEM>[Orcish Voucher]<INFO>931</INFO></ITEM> to the Goblin Leader as proof of killing orcs to help manage the Goblin's territory.."
+		},
+		Summary = "reset at 04.00 am",
+		CoolTimeQuest = 1
 	}
 }
