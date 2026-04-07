@@ -3272,56 +3272,89 @@ QuestInfoList = {
 		Description = {
 			"\"Do you want to be a Monk? Well, then get yourself inside and talk to the Sensei ^0000FFMoohae^000000. He'll guide you.\""
 		},
-		Summary = "Sensei Moohae"
+		Summary = "Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3017] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 <ITEM>Sticky Mucus<INFO>938</INFO></ITEM>, 10 <ITEM>Earthworm Peeling<INFO>1055</INFO></ITEM>, 20 <ITEM>Green Herb<INFO>511</INFO></ITEM> to Sensei Moohae\""
 		},
-		Summary = "Bring 5 Sticky Mucus, 10 Earthworm Peeling, 20 Green Herb to Sensei Moohae"
+		Summary = "Bring 5 Sticky Mucus, 10 Earthworm Peeling, 20 Green Herb to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3018] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 20 <ITEM>Yoyo Tail<INFO>942</INFO></ITEM>, 5 <ITEM>Iron Ore<INFO>1002</INFO></ITEM>, 3 <ITEM>Blue Herb<INFO>510</INFO></ITEM> to Sensei Moohae\""
 		},
-		Summary = "Bring 20 Yoyo Tail, 5 Iron Ore, 3 Blue Herb to Sensei Moohae"
+		Summary = "Bring 20 Yoyo Tail, 5 Iron Ore, 3 Blue Herb to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3019] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 30 <ITEM>Stem<INFO>905</INFO></ITEM>, 5 <ITEM>Jellopy<INFO>909</INFO></ITEM>, 10 <ITEM>Insect Peelings<INFO>955</INFO></ITEM>\""
 		},
-		Summary = "Bring 30 Stem, 5 Jellopy, 10 Worm Peelings to Sensei Moohae"
+		Summary = "Bring 30 Stem, 5 Jellopy, 10 Worm Peelings to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3020] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 <ITEM>Solid Shell<INFO>943</INFO></ITEM>, 20 <ITEM>Shell<INFO>935</INFO></ITEM>, 5 <ITEM>Zargon<INFO></INFO>912</ITEM> to Sensei Moohae\""
 		},
-		Summary = "Bring 5 Solid Shell, 20 Shell, 5 Zargon to Sensei Moohae"
+		Summary = "Bring 5 Solid Shell, 20 Shell, 5 Zargon to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3021] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 <ITEM>Cyfar<INFO>7053</INFO></ITEM>, 10 <ITEM>White Herb<INFO>508</INFO></ITEM>, 10 <ITEM>Yellow Herb<INFO>509</INFO></ITEM> to Sensei Moohae\""
 		},
-		Summary = "Bring 5 Cyfar, 10 White Herb, 10 Yellow Herb to Sensei Moohae"
+		Summary = "Bring 5 Cyfar, 10 White Herb, 10 Yellow Herb to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3022] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 10 <ITEM>Tooth of Bat<INFO>913</INFO></ITEM>, 5 <ITEM>Bear's Footskin<INFO>948</INFO></ITEM>, 20 <ITEM>Poison Spore<INFO>7033</INFO></ITEM> to Sensei Moohae\""
 		},
-		Summary = "Bring 10 Tooth of Bat, 5 Bear's Footskin, 20 Poison Spore to Sensei Moohae"
+		Summary = "Bring 10 Tooth of Bat, 5 Bear's Footskin, 20 Poison Spore to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
 	},
 	[3023] = {
 		Title = "Job Change to Monk",
 		Description = {
-			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task.\""
+			"\"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task. Bring 5 <ITEM>Porcupine Quill<INFO>1027</INFO></ITEM>, 20 <ITEM>Cobweb<INFO>1025</INFO></ITEM>, 10 <ITEM>Bug Leg<INFO>1042</INFO></ITEM> to Sensei Moohae\""
 		},
-		Summary = "Bring 5 Porcupine Quill, 20 Cobweb, 10 Bug Leg to Sensei Moohae"
+		Summary = "Bring 5 Porcupine Quill, 20 Cobweb, 10 Bug Leg to Sensei Moohae",
+        NpcSpr = "1_M_PASTOR",
+        NpcNavi = "monk_in",
+        NpcPosX = "99",
+        NpcPosY = "58"
+		
 	},
 	[3024] = {
 		Title = "Job Change to Monk",
