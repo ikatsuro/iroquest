@@ -65182,7 +65182,7 @@ QuestInfoList = {
 		Summary = "Talk to Miriam"
 	},
 	[18134] = {
-		Title = "[Daily] Searching for Survivors ? Frozen Glacier",
+		Title = "[Daily] Searching for Survivors - Frozen Glacier",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Miriam and I have divided the search area to rescue the abducted people taken to Issgard. Let's search the Frozen Scale Glacier for any stranded survivors."
@@ -65190,7 +65190,7 @@ QuestInfoList = {
 		Summary = "Find Survivors"
 	},
 	[18135] = {
-		Title = "[Daily] Searching for Survivors ? Frozen Plains",
+		Title = "[Daily] Searching for Survivors - Frozen Plains",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Miriam and I have divided the search area to rescue the abducted people taken to Issgard. Let's search the Frozen Scale Plains for any stranded survivors."
@@ -65198,7 +65198,7 @@ QuestInfoList = {
 		Summary = "Find Survivors"
 	},
 	[18136] = {
-		Title = "[Daily] Searching for Survivors ? Completed",
+		Title = "[Daily] Searching for Survivors - Completed",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A lost Midgardian taken to Issgard has been found.",
@@ -68922,5 +68922,44 @@ QuestInfoList = {
 		},
 		Summary = "reset at 04.00 am",
 		CoolTimeQuest = 1
+	},
+	[297152] = {
+		Title = "[Event] Easter Egg Hunt 2026 (In Progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You need to find 5 Easter Ribbons by finding 5 Easter Eggs hidden around <NAVI>outskirts of Ravioli Forest<INFO>lasa_fild02,119,137,0,101,0</INFO></NAVI>.",
+			"Eggministrator said to ^FF0000stay on the road^000000 and check out around the ^FF0000Cat's Paw^000000."
+		},
+		Summary = "Find Easter Egg",
+		NpcSpr = "4_F_ANNIVERSARY",
+		NpcNavi = "lasagna",
+		NpcPosX = 318,
+		NpcPosY = 87
+	},
+	[297153] = {
+		Title = "[Event] Easter Egg Hunt 2026 (Completed)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have found all the ribbons, let's report back to <NAVI>Eggministrator<INFO>lasagna,318,87,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Eggministrator",
+		NpcSpr = "4_F_ANNIVERSARY",
+		NpcNavi = "lasagna",
+		NpcPosX = 318,
+		NpcPosY = 87
+	},
+	[297154] = {
+		Title = "[Cooldown] Easter Egg Hunt 2026",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed today's egg hunting.",
+			"Return tomorrow if you want to start again."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_ANNIVERSARY",
+		NpcNavi = "lasagna",
+		NpcPosX = 318,
+		NpcPosY = 87
 	}
 }
