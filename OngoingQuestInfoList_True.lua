@@ -2563,7 +2563,7 @@ QuestInfoList = {
 	[2187] = {
 		Title = "Job Change to Archbishop",
 		Description = {
-			"Find Priest Dayan and tell him exactly, '^3131FFI'm here for the Holy Pilgrimage^000000'."
+			"Find Priest Dayan and tell him exactly, '^3131FFI'm from Prontera on a pilgrimage.^000000'."
 		},
 		Summary = "Priest Dayan in Umbala"
 	},
