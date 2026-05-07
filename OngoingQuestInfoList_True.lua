@@ -51228,7 +51228,7 @@ QuestInfoList = {
 		Description = {
 			"Ahir seems to be sleep peacefully tonight. Let's come back to <NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> tomorrow and see whether he needs help again."
 		},
-		Summary = "04½Ã ÃÊ±âÈ­",
+		Summary = "Resets at 4 AM­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "wolfvill",
@@ -64690,7 +64690,7 @@ QuestInfoList = {
 		Title = "[EP19] A Close Call (7)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Bring the unconscious Juncea, who has transformed into a monster, back to town and speak with <NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>."
+			"Bring the unconscious Juncea, who has transformed into a monster, back to town and speak with <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Return to Town"
 	},
@@ -65053,7 +65053,7 @@ QuestInfoList = {
 		Title = "[Daily] Tracking the Underground Hideout",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"All the ultra-powerful antennas have been buried at the designated locations. Let¡¯s return to <NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> at the Ice Castle and report back."
+			"All the ultra-powerful antennas have been buried at the designated locations. Let's return to <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> at the Ice Castle and report back."
 		},
 		Summary = "Report to Horr"
 	},
@@ -65061,7 +65061,7 @@ QuestInfoList = {
 		Title = "[Cooldown] Tracking the Underground Hideout",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You're done helping today. Visit <NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> tomorrow if you want to help again."
+			"You're done helping today. Visit <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> tomorrow if you want to help again."
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
@@ -68961,5 +68961,83 @@ QuestInfoList = {
 		NpcNavi = "lasagna",
 		NpcPosX = 318,
 		NpcPosY = 87
+	},
+	[23442] = {
+		Title = "[Collab] Meeting Kumamon",
+		IconName = "ico_ev.bmp",
+		Description = { "You learned about Kumamoto!" },
+		Summary = ""
+	},
+	[23443] = {
+		Title = "[Collab] Kumamoto Farm Experience",
+		IconName = "ico_ev.bmp",
+		Description = { "You experienced the Kumamoto farm." },
+		Summary = ""
+	},
+	[23444] = {
+		Title = "[Collab] Kumamoto Farm Experience (In Progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Kumamoto farm experience has begun. You can harvest tomatoes in the southwest of Kumamoto and watermelons in the southeast. Try harvesting 1 tomato and 1 watermelon each."
+		},
+		Summary = "Harvest Tomatoes and Watermelons"
+	},
+	[23445] = {
+		Title = "[Collab] Kumamoto Farm Experience (Completed)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have harvested both watermelons and tomatoes at the Kumamoto farm. Return to Varmundt in Kumamoto and let him know you've completed the farm experience."
+		},
+		Summary = "Report back to Varmundt"
+	},
+	[23446] = {
+		Title = "[Collab] Kumamoto Farm Experience (Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed the farm experience of harvesting Kumamoto's local specialties, watermelons and tomatoes. If you'd like to try again, visit Varmundt in Kumamoto tomorrow."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[23447] = {
+		Title = "[Collab] A Flavor That Wakes You Up",
+		IconName = "ico_ev.bmp",
+		Description = { "You helped the Watermelon Poring." },
+		Summary = ""
+	},
+	[23448] = {
+		Title = "[Collab] A Flavor That Wakes You Up (In Progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"A Watermelon Poring staying in Kumamoto tried to carry too many Kumamoto watermelons and tomatoes at once and ended up dropping them all. Collect 5 Kumamoto watermelons and 5 Kumamoto tomatoes scattered around Kumamoto."
+		},
+		Summary = "Help Watermelon Poring"
+	},
+	[23449] = {
+		Title = "[Collab] A Flavor That Wakes You Up (Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You helped the Watermelon Poring in Kumamoto. If you'd like to help again, visit the Watermelon Poring in Kumamoto tomorrow."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[23450] = {
+		Title = "[Collab] Kumamoto Watermelon Harvest Completed",
+		IconName = "ico_ev.bmp",
+		Description = { "You harvested Kumamoto watermelons through the farm experience!" },
+		Summary = ""
+	},
+	[23451] = {
+		Title = "[Collab] Kumamoto Tomato Harvest Completed",
+		IconName = "ico_ev.bmp",
+		Description = { "You harvested Kumamoto tomatoes through the farm experience!" },
+		Summary = ""
+	},
+	[23452] = {
+		Title = "[Kumamon] Collaboration Event Ended",
+		IconName = "ico_ev.bmp",
+		Description = { "The event has ended." },
+		Summary = ""
 	}
 }
