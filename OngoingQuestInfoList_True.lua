@@ -51556,7 +51556,7 @@ QuestInfoList = {
 		Title = "Source of Weapons (5)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Maram guided the adventurer, saying that he knew the shortcut to <NAVI>[Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>."
+			"Maram guided the adventurer, saying that he knew the shortcut to <NAVI>[Military Base]<INFO>thor_v01,169,169,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Contact with Maram",
 		NpcSpr = "4_EP18_MARAM",
