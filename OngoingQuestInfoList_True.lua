@@ -68651,6 +68651,1388 @@ QuestInfoList = {
 		NpcPosX = 134,
 		NpcPosY = 99
 	},
+	[8839] = {
+		Title = "Reluctantly pretending to help",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Sacred Roots here and there are in need of 'capable messengers who have just returned from reconnaissance'. Without even knowing who they really are.",
+			"* <NAVI>[Gomiagand]<INFO>jor_sanct,215,84,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Halseybygand]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Pamochegand]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Nasioramigand]<INFO>jor_sanct,271,156,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Eryligand]<INFO>jor_sanct,101,138,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Helping Rgan's in trouble"
+	},
+	[8840] = {
+		Title = "Rgan's Trust",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Strangely, it became a popular body among top-notch Rgans. There were only those who were stubborn and had strange personalities. I think I can talk to <NAVI>[Sarekgandh]<INFO>jor_sanct,157,171,0,101,0</INFO></NAVI> now."
+		},
+		Summary = "Talk to Sarekgandh"
+	},
+	[8841] = {
+		Title = "But think about it",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Sacred Root's <NAVI>[Gomiagand]<INFO>jor_sanct,215,84,0,101,0</INFO></NAVI> seems to have a lot to say, but it's not easy because his direct subordinate, Gamiravagandha, keeps arguing."
+		},
+		Summary = "Talk to Gomiagand"
+	},
+	[8842] = {
+		Title = "You are very angry",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Sacred Root's <NAVI>[Halseybygand]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI> asks you to bring 30x <ITEM>[Copo's Feathers]<INFO>1001246</INFO></ITEM>."
+		},
+		Summary = "Deliver 30 Copo's Feathers"
+	},
+	[8843] = {
+		Title = "Silent Answer",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Pamochegand of the Sacred Root asks you to get 20x <ITEM>[Large Gray Feather]<INFO>1001244</INFO></ITEM>.",
+			"Leaving <NAVI>[Doririrogand]<INFO>jor_sanct,258,117,0,101,0</INFO></NAVI> alone, who was assigned as his direct subordinate... !"
+		},
+		Summary = "After delivering the items, talk to Doririrogand"
+	},
+	[8844] = {
+		Title = "[Standby] Example of Silent Answer",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and when the waiting time expires, you can receive it again from <NAVI>[Pamochegand]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8845] = {
+		Title = "Example of Silent Answer",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[Pamochegand]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI> asks you to get 20x <ITEM>[Large Gray Feather]<INFO>1001244</INFO></ITEM>. ...But whose orders are these? Doririrogand?"
+		},
+		Summary = "Deliver 20 Large Gray Feathers"
+	},
+	[8846] = {
+		Title = "I came all the way here",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Work is not assigned to intermediate Rgans who have followed their Sacred Roots. Each should be assigned a task to do.",
+			"* <NAVI>[Puddle]<INFO>jor_sanct,48,159,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Tower]<INFO>jor_sanct,95,152,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Garbage]<INFO>jor_root2,12,172,0,101,0</INFO></NAVI>",
+			"* <NAVI>[A mountain of junk]<INFO>jor_root2,242,124,0,101,0</INFO></NAVI>",
+			"* <NAVI>[Warehouse]<INFO>jor_root2,149,125,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8847] = {
+		Title = "Nasioramigand's Work",
+		IconName = "ico_dq.bmp",
+		Description = { "I found something to do for Nasioramigand." },
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8848] = {
+		Title = "Numkasaigargand's Work",
+		IconName = "ico_dq.bmp",
+		Description = { "I found something to do for Numkasaigargand." },
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8849] = {
+		Title = "Onnacharamelgand's Work",
+		IconName = "ico_dq.bmp",
+		Description = { "I found something to do for Onnacharamelgand." },
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8850] = {
+		Title = "Jagdagumigand's Work",
+		IconName = "ico_dq.bmp",
+		Description = { "I found something to do for Jagdagumigand." },
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8851] = {
+		Title = "Clejainamogand's Work",
+		IconName = "ico_dq.bmp",
+		Description = { "I found something to do for Clejainamogand." },
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8852] = {
+		Title = "[Standby] I've come this far",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and you can receive it again from <NAVI>[Nasioramigand]<INFO>jor_sanct,271,156,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8853] = {
+		Title = "I've come this far",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Work is not assigned to intermediate Rgans who have followed their Sacred Roots. You have to give each one a task to do."
+		},
+		Summary = "Intermediate Rgan Job Search"
+	},
+	[8854] = {
+		Title = "I probably have a lunch box",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Did <NAVI>[Eryligand]<INFO>jor_sanct,101,138,0,101,0</INFO></NAVI> really tell this story to everyone?"
+		},
+		Summary = "Talk to Eryligand"
+	},
+	[8855] = {
+		Title = "Collection of Soft Delicacies",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Zoryara's cousin, Toryoryo, joined the daycare center.",
+			"Kill 20 Angel Slugs and 20 Snow Rabbit Slugs.",
+			"Bring 10x <ITEM>[Soft Fluorescent Cells(Salty)]<INFO>1001232</INFO></ITEM>,",
+			"10x <ITEM>[Soft Fluorescent Cells (Sweet)]<INFO>1001233</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather Materials"
+	},
+	[8856] = {
+		Title = "[Standby] Collection of Soft Delicacies",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest, and you can receive it again from <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI> when the waiting time expires."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8857] = {
+		Title = "Salty and Sweet Flavors",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Kill 20 Angel Slugs and 20 Snow Rabbit Slugs.",
+			"Bring 10x <ITEM>[Soft Fluorescent Cells(Salty)]<INFO>1001232</INFO></ITEM>,",
+			"10x <ITEM>[Soft Fluorescent Cells(Sweet)]<INFO>1001233</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather Materials"
+	},
+	[8858] = {
+		Title = "Salty, Sweet and Sour",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Kill 20 Angel Slugs, 20 Snow Rabbit Slugs and 20 Melibe Slugs.",
+			"Bring 10x <ITEM>[Soft Fluorescent Cells(Salty)]<INFO>1001232</INFO></ITEM>,",
+			"10x <ITEM>[Soft Fluorescent Cells(Sweet)]<INFO>1001233</INFO></ITEM>,",
+			"10x <ITEM>[Soft Fluorescent Cells(Sour)]<INFO>1001231</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather Materials"
+	},
+	[11928] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Iwin's delivery person asked for a box delivery. Let's deliver it to <NAVI>[Friederike]<INFO>icas_in,35,121,0,101,0</INFO></NAVI> near Icesen."
+		},
+		Summary = "To Friederike"
+	},
+	[11929] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's mealtime for Copo near Icesen! Let's send them home to <NAVI>[Copo]<INFO>icas_in,32,116,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Copo"
+	},
+	[11930] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's mealtime for Copo near Icesen! Let's send them home to <NAVI>[Copo]<INFO>icas_in,30,120,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Copo"
+	},
+	[11931] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's mealtime for Copo near Icesen! Let's send them home to <NAVI>[Copo]<INFO>icas_in,36,117,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Copo"
+	},
+	[11932] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's mealtime for Copo near Icesen! Let's send them back home to <NAVI>[Copo]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Copo"
+	},
+	[11933] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems Chachako left his little brother Kapopo behind. To take Kapopo back home, let's go to <NAVI>[Outside Friederike's House]<INFO>icecastle,65,213,0,101,0</INFO></NAVI> in Icesen."
+		},
+		Summary = "Outside the House"
+	},
+	[11934] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems Chachako left his little brother Kapopo behind. To take Kapopo back home, let's go to <NAVI>[Kapopo's House Below Friederike's House]<INFO>icecastle,65,159,0,101,0</INFO></NAVI>."
+		},
+		Summary = "To Kapopo's House"
+	},
+	[11935] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We safely brought Chachako back home. Let's return to <NAVI>[Friederike's House]<INFO>icecastle,65,213,0,101,0</INFO></NAVI> in Icesen."
+		},
+		Summary = "To Friederike's House"
+	},
+	[11936] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Rorohyu, who was going home, seems to have disappeared. Let's take a walk around <NAVI>[Icesen Surroundings]<INFO>icecastle,109,241,0,101,0</INFO></NAVI> and look for Rorohyu."
+		},
+		Summary = "Find Rorohyu"
+	},
+	[11937] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We couldn't find any information about Rorohyu. Let's go inside <NAVI>[Icesen]<INFO>icas_in,113,38,0,101,0</INFO></NAVI> to get information about Rorohyu."
+		},
+		Summary = "To Icesen"
+	},
+	[11938] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We couldn't find any information about Rorohyu. Let's go to the entrance of Icesen and meet the guards at <NAVI>[Village Entrance]<INFO>icecastle,24,130,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Guards"
+	},
+	[11939] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The Iwin guard says Rorohyu is sightseeing at the entrance of the Icesen village. Let's talk to Rorohyu and take him home."
+		},
+		Summary = "Talk to Rorohyu"
+	},
+	[11940] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Rorohyu seems to have left the Icesen village entrance and gone <NAVI>[outside]<INFO>jor_back1,310,245,0,101,0</INFO></NAVI>, leaving behind a fluffy thread at the entrance. Let's go out and look for Rorohyu."
+		},
+		Summary = "Outside the Village"
+	},
+	[11941] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's look for Rorohyu at <NAVI>[Rorohyu]<INFO>jor_back1,222,392,0,101,0</INFO></NAVI> in the Frozen Scale Hill."
+		},
+		Summary = "Find Rorohyu"
+	},
+	[11942] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's look for Rorohyu at <NAVI>[Rorohyu]<INFO>jor_back2,8,242,0,101,0</INFO></NAVI> in the Frozen Scale Plateau."
+		},
+		Summary = "Find Rorohyu"
+	},
+	[11943] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's look for Rorohyu at <NAVI>[Rorohyu]<INFO>jor_back3,95,324,0,101,0</INFO></NAVI> in the Frozen Scale Glacier."
+		},
+		Summary = "Find Rorohyu"
+	},
+	[11944] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's look for Rorohyu at <NAVI>[Rorohyu]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI> in the Frozen Scale Beach."
+		},
+		Summary = "Find Rorohyu"
+	},
+	[11945] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We found Copo on the Frozen Scale Beach, and it seems like Rorohyu went into a pit. Let's go in and look for Rorohyu at <NAVI>[Pit]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Find Rorohyu"
+	},
+	[11946] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We found Rorohyu, but it appears Rorohyu's friend was captured by a monster. Let's defeat the boss monster in the Sticky Sea and rescue Rorohyu's friend."
+		},
+		Summary = "Rescue the Cocopos"
+	},
+	[11947] = {
+		Title = "Copo's Secret Base",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We successfully rescued Rorohyu and Rorohyu's friend. Let's go back to <NAVI>[Lalaha]<INFO>icecastle,67,218,0,101,0</INFO></NAVI> in Icesen, where Rorohyu is waiting."
+		},
+		Summary = "Talk to Lalaha"
+	},
+	[11948] = {
+		Title = "Escargo!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Lalaha says there are Cocopos going into the Sticky Sea. She asks us to get rid of the monsters in the Sticky Sea. Let's talk to the <NAVI>[Copo]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI> at the entrance of the Sticky Sea and go into the Sticky Sea."
+		},
+		Summary = "Talk to Copo"
+	},
+	[11949] = {
+		Title = "Escargo!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Sticky Sea, defeat the corrupted angel snail that's bothering the Cocopos and rescue them."
+		},
+		Summary = "Defeat the Corrupted Angel Snail"
+	},
+	[11950] = {
+		Title = "[Standby] Escargo!",
+		IconName = "ico_dq.bmp",
+		Description = { "The Sticky Sea has been cleaned. Let's take a break today." },
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11951] = {
+		Title = "It's Dangerous!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Lalaha still thinks there are Cocopos going into the Sticky Sea. She asks us to scold the lost Cocopos at the Sticky Sea and send them back. Let's talk to <NAVI>[Copo]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI> at the entrance of the Sticky Sea and enter it. After completing the quest, return to <NAVI>[Lalaha]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Send Back the Cocopos"
+	},
+	[11952] = {
+		Title = "[Standby] It's Dangerous!",
+		IconName = "ico_dq.bmp",
+		Description = { "The Cocopos have been sent back. Let's take a break today." },
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11953] = {
+		Title = "I Hope They Reconcile (1)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Lalaha hopes that Icewinds living in the ancient Ice Canyon will calm down even if it's for the children. Let's go to the <NAVI>[Eastern Part of the Ancient Ice Canyon]<INFO>jor_back5,263,49,0,101,0</INFO></NAVI> and scold about 10 Ashen Icewinds and come back."
+		},
+		Summary = "Scold the Ashen Icewinds"
+	},
+	[11954] = {
+		Title = "[Standby] I Hope They Reconcile (1)",
+		IconName = "ico_dq.bmp",
+		Description = { "The Ashen Icewinds have been scolded. Let's take a break today." },
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[11955] = {
+		Title = "I Hope They Reconcile (2)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Lalaha hopes that Icewinds living in the ancient Ice Canyon will calm down even if it's for the children. Let's go to the <NAVI>[Western Part of the Ancient Ice Canyon]<INFO>jor_back6,324,150,0,101,0</INFO></NAVI> and scold about 10 Icewinds and come back."
+		},
+		Summary = "Scold the Icewinds"
+	},
+	[11956] = {
+		Title = "[Standby] I Hope They Reconcile (2)",
+		IconName = "ico_dq.bmp",
+		Description = { "The Icewinds have been scolded. Let's take a break today." },
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12588] = {
+		Title = "Standby] The Undying One",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After dawn, you can communicate with <NAVI>The Branch of the World Tree<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> again."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[12589] = {
+		Title = "[Standby] The Undying One (Advanced)",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After 3 days, you can communicate with <NAVI>The Branch of the World Tree<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> again."
+		},
+		Summary = "Resets at Dawn after 3 Days",
+		CoolTimeQuest = 1
+	},
+	[12590] = {
+		Title = "The Story of The Undying One",
+		IconName = "ico_ep.bmp",
+		Description = { "Is it impossible to kill Rasgand? Then what should we do? Is there no way?" },
+		Summary = "EP20 MD"
+	},
+	[12591] = {
+		Title = "Neutralizing The Undying One",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's said that killing Rasgand is impossible, but it seems like we can somehow make him powerless for a while."
+		},
+		Summary = "Neutralizing Rasgand"
+	},
+	[16691] = {
+		Title = "Expand Exploration Range",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's go investigate the unexplored area of the <NAVI>[Ancient Ice Canyon]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Explore the Ancient Ice Canyon"
+	},
+	[16692] = {
+		Title = "The Natives of the Ancient Ice Canyon",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We were attacked by the ancient Icewinds in the Ancient Ice Canyon. Let's take refuge for now in <NAVI>[a safe place]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Take Refuge in a Safe Place"
+	},
+	[16693] = {
+		Title = "Exploration of the Ancient Ice Canyon",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We found suspicious installations and traces that seem to belong to Le'gan in the Ancient Ice Canyon. Let's further investigate the <NAVI>[surroundings]<INFO>jor_back5,353,357,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Explore the Ancient Ice Canyon"
+	},
+	[16694] = {
+		Title = "Evidence and Return",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We acquired a suspicious device. Let's return to <NAVI>[Icesen]<INFO>icas_in,262,202,0,101,0</INFO></NAVI> to examine the device."
+		},
+		Summary = "Return to Icesen"
+	},
+	[16695] = {
+		Title = "Suspicious Signs",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Horror seems to have something to say to the adventurer. He says he'll be waiting in the <NAVI>[corner]<INFO>icas_in,259,219,0,101,0</INFO></NAVI> of the Icesen adventurer's lodging."
+		},
+		Summary = "Talk to Horror"
+	},
+	[16696] = {
+		Title = "Military Camp Investigation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's conduct an investigation to see if there are any suspicious signs in the <NAVI>[military camp]<INFO>icas_in,113,41,0,101,0</INFO></NAVI> in Icesen."
+		},
+		Summary = "Military Camp Investigation"
+	},
+	[16697] = {
+		Title = "Lodge Investigation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Let's conduct an investigation to see if there are any suspicious signs in the <NAVI>[lodge]<INFO>icas_in,92,113,0,101,0</INFO></NAVI> in Icesen."
+		},
+		Summary = "Lodge Investigation"
+	},
+	[16698] = {
+		Title = "Back Alley Exploration",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Investigate for any suspicious signs in the <NAVI>[Back Alley]<INFO>icecastle,209,243,0,101,0</INFO></NAVI> of Ice Castle."
+		},
+		Summary = "Back Alley Investigation"
+	},
+	[16699] = {
+		Title = "Suspicious Signs?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Were there any suspicious signs? Since the investigation in the designated area is complete, let's return to <NAVI>[Horuru]<INFO>icas_in,259,219,0,101,0</INFO></NAVI> at Ice Castle Adventurer's Lodge."
+		},
+		Summary = "Talk to Horuru"
+	},
+	[16700] = {
+		Title = "Identity of the Suspicious Device",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Velgund]<INFO>icas_in,260,205,0,101,0</INFO></NAVI> has discovered the identity of the suspicious device. Let's hear the details at the Ice Castle Adventurer's Lodge."
+		},
+		Summary = "Talk to Velgund"
+	},
+	[16701] = {
+		Title = "Canyon Exploration",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lehar is preparing for a canyon exploration at <NAVI>[Front of Ice Castle]<INFO>icecastle,201,171,0,101,0</INFO></NAVI>. After the preparations are complete, let's head to the castle front."
+		},
+		Summary = "Talk to Lehar"
+	},
+	[16702] = {
+		Title = "Return to Ice Castle",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Many things have happened. Return to <NAVI>[Ice Castle]<INFO>icas_in,259,200,0,101,0</INFO></NAVI> to inform Miriam and the adventurer of our safe return."
+		},
+		Summary = "Talk to Miriam"
+	},
+	[16703] = {
+		Title = "Recent Events",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"At the <NAVI>[Adventurer's Lodge]<INFO>icas_in,263,200,0,101,0</INFO></NAVI> in Ice Castle, let's talk about the events witnessed during the escape and make plans for the future."
+		},
+		Summary = "Talk to Lazy"
+	},
+	[16704] = {
+		Title = "Era of Cold War and Espionage",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We have decided to transform into high-level Lecans and infiltrate the gaps among the Lecans. Let's start the spy operation from <NAVI>[Front of Snake's Nest]<INFO>jor_nest,36,274,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Gather at Front of Snake's Nest Door"
+	},
+	[17690] = {
+		Title = "A New Exploration Site",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Gather at the inner part of <NAVI>[Ice Castle]<INFO>icas_in,262,202,0,101,0</INFO></NAVI> to discuss a new exploration site."
+		},
+		Summary = "To the Ice Castle"
+	},
+	[17691] = {
+		Title = "Infiltrating the Lair of Rgan",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The previously sealed door of <NAVI>[Lair of the Serpent]<INFO>jor_nest,36,274,0,101,0</INFO></NAVI> has been opened. Now, it's just a matter of entering while transformed into Rgan using a transformation scroll."
+		},
+		Summary = "The Door Is Open"
+	},
+	[17692] = {
+		Title = "Infiltrating the Lair of Rgan",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After transforming into Rgan using a transformation scroll, entered the opened Lair of the Serpent's <NAVI>[Beyond]<INFO>jor_root1,32,34,0,101,0</INFO></NAVI>. Let's investigate thoroughly."
+		},
+		Summary = "To the Roots of the Serpent"
+	},
+	[17693] = {
+		Title = "Infiltrating the Lair of Rgan",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Identified some unusual Rgan who appear human. First, let's deal with these creatures and then search for the <NAVI>[Companions]<INFO>jor_root2,239,243,0,101,0</INFO></NAVI> in the roots of the serpent."
+		},
+		Summary = "Handling Rgan Shamans"
+	},
+	[17694] = {
+		Title = "Infiltrating the Lair of Rgan",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lazy went ahead to explore the interior. Let's wait for Lazy in the <NAVI>[Sanctuary]<INFO>jor_root2,239,243,0,101,0</INFO></NAVI> within the roots of the serpent."
+		},
+		Summary = "Aiding Lazy the Resolver"
+	},
+	[17695] = {
+		Title = "Infiltrating the Lair of Rgan",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lazy suggested disguising as Rgan bishops and infiltrating the <NAVI>[Sanctuary]<INFO>jor_root2,239,243,0,101,0</INFO></NAVI> within the roots of the serpent. Is this Lazy's plan?"
+		},
+		Summary = "Lazy's Stratagem?"
+	},
+	[17696] = {
+		Title = "Sacred and Divine",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The party decided to use the appearance of Lazy, disguised as a top-tier Rgan, to enter the <NAVI>[Sacred Roots]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI>."
+		},
+		Summary = "To the Sacred Roots"
+	},
+	[17697] = {
+		Title = "Sacred and Divine",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"When arriving at the Sacred Roots, top-tier <NAVI>[Rgan]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI> individuals stood in line, seeking assistance. Let's help them wholeheartedly."
+		},
+		Summary = "Assisting Rgan's Tasks 1"
+	},
+	[17698] = {
+		Title = "Holy and Sacred",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Go to <NAVI>[Root of the Snake God]<INFO>jor_root2,26,271,0,101,0</INFO></NAVI> and dig up 3 Snakeberries that our <NAVI>[Bishop]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI> enjoy eating."
+		},
+		Summary = "Gather 3 Snakeberries"
+	},
+	[17699] = {
+		Title = "Sacred and Divine",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We obtained some information about the Sacred Roots from the top-tier Rgan. Let's get more information from other top-tier <NAVI>[Rgan]<INFO>jor_sanct,185,128,0,101,0</INFO></NAVI> individuals in the Sacred Roots."
+		},
+		Summary = "Assisting Rgan's Tasks 2"
+	},
+	[17700] = {
+		Title = "Sacred and Divine",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We learned about the Magic Absorption Device and the Awin Transformation Device from a top-tier Rgan. Let's seek more information from other top-tier <NAVI>[Rgan]<INFO>jor_sanct,42,105,0,101,0</INFO></NAVI> individuals in the Sacred Roots."
+		},
+		Summary = "Assisting Rgan's Tasks 3"
+	},
+	[17701] = {
+		Title = "Earning Rgan's Trust",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"To acquire more information, we need to gain Rgan's trust. Let's assist Rgan individuals in need, including <NAVI>[Pamoshgand]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>, at the Sacred Roots."
+		},
+		Summary = "Assisting Rgan's Tasks 4"
+	},
+	[17702] = {
+		Title = "Heading Towards the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Saergand, known as Lasgand's right hand, will quietly approach adventurers in front of the <NAVI>[Door]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI> leading to the Serpent's Maze."
+		},
+		Summary = "To the Serpent's Maze"
+	},
+	[17703] = {
+		Title = "Heading Towards the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"There are parasites living in the Serpent's Maze beyond this door. It seems like some cleaning is needed. Before that person arrives, deal with three of them and return to <NAVI>[Sacred Roots]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cleaning the Serpent's Maze"
+	},
+	[17704] = {
+		Title = "Heading Towards the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Saregand, known as Lasgand's right hand, said he is going to meet Lasgand. Let's investigate Saergand's <NAVI>[Traces]<INFO>jor_maze,15,47,0,101,0</INFO></NAVI> within the Serpent's Maze."
+		},
+		Summary = "Finding Saergand's Traces 1"
+	},
+	[17705] = {
+		Title = "Heading Towards the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Saergand's traces are sporadically present. It seems like a more thorough search of <NAVI>[Serpent's Maze]<INFO>jor_maze,17,153,0,101,0</INFO></NAVI> is necessary."
+		},
+		Summary = "Finding Saergand's Traces 2"
+	},
+	[17706] = {
+		Title = "Heading Towards the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After parting ways with the party, you are left alone. Investigate <NAVI>[Serpent's Maze]<INFO>jor_maze,140,71,0,101,0</INFO></NAVI> for Saergand's traces."
+		},
+		Summary = "Finding Saergand's Traces 3"
+	},
+	[17707] = {
+		Title = "Unexpected Reunion",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"There is a suspicious <NAVI>[Device]<INFO>jor_maze,140,71,0,101,0</INFO></NAVI> in the Serpent's Maze. The only person who could have created such a device is Bagot. Investigating the device may provide clues."
+		},
+		Summary = "Investigating the Suspicious Device"
+	},
+	[17708] = {
+		Title = "Unexpected Reunion",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"During a confrontation with Lasgand, a white cat suddenly appeared and sent Lasgand's group flying, including the adventurer <NAVI>[Party]<INFO>jor_back1,365,226,0,101,0</INFO></NAVI>, to the frozen Scaled Hill."
+		},
+		Summary = "The Power of the White Cat"
+	},
+	[17709] = {
+		Title = "Report on Infiltration",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Return to <NAVI>[Ice Castle]<INFO>icas_in,226,255,0,101,0</INFO></NAVI> and report the information about 'that place' and Lasgand."
+		},
+		Summary = "To the Ice Castle"
+	},
+	[17710] = {
+		Title = "Cleaning the Serpent's Maze",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"It's all about cleaning today! Eliminate 10 Jormungandr Guardians of each color in the Serpent's Maze and then return to <NAVI>[Sacred Roots]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Dealing with Jormungandr Guardians"
+	},
+	[17711] = {
+		Title = "[Standby] Cleaning the Serpent's Maze",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After the dawn passes, go to the <NAVI>[Supervisor]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI> in the Sacred Roots to receive new cleaning tasks."
+		},
+		Summary = "4 AM Reset",
+		CoolTimeQuest = 1
+	},
+	[17712] = {
+		Title = "A New Beginning",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It's said that the top-tier Rgan we captured earlier is causing trouble. Let's go to the Ice Castle following <NAVI>[Awin Soldier]<INFO>icecastle,46,164,0,101,0</INFO></NAVI> asking for help."
+		},
+		Summary = "To the Ice Castle"
+	},
+	[17713] = {
+		Title = "A New Beginning",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Horuru]<INFO>icas_in2,31,116,0,101,0</INFO></NAVI> is in a dilemma because of Nadyagand's demands for keeping him imprisoned in the Ice Castle."
+		},
+		Summary = "Distinguished Guest"
+	},
+	[17714] = {
+		Title = "A New Home",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Nadyagand]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI> is imprisoned in the Ice Castle. To open his mouth, you must bring him the snake berries he demands. I have to go to  <NAVI>[Snake God's Root]<INFO>jor_root2,25,21,0,101,0</INFO></NAVI> to dig up 10 Snakeberries."
+		},
+		Summary = "10 Snakeberries"
+	},
+	[17715] = {
+		Title = "A New Beginning",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We've obtained the Snakeberries, but the top-tier Rgan knows nothing. Just when he was about to give in to the idea of sitting in the Ice Castle, <NAVI>[Lazy]<INFO>icas_in2,32,120,0,101,0</INFO></NAVI> appeared. Let's seek advice from Lazy."
+		},
+		Summary = "Conversation with Lazy"
+	},
+	[17716] = {
+		Title = "A New Beginning",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lazy easily persuaded Nadyagand to work without any intentions of playing or eating. How? Let's ask <NAVI>[Lazy]<INFO>icas_in2,32,120,0,101,0</INFO></NAVI> for the details when visiting the Ice Castle."
+		},
+		Summary = "Conversation with Lazy"
+	},
+	[17717] = {
+		Title = "[Standby] Taste of Leisure",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Unintentionally, we've decided to bring some snacks to <NAVI>[Nadyagand]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI> who is working hard. Let's return to the Ice Castle after dawn."
+		},
+		Summary = "4 AM Reset",
+		CoolTimeQuest = 1
+	},
+	[17718] = {
+		Title = "The Taste of Hobby Life",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"For <NAVI>[Nadyagand]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI> who is working hard in the Ice Castle, dig up 10 Snakeberries at <NAVI>[Snake God's Root]<INFO>jor_root2,25,21,0,101,0</INFO></NAVI> Let's bring it."
+		},
+		Summary = "Snake Strawberry 10"
+	},
+	[17719] = {
+		Title = "Sacred and Divine",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Deliver Snakeberries to the Rgan <NAVI>[Bishop]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI> in the Sacred Roots."
+		},
+		Summary = "Deliver Snakeberries"
+	},
+	[17720] = {
+		Title = "Taste of Leisure",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We've collected all the Snakeberries. Let's deliver them to <NAVI>[Nadyagand]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI> in the Ice Castle."
+		},
+		Summary = "To Nadyagand"
+	},
+	[17721] = {
+		Title = "Taste of Leisure",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We've collected all the Snakeberries. Let's deliver them to <NAVI>[Nadyagand]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI> in the Ice Castle."
+		},
+		Summary = "To Nadyagand"
+	},
+	[18218] = {
+		Title = "It's Tess",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Please come to the front of <NAVI>[Vernier Research Institute Entrance]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>. I have important matters to discuss with you."
+		},
+		Summary = "Conversation with Tess"
+	},
+	[18219] = {
+		Title = "Checking In",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The series of events has come to a close. Curious about how <NAVI>[Nihill]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI> is doing now. Let's go to the Prontera Castle and find out!"
+		},
+		Summary = "Conversation with Nihill"
+	},
+	[18220] = {
+		Title = "To the Ice Castle",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We've received the assistance of Lord Naya. Let's return to the Ice Castle and check in with <NAVI>[Leon]<INFO>icas_in,111,228,0,101,0</INFO></NAVI> and our comrades."
+		},
+		Summary = "Conversation with Leon"
+	},
+	[18221] = {
+		Title = "Finding Lehrar...!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"We've decided to find Lehrar at the first floor of the Snake's Roots. Let's investigate the <NAVI>[Marker]<INFO>jor_root1,32,75,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Marker"
+	},
+	[18222] = {
+		Title = "Investigation, Investigation, Investigation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After investigating the mark left in the Snake's Roots, Lehrar suggested exchanging information at the Sacred Roots. There are a total of three marked locations."
+		},
+		Summary = "Investigate 3 Marks"
+	},
+	[18223] = {
+		Title = "Lehrar's Mark 1",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"One of Lehrar's <NAVI>[marks]<INFO>jor_root1,69,128,0,101,0</INFO></NAVI> left in the Snake's Roots 1st floor. There's a long path leading inside. Let's check if there's Bagoth's laboratory inside."
+		},
+		Summary = "Investigate the Mark"
+	},
+	[18224] = {
+		Title = "Lehrar's Mark 2",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"One of Lehrar's <NAVI>[marks]<INFO>jor_root1,35,211,0,101,0</INFO></NAVI> left in the Snake's Roots 1st floor. There's a long path leading inside. Let's check if there's Bagoth's laboratory inside."
+		},
+		Summary = "Investigate the Mark"
+	},
+	[18225] = {
+		Title = "Lehrar's Mark 3",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"One of Lehrar's <NAVI>[marks]<INFO>jor_root1,254,66,0,101,0</INFO></NAVI> left in the Snake's Roots 1st floor. There's a long path leading inside. Let's check if there's Bagoth's laboratory inside."
+		},
+		Summary = "Investigate the Mark"
+	},
+	[18226] = {
+		Title = "It's Just a Hoax. The Next Location.",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Even after investigating all the marks left in the Snake's Roots 1st floor, we couldn't find the entrance to Bagoth's laboratory. Let's meet Lehrar and Miriam at the <NAVI>[Sacred Roots]<INFO>jor_sanct,133,86,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Marks"
+	},
+	[18227] = {
+		Title = "Investigating the Sacred Roots",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lehrar and Miriam have decided to investigate the interior of the Sacred Roots together. Let's go to the central area and talk to <NAVI>[Bishop Rgan]<INFO>jor_sanct,150,207,0,101,0</INFO></NAVI> to gather information."
+		},
+		Summary = "Conversation with the Bishop"
+	},
+	[18228] = {
+		Title = "Nyar's Call",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lured by a massive vibration, we arrived at the Small Twig Nest. The <NAVI>[White Cat]<INFO>jor_twig,187,198,0,101,0</INFO></NAVI> in the Small Twig Nest seems to have something to say. It looks urgent."
+		},
+		Summary = "Conversation with the White Cat"
+	},
+	[18229] = {
+		Title = "Step on the Cats' Backs and Run!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Another massive vibration has occurred. It seems something is happening inside the Small Twig Nest <NAVI>[Inner Area]<INFO>jor_twig,180,123,0,101,0</INFO></NAVI>. Let's go and check it out!"
+		},
+		Summary = "Conversation with the White Cat"
+	},
+	[18230] = {
+		Title = "Was Everyone Here?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Bagoth and Lasgand, who we've been looking for, have somehow infiltrated the Small Twig Nest. We need to help <NAVI>[Nyar]<INFO>jor_twig,142,153,0,101,0</INFO></NAVI> and Leon, who are facing off against Lasgand."
+		},
+		Summary = "Conversation with the White Cat"
+	},
+	[18231] = {
+		Title = "So, What Happened?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lasgand, who infiltrated the Small Twig Nest, disappeared with <NAVI>[Nyar]<INFO>jor_twig,142,153,0,101,0</INFO></NAVI>'s doppelganger. Let's ask <NAVI>[Leon]<INFO>jor_twig,138,157,0,101,0</INFO></NAVI> about Lasgand's whereabouts."
+		},
+		Summary = "Conversation with Leon"
+	},
+	[18232] = {
+		Title = "Isolated Sanctuary",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Before Lasgand could steal the power of the World Tree and the Nest, he was isolated in a different dimension. <NAVI>[Nyar]<INFO>jor_twig,142,153,0,101,0</INFO></NAVI>, who forcibly separated Lasgand, seems to be struggling to maintain the barrier. Let's go to the 'Separated Sanctuary' through <NAVI>[Orelli]<INFO>jor_twig,138,152,0,101,0</INFO></NAVI> and stop Lasgand."
+		},
+		Summary = "Neutralize Lasgand"
+	},
+	[18233] = {
+		Title = "The Undying One",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Lasgand, who absorbed the power of Imir's Heart Shard, was an opponent we couldn't defeat. However, now that we have the tainted Imir's Heart Shard, let's return to <NAVI>[Ice Castle]<INFO>icecastle,158,204,0,101,0</INFO></NAVI>. Chichiring knows the location of <NAVI>[Voglinde]<INFO>icecastle,75,126,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Conversation with Voglinde"
+	},
+	[18234] = {
+		Title = "Awin's Awin Worry",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"A request from Ice Castle's <NAVI>[Chichiring]<INFO>icecastle,75,126,0,101,0</INFO></NAVI>. In order to ensure the safety of the ancient Ice Winds, you must defeat the monsters in the Deep Roots Cave."
+		},
+		Summary = "Defeat Deep Roots Cave Monsters"
+	},
+	[18235] = {
+		Title = "[Standby] Awin's Awin Worry",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be accepted again after the cooldown period expires. You can receive the quest from <NAVI>[Chichiring]<INFO>icecastle,75,126,0,101,0</INFO></NAVI> in Ice Castle."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[18236] = {
+		Title = "Voglinde's Extermination Operation 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Icegard's <NAVI>[Voglinde]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI> wants to exterminate the monsters coming out of the 1st floor of the Snake's Roots. Let's go wild with them!"
+		},
+		Summary = "Defeat 1st Floor Rgan of Snake Roots"
+	},
+	[18237] = {
+		Title = "[Standby] Voglinde's Extermination Operation 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be accepted again after the cooldown period expires. You can receive the quest from <NAVI>[Voglinde]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI> in Icegard."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[18238] = {
+		Title = "Voglinde's Extermination Operation 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Icegard's <NAVI>[Voglinde]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI> wants to exterminate the monsters coming out of the 2nd floor of the Snake's Roots. Let's go wild with them!"
+		},
+		Summary = "Defeat 2nd Floor Rgan of Snake Roots"
+	},
+	[18239] = {
+		Title = "[Standby] Voglinde's Extermination Operation 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest and can be accepted again after the cooldown period expires. You can receive the quest from <NAVI>[Voglinde]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI> in Icegard."
+		},
+		Summary = "04:00 Reset",
+		CoolTimeQuest = 1
+	},
+	[18240] = {
+		Title = "To Ice Castle",
+		IconName = "ico_ep.bmp",
+		Description = { "Talk to Nyar." },
+		Summary = "Conversation with Nyar"
+	},
+	[19158] = {
+		Title = "More Professional Than Any Awin",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems that the Eagle Patrol has a spy experienced in espionage. Let's go find <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI> in the Eagle Patrol's barracks and have a chat."
+		},
+		Summary = "Talk to Soldier Oriryo",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19159] = {
+		Title = "Briefing",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Listen to the briefing given by <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Listen to the briefing",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19160] = {
+		Title = "Spy Countermeasure Meeting",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"I suddenly ended up attending the meeting. Let's talk to <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI> to participate in the Eagle Patrol's spy countermeasure meeting."
+		},
+		Summary = "Attend the meeting",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19161] = {
+		Title = "Mission Explanation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Listen to the explanation given by <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Listen to the explanation",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19162] = {
+		Title = "Today's Watchword",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"According to the Eagle Patrol regulations, I received today's watchword from Soldier Oriryo. It seems that verbally received watchwords will expire at 04:00.",
+			"> If you forget the watchword, you can listen to it again by talking to <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Expiration at 04:00",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62",
+		CoolTimeQuest = 1
+	},
+	[19163] = {
+		Title = "[Standby] Spy Search",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I found the spy hidden in the Ice Castle and received a reward from <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>. Since I'm not the only one searching for spies in the Ice Castle, it's a relief for today."
+		},
+		Summary = "Resets at 04:00",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62",
+		CoolTimeQuest = 1
+	},
+	[19164] = {
+		Title = "Spy Search Success",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I found the spy hidden in the Ice Castle with my excellent tracking skills. Let's go to receive the reward from <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Soldier Oriryo",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19165] = {
+		Title = "[Standby] Retrieve Espionage Info",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I received intelligence information collected by dispatched members and received a reward from <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62",
+		CoolTimeQuest = 1
+	},
+	[19166] = {
+		Title = "Completion of Espionage Info Retrieval",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I received intelligence information from members dispatched to the Rgan area. Let's take the received intelligence information to <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Soldier Oriryo",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19167] = {
+		Title = "Failure in Retrieving Espionage Info",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"I failed to receive intelligence information from the members dispatched to the Rgan area. Let's report it to <NAVI>[Soldier Oriryo]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Soldier Oriryo",
+		NpcSpr = "EP19_NPC_IWIN_SR",
+		NpcNavi = "icas_in",
+		NpcPosX = "100",
+		NpcPosY = "62"
+	},
+	[19168] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_nest,171,84,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19169] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_back5,296,149,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19170] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_twice,76,100,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19171] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_maze,253,267,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19172] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_root1,39,93,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19173] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_root2,19,44,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19174] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_twig,192,211,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19175] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_sanct,120,86,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19176] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_root3,347,147,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[19177] = {
+		Title = "Meeting Place for Contact",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've heard about the meeting place for the Awin faction members who were sent to the Rgan area by Soldier Oriryo",
+			"Go to <NAVI>[Meeting Place for Contact]<INFO>jor_back6,353,260,0,101,0</INFO></NAVI> and provide the secret code to obtain information."
+		},
+		Summary = ""
+	},
+	[23100] = {
+		Title = "Ancient Deep Sea",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"In the confrontation situation with Lasgand, it's possible that Jormungandr saved us. To find the place where you met the White Cat, visit <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Diver Iwin"
+	},
+	[23101] = {
+		Title = "No Matter How Deep, I Can Find It 1",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Diver Iwin from the Ice Castle suggests that he needs a high-calorie meal to swim to the Frozen Zone. Hunt 5 Ice Gangu nearby and bring 3 Frozen Insect Shells."
+		},
+		Summary = "3 Frozen Insect Shells"
+	},
+	[23102] = {
+		Title = "No Matter How Deep, I Can Find It 2",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Diver Iwin from the Ice Castle suggests that he needs a protective suit made of shining seaweed to swim to the Frozen Zone. Hunt 5 Shining Seaweeds nearby and bring 3 Shining Seaweed Stem."
+		},
+		Summary = "3 Shining Seaweed Stem"
+	},
+	[23103] = {
+		Title = "Hidden in the Ice",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've arrived at the Frozen Zone. It's a different place from where you met the White Cat... Check with <NAVI>[Coporo]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI> what's going on here. If you get lost on your way to the Frozen Zone, find <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> in the Ice Castle."
+		},
+		Summary = "Talk to Coporo",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23104] = {
+		Title = "Hidden in the Ice",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've arrived at the Frozen Zone. Now you just need to find the spot where you met the White Cat. There's no plan, but you decided to move anyway. Let's go wherever your feet take you. If you leave the Frozen Zone, <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> will take you back."
+		},
+		Summary = "Find the White Cat",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23105] = {
+		Title = "Hidden in the Ice",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Where on earth is this...? It seems like you're wandering around without a plan, but this is the only way to find the White Cat. Keep exploring the <NAVI>[Frozen Zone]<INFO>jor_twice,158,243,0,101,0</INFO></NAVI>. If you leave the Frozen Zone, <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> will take you back."
+		},
+		Summary = "Find the White Cat again",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23106] = {
+		Title = "A Nest of Small Branches",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You found a spot where you can sense the magic of Jormungandr and met a cat. However, the cat led Leo and Aureli away. Let's follow them with <NAVI>[Lehar]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI> in the Icy Zone.\n\t\tIf you've left the Icy Zone, <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> in the Ice Castle will take you back."
+		},
+		Summary = "Find Leo and Aureli",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23107] = {
+		Title = "A Nest of Small Branches",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Leo seems to have too much on his mind after arriving at the Nest of Small Branches. Let's give him some time to sort his thoughts and then try talking to him."
+		},
+		Summary = "Talk to Leo"
+	},
+	[23108] = {
+		Title = "Across the Iceberg and the Frozen Sea",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You received an explanation about the Sanctum from Leo and Aureli. Return to the <NAVI>[Icy Zone]<INFO>jor_twice,161,243,0,101,0</INFO></NAVI> and share the information about the Nest of Small Branches with your companions.\n\t\tIf you've left the Icy Zone, <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> in the Ice Castle will take you back."
+		},
+		Summary = "Talk to Aureli",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23109] = {
+		Title = "Across the Iceberg and the Frozen Sea",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You received an explanation about the Sanctum from Aureli. It seems like the followers of Jormungandr in the Icy Zone are trying to absorb Jormungandr's magic. Defeat 5 Jormun Warlock nearby and return to <NAVI>[Aureli]<INFO>jor_twice,161,243,0,101,0</INFO></NAVI> in the Icy Zone.\n\t\tIf you've left the Icy Zone, <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> in the Ice Castle will take you back."
+		},
+		Summary = "Defeat 5 Jormun Warlock",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23110] = {
+		Title = "[Standby] Pulling Out Jormungandr's Roots",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"It seems like you've done enough for today. If the threat is too great, it might backfire, so if you want to clear out the Jormun Warlock in the Icy Zone, wait until tomorrow."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[23111] = {
+		Title = "Pulling Out Jormungandr's Roots",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You've received a request from <NAVI>[Kororo]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI>. Let's confront the Jormun Warlock wandering in the Icy Zone.\n\t\tIf you've left the Icy Zone, <NAVI>[Diver Iwin]<INFO>icecastle,141,212,0,101,0</INFO></NAVI> in the Ice Castle will take you back."
+		},
+		Summary = "Defeat 15 Jormun Warlock",
+		NpcSpr = "4_EP19_IWIN",
+		NpcNavi = "icecastle",
+		NpcPosX = "141",
+		NpcPosY = "212"
+	},
+	[23112] = {
+		Title = "The Serpent's Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've decided to infiltrate the Serpent's Maze. Let's find <NAVI>[Lehar]<INFO>jor_maze,142,73,0,101,0</INFO></NAVI> inside the Maze."
+		},
+		Summary = "Talk to Lehar"
+	},
+	[23113] = {
+		Title = "Gathering Rumors Among Yormungands 1",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Listen to the conversations among the Jormungandr followers inside the Serpent's Maze at <NAVI>[Jormungandr]<INFO>jor_maze,52,238,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[23114] = {
+		Title = "Gathering Rumors Among Yormungands 2",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Listen to the conversations among the Jormungandr followers inside the Serpent's Maze at <NAVI>[Jormungandr]<INFO>jor_maze,154,244,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[23115] = {
+		Title = "Gathering Rumors Among Yormungands 3",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Listen to the conversations among the Jormungandr followers inside the Serpent's Maze at <NAVI>[Jormungandr]<INFO>jor_maze,281,191,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[23116] = {
+		Title = "The Cat at the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The Serpent's Maze feels even more mysterious than before. What could have happened in the meantime? Let's gather rumors among the Jormungandr followers."
+		},
+		Summary = "Gather rumors inside the Serpent's Maze"
+	},
+	[23117] = {
+		Title = "The Cat at the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems like you've gathered enough rumors among the Jormungandr followers in the Serpent's Maze. Return to the <NAVI>[Meeting Place]<INFO>jor_maze,150,33,0,101,0</INFO></NAVI> within the Maze."
+		},
+		Summary = "Talk to Miriam"
+	},
+	[23118] = {
+		Title = "The Cat at the End of the Maze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You've shared the rumors collected by your group inside the Serpent's Maze. Now, let's go further inside the <NAVI>[Inside the Maze]<INFO>jor_maze,197,35,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Go further inside the Serpent's Maze"
+	},
 	[297132] = {
 		Title = "[Event] Rites of the Three Souls (1)",
 		IconName = "ico_ev.bmp",
