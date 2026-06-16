@@ -70421,5 +70421,159 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = { "The event has ended." },
 		Summary = ""
+	},
+	[297155] = {
+		Title = "[Cooldown] 23rd Anniversary Check-in",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have checked in for today. Let's go back tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_KAFRA7",
+		NpcNavi = "hugel",
+		NpcPosX = 127,
+		NpcPosY = 130
+	},
+	[297156] = {
+		Title = "[Event] 23rd Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = { "You received the hunting quest from Kafra Agent." },
+		Summary = "Listen to Kafra Agent's request",
+		NpcSpr = "4_F_AGENTKAFRA",
+		NpcNavi = "hugel",
+		NpcPosX = 117,
+		NpcPosY = 135
+	},
+	[297157] = {
+		Title = "[Daily] 23rd Anniversary Hunting Quest (30)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 230 lv.30 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Kafra Agent]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.30 or higher monster",
+		NpcSpr = "4_F_AGENTKAFRA",
+		NpcNavi = "hugel",
+		NpcPosX = 117,
+		NpcPosY = 135
+	},
+	[297158] = {
+		Title = "[Daily] 23rd Anniversary Hunting Quest (90)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 230 lv.90 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Kafra Agent]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.90 or higher monster",
+		NpcSpr = "4_F_AGENTKAFRA",
+		NpcNavi = "hugel",
+		NpcPosX = 117,
+		NpcPosY = 135
+	},
+	[297159] = {
+		Title = "[Daily] 23rd Anniversary Hunting Quest (150)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 230 lv.150 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Kafra Agent]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.150 or higher monster",
+		NpcSpr = "4_F_AGENTKAFRA",
+		NpcNavi = "hugel",
+		NpcPosX = 117,
+		NpcPosY = 135
+	},
+	[297160] = {
+		Title = "[Daily] 23rd Anniversary Hunting Quest (200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 230 lv.200 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Kafra Agent]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Defeat Lv.200 or higher monster",
+		NpcSpr = "4_F_AGENTKAFRA",
+		NpcNavi = "hugel",
+		NpcPosX = 117,
+		NpcPosY = 135
+	},
+	[297161] = {
+		Title = "[Cooldown] 23rd  Anniversary Hunting Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed hunting quest for today. Let's go back tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Kafra Agent]<INFO>hugel,79,83,0,101,0</INFO></NAVI> - Hunting Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_AGENTKAFRA",
+		NpcNavi = "hugel",
+		NpcPosX = 117,
+		NpcPosY = 135
+	},
+	[297162] = {
+		Title = "[Event] 23rd Anniversary Taming Quest",
+		IconName = "ico_ev.bmp",
+		Description = { "You received the taming quest from Lovelean." },
+		Summary = "Listen to Lovelean's request",
+		NpcSpr = "4_F_KAFRA8",
+		NpcNavi = "hugel",
+		NpcPosX = 121,
+		NpcPosY = 135
+	},
+	[297163] = {
+		Title = "[Daily] 23rd Anniversary Taming Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to capture 10 Cake Poring to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,121,135,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Capture 10 Cake Poring",
+		NpcSpr = "4_F_KAFRA8",
+		NpcNavi = "hugel",
+		NpcPosX = 121,
+		NpcPosY = 135
+	},
+	[297164] = {
+		Title = "[Cooldown] 23rd Anniversary Taming Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's visit her tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Lovelean]<INFO>hugel,121,135,0,101,0</INFO></NAVI> - Taming Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_KAFRA8",
+		NpcNavi = "hugel",
+		NpcPosX = 121,
+		NpcPosY = 135
+	},
+	[297165] = {
+		Title = "[Event] 23rd  Anniversary Task Quest",
+		IconName = "ico_ev.bmp",
+		Description = { "You received the quest from Leilah." },
+		Summary = "Listen to Leilah's request",
+		NpcSpr = "4_F_KAFRA5",
+		NpcNavi = "hugel",
+		NpcPosX = 125,
+		NpcPosY = 135
+	},
+	[297166] = {
+		Title = "[Daily] 23rd Anniversary Task Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Complete task given by Leilah. Talk to her if you feel lost.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,125,135,0,101,0</INFO></NAVI> - Task Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Complete Leilah's Task",
+		NpcSpr = "4_F_KAFRA5",
+		NpcNavi = "hugel",
+		NpcPosX = 125,
+		NpcPosY = 135
+	},
+	[297167] = {
+		Title = "[Cooldown] 23rd Anniversary Task Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have helped enough today. Let's visit her tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Leilah]<INFO>hugel,125,135,0,101,0</INFO></NAVI> - Task Quest NPC\n\t\t<NAVI>[Sampaguita]<INFO>hugel,127,130,0,101,0</INFO></NAVI> - Anniversary Pass NPC\n\t\t<NAVI>[Caprese]<INFO>hugel,125,126,0,101,0</INFO></NAVI> - Anniversary Exchange NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_KAFRA5",
+		NpcNavi = "hugel",
+		NpcPosX = 125,
+		NpcPosY = 135
 	}
 }
