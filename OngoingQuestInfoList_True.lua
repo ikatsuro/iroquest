@@ -70575,5 +70575,535 @@ QuestInfoList = {
 		NpcNavi = "hugel",
 		NpcPosX = 125,
 		NpcPosY = 135
+
+	},
+	[297169] = {
+		Title = "[Daily][S3] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.90 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.90 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297170] = {
+		Title = "[Daily][S3] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.150 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.150 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297171] = {
+		Title = "[Daily][S3] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.200 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.200 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297172] = {
+		Title = "[Cooldown][S3] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest I today. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297173] = {
+		Title = "[Daily][S3] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Brute monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Brute monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297174] = {
+		Title = "[Daily][S3] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Formless monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Formless monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297175] = {
+		Title = "[Daily][S3] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Demon monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Demon monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297176] = {
+		Title = "[Daily][S3] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 100 Angel monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 100 Angel monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297177] = {
+		Title = "[Cooldown][S3] Battle Pass Hunt II",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest II today. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297178] = {
+		Title = "[Daily][S3] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Neutral property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Neutral property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297179] = {
+		Title = "[Daily][S3] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Poison property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Poison property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297180] = {
+		Title = "[Daily][S3] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Wind property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Wind property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297181] = {
+		Title = "[Daily][S3] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 50 Water property monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt 50 Water property monsters",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297182] = {
+		Title = "[Cooldown][S3] Battle Pass Hunt III",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed Daily Quest III today. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297183] = {
+		Title = "[Season][S3] Battle Pass Quest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to complete 50 Battle Pass daily quests to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Complete 50 Daily Quests",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297184] = {
+		Title = "[Cooldown][S3] BP Hunting Area - Free",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have used the free attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "EP19_NPC_IWIN_SY",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297185] = {
+		Title = "[Cooldown][S3] BP Hunting Area - Paid",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have used the paid attempt to access Battle Pass Hunting Area. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Iwin Guard]<INFO>prontera,133,328,0,101,0</INFO></NAVI> - Hunting Warp NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "EP19_NPC_IWIN_SY",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[297186] = {
+		Title = "[Cooldown][S3] Nyar's Treat",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have gifted Nyar a treat. Let's return tomorrow.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Nyar]<INFO>prontera,129,328,0,101,0</INFO></NAVI> - Research NPC\n\t\t"
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP20_NYAR",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
+	},
+	[24118] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"An investigation team has been formed to examine the sudden rift that appeared in Morroc. Speak with the <NAVI>[Morroc Resident]<INFO>morocc,248,178,0,101,0</INFO></NAVI> to gather information about the rift."
+		},
+		Summary = "Talk to the Morroc Resident"
+	},
+	[24119] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You heard the Morroc Resident's story about what was seen from the rift. Listen to the story of the <NAVI>[Villager]<INFO>morocc,202,101,0,101,0</INFO></NAVI>, who works at a shop in southern Morroc, as well."
+		},
+		Summary = "Talk to the Villager"
+	},
+	[24120] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You heard the Villager's story. Listen to the story of the <NAVI>[Weapon Delivery Man]<INFO>morocc,259,65,0,101,0</INFO></NAVI>, who works near the weapon shop in southeastern Morroc."
+		},
+		Summary = "Talk to the Weapon Delivery Worker"
+	},
+	[24121] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems there are more people than expected who witnessed the rift. Listen to the story of the <NAVI>[Water Quality Manager]<INFO>morocc,170,139,0,101,0</INFO></NAVI>, who works near the center of Morroc."
+		},
+		Summary = "Talk to the Water Quality Manager"
+	},
+	[24122] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Water Quality Manager said they saw a <NAVI>[Suspiciously Dressed Person]<INFO>morocc,129,270,0,101,0</INFO></NAVI> near Morroc's north gate. They may not still be there, but let's check it out for now."
+		},
+		Summary = "Find the Suspiciously Dressed Person"
+	},
+	[24123] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Suspiciously Dressed Person seems to be very hungry. Head to a <NAVI>[Place]<INFO>morocc,56,252,0,101,0</INFO></NAVI> where you can buy something to eat and get him some food."
+		},
+		Summary = "Looking for Food."
+	},
+	[24124] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ryu obtained information that a person dressed in white clothes was seen heading out through Morroc's south gate. Check the area <NAVI>[Outside the South Gate]<INFO>moc_fild12,164,366,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Head Outside the South Gate"
+	},
+	[24125] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ryu and Jinpei discovered a suspicious monster outside Morroc's south gate. Let's investigate the <NAVI>[Suspicious Monster]<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI> together."
+		},
+		Summary = "Investigate the Suspicious Monster"
+	},
+	[24126] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems the Galactor Legion's monsters have spread around Morroc. Defeat 3 Galarings and Squid Bombs nearby, then return to <NAVI>[Suspicious Monster]<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Defeat Galaring and Squid Bomb"
+	},
+	[24127] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After confirming the Galactor monsters, Ken suggests returning to <NAVI>[Morroc]<INFO>morocc,170,36,0,101,0</INFO></NAVI> to assess the situation."
+		},
+		Summary = "Return to Morroc"
+	},
+	[24128] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ken wants to gather information about the situation in Midgard. Go to the <NAVI>[Anomaly Fissure Guide]<INFO>morocc,196,261,0,101,0</INFO></NAVI> and obtain information."
+		},
+		Summary = "Go to the Rift Receptionist"
+	},
+	[24129] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Rift Anomaly Investigation Team is said to be managing the rift that appeared. Let's investigate the <NAVI>[Rift]<INFO>morocc,296,175,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Guard"
+	},
+	[24130] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Although no information was obtained from the rift, you spotted a Galactor Legion soldier spying nearby. Follow the <NAVI>[Galactor Soldier]<INFO>morocc,28,188,0,101,0</INFO></NAVI>, who disappeared somewhere."
+		},
+		Summary = "Follow the Galactor Soldier"
+	},
+	[24131] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You discovered Berg Katse speaking in front of a hidden rift. Once Berg Katse leaves, investigate the <NAVI>[Rift]<INFO>morocc,22,188,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Rift"
+	},
+	[24132] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"According to Berg Katse, the rift cannot be left alone. Stabilize the <NAVI>[Rift]<INFO>morocc,22,188,0,101,0</INFO></NAVI> and investigate its interior.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Investigate the Inside of the Rift"
+	},
+	[24133] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You investigated the inside of the rift. Speak with <NAVI>[Ken]<INFO>morocc,29,193,0,101,0</INFO></NAVI> in Morroc.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Talk to Ken"
+	},
+	[24134] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Help the <NAVI>[Investigator]<INFO>morocc,33,187,0,101,0</INFO></NAVI> of the Bird Missile so the Gatchaman team can return to Earth. Defeat 5 Galerings and Squid Bombs, then bring 5 Bird Missile Powders to be used as missile materials.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Collect Materials"
+	},
+	[24135] = {
+		Title = "[Collab][Daily]Prepare Yourself, Berg Katse!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems Berg Katse is repairing the <NAVI>[Anomaly Fissure]<INFO>morocc,22,188,0,101,0</INFO></NAVI> while avoiding attention. Let's destroy it again.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Investigate the Inside of the Rift",
+		NpcSpr = "4_CLB_GAT_KEN",
+		NpcNavi = "morocc",
+		NpcPosX = 29,
+		NpcPosY = 193
+	},
+	[24136] = {
+		Title = "[Collab][Daily]Prepare Yourself, Berg Katse!(Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Galactor group has been driven out and the rift has been dealt with. It may remain safe until they repair it again?"
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_CLB_GAT_KEN",
+		NpcNavi = "morocc",
+		NpcPosX = 29,
+		NpcPosY = 193
+	},
+	[24137] = {
+		Title = "[Collab][Daily]Launch! Bird Missile!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's gather about 10 Bird Missile Powders needed to make the Bird Missile and bring them back to <NAVI>[Jun]<INFO>morocc,32,194,0,101,0</INFO></NAVI>.",
+			"Bird Missile Powder can be obtained by defeating Galerings and Squid Bombs.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Collect 10 Bird Missile Powders",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24138] = {
+		Title = "[Collab][Daily]All Right! I'll Smash Them All!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To stop the Galactor Legion, defeat about 10 Galerings appearing in the fields near Morroc, then return to <NAVI>[Jun]<INFO>morocc,32,194,0,101,0</INFO></NAVI>",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Defeat Galerings",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24139] = {
+		Title = "[Collab][Daily]Galactor's Monsters Will Never Return to Their Base!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To stop the Galactor Legion, defeat about 10 Squid Bombs appearing in the fields near Morroc, then return to <NAVI>[Jun]<INFO>morocc,32,194,0,101,0</INFO></NAVI>",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Defeat Squid Bombs",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24140] = {
+		Title = "[Collab][Daily]Launch! Bird Missile!(Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = { "You collected the Bird Missile Powders. Come back again tomorrow." },
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24141] = {
+		Title = "[Collab][Daily]All Right! I'll Smash Them All!(Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = { "You defeated the Galerings. Come back again tomorrow." },
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24142] = {
+		Title = "[Collab][Daily]Galactor's Monsters Will Never Return to Their Base!(Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = { "You defeated the Squid Bombs. Come back again tomorrow." },
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24143] = {
+		Title = "[Collab] Visitors from another world",
+		IconName = "ico_ev.bmp",
+		Description = { "" },
+		Summary = ""
+	},
+	[24144] = {
+		Title = "[Collab][Daily]Please, I'm Begging You!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he headed toward the <NAVI>[West Gate]<INFO>moc_fild19,149,133,0,101,0</INFO></NAVI>, so let's go look for him.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Find Joe",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24145] = {
+		Title = "[Collab][Daily]Please, I'm Begging You!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he headed toward the <NAVI>[West Gate]<INFO>moc_fild19,149,133,0,101,0</INFO></NAVI>, so let's go look for him.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Find Joe",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24146] = {
+		Title = "[Collab][Daily]Please, I'm Begging You!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he headed toward the <NAVI>[South Gate]<INFO>moc_fild12,161,365,0,101,0</INFO></NAVI>, so let's go look for him.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Find Joe",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24147] = {
+		Title = "[Collab][Daily]Please, I'm Begging You!(In progress)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he headed toward the <NAVI>[South Gate]<INFO>moc_fild12,161,365,0,101,0</INFO></NAVI>, so let's go look for him.",
+			"�� Navigation may not function properly inside the Memorial Dungeon."
+		},
+		Summary = "Find Joe",
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
+	},
+	[24148] = {
+		Title = "[Collab][Daily]Please, I'm Begging You!(Cooldown)",
+		IconName = "ico_ev.bmp",
+		Description = { "Joe is safe." },
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_CLB_GAT_JUN",
+		NpcNavi = "morocc",
+		NpcPosX = 32,
+		NpcPosY = 194
 	}
 }
