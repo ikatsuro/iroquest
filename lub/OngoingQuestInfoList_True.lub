@@ -70575,7 +70575,18 @@ QuestInfoList = {
 		NpcNavi = "hugel",
 		NpcPosX = 125,
 		NpcPosY = 135
-
+	},
+	[297168] = {
+		Title = "[Daily][S3] Battle Pass Hunt I",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you need to hunt 200 lv.30 or higher monsters to complete the request.\n\n\t\t^FF0000Client Info^000000\n\t\t<NAVI>[Aurelie]<INFO>prontera,117,328,0,101,0</INFO></NAVI> - Daily Quest NPC\n\t\t"
+		},
+		Summary = "Hunt Lv.30 or higher monster",
+		NpcSpr = "4_EP19_AURELIE",
+		NpcNavi = "prontera",
+		NpcPosX = 79,
+		NpcPosY = 83
 	},
 	[297169] = {
 		Title = "[Daily][S3] Battle Pass Hunt I",
