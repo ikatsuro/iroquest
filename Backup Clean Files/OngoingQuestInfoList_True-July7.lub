@@ -65473,7 +65473,7 @@ QuestInfoList = {
 		NpcSpr = "4_F_KAFRA5",
 		NpcNavi = "hugel",
 		NpcPosX = 125,
-		https://www.jetro.go.jp/en/NpcPosY = 135
+		NpcPosY = 135
 	},
 	[297168] = {
 		Title = "[Daily][S3] Battle Pass Hunt I",
