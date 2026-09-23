@@ -59784,6 +59784,12 @@ QuestInfoList = {
 		},
 		Summary = "Let's go down quickly."
 	},
+	[5496] = {
+		Title = "(Delivery) Cooldown",
+		Description = { "There are no new quests on the City Bulletin Board. Quests reset at 4:00 AM." },
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
 	[5497] = {
 		Title = "(A-Delivery Quest)",
 		Description = {
@@ -71117,5 +71123,197 @@ QuestInfoList = {
 		NpcNavi = "morocc",
 		NpcPosX = 32,
 		NpcPosY = 194
+	},
+	[297187] = {
+		Title = "[Event] The Bone Business",
+		IconName = "ico_ev.bmp",
+		Description = { "You received the gathering quest from Furniture Loving Captain." },
+		Summary = "Listen to Furniture Loving Captain's request",
+		NpcSpr = "4_EP21_HOWELL_S",
+		NpcNavi = "alb2trea",
+		NpcPosX = 80,
+		NpcPosY = 89
+	},
+	[297188] = {
+		Title = "[Event] The Bone Business",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The strange furniture-loving captain is asking you to bring him 50 Skeleton Bones.",
+			"You probably shouldn't ask what they're for. He needs a lot. A LOT."
+		},
+		Summary = "Collect 50 Skeleton Bones",
+		NpcSpr = "4_EP21_HOWELL_S",
+		NpcNavi = "alb2trea",
+		NpcPosX = 80,
+		NpcPosY = 89
+	},
+	[297189] = {
+		Title = "[Cooldown] The Bone Business",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've done your part in today's Bone Business.",
+			"Come back tomorrow if the captain needs... more."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_EP21_HOWELL_S",
+		NpcNavi = "alb2trea",
+		NpcPosX = 80,
+		NpcPosY = 89
+	},
+	[297190] = {
+		Title = "[Event] A Chair Situation",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have spoken with the distressed swordsman who was tied up by the strange captain.",
+			"Whatever is happening here, it's probably none of your business."
+		},
+		Summary = "You have talked to the Distressed Swordman",
+		NpcSpr = "4_EP21_HOWELL_S",
+		NpcNavi = "alb2trea",
+		NpcPosX = 82,
+		NpcPosY = 88
+	},
+	[297191] = {
+		Title = "[Event] Out of Place, In Stock",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You found a vending machine in the middle of nowhere.",
+			"You wish you hadn't pressed anything."
+		},
+		Summary = "You have touched the Ominous Vending Machine",
+		NpcSpr = "4_EP21_HOWELL_S",
+		NpcNavi = "alb2trea",
+		NpcPosX = 86,
+		NpcPosY = 87
+	},
+	[297192] = {
+		Title = "[Event] Pest Control, Pirate Style",
+		IconName = "ico_ev.bmp",
+		Description = { "You received the hunting quest from Shoelace Sean." },
+		Summary = "Listen to Shoelace Sean's request",
+		NpcSpr = "4_F_DOMINO",
+		NpcNavi = "alb2trea",
+		NpcPosX = 96,
+		NpcPosY = 61
+	},
+	[297193] = {
+		Title = "[Daily] Pest Control, Pirate Style (30)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Shoelace Sean needs you to hunt down 100 monsters at level 30 or higher.",
+			"Go on, give 'em the boot!"
+		},
+		Summary = "Defeat Lv.30 or higher monster",
+		NpcSpr = "4_F_DOMINO",
+		NpcNavi = "alb2trea",
+		NpcPosX = 96,
+		NpcPosY = 61
+	},
+	[297194] = {
+		Title = "[Daily] Pest Control, Pirate Style (90)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Shoelace Sean needs you to hunt down 100 monsters at level 90 or higher.",
+			"Go on, give 'em the boot!"
+		},
+		Summary = "Defeat Lv.90 or higher monster",
+		NpcSpr = "4_F_DOMINO",
+		NpcNavi = "alb2trea",
+		NpcPosX = 96,
+		NpcPosY = 61
+	},
+	[297195] = {
+		Title = "[Daily] Pest Control, Pirate Style (150)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Shoelace Sean needs you to hunt down 100 monsters at level 150 or higher.",
+			"Go on, give 'em the boot!"
+		},
+		Summary = "Defeat Lv.150 or higher monster",
+		NpcSpr = "4_F_DOMINO",
+		NpcNavi = "alb2trea",
+		NpcPosX = 96,
+		NpcPosY = 61
+	},
+	[297196] = {
+		Title = "[Daily] Pest Control, Pirate Style (200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Shoelace Sean needs you to hunt down 100 monsters at level 200 or higher.",
+			"Go on, give 'em the boot!"
+		},
+		Summary = "Defeat Lv.200 or higher monster",
+		NpcSpr = "4_F_DOMINO",
+		NpcNavi = "alb2trea",
+		NpcPosX = 96,
+		NpcPosY = 61
+	},
+	[297197] = {
+		Title = "[Cooldown] Pest Control, Pirate Style",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've hunted enough monsters for today.",
+			"Go give those shoelaces a rest. Come back tomorrow."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_DOMINO",
+		NpcNavi = "alb2trea",
+		NpcPosX = 96,
+		NpcPosY = 61
+	},
+	[297198] = {
+		Title = "[Event] Shiny Booty",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Doubloon Danny has decided you're trustworthy enough for his secret little exchange.",
+			"Now all you need is something shiny... and preferably a lot of it."
+		},
+		Summary = "Earn Doubloon Danny's trust",
+		NpcSpr = "4_CAT_SAILOR2",
+		NpcNavi = "alb2trea",
+		NpcPosX = 64,
+		NpcPosY = 62
+	},
+	[297199] = {
+		Title = "[Event] Raiders of the Lost Wreck",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The wreck is full of monsters, forgotten treasure, and probably several terrible decisions.",
+			"Salvage 5 treasures and get out before you become part of the wreck yourself."
+		},
+		Summary = "Find 5 Treasures",
+		NpcSpr = "4_M_NOFEARGUY",
+		NpcNavi = "alb2trea",
+		NpcPosX = 93,
+		NpcPosY = 59
+	},
+	[297200] = {
+		Title = "[Completed] Raiders of the Lost Wreck",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You've recovered 5 Salvaged Treasures from the wreck.",
+			"Return to William Rotator and collect your share of the booty."
+		},
+		Summary = "Report back to William",
+		NpcSpr = "4_M_NOFEARGUY",
+		NpcNavi = "alb2trea",
+		NpcPosX = 93,
+		NpcPosY = 59
+	},
+	[297201] = {
+		Title = "[Cooldown] Raiders of the Lost Wreck",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The wreck has yielded enough treasure for today.",
+			"Give the sea a rest and come back tomorrow for another dive."
+		},
+		Summary = "Reset at 4 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_NOFEARGUY",
+		NpcNavi = "alb2trea",
+		NpcPosX = 93,
+		NpcPosY = 59
 	}
 }
