@@ -8232,6 +8232,182 @@ QuestInfoList = {
 		},
 		Summary = ""
 	},
+	[5470] = {
+		Title = "(Wanted) Pending",
+		Description = {
+			"There are no newly registered bounty requests on the City Merchants' Union bulletin board. It seems that requests are updated every Wednesday at 4:00 AM."
+		},
+		Summary = "Resets Wednesday at 4:00 AM",
+		CoolTimeQuest = 1
+	},
+	[5472] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Saint Capitolina Monastery is offering a reward to anyone who defeats Unsealed Baphomet, the boss of the Temple of Seals."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5473] = {
+		Title = "(Wanted)",
+		Description = {
+			"The residents of Port Malaya are offering a reward to anyone who defeats Bakonawa, the monster of Lake Buwaya."
+		},
+		Summary = "250 Bounty Union Tokens"
+	},
+	[5474] = {
+		Title = "(Wanted)",
+		Description = {
+			"The residents of Port Malaya are offering a reward to anyone who defeats Buwaya, the monster of Buwaya Cave."
+		},
+		Summary = "250 Bounty Union Tokens"
+	},
+	[5475] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who defeats Amdarais, the boss of Old Glast Heim."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5476] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Alberta Merchants' Guild is offering a reward to anyone who defeats Faceworm Queen, the boss of the Faceworm Nest."
+		},
+		Summary = "250 Bounty Union Tokens"
+	},
+	[5477] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who defeats Fenrir, a participant in the Geffen Magic Tournament."
+		},
+		Summary = "300 Bounty Union Tokens"
+	},
+	[5478] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Dimensional Rift Research Association is offering a reward to anyone who defeats Celine Kimi, the boss of the Horror Toy Factory."
+		},
+		Summary = "250 Bounty Union Tokens"
+	},
+	[5479] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Continental Guard Office is offering a reward to anyone who defeats Morocc Necromancer in Morse's Cave."
+		},
+		Summary = "300 Bounty Union Tokens"
+	},
+	[5480] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Continental Guard Office is offering a reward to anyone who defeats Reaper Anku on Bios Island."
+		},
+		Summary = "300 Bounty Union Tokens"
+	},
+	[5481] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Continental Guard Office is offering a reward to anyone who defeats Morocc the Despair God, in the Temple of the Demon God."
+		},
+		Summary = "300 Bounty Union Tokens"
+	},
+	[5482] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who defeats Amdarais, the boss of Old Glast Heim: Hard."
+		},
+		Summary = "300 Bounty Union Tokens"
+	},
+	[5483] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Frenzied Struggle Guild is offering a reward to anyone who defeats Grand Pere, the boss of Nightmare Jitterbug."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5484] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Frenzied Struggle Guild is offering a reward to anyone who defeats Charleston NO.3 in Charleston Crisis."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5485] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Dimensional Rift Research Association is offering a reward to anyone who stops Sarah Irene in the Fenrir and Sarah Rift."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5486] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who stops Crazy Ferlock, who has gone berserk at the scene of the Airship Raid."
+		},
+		Summary = "150 Bounty Union Tokens"
+	},
+	[5487] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who stops Crazy Ferlock, who has gone berserk at the scene of the Airship Raid."
+		},
+		Summary = "150 Bounty Union Tokens"
+	},
+	[5488] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Dimensional Rift Research Association is offering a reward to anyone who stops T_W_O in the Last Room."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5489] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who defeats Bijou, the boss of the Ritual Room."
+		},
+		Summary = "100 Bounty Union Tokens"
+	},
+	[5490] = {
+		Title = "(Wanted)",
+		Description = {
+			"Scientist Doyen is offering a reward to anyone who defeats Stefan J. E. Wolf, the boss of the Sky Fortress Invasion he discovered."
+		},
+		Summary = "200 Bounty Union Tokens"
+	},
+	[5491] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Yuno Sage Association is offering a reward to anyone who defeats the Shadow of Nydhorgg in Nydhorgg's Nest."
+		},
+		Summary = "150 Bounty Union Tokens"
+	},
+	[5492] = {
+		Title = "(Wanted)",
+		Description = {
+			"The Yuno Sage Association is offering a reward to anyone who defeats the Wandering Purple Dragon, the boss of the Misty Forest Labyrinth."
+		},
+		Summary = "150 Bounty Union Tokens"
+	},
+	[5493] = {
+		Title = "(Wanted)",
+		Description = {
+			"The residents of Port Malaya are offering a reward to anyone who defeats Bangungot, the boss on the second floor of Bangungot Hospital."
+		},
+		Summary = "150 Bounty Union Tokens"
+	},
+	[5494] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who defeats Irene The Wise Elder in Sarah's Memories."
+		},
+		Summary = "100 Bounty Union Tokens"
+	},
+	[5495] = {
+		Title = "(Wanted)",
+		Description = {
+			"An anonymous client is offering a reward to anyone who defeats the Torturous Redeemer, the boss of the Palace of the Dead."
+		},
+		Summary = "100 Bounty Union Tokens"
+	},
 	[5727] = {
 		Title = "Suddenly in charge",
 		Description = {
@@ -33030,6 +33206,526 @@ QuestInfoList = {
 			"I've found Werner's traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Ansuria"
+	},,
+	[16734] = {
+		Title = "Varmundt Biosphere Depths Guide",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You received guidance about the newly discovered Depths within the Varmundt Biosphere from <NAVI>[Deep Layer Research Manager]<INFO>ba_in01,292,104,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Depths Guide"
+	},
+	[16735] = {
+		Title = "[Daily] Depths 1st Floor Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 300 monsters of any kind in the Biosphere Depths 1st Floor, then report to the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[16736] = {
+		Title = "[Cooldown] Depths 1st Floor Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Reset 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16737] = {
+		Title = "[Weekly] Depths 1st Floor Advanced Sample Research",
+		Description = {
+			"Defeat 2,000 monsters of any kind in the Biosphere Depths 1st Floor, then report to the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16738] = {
+		Title = "[Cooldown] Depths 1st Floor Advanced Sample Research",
+		Description = {
+			"This is a weekly quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets Monday at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16739] = {
+		Title = "[Daily] Depths 1st Floor Flame Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Lava Toad]<INFO>BIO_LAVA_TOAD,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Fire Frilldora]<INFO>BIO_FIRE_FRILLDORA,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Flame Specimen]<INFO>1001330</INFO></ITEM>. Then bring them to the <NAVI>[Flame Specimen Research Manager]<INFO>ba_in01,286,114,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Flame Specimens"
+	},
+	[16740] = {
+		Title = "[Cooldown] Depths 1st Floor Flame Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16741] = {
+		Title = "[Daily] Depths 1st Floor Flame Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Lava Toad]<INFO>BIO_LAVA_TOAD,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Fire Frilldora]<INFO>BIO_FIRE_FRILLDORA,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Flame Specimen]<INFO>1001330</INFO></ITEM>. Then bring them to the <NAVI>[Flame Specimen Research Manager]<INFO>ba_in01,286,114,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Flame Specimens"
+	},
+	[16742] = {
+		Title = "[Cooldown] Depths 1st Floor Flame Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16743] = {
+		Title = "[Daily] Depths 1st Floor Ice Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Anolian]<INFO>BIO_ANOLIAN,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Kapha]<INFO>BIO_KAPHA,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Ice Specimen]<INFO>1001332</INFO></ITEM>. Then bring them to the <NAVI>[Ice Specimen Research Manager]<INFO>ba_in01,286,116,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Ice Specimens"
+	},
+	[16744] = {
+		Title = "[Cooldown] Depths 1st Floor Ice Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16745] = {
+		Title = "[Daily] Depths 1st Floor Ice Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Anolian]<INFO>BIO_ANOLIAN,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Kapha]<INFO>BIO_KAPHA,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Ice Specimen]<INFO>1001332</INFO></ITEM>. Then bring them to the <NAVI>[Ice Specimen Research Manager]<INFO>ba_in01,286,116,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Ice Specimens"
+	},
+	[16746] = {
+		Title = "[Cooldown] Depths 1st Floor Ice Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16747] = {
+		Title = "[Daily] Depths 1st Floor Earth Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Sting]<INFO>BIO_STING,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Wood Goblin]<INFO>BIO_WOOD_GOBLIN,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Earth Specimen]<INFO>1001331</INFO></ITEM>. Then bring them to the <NAVI>[Earth Specimen Research Manager]<INFO>ba_in01,286,118,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Earth Specimens"
+	},
+	[16748] = {
+		Title = "[Cooldown] Depths 1st Floor Earth Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16749] = {
+		Title = "[Daily] Depths 1st Floor Earth Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Sting]<INFO>BIO_STING,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Wood Goblin]<INFO>BIO_WOOD_GOBLIN,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Earth Specimen]<INFO>1001331</INFO></ITEM>. Then bring them to the <NAVI>[Earth Specimen Research Manager]<INFO>ba_in01,286,118,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Earth Specimens"
+	},
+	[16750] = {
+		Title = "[Cooldown] Depths 1st Floor Earth Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16751] = {
+		Title = "[Daily] Depths 1st Floor Storm Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Dragon Tail]<INFO>BIO_DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Little Fatum]<INFO>BIO_LITTLE_FATUM,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Storm Specimen]<INFO>1001333</INFO></ITEM>. Then bring them to the <NAVI>[Storm Specimen Research Manager]<INFO>ba_in01,286,120,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Storm Specimens"
+	},
+	[16752] = {
+		Title = "[Cooldown] Depths 1st Floor Storm Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16753] = {
+		Title = "[Daily] Depths 1st Floor Storm Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Dragon Tail]<INFO>BIO_DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Little Fatum]<INFO>BIO_LITTLE_FATUM,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Storm Specimen]<INFO>1001333</INFO></ITEM>. Then bring them to the <NAVI>[Storm Specimen Research Manager]<INFO>ba_in01,286,120,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Storm Specimens"
+	},
+	[16754] = {
+		Title = "[Cooldown] Depths 1st Floor Storm Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16755] = {
+		Title = "[Daily] Depths 1st Floor Purification Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Holy Frus]<INFO>BIO_HOLY_FRUS,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Holy Skogul]<INFO>BIO_HOLY_SKOGUL,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Purification Specimen]<INFO>1001335</INFO></ITEM>. Then bring them to the <NAVI>[Purification Specimen Research Manager]<INFO>ba_in01,283,114,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Purification Specimens"
+	},
+	[16756] = {
+		Title = "[Cooldown] Depths 1st Floor Purification Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16757] = {
+		Title = "[Daily] Depths 1st Floor Purification Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Holy Frus]<INFO>BIO_HOLY_FRUS,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Holy Skogul]<INFO>BIO_HOLY_SKOGUL,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Purification Specimen]<INFO>1001335</INFO></ITEM>. Then bring them to the <NAVI>[Purification Specimen Research Manager]<INFO>ba_in01,283,114,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Purification Specimens"
+	},
+	[16758] = {
+		Title = "[Cooldown] Depths 1st Floor Purification Sample Research II",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16759] = {
+		Title = "[Daily] Depths 1st Floor Corruption Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Archer Skeleton]<INFO>BIO_SKEL_ARCHER,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Soldier Skeleton]<INFO>BIO_SKEL_SOLDIER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Corruption Specimen]<INFO>1001336</INFO></ITEM>. Then bring them to the <NAVI>[Corruption Specimen Research Manager]<INFO>ba_in01,283,116,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Corruption Specimens"
+	},
+	[16760] = {
+		Title = "[Cooldown] Depths 1st Floor Corruption Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16761] = {
+		Title = "[Daily] Depths 1st Floor Corruption Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Archer Skeleton]<INFO>BIO_SKEL_ARCHER,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Soldier Skeleton]<INFO>BIO_SKEL_SOLDIER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Corruption Specimen]<INFO>1001336</INFO></ITEM>. Then bring them to the <NAVI>[Corruption Specimen Research Manager]<INFO>ba_in01,283,116,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Corruption Specimens"
+	},
+	[16762] = {
+		Title = "[Cooldown] Depths 1st Floor Corruption Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16763] = {
+		Title = "[Daily] Depths 1st Floor Soul Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Empathizer]<INFO>BIO_EMPATHIZER,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Prayer Giver]<INFO>BIO_PRAY_GIVER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Soul Specimen]<INFO>1001334</INFO></ITEM>. Then bring them to the <NAVI>[Soul Specimen Research Manager]<INFO>ba_in01,283,118,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Soul Specimens"
+	},
+	[16764] = {
+		Title = "[Cooldown] Depths 1st Floor Soul Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16765] = {
+		Title = "[Daily] Depths 1st Floor Soul Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Empathizer]<INFO>BIO_EMPATHIZER,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Prayer Giver]<INFO>BIO_PRAY_GIVER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Soul Specimen]<INFO>1001334</INFO></ITEM>. Then bring them to the <NAVI>[Soul Specimen Research Manager]<INFO>ba_in01,283,118,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Soul Specimens"
+	},
+	[16766] = {
+		Title = "[Cooldown] Depths 1st Floor Soul Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16767] = {
+		Title = "[Daily] Depths 1st Floor Poison Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 50 <NAVI>[Abyssal Pinguicula Dark]<INFO>BIO_PINGUICULA_D,0,0,3,-222,1</INFO></NAVI> and 50 <NAVI>[Abyssal Pom Spider]<INFO>BIO_POM_SPIDER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 15 <ITEM>[Deep-Layer Poison Specimen]<INFO>1001337</INFO></ITEM>. Then bring them to the <NAVI>[Poison Specimen Research Manager]<INFO>ba_in01,283,120,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "15 Deep-Layer Poison Specimens"
+	},
+	[16768] = {
+		Title = "[Cooldown] Depths 1st Floor Poison Sample Research I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16769] = {
+		Title = "[Daily] Depths 1st Floor Poison Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 80 <NAVI>[Abyssal Pinguicula Dark]<INFO>BIO_PINGUICULA_D,0,0,3,-222,1</INFO></NAVI> and 80 <NAVI>[Abyssal Pom Spider]<INFO>BIO_POM_SPIDER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths 1st Floor, and collect 20 <ITEM>[Deep-Layer Poison Specimen]<INFO>1001337</INFO></ITEM>. Then bring them to the <NAVI>[Poison Specimen Research Manager]<INFO>ba_in01,283,120,0,101,0</INFO></NAVI> in Varmundt Mansion."
+		},
+		Summary = "20 Deep-Layer Poison Specimens"
+	},
+	[16770] = {
+		Title = "[Cooldown] Depths 1st Floor Poison Sample Research II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Deep Layer 1st Floor Manager]<INFO>ba_in01,286,104,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16771] = {
+		Title = "Depths 1st Floor Research Milestone Achieved",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You have achieved a certain level of research progress in the Varmundt Biosphere Depths 1st Floor."
+		},
+		Summary = "Depths 1st Floor Research Milestone Achieved"
+	},
+	[16778] = {
+		Title = "Biosphere Depths Abyss Guide",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Go to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> to receive information about the newly discovered Depths Abyss within the Varmundt Biosphere."
+		},
+		Summary = "Depths Abyss Guide"
+	},
+	[16779] = {
+		Title = "[Daily] Depths Abyss Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 450 monsters of any kind in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16780] = {
+		Title = "[Cooldown] Depths Abyss Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16781] = {
+		Title = "[Daily] Depths Abyss Demihuman Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Duneyrr]<INFO>BIO_DUNEYRR,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16782] = {
+		Title = "[Cooldown] Depths Abyss Demihuman Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16783] = {
+		Title = "[Daily] Depths Abyss Brute Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Naga]<INFO>BIO_NAGA,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16784] = {
+		Title = "[Cooldown] Depths Abyss Brute Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16785] = {
+		Title = "[Daily] Depths Abyss Plant Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Ancient Tree]<INFO>BIO_ANCIENT_TREE,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16786] = {
+		Title = "[Cooldown] Depths Abyss Plant Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16787] = {
+		Title = "[Daily] Depths Abyss Fish Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Dolomedes]<INFO>BIO_DOLLOCARIS,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16788] = {
+		Title = "[Cooldown] Depths Abyss Fish Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16789] = {
+		Title = "[Daily] Depths Abyss Demon Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyss Frozen Gargoyle]<INFO>BIO_ICE_GARGOYLE,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16790] = {
+		Title = "[Cooldown] Depths Abyss Demon Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16791] = {
+		Title = "[Daily] Depths Abyss Undead Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Flame Ghost]<INFO>BIO_FLAME_GHOST,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16792] = {
+		Title = "[Cooldown] Depths Abyss Undead Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16793] = {
+		Title = "[Daily] Depths Abyss Dragon Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Acidus]<INFO>BIO_ACIDUS_,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16794] = {
+		Title = "[Cooldown] Depths Abyss Dragon Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16795] = {
+		Title = "[Daily] Depths Abyss Angel Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyss Morocc Avatar]<INFO>BIO_MOROCC_1,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16796] = {
+		Title = "[Cooldown] Depths Abyss Angel Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16797] = {
+		Title = "[Daily] Depths Abyss Formless Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Salamander]<INFO>BIO_SALAMANDER,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16798] = {
+		Title = "[Cooldown] Depths Abyss Formless Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16799] = {
+		Title = "[Daily] Depths Abyss Insect Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 25 <NAVI>[Abyssal Moskillo]<INFO>BIO_MOSKILLO,0,0,3,-222,1</INFO></NAVI> in the Biosphere Depths Abyss, then report to the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> in the Chess Garden of Varmundt Mansion."
+		},
+		Summary = ""
+	},
+	[16800] = {
+		Title = "[Cooldown] Depths Abyss Insect Sample Research",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the waiting period expires, you can accept and complete it again. You can receive the quest from the <NAVI>[Request Manager]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI> inside Varmundt Mansion."
+		},
+		Summary = "Resets at 4 AM",
+		CoolTimeQuest = 1
+	},
+	[16801] = {
+		Title = "Abyss Researcher",
+		IconName = "ico_nq.bmp",
+		Description = { "You have conducted extensive research on the Biosphere Depths Abyss." },
+		Summary = ""
 	},
 	[17000] = {
 		Title = "Refusal to Talk",
@@ -57212,6 +57908,286 @@ QuestInfoList = {
 			"The Blessed Flower Ring given to you by Lord Merrick can be blessed. Visit Prontera Cathedral and give the Blessing Flower Ring to <NAVI>[Priest Roam]<INFO>prt church,107,99,000,0</INFO></NAVI>."
 		},
 		Summary = "Talk to the Roam Priest"
+	},},
+	[21937] = {
+		Title = "Invitation to a Meal",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Through Priest Liam, you heard Ur's request to visit the Paradise Group when you have time. Let's go to the <NAVI>[Paradise Group Cafeteria]<INFO>moc_para01,175,21,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Visit the Paradise Group Cafeteria"
+	},
+	[21938] = {
+		Title = "To Comodo!",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You decided to go to Comodo with Reno, both to train and to learn about its famous specialties. Let's ask for information about the local specialties in <NAVI>[Comodo]<INFO>comodo,195,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Soliciting Boy"
+	},
+	[21939] = {
+		Title = "The Great Noodle and Dumpling Showdown",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Lumin asks you to investigate Comodo's famous specialty, which was your original purpose. Meet <NAVI>[Kuksunsoo]<INFO>comodo,103,205,0,101,0</INFO></NAVI>, who makes the famous noodles, and resolve the problem. After settling the dispute, talk to the <NAVI>[Boy]<INFO>comodo,195,140,0,101,0</INFO></NAVI> who was soliciting customers, then meet Lumin again."
+		},
+		Summary = "Resolve the Noodle and Dumpling Dispute"
+	},
+	[21940] = {
+		Title = "Do You Know This Child? 1",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You decided to show the portrait you received from Lumin to a <NAVI>[Resident in the West]<INFO>comodo,120,196,0,101,0</INFO></NAVI> of Comodo and ask if they recognize the child."
+		},
+		Summary = "Talk to the Resident"
+	},
+	[21941] = {
+		Title = "Do You Know This Child? 2",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The resident says they have never seen the child in the portrait. Let's ask <NAVI>[Another Resident]<INFO>comodo,106,189,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Resident"
+	},
+	[21942] = {
+		Title = "Do You Know This Child? 3",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The resident says they have never seen the child in the portrait. Let's ask <NAVI>[Another Resident]<INFO>comodo,88,210,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Resident"
+	},
+	[21943] = {
+		Title = "It Seems Nobody Knows.",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Nobody recognizes the child in the portrait. Go to <NAVI>[Where Dongyi Is]<INFO>comodo,195,140,0,101,0</INFO></NAVI> and share what you learned with Lumin and Reno."
+		},
+		Summary = "Talk to Dongyi, Reno, and Lumin"
+	},
+	[21944] = {
+		Title = "Who Is This Child?",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Lumin said he would tell you about the child in Morroc. Let's listen to what <NAVI>[Lumin]<INFO>morocc,158,162,0,101,0</INFO></NAVI> has to say at the oasis in central Morroc."
+		},
+		Summary = "Talk to Lumin"
+	},
+	[21945] = {
+		Title = "Before the Noodles Get Cold!",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Return to the <NAVI>[Paradise Group Cafeteria]<INFO>moc_para01,175,21,0,101,0</INFO></NAVI> and deliver the famous Comodo noodles that Boya requested. Lumin happened to pack the noodles for you."
+		},
+		Summary = "Visit the Paradise Group Cafeteria"
+	},
+	[21946] = {
+		Title = "Join the Orc Subjugation Team",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Reno intends to apply for the Orc Subjugation Team being recruited by the Prontera Knights. You can apply through the <NAVI>[Notice Board]<INFO>prontera,59,339,0,101,0</INFO></NAVI> in front of the Prontera Knights. Meet <NAVI>[Reno]<INFO>in_orcs01,35,175,0,101,0</INFO></NAVI> in the Orc Village."
+		},
+		Summary = "Talk to Reno"
+	},
+	[21947] = {
+		Title = "You Need to Be Level 50, Right?",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You decided to join the Orc Subjugation Team with Reno and reach Level 50. After reaching the required level, meet up with <NAVI>[Reno]<INFO>in_orcs01,35,175,0,101,0</INFO></NAVI> at the Orc Village shelter."
+		},
+		Summary = "Reach Level 50!"
+	},
+	[21948] = {
+		Title = "Looking for a Request...!",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Lumin, whom you met while subjugating orcs, said that he had a request to introduce you to and asked you to meet him again in Morroc. Listen to the rest of the story at the <NAVI>[Meeting Place]<INFO>morocc,201,61,0,101,0</INFO></NAVI> in Morroc."
+		},
+		Summary = "Find the Meeting Place"
+	},
+	[21949] = {
+		Title = "The Jewel of Helion 1",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You decided to meet the <NAVI>[Old Scholar]<INFO>morocc_in,116,101,0,101,0</INFO></NAVI>, the client in Morroc, and hear the details."
+		},
+		Summary = "Talk to the Old Scholar"
+	},
+	[21950] = {
+		Title = "The Jewel of Helion 2",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Meet <NAVI>[Clenox Hafron]<INFO>prontera,269,326,0,101,0</INFO></NAVI> in Prontera and check the progress of Killias Tyers's request."
+		},
+		Summary = "Talk to Clenox Hafron"
+	},
+	[21951] = {
+		Title = "The Jewel of Helion 3",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Clenox says he found one of the clues at the <NAVI>[Training Grounds]<INFO>prontera,220,79,0,101,0</INFO></NAVI> in Prontera. Let's investigate the scarecrow to see if there is any additional information."
+		},
+		Summary = "Investigate the Scarecrow"
+	},
+	[21952] = {
+		Title = "The Jewel of Helion 4",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You found the suspicious number ¡°3847147298¡± on a scarecrow at the Prontera Training Grounds. Ask <NAVI>[Clenox Hafron]<INFO>prontera,269,326,0,101,0</INFO></NAVI> about the number."
+		},
+		Summary = "Talk to Clenox Hafron"
+	},
+	[21953] = {
+		Title = "The Jewel of Helion 5",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Clenox Hafron gives you a gear he found at the Prontera Tool Shop and asks you to investigate it. Examine the <NAVI>[Machine]<INFO>prt_in,128,76,0,101,0</INFO></NAVI> in the Tool Shop. It may be related to the suspicious number ¡°3847147298.¡±"
+		},
+		Summary = "Investigate the Machine in the Tool Shop"
+	},
+	[21954] = {
+		Title = "The Jewel of Helion 6",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You found a suspicious piece of a stone tablet inside a machine at the Prontera Tool Shop. Tell <NAVI>[Clenox Hafron]<INFO>prontera,269,326,0,101,0</INFO></NAVI> that you used the gear. There is no need to tell him about the tablet, since he is looking for the jewel."
+		},
+		Summary = "Talk to Clenox Hafron"
+	},
+	[21955] = {
+		Title = "The Jewel of Helion 7",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"It seems there is no more information to obtain from Clenox Hafron. Meet <NAVI>[Grauti]<INFO>payon,182,132,0,101,0</INFO></NAVI> in Payon and join Reno."
+		},
+		Summary = "Talk to Grauti"
+	},
+	[21956] = {
+		Title = "The Jewel of Helion 8",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Grauti]<INFO>payon,182,132,0,101,0</INFO></NAVI> in Payon says he plans to sell off all the clues he has. Pay 10,000z to obtain all the clues."
+		},
+		Summary = "Buy the Clues from Grauti"
+	},
+	[21957] = {
+		Title = "The Jewel of Helion 9",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Discuss the four clues received from <NAVI>[Grauti]<INFO>payon,182,132,0,101,0</INFO></NAVI> with <NAVI>[Reno]<INFO>payon,181,130,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Reno"
+	},
+	[21958] = {
+		Title = "The Jewel of Helion 10",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You decided to connect the four points with lines and investigate the location where they intersect. It seems to be the <NAVI>[House]<INFO>payon,159,129,0,101,0</INFO></NAVI> in central Payon."
+		},
+		Summary = "Investigate the House"
+	},
+	[21959] = {
+		Title = "The Jewel of Helion 11",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You obtained a new hint in Payon. Ask <NAVI>[Grauti]<INFO>payon,182,132,0,101,0</INFO></NAVI> about the ¡°Benevolent One.¡±"
+		},
+		Summary = "Talk to Grauti"
+	},
+	[21960] = {
+		Title = "The Jewel of Helion 12",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Grauti thinks that the statue in Payon's Archer Village may be the ¡°Benevolent One.¡± Let's look for the <NAVI>[Statue]<INFO>pay_arche,140,29,0,101,0</INFO></NAVI> that gives off a benevolent feeling in Archer Village."
+		},
+		Summary = "Investigate the Statue in Archer Village"
+	},
+	[21961] = {
+		Title = "The Jewel of Helion 13",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Take the tablets found in Prontera and Payon back to the <NAVI>[Old Scholar's]<INFO>morocc_in,116,101,0,101,0</INFO></NAVI> house in Morroc and join Lumin."
+		},
+		Summary = "Talk to Killias Tyers"
+	},
+	[21962] = {
+		Title = "The Jewel of Helion 14",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You have collected all the pieces of the stone tablet. To combine the four pieces of the jewel attached to the tablet into one, you need to ask <NAVI>[Shuun]<INFO>geffen,110,200,0,101,0</INFO></NAVI> in Geffen for help."
+		},
+		Summary = "Talk to Shuun"
+	},
+	[21963] = {
+		Title = "The Jewel of Helion 15",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Combining the tablet in Geffen revealed a map. With help from <NAVI>[Shuun]<INFO>geffen,110,200,0,101,0</INFO></NAVI>, you can travel to the <NAVI>[Location]<INFO>gef_fild09,296,57,0,101,0</INFO></NAVI> marked on the map. Go there and investigate."
+		},
+		Summary = "Investigate the Location on the Tablet"
+	},
+	[21964] = {
+		Title = "The Jewel of Helion 16",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Investigating the <NAVI>[Location]<INFO>gef_fild09,296,57,0,101,0</INFO></NAVI> marked on the tablet transported you to an unknown place. Defeat the Helion Revenant, who has already become an evil spirit, then return to Morroc and report to <NAVI>[Killias Tyers]<INFO>morocc_in,116,101,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat the Helion Revenant"
+	},
+	[21965] = {
+		Title = "The Jewel of Helion 17",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The bracelet that sealed Helion's Eye still radiates a faint cursed energy. Ask <NAVI>[Priest Roam]<INFO>prt_church,107,99,0,101,0</INFO></NAVI> at the Prontera Cathedral to purify and bless it."
+		},
+		Summary = "Talk to Priest Roam"
+	},
+	[21966] = {
+		Title = "A Summons from Priest Bampf",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Priest Bampf]<INFO>prt_church,185,106,0,101,0</INFO></NAVI> of the Prontera Cathedral is looking for you to discuss what happened previously. Could it be that matter involving the royal family? Let's meet Bampf."
+		},
+		Summary = "Talk to Priest Bampf"
+	},
+	[21967] = {
+		Title = "The Subject of the Rumor",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Andrea]<INFO>lhz_airport,138,28,0,101,0</INFO></NAVI> asks you to verify a suspicious rumor involving a ghost. <NAVI>[Reno]<INFO>lighthalzen,208,314,0,101,0</INFO></NAVI>, who is training north of Lighthalzen, is the subject of the rumor."
+		},
+		Summary = "Talk to Reno"
+	},
+	[21968] = {
+		Title = "Searching for the Sound",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You decided to visit the place where Reno heard ghostly sounds during his tour. However, the location is the <NAVI>[Lobby]<INFO>lhz_in01,113,144,0,101,0</INFO></NAVI> of the Rekenber Corporation headquarters. Could Reno really have been mistaken?"
+		},
+		Summary = "Investigate the Corporate Headquarters Lobby"
+	},
+	[21969] = {
+		Title = "Karma from the Flyers",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Knight Meric]<INFO>iz_ac01,117,57,0,101,0</INFO></NAVI> is waiting at the Lobby. If you cannot find Knight Meric, ask <NAVI>[Spraki]<INFO>iz_ac01,102,44,0,101,0</INFO></NAVI> at the desk."
+		},
+		Summary = "Talk to Meric"
+	},
+	[21970] = {
+		Title = "The True Horror of the Haunted Cave",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You rescued Reno, who was surrounded by zombies in the Payon Cave. Leave the cave and report the situation to the <NAVI>[Guard]<INFO>pay_arche,41,133,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to the Guard"
+	},
+	[21971] = {
+		Title = "Reach Level 20",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Reno tells you to reach Level 20 after training in Payon, then meet the <NAVI>[Paradise Group Teleporter]<INFO>payon,177,111,0,101,0</INFO></NAVI> in Payon."
+		},
+		Summary = "Reach Level 20"
 	},
 	[1340] = {
 		Title = "A Suspicious Notice",
@@ -71315,5 +72291,209 @@ QuestInfoList = {
 		NpcNavi = "alb2trea",
 		NpcPosX = 93,
 		NpcPosY = 59
+	},
+	[8986] = {
+		Title = "Talk to Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = { "Talk to Baby Shark that appeared in Comodo." },
+		Summary = "Talk to Baby Shark (Completed)"
+	},
+	[8987] = {
+		Title = "Baby Shark's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Baby Shark]<INFO>comodo,199,145,0,101,0</INFO></NAVI> who appeared in Comodo, asks you to defeat 20 monsters causing trouble in Baby Shark's playground (field)."
+		},
+		Summary = "Defeat 20 monsters on the map",
+		NpcSpr = "1_CLB_PBS_Y",
+		NpcNavi = "comodo",
+		NpcPosX = 199,
+		NpcPosY = 145
+	},
+	[8988] = {
+		Title = "Where is Baby Shark Hiding?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Find Baby Shark three times to receive <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>."
+		},
+		Summary = "Find the Hidden Baby Shark"
+	},
+	[8989] = {
+		Title = "Baby Shark's Request (Lv. 200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Baby Shark]<INFO>comodo,199,145,0,101,0</INFO></NAVI> who appeared in Comodo, asks you to defeat 300 aquatic monsters that are Lv. 200 or higher."
+		},
+		Summary = "Defeat 300 Aquatic Monsters Lv. 200+"
+	},
+	[8990] = {
+		Title = "Baby Shark's Request - Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today, we've taught the monsters interfering with <NAVI>[Baby Shark]<INFO>comodo,199,145,0,101,0</INFO></NAVI>and his friends a good lesson. Let's check again tomorrow to make sure there aren't any more bad guys."
+		},
+		Summary = "Reset at 04:00 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "1_CLB_PBS_Y",
+		NpcNavi = "comodo",
+		NpcPosX = 199,
+		NpcPosY = 145
+	},
+	[8991] = {
+		Title = "Baby Shark Treasure Hunt",
+		IconName = "ico_ev.bmp",
+		Description = { "Today, it's a treasure hunt." },
+		Summary = "Play with Baby Shark",
+		NpcSpr = "1_CLB_PBS_Y",
+		NpcNavi = "comodo",
+		NpcPosX = 199,
+		NpcPosY = 145
+	},
+	[8992] = {
+		Title = "Hide and Seek with Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = { "Today, it's hide-and-seek." },
+		Summary = "Play with Baby Shark",
+		NpcSpr = "1_CLB_PBS_Y",
+		NpcNavi = "comodo",
+		NpcPosX = 199,
+		NpcPosY = 145
+	},
+	[8993] = {
+		Title = "Finding Baby Shark's Family",
+		IconName = "ico_ev.bmp",
+		Description = { "Today, its time to find Baby Shark's family." },
+		Summary = "Play with Baby Shark",
+		NpcSpr = "1_CLB_PBS_Y",
+		NpcNavi = "comodo",
+		NpcPosX = 199,
+		NpcPosY = 145
+	},
+	[8994] = {
+		Title = "Playing with Baby Shark - Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You already had fun playing with <NAVI>[Baby Shark]<INFO>comodo,199,145,0,101,0</INFO></NAVI> today. Let's play again tomorrow!"
+		},
+		Summary = "Reset at 04:00 AM",
+		CoolTimeQuest = 1,
+		NpcSpr = "1_CLB_PBS_Y",
+		NpcNavi = "comodo",
+		NpcPosX = 199,
+		NpcPosY = 145
+	},
+	[8995] = {
+		Title = "Let's find the Seashells!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"They say Baby Shark has hidden treasures all over the place. But all the treasure chests look a little strange..."
+		},
+		Summary = "Talk to the Treasure Chests"
+	},
+	[8996] = {
+		Title = "I Found All the Seashells!",
+		IconName = "ico_ev.bmp",
+		Description = { "You've solved all the riddles. Let's bring the seashells to Baby Shark." },
+		Summary = "Talk to Baby Shark"
+	},
+	[8997] = {
+		Title = "Find Mommy Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I wasabout to play with Baby Shark when, all of a sudden, I ended up playing hide-and-seek with Mommy Shark! Let's find her!"
+		},
+		Summary = "Find Mommy Shark",
+		NpcSpr = "1_CLB_PBS_P"
+	},
+	[8998] = {
+		Title = "Find Daddy Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I wasabout to play with Baby Shark when, all of a sudden, I ended up playing hide-and-seek with Daddy Shark! Let's find him!"
+		},
+		Summary = "Find Daddy Shark",
+		NpcSpr = "1_CLB_PBS_B"
+	},
+	[8999] = {
+		Title = "Find Grandma Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I wasabout to play with Baby Shark when, all of a sudden, I ended up playing hide-and-seek with Grandma Shark! Let's find her!"
+		},
+		Summary = "Find Grandma Shark",
+		NpcSpr = "1_CLB_PBS_O"
+	},
+	[25000] = {
+		Title = "Find Grandpa Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was about to play with Baby Shark when, all of a sudden, I ended up playing hide-and-seek with Grandpa Shark! Let's find him!"
+		},
+		Summary = "Find Grandpa Shark",
+		NpcSpr = "1_CLB_PBS_G"
+	},
+	[17572] = {
+		Title = "You Were Looking for Me?",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"It looks like this will take quite a while. Why don't you go take care of other business in the meantime? As it happens, <NAVI>[Roam]<INFO>prt_church,107,99,0,101,0</INFO></NAVI> at the Prontera Cathedral said he has something to tell you."
+		},
+		Summary = "To Priest Roam"
+	},
+	[17573] = {
+		Title = "I Recommended You",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"How about visiting the <NAVI>[Monster Museum]<INFO>yuno_in03,20,55,0,101,0</INFO></NAVI> in Juno? Shouldn't adventurers know plenty about monsters?"
+		},
+		Summary = "To the Monster Museum"
+	},
+	[17574] = {
+		Title = "Rare Monsters of the Sky",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Just go to the international <NAVI>[Airship]<INFO>airplane_01,238,154,0,101,0</INFO></NAVI> and retrieve the scattered reports. Watch out for attacks from flying monsters."
+		},
+		Summary = "To the Airship"
+	},
+	[17575] = {
+		Title = "The Ghost's True Identity",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"I should go report what happened here to <NAVI>[Andrea]<INFO>lhz_airport,138,28,0,101,0</INFO></NAVI> at the Lighthalzen Airport."
+		},
+		Summary = "To Andrea"
+	},
+	[17576] = {
+		Title = "Hugel, the Pastoral Village",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Please make sure our agent dispatched to Hugel is safe. His name is <NAVI>[Eiji]<INFO>hugel,93,150,0,101,0</INFO></NAVI>."
+		},
+		Summary = "To Eiji in Hugel"
+	},
+	[17577] = {
+		Title = "Send My Regards",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Please say hello to <NAVI>[Heriko]<INFO>hu_in01,256,40,0,101,0</INFO></NAVI> at the Hugel Inn for me."
+		},
+		Summary = "To Heriko"
+	},
+	[17578] = {
+		Title = "Analysis Time",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Uhari]<INFO>eclage,282,255,0,101,0,</INFO></NAVI> has received the research notes. However, they are so complex that analyzing them will take some time. Wait in Eclage and talk to Uhari again a little later."
+		},
+		Summary = "Talk to Uhari"
+	},
+	[8773] = {
+		Title = "Professor Worm's Dilemma",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Professor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI> seems to be struggling to remember something he can't recall again. Let's try to calm him down."
+		},
+		Summary = "Talk to Professor Worm"
 	}
 }
