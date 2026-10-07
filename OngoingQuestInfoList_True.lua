@@ -33206,7 +33206,7 @@ QuestInfoList = {
 			"I've found Werner's traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Ansuria"
-	},,
+	},
 	[16734] = {
 		Title = "Varmundt Biosphere Depths Guide",
 		IconName = "ico_nq.bmp",
@@ -57908,7 +57908,7 @@ QuestInfoList = {
 			"The Blessed Flower Ring given to you by Lord Merrick can be blessed. Visit Prontera Cathedral and give the Blessing Flower Ring to <NAVI>[Priest Roam]<INFO>prt church,107,99,000,0</INFO></NAVI>."
 		},
 		Summary = "Talk to the Roam Priest"
-	},},
+	},
 	[21937] = {
 		Title = "Invitation to a Meal",
 		IconName = "ico_nq.bmp",
