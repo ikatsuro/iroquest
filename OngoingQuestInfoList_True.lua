@@ -72495,5 +72495,11 @@ QuestInfoList = {
 			"<NAVI>[Professor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI> seems to be struggling to remember something he can't recall again. Let's try to calm him down."
 		},
 		Summary = "Talk to Professor Worm"
+	},
+	[297202] = 
+	{ 
+		Title = "Lucius, a mysterious student", 
+		Description = {}, 
+		Summary = "" 
 	}
 }
